@@ -1,0 +1,11 @@
+# ===== 비밀키·인증정보 (절대 커밋 금지) =====
+.env
+.env.*
+*.key
+
+_pycache__/
+*.pyc
+Thumbs.db
+Desktop.ini
+
+.claude/settings.local.json
