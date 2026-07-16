@@ -28,8 +28,8 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.4713702,
-    "lng": 126.9084637,
+    "lat": 37.4719826762833,
+    "lng": 126.908186532287,
     "geoApprox": false
   },
   {
@@ -60,9 +60,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
-    "lat": 37.51394,
-    "lng": 127.10386,
-    "geoApprox": true
+    "lat": 37.5048485219584,
+    "lng": 127.117385322638,
+    "geoApprox": false
   },
   {
     "id": 3,
@@ -92,8 +92,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4807784,
-    "lng": 127.1263296,
+    "lat": 37.4807980422348,
+    "lng": 127.126294853445,
     "geoApprox": false
   },
   {
@@ -124,9 +124,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.59958,
-    "lng": 127.10222,
-    "geoApprox": true
+    "lat": 37.6058145949305,
+    "lng": 127.093521755522,
+    "geoApprox": false
   },
   {
     "id": 5,
@@ -156,8 +156,8 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.6071525,
-    "lng": 127.0755743,
+    "lat": 37.6065228487307,
+    "lng": 127.075835832737,
     "geoApprox": false
   },
   {
@@ -188,8 +188,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5962195,
-    "lng": 126.9123422,
+    "lat": 37.5962247021211,
+    "lng": 126.912318682588,
     "geoApprox": false
   },
   {
@@ -220,9 +220,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56602,
-    "lng": 126.91788,
-    "geoApprox": true
+    "lat": 37.552781864533,
+    "lng": 126.960655552156,
+    "geoApprox": false
   },
   {
     "id": 8,
@@ -252,8 +252,8 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.5600752,
-    "lng": 126.9865453,
+    "lat": 37.5597837446411,
+    "lng": 126.986776737543,
     "geoApprox": false
   },
   {
@@ -284,9 +284,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.66428,
-    "lng": 127.05952,
-    "geoApprox": true
+    "lat": 37.6588438529621,
+    "lng": 127.066336425835,
+    "geoApprox": false
   },
   {
     "id": 10,
@@ -316,9 +316,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.5215,
-    "lng": 127.1144,
-    "geoApprox": true
+    "lat": 37.4846770065757,
+    "lng": 127.147350395772,
+    "geoApprox": false
   },
   {
     "id": 11,
@@ -348,9 +348,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.67328,
-    "lng": 127.06342,
-    "geoApprox": true
+    "lat": 37.6479137277855,
+    "lng": 127.051425751311,
+    "geoApprox": false
   },
   {
     "id": 12,
@@ -380,9 +380,9 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.50656,
-    "lng": 127.04254,
-    "geoApprox": true
+    "lat": 37.5230000891198,
+    "lng": 127.023514362141,
+    "geoApprox": false
   },
   {
     "id": 13,
@@ -412,9 +412,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
-    "lat": 37.51272,
-    "lng": 127.03098,
-    "geoApprox": true
+    "lat": 37.4688571015783,
+    "lng": 127.091075885061,
+    "geoApprox": false
   },
   {
     "id": 14,
@@ -444,9 +444,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.48958,
-    "lng": 127.03682,
-    "geoApprox": true
+    "lat": 37.5090607429601,
+    "lng": 127.004778953284,
+    "geoApprox": false
   },
   {
     "id": 15,
@@ -476,8 +476,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.516197,
-    "lng": 126.8349,
+    "lat": 37.516341716111,
+    "lng": 126.833431935892,
     "geoApprox": false
   },
   {
@@ -508,9 +508,9 @@ window.KINDERGARTENS = [
       "special": 7
     },
     "hasSpecialClass": true,
-    "lat": 37.53038,
-    "lng": 127.10772,
-    "geoApprox": true
+    "lat": 37.5533838477146,
+    "lng": 127.180276830722,
+    "geoApprox": false
   },
   {
     "id": 17,
@@ -540,9 +540,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50852,
-    "lng": 127.03268,
-    "geoApprox": true
+    "lat": 37.483008286730424,
+    "lng": 127.09494209595904,
+    "geoApprox": false
   },
   {
     "id": 18,
@@ -572,9 +572,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5971,
-    "lng": 126.9427,
-    "geoApprox": true
+    "lat": 37.6236487604699,
+    "lng": 126.923909005211,
+    "geoApprox": false
   },
   {
     "id": 19,
@@ -604,9 +604,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.48846,
-    "lng": 127.03274,
-    "geoApprox": true
+    "lat": 37.5007499044884,
+    "lng": 127.017066977739,
+    "geoApprox": false
   },
   {
     "id": 20,
@@ -636,9 +636,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55342,
-    "lng": 126.88898,
-    "geoApprox": true
+    "lat": 37.563510635781,
+    "lng": 126.919166278819,
+    "geoApprox": false
   },
   {
     "id": 21,
@@ -668,9 +668,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56088,
-    "lng": 127.04472,
-    "geoApprox": true
+    "lat": 37.5683388716972,
+    "lng": 127.041605053834,
+    "geoApprox": false
   },
   {
     "id": 22,
@@ -700,8 +700,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.4569859,
-    "lng": 127.019385,
+    "lat": 37.4570942208519,
+    "lng": 127.019275619438,
     "geoApprox": false
   },
   {
@@ -732,9 +732,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51216,
-    "lng": 127.06294,
-    "geoApprox": true
+    "lat": 37.4863219964306,
+    "lng": 127.03679299115,
+    "geoApprox": false
   },
   {
     "id": 24,
@@ -764,8 +764,8 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.4814064,
-    "lng": 127.0585118,
+    "lat": 37.4816986136485,
+    "lng": 127.059450501428,
     "geoApprox": false
   },
   {
@@ -796,9 +796,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.491,
-    "lng": 126.9465,
-    "geoApprox": true
+    "lat": 37.4784201489683,
+    "lng": 126.913478658732,
+    "geoApprox": false
   },
   {
     "id": 26,
@@ -828,8 +828,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4471733,
-    "lng": 126.9049721,
+    "lat": 37.4467672802822,
+    "lng": 126.905064619222,
     "geoApprox": false
   },
   {
@@ -892,9 +892,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53536,
-    "lng": 126.89484,
-    "geoApprox": true
+    "lat": 37.505537832379,
+    "lng": 126.92158522233,
+    "geoApprox": false
   },
   {
     "id": 29,
@@ -924,8 +924,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5178664,
-    "lng": 126.8614883,
+    "lat": 37.5194246797911,
+    "lng": 126.864038205091,
     "geoApprox": false
   },
   {
@@ -956,8 +956,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.518416,
-    "lng": 126.835157,
+    "lat": 37.5184159016956,
+    "lng": 126.835157228112,
     "geoApprox": false
   },
   {
@@ -988,9 +988,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.50412,
-    "lng": 126.85348,
-    "geoApprox": true
+    "lat": 37.5328710177851,
+    "lng": 126.885695675904,
+    "geoApprox": false
   },
   {
     "id": 32,
@@ -1020,8 +1020,8 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.5629747,
-    "lng": 126.8215978,
+    "lat": 37.5631752585272,
+    "lng": 126.821215237029,
     "geoApprox": false
   },
   {
@@ -1052,9 +1052,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58224,
-    "lng": 127.03416,
-    "geoApprox": true
+    "lat": 37.5751432705208,
+    "lng": 127.071666424993,
+    "geoApprox": false
   },
   {
     "id": 34,
@@ -1084,9 +1084,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60686,
-    "lng": 127.09474,
-    "geoApprox": true
+    "lat": 37.5748917275114,
+    "lng": 127.083439043719,
+    "geoApprox": false
   },
   {
     "id": 35,
@@ -1116,9 +1116,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.66512,
-    "lng": 127.04558,
-    "geoApprox": true
+    "lat": 37.6685080240309,
+    "lng": 127.080813489899,
+    "geoApprox": false
   },
   {
     "id": 36,
@@ -1148,9 +1148,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.66208,
-    "lng": 127.05662,
-    "geoApprox": true
+    "lat": 37.6492235267175,
+    "lng": 127.025239329128,
+    "geoApprox": false
   },
   {
     "id": 37,
@@ -1180,9 +1180,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65784,
-    "lng": 127.05306,
-    "geoApprox": true
+    "lat": 37.6513707663527,
+    "lng": 127.078214874554,
+    "geoApprox": false
   },
   {
     "id": 38,
@@ -1212,8 +1212,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6222179,
-    "lng": 126.9140403,
+    "lat": 37.6219704228009,
+    "lng": 126.913971706642,
     "geoApprox": false
   },
   {
@@ -1244,9 +1244,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51506,
-    "lng": 127.10794,
-    "geoApprox": true
+    "lat": 37.4909161360666,
+    "lng": 127.144566964221,
+    "geoApprox": false
   },
   {
     "id": 40,
@@ -1276,9 +1276,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54102,
-    "lng": 127.11248,
-    "geoApprox": true
+    "lat": 37.5292230076963,
+    "lng": 127.131565329145,
+    "geoApprox": false
   },
   {
     "id": 41,
@@ -1308,9 +1308,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.67776,
-    "lng": 127.04574,
-    "geoApprox": true
+    "lat": 37.6591763335951,
+    "lng": 127.03221343839,
+    "geoApprox": false
   },
   {
     "id": 42,
@@ -1340,9 +1340,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59402,
-    "lng": 126.91448,
-    "geoApprox": true
+    "lat": 37.5898926414222,
+    "lng": 126.919687804559,
+    "geoApprox": false
   },
   {
     "id": 43,
@@ -1372,9 +1372,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60438,
-    "lng": 126.93522,
-    "geoApprox": true
+    "lat": 37.6183016610212,
+    "lng": 126.916946967451,
+    "geoApprox": false
   },
   {
     "id": 44,
@@ -1404,9 +1404,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5688,
-    "lng": 127.0532,
-    "geoApprox": true
+    "lat": 37.5806284683372,
+    "lng": 127.052798088901,
+    "geoApprox": false
   },
   {
     "id": 45,
@@ -1436,9 +1436,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60074,
-    "lng": 126.93896,
-    "geoApprox": true
+    "lat": 37.5817725038007,
+    "lng": 126.904410147343,
+    "geoApprox": false
   },
   {
     "id": 46,
@@ -1468,9 +1468,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54024,
-    "lng": 126.98456,
-    "geoApprox": true
+    "lat": 37.5183357784743,
+    "lng": 126.977416246934,
+    "geoApprox": false
   },
   {
     "id": 47,
@@ -1500,9 +1500,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58016,
-    "lng": 127.00004,
-    "geoApprox": true
+    "lat": 37.6157691851288,
+    "lng": 127.004932905081,
+    "geoApprox": false
   },
   {
     "id": 48,
@@ -1532,8 +1532,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5965092,
-    "lng": 127.0230288,
+    "lat": 37.5965594834136,
+    "lng": 127.022954666928,
     "geoApprox": false
   },
   {
@@ -1564,9 +1564,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60144,
-    "lng": 127.00956,
-    "geoApprox": true
+    "lat": 37.5846246415362,
+    "lng": 127.016683393378,
+    "geoApprox": false
   },
   {
     "id": 50,
@@ -1596,8 +1596,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.532059,
-    "lng": 126.874504,
+    "lat": 37.5315163480803,
+    "lng": 126.870904725016,
     "geoApprox": false
   },
   {
@@ -1628,8 +1628,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5772751,
-    "lng": 126.8103248,
+    "lat": 37.5768038501964,
+    "lng": 126.810286852537,
     "geoApprox": false
   },
   {
@@ -1660,9 +1660,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55202,
-    "lng": 126.85358,
-    "geoApprox": true
+    "lat": 37.543780348526,
+    "lng": 126.846678573063,
+    "geoApprox": false
   },
   {
     "id": 53,
@@ -1692,8 +1692,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4958289,
-    "lng": 126.8622245,
+    "lat": 37.4963730035523,
+    "lng": 126.863082153299,
     "geoApprox": false
   },
   {
@@ -1724,9 +1724,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53536,
-    "lng": 126.89484,
-    "geoApprox": true
+    "lat": 37.5062347093767,
+    "lng": 126.895153486219,
+    "geoApprox": false
   },
   {
     "id": 55,
@@ -1756,9 +1756,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51772,
-    "lng": 126.88158,
-    "geoApprox": true
+    "lat": 37.4949310633609,
+    "lng": 126.908153923365,
+    "geoApprox": false
   },
   {
     "id": 56,
@@ -1788,8 +1788,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.655981,
-    "lng": 127.030979,
+    "lat": 37.6575810368528,
+    "lng": 127.029886801092,
     "geoApprox": false
   },
   {
@@ -1820,9 +1820,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.66376,
-    "lng": 127.06274,
-    "geoApprox": true
+    "lat": 37.6840110750848,
+    "lng": 127.048205945489,
+    "geoApprox": false
   },
   {
     "id": 58,
@@ -1852,9 +1852,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65952,
-    "lng": 127.05918,
-    "geoApprox": true
+    "lat": 37.6481193643814,
+    "lng": 127.057595830364,
+    "geoApprox": false
   },
   {
     "id": 59,
@@ -1884,9 +1884,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55706,
-    "lng": 126.88524,
-    "geoApprox": true
+    "lat": 37.5386376331175,
+    "lng": 126.949973786127,
+    "geoApprox": false
   },
   {
     "id": 60,
@@ -1916,9 +1916,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56742,
-    "lng": 126.90598,
-    "geoApprox": true
+    "lat": 37.5763095825917,
+    "lng": 126.891959952963,
+    "geoApprox": false
   },
   {
     "id": 61,
@@ -1948,8 +1948,8 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.6327924,
-    "lng": 126.9291107,
+    "lat": 37.6329384289784,
+    "lng": 126.929198935551,
     "geoApprox": false
   },
   {
@@ -1980,8 +1980,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5674629,
-    "lng": 126.9081895,
+    "lat": 37.5674521269073,
+    "lng": 126.908191614138,
     "geoApprox": false
   },
   {
@@ -2012,9 +2012,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52618,
-    "lng": 127.07142,
-    "geoApprox": true
+    "lat": 37.5333960439046,
+    "lng": 127.089785089027,
+    "geoApprox": false
   },
   {
     "id": 64,
@@ -2044,9 +2044,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53654,
-    "lng": 127.09216,
-    "geoApprox": true
+    "lat": 37.5329087681794,
+    "lng": 127.084177549484,
+    "geoApprox": false
   },
   {
     "id": 65,
@@ -2076,9 +2076,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5469,
-    "lng": 127.0789,
-    "geoApprox": true
+    "lat": 37.53116940601,
+    "lng": 127.083768981607,
+    "geoApprox": false
   },
   {
     "id": 66,
@@ -2108,8 +2108,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.538784,
-    "lng": 127.098322,
+    "lat": 37.5387800804493,
+    "lng": 127.098357196735,
     "geoApprox": false
   },
   {
@@ -2140,9 +2140,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.5187,
-    "lng": 127.1042,
-    "geoApprox": true
+    "lat": 37.5140077737504,
+    "lng": 127.095036549398,
+    "geoApprox": false
   },
   {
     "id": 68,
@@ -2172,9 +2172,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51618,
-    "lng": 127.11202,
-    "geoApprox": true
+    "lat": 37.5179242320345,
+    "lng": 127.100823924714,
+    "geoApprox": false
   },
   {
     "id": 69,
@@ -2204,9 +2204,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58078,
-    "lng": 126.94292,
-    "geoApprox": true
+    "lat": 37.5818790526193,
+    "lng": 126.924076297753,
+    "geoApprox": false
   },
   {
     "id": 70,
@@ -2236,8 +2236,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4942013,
-    "lng": 127.0497138,
+    "lat": 37.4942068396456,
+    "lng": 127.049734781209,
     "geoApprox": false
   },
   {
@@ -2268,8 +2268,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6129228,
-    "lng": 127.0680499,
+    "lat": 37.6137702863968,
+    "lng": 127.068980441185,
     "geoApprox": false
   },
   {
@@ -2300,9 +2300,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.48316,
-    "lng": 126.95194,
-    "geoApprox": true
+    "lat": 37.4827797878222,
+    "lng": 126.956370656039,
+    "geoApprox": false
   },
   {
     "id": 73,
@@ -2332,8 +2332,8 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
-    "lat": 37.4805626,
-    "lng": 126.9432619,
+    "lat": 37.4810297131995,
+    "lng": 126.942570541831,
     "geoApprox": false
   },
   {
@@ -2364,9 +2364,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65168,
-    "lng": 127.06462,
-    "geoApprox": true
+    "lat": 37.6610943123375,
+    "lng": 127.078534248864,
+    "geoApprox": false
   },
   {
     "id": 75,
@@ -2396,8 +2396,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6031275,
-    "lng": 127.0145106,
+    "lat": 37.6031275113367,
+    "lng": 127.014541747883,
     "geoApprox": false
   },
   {
@@ -2428,9 +2428,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54102,
-    "lng": 127.11248,
-    "geoApprox": true
+    "lat": 37.5490844724681,
+    "lng": 127.156927612469,
+    "geoApprox": false
   },
   {
     "id": 77,
@@ -2460,8 +2460,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5402253,
-    "lng": 126.8768431,
+    "lat": 37.5406954304154,
+    "lng": 126.876258028151,
     "geoApprox": false
   },
   {
@@ -2492,9 +2492,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5551,
-    "lng": 126.8478,
-    "geoApprox": true
+    "lat": 37.539331648604,
+    "lng": 126.843641601375,
+    "geoApprox": false
   },
   {
     "id": 79,
@@ -2524,9 +2524,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50356,
-    "lng": 126.85144,
-    "geoApprox": true
+    "lat": 37.516897584317,
+    "lng": 126.840110819597,
+    "geoApprox": false
   },
   {
     "id": 80,
@@ -2556,9 +2556,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.49764,
-    "lng": 126.89556,
-    "geoApprox": true
+    "lat": 37.4908690195115,
+    "lng": 126.857963649044,
+    "geoApprox": false
   },
   {
     "id": 81,
@@ -2588,8 +2588,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5772662,
-    "lng": 127.0650462,
+    "lat": 37.5773472429026,
+    "lng": 127.064386983555,
     "geoApprox": false
   },
   {
@@ -2620,8 +2620,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.524823,
-    "lng": 126.8979049,
+    "lat": 37.5249254788745,
+    "lng": 126.898029838734,
     "geoApprox": false
   },
   {
@@ -2652,9 +2652,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.52444,
-    "lng": 126.93216,
-    "geoApprox": true
+    "lat": 37.5033929766399,
+    "lng": 126.959778422441,
+    "geoApprox": false
   },
   {
     "id": 84,
@@ -2684,9 +2684,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.47336,
-    "lng": 126.96724,
-    "geoApprox": true
+    "lat": 37.4865852040387,
+    "lng": 126.942679132637,
+    "geoApprox": false
   },
   {
     "id": 85,
@@ -2716,8 +2716,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5066025,
-    "lng": 126.9699283,
+    "lat": 37.5067786538055,
+    "lng": 126.968934187019,
     "geoApprox": false
   },
   {
@@ -2748,9 +2748,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.66012,
-    "lng": 127.03248,
-    "geoApprox": true
+    "lat": 37.6566747087322,
+    "lng": 127.022753987328,
+    "geoApprox": false
   },
   {
     "id": 87,
@@ -2780,9 +2780,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65588,
-    "lng": 127.06292,
-    "geoApprox": true
+    "lat": 37.6298024340719,
+    "lng": 127.07261882185,
+    "geoApprox": false
   },
   {
     "id": 88,
@@ -2812,9 +2812,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.66624,
-    "lng": 127.04966,
-    "geoApprox": true
+    "lat": 37.6445447578627,
+    "lng": 127.068780686525,
+    "geoApprox": false
   },
   {
     "id": 89,
@@ -2844,9 +2844,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.6486,
-    "lng": 127.0704,
-    "geoApprox": true
+    "lat": 37.684506075345,
+    "lng": 127.055187311236,
+    "geoApprox": false
   },
   {
     "id": 90,
@@ -2876,8 +2876,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6209091,
-    "lng": 127.0912717,
+    "lat": 37.6201216012053,
+    "lng": 127.089415919561,
     "geoApprox": false
   },
   {
@@ -2908,8 +2908,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6325784,
-    "lng": 127.0608791,
+    "lat": 37.6329639777027,
+    "lng": 127.060508959979,
     "geoApprox": false
   },
   {
@@ -2940,9 +2940,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65536,
-    "lng": 127.03214,
-    "geoApprox": true
+    "lat": 37.6533558400471,
+    "lng": 127.032427255133,
+    "geoApprox": false
   },
   {
     "id": 93,
@@ -2972,9 +2972,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.67776,
-    "lng": 127.04574,
-    "geoApprox": true
+    "lat": 37.6588889617162,
+    "lng": 127.049087839187,
+    "geoApprox": false
   },
   {
     "id": 94,
@@ -3004,8 +3004,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5525183,
-    "lng": 126.9198547,
+    "lat": 37.5525084741627,
+    "lng": 126.919831600208,
     "geoApprox": false
   },
   {
@@ -3036,9 +3036,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5838,
-    "lng": 127.0303,
-    "geoApprox": true
+    "lat": 37.5823673165563,
+    "lng": 127.023436223635,
+    "geoApprox": false
   },
   {
     "id": 96,
@@ -3068,9 +3068,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59416,
-    "lng": 127.01704,
-    "geoApprox": true
+    "lat": 37.5916524767249,
+    "lng": 127.02214561649,
+    "geoApprox": false
   },
   {
     "id": 97,
@@ -3100,9 +3100,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50432,
-    "lng": 127.03438,
-    "geoApprox": true
+    "lat": 37.5175441448731,
+    "lng": 127.053424049522,
+    "geoApprox": false
   },
   {
     "id": 98,
@@ -3132,8 +3132,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4928829,
-    "lng": 127.0218158,
+    "lat": 37.4928856919528,
+    "lng": 127.021740095689,
     "geoApprox": false
   },
   {
@@ -3164,9 +3164,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.47194,
-    "lng": 127.02356,
-    "geoApprox": true
+    "lat": 37.5004532195354,
+    "lng": 127.015647626899,
+    "geoApprox": false
   },
   {
     "id": 100,
@@ -3196,9 +3196,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4823,
-    "lng": 127.0443,
-    "geoApprox": true
+    "lat": 37.4786384237574,
+    "lng": 127.000750701283,
+    "geoApprox": false
   },
   {
     "id": 101,
@@ -3228,8 +3228,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5616318,
-    "lng": 127.0018387,
+    "lat": 37.5619494839149,
+    "lng": 127.001235055009,
     "geoApprox": false
   },
   {
@@ -3260,9 +3260,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52008,
-    "lng": 126.97912,
-    "geoApprox": true
+    "lat": 37.5392036532348,
+    "lng": 127.005599847436,
+    "geoApprox": false
   },
   {
     "id": 103,
@@ -3292,8 +3292,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5642715,
-    "lng": 126.988966,
+    "lat": 37.5631948856751,
+    "lng": 126.989104578062,
     "geoApprox": false
   },
   {
@@ -3324,9 +3324,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5819,
-    "lng": 126.9756,
-    "geoApprox": true
+    "lat": 37.5822216685014,
+    "lng": 126.97034294611,
+    "geoApprox": false
   },
   {
     "id": 105,
@@ -3356,9 +3356,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54136,
-    "lng": 126.98864,
-    "geoApprox": true
+    "lat": 37.5210195125212,
+    "lng": 126.973141261532,
+    "geoApprox": false
   },
   {
     "id": 106,
@@ -3388,9 +3388,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5089,
-    "lng": 127.1195,
-    "geoApprox": true
+    "lat": 37.5035683626161,
+    "lng": 127.128561395568,
+    "geoApprox": false
   },
   {
     "id": 107,
@@ -3420,9 +3420,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.67412,
-    "lng": 127.04948,
-    "geoApprox": true
+    "lat": 37.6485694706115,
+    "lng": 127.044061327345,
+    "geoApprox": false
   },
   {
     "id": 108,
@@ -3452,9 +3452,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57708,
-    "lng": 127.00582,
-    "geoApprox": true
+    "lat": 37.6168600216765,
+    "lng": 127.048151233375,
+    "geoApprox": false
   },
   {
     "id": 109,
@@ -3484,9 +3484,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.49344,
-    "lng": 126.89726,
-    "geoApprox": true
+    "lat": 37.5050604361168,
+    "lng": 126.849126611988,
+    "geoApprox": false
   },
   {
     "id": 110,
@@ -3516,9 +3516,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6147,
-    "lng": 127.0893,
-    "geoApprox": true
+    "lat": 37.5852407128388,
+    "lng": 127.085961098757,
+    "geoApprox": false
   },
   {
     "id": 111,
@@ -3548,8 +3548,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5766183,
-    "lng": 127.0514052,
+    "lat": 37.5755060418781,
+    "lng": 127.049695860484,
     "geoApprox": false
   },
   {
@@ -3580,8 +3580,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4623261,
-    "lng": 126.8904264,
+    "lat": 37.4629100391456,
+    "lng": 126.890423305457,
     "geoApprox": false
   },
   {
@@ -3612,8 +3612,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6669182,
-    "lng": 127.0543144,
+    "lat": 37.6669153127476,
+    "lng": 127.054316055338,
     "geoApprox": false
   },
   {
@@ -3644,9 +3644,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53038,
-    "lng": 127.06972,
-    "geoApprox": true
+    "lat": 37.5368378891148,
+    "lng": 127.080107720459,
+    "geoApprox": false
   },
   {
     "id": 115,
@@ -3676,8 +3676,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6361965,
-    "lng": 127.0315599,
+    "lat": 37.6361964757812,
+    "lng": 127.031559882026,
     "geoApprox": false
   },
   {
@@ -3708,8 +3708,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6135321,
-    "lng": 127.0342565,
+    "lat": 37.6135321169515,
+    "lng": 127.034256454097,
     "geoApprox": false
   },
   {
@@ -3740,9 +3740,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.62672,
-    "lng": 127.01278,
-    "geoApprox": true
+    "lat": 37.6419553058077,
+    "lng": 127.011095453075,
+    "geoApprox": false
   },
   {
     "id": 118,
@@ -3772,9 +3772,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51778,
-    "lng": 127.11282,
-    "geoApprox": true
+    "lat": 37.5304917886045,
+    "lng": 127.126627719417,
+    "geoApprox": false
   },
   {
     "id": 119,
@@ -3804,8 +3804,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.4715161,
-    "lng": 126.9371068,
+    "lat": 37.472003312266,
+    "lng": 126.936754150323,
     "geoApprox": false
   },
   {
@@ -3836,9 +3836,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6528,
-    "lng": 127.0687,
-    "geoApprox": true
+    "lat": 37.6307779754887,
+    "lng": 127.073998366297,
+    "geoApprox": false
   },
   {
     "id": 121,
@@ -3868,9 +3868,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53906,
-    "lng": 127.12234,
-    "geoApprox": true
+    "lat": 37.5511122718085,
+    "lng": 127.169246436226,
+    "geoApprox": false
   },
   {
     "id": 122,
@@ -3900,8 +3900,8 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.6348144,
-    "lng": 126.9310328,
+    "lat": 37.6347980559218,
+    "lng": 126.931012134228,
     "geoApprox": false
   },
   {
@@ -3932,8 +3932,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.642848,
-    "lng": 126.9202946,
+    "lat": 37.6428170709901,
+    "lng": 126.920260954556,
     "geoApprox": false
   },
   {
@@ -3964,8 +3964,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5578542,
-    "lng": 126.8226925,
+    "lat": 37.5578308778281,
+    "lng": 126.822806144479,
     "geoApprox": false
   },
   {
@@ -3996,9 +3996,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60746,
-    "lng": 126.92944,
-    "geoApprox": true
+    "lat": 37.6203042094228,
+    "lng": 126.911993073275,
+    "geoApprox": false
   },
   {
     "id": 126,
@@ -4028,9 +4028,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.50792,
-    "lng": 126.92298,
-    "geoApprox": true
+    "lat": 37.5003760295043,
+    "lng": 126.937378799359,
+    "geoApprox": false
   },
   {
     "id": 127,
@@ -4060,9 +4060,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51464,
-    "lng": 126.94746,
-    "geoApprox": true
+    "lat": 37.4879290070931,
+    "lng": 126.966763108256,
+    "geoApprox": false
   },
   {
     "id": 128,
@@ -4092,8 +4092,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4849305,
-    "lng": 126.9594389,
+    "lat": 37.4841357625535,
+    "lng": 126.960607343765,
     "geoApprox": false
   },
   {
@@ -4124,9 +4124,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.47336,
-    "lng": 126.96724,
-    "geoApprox": true
+    "lat": 37.4922531476817,
+    "lng": 126.959351195231,
+    "geoApprox": false
   },
   {
     "id": 130,
@@ -4156,9 +4156,9 @@ window.KINDERGARTENS = [
       "special": 5
     },
     "hasSpecialClass": true,
-    "lat": 37.50436,
-    "lng": 126.88604,
-    "geoApprox": true
+    "lat": 37.4895280611996,
+    "lng": 126.857972181036,
+    "geoApprox": false
   },
   {
     "id": 131,
@@ -4188,9 +4188,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.48672,
-    "lng": 126.87278,
-    "geoApprox": true
+    "lat": 37.4879630931966,
+    "lng": 126.895027399291,
+    "geoApprox": false
   },
   {
     "id": 132,
@@ -4220,8 +4220,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.5194773,
-    "lng": 126.9228165,
+    "lat": 37.5196416407122,
+    "lng": 126.92259080096,
     "geoApprox": false
   },
   {
@@ -4252,9 +4252,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5329,
-    "lng": 127.0959,
-    "geoApprox": true
+    "lat": 37.5416266176084,
+    "lng": 127.100698325535,
+    "geoApprox": false
   },
   {
     "id": 134,
@@ -4284,8 +4284,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5625338,
-    "lng": 126.8465869,
+    "lat": 37.5636169050906,
+    "lng": 126.847393103837,
     "geoApprox": false
   },
   {
@@ -4316,9 +4316,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55622,
-    "lng": 126.85188,
-    "geoApprox": true
+    "lat": 37.5686146565852,
+    "lng": 126.811542221972,
+    "geoApprox": false
   },
   {
     "id": 136,
@@ -4348,9 +4348,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.56208,
-    "lng": 127.02872,
-    "geoApprox": true
+    "lat": 37.5790832853249,
+    "lng": 127.060805297019,
+    "geoApprox": false
   },
   {
     "id": 137,
@@ -4380,9 +4380,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57244,
-    "lng": 127.04946,
-    "geoApprox": true
+    "lat": 37.5883932941526,
+    "lng": 127.039218485863,
+    "geoApprox": false
   },
   {
     "id": 138,
@@ -4412,9 +4412,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6147,
-    "lng": 127.0893,
-    "geoApprox": true
+    "lat": 37.5810707742625,
+    "lng": 127.091659137245,
+    "geoApprox": false
   },
   {
     "id": 139,
@@ -4444,9 +4444,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59706,
-    "lng": 127.07604,
-    "geoApprox": true
+    "lat": 37.598118412566,
+    "lng": 127.076670924559,
+    "geoApprox": false
   },
   {
     "id": 140,
@@ -4476,8 +4476,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6342267,
-    "lng": 127.0625762,
+    "lat": 37.6379556162713,
+    "lng": 127.059802173858,
     "geoApprox": false
   },
   {
@@ -4508,8 +4508,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6246537,
-    "lng": 127.0671188,
+    "lat": 37.6238343591525,
+    "lng": 127.064778103315,
     "geoApprox": false
   },
   {
@@ -4540,8 +4540,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5291648,
-    "lng": 127.1126117,
+    "lat": 37.5294607910398,
+    "lng": 127.114054184816,
     "geoApprox": false
   },
   {
@@ -4572,9 +4572,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52038,
-    "lng": 127.11032,
-    "geoApprox": true
+    "lat": 37.5028743847825,
+    "lng": 127.106687281018,
+    "geoApprox": false
   },
   {
     "id": 144,
@@ -4604,9 +4604,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.57106,
-    "lng": 126.90224,
-    "geoApprox": true
+    "lat": 37.5797510164641,
+    "lng": 126.882073551893,
+    "geoApprox": false
   },
   {
     "id": 145,
@@ -4636,9 +4636,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55342,
-    "lng": 126.88898,
-    "geoApprox": true
+    "lat": 37.5621975027024,
+    "lng": 126.916418582601,
+    "geoApprox": false
   },
   {
     "id": 146,
@@ -4668,8 +4668,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5530912,
-    "lng": 127.1270504,
+    "lat": 37.5534474873056,
+    "lng": 127.125660013035,
     "geoApprox": false
   },
   {
@@ -4700,9 +4700,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51926,
-    "lng": 127.10624,
-    "geoApprox": true
+    "lat": 37.4986156171997,
+    "lng": 127.118757494143,
+    "geoApprox": false
   },
   {
     "id": 148,
@@ -4732,9 +4732,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50162,
-    "lng": 127.09298,
-    "geoApprox": true
+    "lat": 37.4969953805775,
+    "lng": 127.149081953037,
+    "geoApprox": false
   },
   {
     "id": 149,
@@ -4764,8 +4764,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6020121,
-    "lng": 127.084577,
+    "lat": 37.6019982839232,
+    "lng": 127.084548408505,
     "geoApprox": false
   },
   {
@@ -4796,8 +4796,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5355455,
-    "lng": 126.8812171,
+    "lat": 37.5351566093996,
+    "lng": 126.881874415824,
     "geoApprox": false
   },
   {
@@ -4828,9 +4828,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.48308,
-    "lng": 126.87652,
-    "geoApprox": true
+    "lat": 37.4973056636224,
+    "lng": 126.839751372769,
+    "geoApprox": false
   },
   {
     "id": 152,
@@ -4860,9 +4860,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.44346,
-    "lng": 126.88054,
-    "geoApprox": true
+    "lat": 37.4488979968094,
+    "lng": 126.903505969114,
+    "geoApprox": false
   },
   {
     "id": 153,
@@ -4892,9 +4892,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50436,
-    "lng": 126.88604,
-    "geoApprox": true
+    "lat": 37.4960916957171,
+    "lng": 126.84293975833,
+    "geoApprox": false
   },
   {
     "id": 154,
@@ -4924,8 +4924,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5470291,
-    "lng": 127.0782155,
+    "lat": 37.5472457327354,
+    "lng": 127.078304321398,
     "geoApprox": false
   },
   {
@@ -4956,9 +4956,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5469,
-    "lng": 127.0789,
-    "geoApprox": true
+    "lat": 37.5540529884568,
+    "lng": 127.097719061855,
+    "geoApprox": false
   },
   {
     "id": 156,
@@ -4988,8 +4988,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4792029,
-    "lng": 127.0004925,
+    "lat": 37.4791984024334,
+    "lng": 127.000490785932,
     "geoApprox": false
   },
   {
@@ -5020,8 +5020,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5526062,
-    "lng": 127.146488,
+    "lat": 37.5529725262612,
+    "lng": 127.147436202442,
     "geoApprox": false
   },
   {
@@ -5052,9 +5052,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.51666,
-    "lng": 127.10874,
-    "geoApprox": true
+    "lat": 37.5534209244642,
+    "lng": 127.141944709594,
+    "geoApprox": false
   },
   {
     "id": 159,
@@ -5084,8 +5084,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5710131,
-    "lng": 126.8465625,
+    "lat": 37.5710197152233,
+    "lng": 126.846462691088,
     "geoApprox": false
   },
   {
@@ -5116,9 +5116,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54214,
-    "lng": 127.11656,
-    "geoApprox": true
+    "lat": 37.5603448974762,
+    "lng": 127.169481229506,
+    "geoApprox": false
   },
   {
     "id": 161,
@@ -5148,9 +5148,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65168,
-    "lng": 127.06462,
-    "geoApprox": true
+    "lat": 37.6196000866042,
+    "lng": 127.061393191294,
+    "geoApprox": false
   },
   {
     "id": 162,
@@ -5180,9 +5180,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5978,
-    "lng": 127.0133,
-    "geoApprox": true
+    "lat": 37.5973628688991,
+    "lng": 127.032963688887,
+    "geoApprox": false
   },
   {
     "id": 163,
@@ -5212,9 +5212,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51142,
-    "lng": 127.11168,
-    "geoApprox": true
+    "lat": 37.4780152934722,
+    "lng": 127.12936100839,
+    "geoApprox": false
   },
   {
     "id": 164,
@@ -5244,9 +5244,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58324,
-    "lng": 127.02826,
-    "geoApprox": true
+    "lat": 37.6039788539206,
+    "lng": 127.020612397208,
+    "geoApprox": false
   },
   {
     "id": 165,
@@ -5276,9 +5276,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51448,
-    "lng": 126.87422,
-    "geoApprox": true
+    "lat": 37.5359499494616,
+    "lng": 126.871942644571,
+    "geoApprox": false
   },
   {
     "id": 166,
@@ -5308,9 +5308,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55874,
-    "lng": 126.84406,
-    "geoApprox": true
+    "lat": 37.5769596950152,
+    "lng": 126.818932773167,
+    "geoApprox": false
   },
   {
     "id": 167,
@@ -5340,9 +5340,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5411,
-    "lng": 126.8648,
-    "geoApprox": true
+    "lat": 37.5309878151642,
+    "lng": 126.849228041434,
+    "geoApprox": false
   },
   {
     "id": 168,
@@ -5372,8 +5372,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4891098,
-    "lng": 126.8890126,
+    "lat": 37.4898993993674,
+    "lng": 126.888961869782,
     "geoApprox": false
   },
   {
@@ -5404,9 +5404,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.61722,
-    "lng": 127.08148,
-    "geoApprox": true
+    "lat": 37.6141017641988,
+    "lng": 127.091034702557,
+    "geoApprox": false
   },
   {
     "id": 170,
@@ -5436,9 +5436,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50008,
-    "lng": 126.92842,
-    "geoApprox": true
+    "lat": 37.4816580692642,
+    "lng": 126.979370260506,
+    "geoApprox": false
   },
   {
     "id": 171,
@@ -5468,9 +5468,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.49596,
-    "lng": 126.88944,
-    "geoApprox": true
+    "lat": 37.49154085489,
+    "lng": 126.893663774589,
+    "geoApprox": false
   },
   {
     "id": 172,
@@ -5500,9 +5500,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.46608,
-    "lng": 126.94072,
-    "geoApprox": true
+    "lat": 37.4824047772703,
+    "lng": 126.925095251662,
+    "geoApprox": false
   },
   {
     "id": 173,
@@ -5532,9 +5532,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51044,
-    "lng": 126.94916,
-    "geoApprox": true
+    "lat": 37.4977831687345,
+    "lng": 126.933201861843,
+    "geoApprox": false
   },
   {
     "id": 174,
@@ -5564,8 +5564,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.657838,
-    "lng": 127.033788,
+    "lat": 37.6578378451702,
+    "lng": 127.033787334216,
     "geoApprox": false
   },
   {
@@ -5596,8 +5596,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.667795,
-    "lng": 127.058746,
+    "lat": 37.6677947086387,
+    "lng": 127.058746395525,
     "geoApprox": false
   },
   {
@@ -5628,8 +5628,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6293286,
-    "lng": 127.0623814,
+    "lat": 37.6286067853213,
+    "lng": 127.062796826548,
     "geoApprox": false
   },
   {
@@ -5660,9 +5660,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65224,
-    "lng": 127.06666,
-    "geoApprox": true
+    "lat": 37.6528674456933,
+    "lng": 127.077719531665,
+    "geoApprox": false
   },
   {
     "id": 178,
@@ -5692,9 +5692,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6626,
-    "lng": 127.0534,
-    "geoApprox": true
+    "lat": 37.6306654895742,
+    "lng": 127.043504483567,
+    "geoApprox": false
   },
   {
     "id": 179,
@@ -5724,9 +5724,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58078,
-    "lng": 126.94292,
-    "geoApprox": true
+    "lat": 37.5661542249597,
+    "lng": 126.932307330166,
+    "geoApprox": false
   },
   {
     "id": 180,
@@ -5756,9 +5756,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59114,
-    "lng": 126.92966,
-    "geoApprox": true
+    "lat": 37.5861396133623,
+    "lng": 126.935825543282,
+    "geoApprox": false
   },
   {
     "id": 181,
@@ -5788,9 +5788,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5971,
-    "lng": 126.9427,
-    "geoApprox": true
+    "lat": 37.6160518597222,
+    "lng": 126.914253420269,
+    "geoApprox": false
   },
   {
     "id": 182,
@@ -5820,8 +5820,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5454567,
-    "lng": 127.0181931,
+    "lat": 37.5453300340479,
+    "lng": 127.017925368592,
     "geoApprox": false
   },
   {
@@ -5852,9 +5852,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60088,
-    "lng": 127.00752,
-    "geoApprox": true
+    "lat": 37.5998946652134,
+    "lng": 127.036301667954,
+    "geoApprox": false
   },
   {
     "id": 184,
@@ -5884,9 +5884,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52394,
-    "lng": 127.13526,
-    "geoApprox": true
+    "lat": 37.5458497505471,
+    "lng": 127.131921120496,
+    "geoApprox": false
   },
   {
     "id": 185,
@@ -5916,9 +5916,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5116,
-    "lng": 127.0609,
-    "geoApprox": true
+    "lat": 37.4911373654824,
+    "lng": 127.10185783552,
+    "geoApprox": false
   },
   {
     "id": 186,
@@ -5948,9 +5948,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58386,
-    "lng": 126.93714,
-    "geoApprox": true
+    "lat": 37.5902198832433,
+    "lng": 126.944804483066,
+    "geoApprox": false
   },
   {
     "id": 187,
@@ -5980,8 +5980,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4931449,
-    "lng": 127.0629809,
+    "lat": 37.493154981993,
+    "lng": 127.062999980103,
     "geoApprox": false
   },
   {
@@ -6012,8 +6012,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4915006,
-    "lng": 127.0774476,
+    "lat": 37.4932437695434,
+    "lng": 127.079114775367,
     "geoApprox": false
   },
   {
@@ -6076,9 +6076,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.48118,
-    "lng": 127.04022,
-    "geoApprox": true
+    "lat": 37.4939058491626,
+    "lng": 127.023431961533,
+    "geoApprox": false
   },
   {
     "id": 191,
@@ -6108,9 +6108,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53746,
-    "lng": 126.83454,
-    "geoApprox": true
+    "lat": 37.5482132735459,
+    "lng": 126.850057007784,
+    "geoApprox": false
   },
   {
     "id": 192,
@@ -6140,9 +6140,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54782,
-    "lng": 126.85528,
-    "geoApprox": true
+    "lat": 37.5340074359806,
+    "lng": 126.86159821496,
+    "geoApprox": false
   },
   {
     "id": 193,
@@ -6204,8 +6204,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5488737,
-    "lng": 126.8677302,
+    "lat": 37.5488448495074,
+    "lng": 126.867676737451,
     "geoApprox": false
   },
   {
@@ -6236,8 +6236,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5134446,
-    "lng": 126.8594686,
+    "lat": 37.5120947920338,
+    "lng": 126.860291121004,
     "geoApprox": false
   },
   {
@@ -6268,9 +6268,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5471054,
-    "lng": 126.8449393,
-    "geoApprox": false
+    "lat": 37.5453,
+    "lng": 126.8631,
+    "geoApprox": true
   },
   {
     "id": 197,
@@ -6300,8 +6300,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5573223,
-    "lng": 126.9876564,
+    "lat": 37.5578530747432,
+    "lng": 126.987481605528,
     "geoApprox": false
   },
   {
@@ -6332,8 +6332,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.534433,
-    "lng": 126.950183,
+    "lat": 37.5344326622037,
+    "lng": 126.950182625895,
     "geoApprox": false
   },
   {
@@ -6364,9 +6364,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5777,
-    "lng": 126.9773,
-    "geoApprox": true
+    "lat": 37.5905286694817,
+    "lng": 127.001075311676,
+    "geoApprox": false
   },
   {
     "id": 200,
@@ -6396,9 +6396,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.56096,
-    "lng": 127.02464,
-    "geoApprox": true
+    "lat": 37.5856754144498,
+    "lng": 127.057916891964,
+    "geoApprox": false
   },
   {
     "id": 201,
@@ -6428,8 +6428,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4990706,
-    "lng": 127.0546683,
+    "lat": 37.4995114113359,
+    "lng": 127.054465527162,
     "geoApprox": false
   },
   {
@@ -6460,8 +6460,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6321459,
-    "lng": 126.9288097,
+    "lat": 37.6321862253702,
+    "lng": 126.928798490682,
     "geoApprox": false
   },
   {
@@ -6492,9 +6492,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51912,
-    "lng": 126.90368,
-    "geoApprox": true
+    "lat": 37.5251047814187,
+    "lng": 126.893740706505,
+    "geoApprox": false
   },
   {
     "id": 204,
@@ -6524,9 +6524,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.47588,
-    "lng": 126.95942,
-    "geoApprox": true
+    "lat": 37.4739096592716,
+    "lng": 126.964265479428,
+    "geoApprox": false
   },
   {
     "id": 205,
@@ -6556,9 +6556,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53794,
-    "lng": 127.11826,
-    "geoApprox": true
+    "lat": 37.5428113683507,
+    "lng": 127.147341961238,
+    "geoApprox": false
   },
   {
     "id": 206,
@@ -6588,8 +6588,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5193733,
-    "lng": 127.0465322,
+    "lat": 37.5193541989926,
+    "lng": 127.046542965156,
     "geoApprox": false
   },
   {
@@ -6620,9 +6620,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52926,
-    "lng": 127.06564,
-    "geoApprox": true
+    "lat": 37.5435971286071,
+    "lng": 127.085214074586,
+    "geoApprox": false
   },
   {
     "id": 208,
@@ -6652,9 +6652,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55724,
-    "lng": 127.04846,
-    "geoApprox": true
+    "lat": 37.5545314695033,
+    "lng": 127.026186636459,
+    "geoApprox": false
   },
   {
     "id": 209,
@@ -6684,9 +6684,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5676,
-    "lng": 127.0352,
-    "geoApprox": true
+    "lat": 37.5650973253908,
+    "lng": 127.03474225024,
+    "geoApprox": false
   },
   {
     "id": 210,
@@ -6716,9 +6716,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.67664,
-    "lng": 127.04166,
-    "geoApprox": true
+    "lat": 37.6541896346479,
+    "lng": 127.013973638941,
+    "geoApprox": false
   },
   {
     "id": 211,
@@ -6748,9 +6748,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4533931,
-    "lng": 126.9146228,
-    "geoApprox": false
+    "lat": 37.4471,
+    "lng": 126.9108,
+    "geoApprox": true
   },
   {
     "id": 212,
@@ -6780,9 +6780,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57462,
-    "lng": 126.98308,
-    "geoApprox": true
+    "lat": 37.5891727709231,
+    "lng": 126.999927989279,
+    "geoApprox": false
   },
   {
     "id": 213,
@@ -6812,8 +6812,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6089913,
-    "lng": 126.9058937,
+    "lat": 37.6097895968758,
+    "lng": 126.905707319658,
     "geoApprox": false
   },
   {
@@ -6844,8 +6844,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5973845,
-    "lng": 127.0193227,
+    "lat": 37.5973870636459,
+    "lng": 127.019322962491,
     "geoApprox": false
   },
   {
@@ -6876,8 +6876,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5582882,
-    "lng": 127.0828019,
+    "lat": 37.5582881769332,
+    "lng": 127.082801896999,
     "geoApprox": false
   },
   {
@@ -6908,9 +6908,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53746,
-    "lng": 126.83454,
-    "geoApprox": true
+    "lat": 37.5748809802173,
+    "lng": 126.814329101616,
+    "geoApprox": false
   },
   {
     "id": 217,
@@ -6940,8 +6940,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5911637,
-    "lng": 127.0877175,
+    "lat": 37.5906965996805,
+    "lng": 127.087287822911,
     "geoApprox": false
   },
   {
@@ -6972,9 +6972,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.52024,
-    "lng": 126.93386,
-    "geoApprox": true
+    "lat": 37.4889482943857,
+    "lng": 126.914528045959,
+    "geoApprox": false
   },
   {
     "id": 219,
@@ -7004,9 +7004,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5047,
-    "lng": 127.1212,
-    "geoApprox": true
+    "lat": 37.516733284228,
+    "lng": 127.089889095677,
+    "geoApprox": false
   },
   {
     "id": 220,
@@ -7036,9 +7036,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4781,
-    "lng": 127.046,
-    "geoApprox": true
+    "lat": 37.4711283689775,
+    "lng": 127.049170534433,
+    "geoApprox": false
   },
   {
     "id": 221,
@@ -7068,8 +7068,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4864837,
-    "lng": 127.0485325,
+    "lat": 37.4876033476735,
+    "lng": 127.049755052514,
     "geoApprox": false
   },
   {
@@ -7100,8 +7100,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.678677,
-    "lng": 127.040764,
+    "lat": 37.679961751365,
+    "lng": 127.038288664028,
     "geoApprox": false
   },
   {
@@ -7132,9 +7132,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.66204,
-    "lng": 127.05136,
-    "geoApprox": true
+    "lat": 37.647684897261,
+    "lng": 127.081465589212,
+    "geoApprox": false
   },
   {
     "id": 224,
@@ -7164,9 +7164,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4856,
-    "lng": 126.9027,
-    "geoApprox": true
+    "lat": 37.5049440040772,
+    "lng": 126.844386612871,
+    "geoApprox": false
   },
   {
     "id": 225,
@@ -7196,9 +7196,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51812,
-    "lng": 126.87048,
-    "geoApprox": true
+    "lat": 37.523450121384,
+    "lng": 126.867236182114,
+    "geoApprox": false
   },
   {
     "id": 226,
@@ -7260,9 +7260,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.47588,
-    "lng": 126.95942,
-    "geoApprox": true
+    "lat": 37.4740581859067,
+    "lng": 126.932256739479,
+    "geoApprox": false
   },
   {
     "id": 228,
@@ -7292,9 +7292,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.66204,
-    "lng": 127.05136,
-    "geoApprox": true
+    "lat": 37.6440349660334,
+    "lng": 127.066927183916,
+    "geoApprox": false
   },
   {
     "id": 229,
@@ -7324,9 +7324,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6444,
-    "lng": 127.0721,
-    "geoApprox": true
+    "lat": 37.6561110933603,
+    "lng": 127.072595026681,
+    "geoApprox": false
   },
   {
     "id": 230,
@@ -7356,9 +7356,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.50688,
-    "lng": 126.87822,
-    "geoApprox": true
+    "lat": 37.5009763571584,
+    "lng": 126.85679629258,
+    "geoApprox": false
   },
   {
     "id": 231,
@@ -7388,8 +7388,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4879639,
-    "lng": 126.8818319,
+    "lat": 37.488040619727,
+    "lng": 126.881808889261,
     "geoApprox": false
   },
   {
@@ -7420,8 +7420,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4526525,
-    "lng": 126.9145504,
+    "lat": 37.4523226721912,
+    "lng": 126.914525435709,
     "geoApprox": false
   },
   {
@@ -7452,9 +7452,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51408,
-    "lng": 126.88532,
-    "geoApprox": true
+    "lat": 37.5016428787326,
+    "lng": 126.909256040448,
+    "geoApprox": false
   },
   {
     "id": 234,
@@ -7484,8 +7484,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.590014,
-    "lng": 126.9089261,
+    "lat": 37.5900242441139,
+    "lng": 126.908967797194,
     "geoApprox": false
   },
   {
@@ -7516,8 +7516,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5830347,
-    "lng": 126.9471265,
+    "lat": 37.5832772226944,
+    "lng": 126.947232533354,
     "geoApprox": false
   },
   {
@@ -7548,9 +7548,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52736,
-    "lng": 126.85314,
-    "geoApprox": true
+    "lat": 37.5295155831457,
+    "lng": 126.829865622881,
+    "geoApprox": false
   },
   {
     "id": 237,
@@ -7580,9 +7580,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.67356,
-    "lng": 127.04744,
-    "geoApprox": true
+    "lat": 37.6419195213127,
+    "lng": 127.038011023237,
+    "geoApprox": false
   },
   {
     "id": 238,
@@ -7612,8 +7612,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5953949,
-    "lng": 126.9448914,
+    "lat": 37.5959199688468,
+    "lng": 126.94569176914,
     "geoApprox": false
   },
   {
@@ -7644,8 +7644,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5653557,
-    "lng": 126.9090408,
+    "lat": 37.5653495020407,
+    "lng": 126.909043559638,
     "geoApprox": false
   },
   {
@@ -7676,9 +7676,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5145,
-    "lng": 127.1059,
-    "geoApprox": true
+    "lat": 37.4947369176705,
+    "lng": 127.130992550094,
+    "geoApprox": false
   },
   {
     "id": 241,
@@ -7708,8 +7708,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.666692,
-    "lng": 127.079126,
+    "lat": 37.6666919810414,
+    "lng": 127.079126011496,
     "geoApprox": false
   },
   {
@@ -7740,9 +7740,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50162,
-    "lng": 127.09298,
-    "geoApprox": true
+    "lat": 37.5088312569718,
+    "lng": 127.095121373383,
+    "geoApprox": false
   },
   {
     "id": 243,
@@ -7772,9 +7772,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50988,
-    "lng": 126.94712,
-    "geoApprox": true
+    "lat": 37.4956823660362,
+    "lng": 126.941133911047,
+    "geoApprox": false
   },
   {
     "id": 244,
@@ -7804,9 +7804,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54158,
-    "lng": 127.11452,
-    "geoApprox": true
+    "lat": 37.5598739694238,
+    "lng": 127.153177950966,
+    "geoApprox": false
   },
   {
     "id": 245,
@@ -7836,8 +7836,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5173532,
-    "lng": 127.1336159,
+    "lat": 37.5166909917264,
+    "lng": 127.137712375583,
     "geoApprox": false
   },
   {
@@ -7868,9 +7868,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5187,
-    "lng": 127.1042,
-    "geoApprox": true
+    "lat": 37.5047186137619,
+    "lng": 127.120412264842,
+    "geoApprox": false
   },
   {
     "id": 247,
@@ -7900,8 +7900,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4917562,
-    "lng": 126.8594253,
+    "lat": 37.4928802334449,
+    "lng": 126.859308079005,
     "geoApprox": false
   },
   {
@@ -7932,9 +7932,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59706,
-    "lng": 127.07604,
-    "geoApprox": true
+    "lat": 37.5749603198126,
+    "lng": 127.0889553819,
+    "geoApprox": false
   },
   {
     "id": 249,
@@ -7964,9 +7964,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60742,
-    "lng": 127.09678,
-    "geoApprox": true
+    "lat": 37.5859738786556,
+    "lng": 127.085550502087,
+    "geoApprox": false
   },
   {
     "id": 250,
@@ -7996,9 +7996,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59234,
-    "lng": 126.94236,
-    "geoApprox": true
+    "lat": 37.6066720723276,
+    "lng": 126.926763237161,
+    "geoApprox": false
   },
   {
     "id": 251,
@@ -8028,9 +8028,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6027,
-    "lng": 126.9291,
-    "geoApprox": true
+    "lat": 37.5940290964604,
+    "lng": 126.921565836958,
+    "geoApprox": false
   },
   {
     "id": 252,
@@ -8060,9 +8060,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57106,
-    "lng": 126.90224,
-    "geoApprox": true
+    "lat": 37.5500581711566,
+    "lng": 126.946906393559,
+    "geoApprox": false
   },
   {
     "id": 253,
@@ -8092,9 +8092,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5936,
-    "lng": 127.015,
-    "geoApprox": true
+    "lat": 37.6120328876191,
+    "lng": 127.000333434653,
+    "geoApprox": false
   },
   {
     "id": 254,
@@ -8124,8 +8124,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5590873,
-    "lng": 126.9673403,
+    "lat": 37.5591934088751,
+    "lng": 126.966980133221,
     "geoApprox": false
   },
   {
@@ -8156,9 +8156,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56102,
-    "lng": 127.00368,
-    "geoApprox": true
+    "lat": 37.5590698344618,
+    "lng": 127.008963084864,
+    "geoApprox": false
   },
   {
     "id": 256,
@@ -8188,8 +8188,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5785452,
-    "lng": 126.966875,
+    "lat": 37.5795440101952,
+    "lng": 126.967291871532,
     "geoApprox": false
   },
   {
@@ -8220,9 +8220,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58996,
-    "lng": 127.01874,
-    "geoApprox": true
+    "lat": 37.6047479919616,
+    "lng": 127.041090226562,
+    "geoApprox": false
   },
   {
     "id": 258,
@@ -8252,9 +8252,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65108,
-    "lng": 127.01652,
-    "geoApprox": true
+    "lat": 37.6426557894829,
+    "lng": 127.01963902071,
+    "geoApprox": false
   },
   {
     "id": 259,
@@ -8284,9 +8284,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55146,
-    "lng": 126.85154,
-    "geoApprox": true
+    "lat": 37.5351780652108,
+    "lng": 126.855325008112,
+    "geoApprox": false
   },
   {
     "id": 260,
@@ -8316,9 +8316,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53424,
-    "lng": 126.89076,
-    "geoApprox": true
+    "lat": 37.5284981870414,
+    "lng": 126.904789059812,
+    "geoApprox": false
   },
   {
     "id": 261,
@@ -8348,8 +8348,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.552032,
-    "lng": 127.092674,
+    "lat": 37.5520558380171,
+    "lng": 127.092574431221,
     "geoApprox": false
   },
   {
@@ -8380,8 +8380,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5427442,
-    "lng": 127.0650545,
+    "lat": 37.5427389649157,
+    "lng": 127.065044620523,
     "geoApprox": false
   },
   {
@@ -8412,9 +8412,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5245,
-    "lng": 127.0653,
-    "geoApprox": true
+    "lat": 37.5388779460832,
+    "lng": 127.078614308872,
+    "geoApprox": false
   },
   {
     "id": 264,
@@ -8444,8 +8444,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.4998549,
-    "lng": 127.10787,
+    "lat": 37.4998746399971,
+    "lng": 127.107214872322,
     "geoApprox": false
   },
   {
@@ -8476,8 +8476,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5384848,
-    "lng": 127.1448633,
+    "lat": 37.5385916779149,
+    "lng": 127.144972942492,
     "geoApprox": false
   },
   {
@@ -8508,8 +8508,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5092247,
-    "lng": 127.1240601,
+    "lat": 37.5092192490953,
+    "lng": 127.124042763378,
     "geoApprox": false
   },
   {
@@ -8540,9 +8540,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51506,
-    "lng": 127.10794,
-    "geoApprox": true
+    "lat": 37.5204391801508,
+    "lng": 127.1141159026,
+    "geoApprox": false
   },
   {
     "id": 268,
@@ -8572,9 +8572,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51028,
-    "lng": 126.87592,
-    "geoApprox": true
+    "lat": 37.5125072743566,
+    "lng": 126.839850082787,
+    "geoApprox": false
   },
   {
     "id": 269,
@@ -8604,8 +8604,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5743808,
-    "lng": 126.8903924,
+    "lat": 37.5743746971023,
+    "lng": 126.890395580636,
     "geoApprox": false
   },
   {
@@ -8636,8 +8636,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5712217,
-    "lng": 126.8449473,
+    "lat": 37.5712114625604,
+    "lng": 126.843591958573,
     "geoApprox": false
   },
   {
@@ -8668,8 +8668,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.646979,
-    "lng": 127.061464,
+    "lat": 37.6469786593648,
+    "lng": 127.06146433043,
     "geoApprox": false
   },
   {
@@ -8700,9 +8700,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59724,
-    "lng": 127.01126,
-    "geoApprox": true
+    "lat": 37.5840296761835,
+    "lng": 127.020378764065,
+    "geoApprox": false
   },
   {
     "id": 273,
@@ -8732,8 +8732,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6098364,
-    "lng": 127.0229669,
+    "lat": 37.6098063072863,
+    "lng": 127.022884328607,
     "geoApprox": false
   },
   {
@@ -8764,9 +8764,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54158,
-    "lng": 127.11452,
-    "geoApprox": true
+    "lat": 37.5485163903283,
+    "lng": 127.153572050646,
+    "geoApprox": false
   },
   {
     "id": 275,
@@ -8796,9 +8796,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.52736,
-    "lng": 126.85314,
-    "geoApprox": true
+    "lat": 37.5238792766238,
+    "lng": 126.861669190913,
+    "geoApprox": false
   },
   {
     "id": 276,
@@ -8828,8 +8828,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5409471,
-    "lng": 126.8327615,
+    "lat": 37.5408985213958,
+    "lng": 126.832751708426,
     "geoApprox": false
   },
   {
@@ -8860,9 +8860,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52008,
-    "lng": 126.86062,
-    "geoApprox": true
+    "lat": 37.51357077726,
+    "lng": 126.833371811835,
+    "geoApprox": false
   },
   {
     "id": 278,
@@ -8892,9 +8892,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5124,
-    "lng": 126.8792,
-    "geoApprox": true
+    "lat": 37.5063500958885,
+    "lng": 126.912123401085,
+    "geoApprox": false
   },
   {
     "id": 279,
@@ -8924,9 +8924,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52276,
-    "lng": 126.89994,
-    "geoApprox": true
+    "lat": 37.5076336086726,
+    "lng": 126.90837021995,
+    "geoApprox": false
   },
   {
     "id": 280,
@@ -8956,9 +8956,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60938,
-    "lng": 127.08692,
-    "geoApprox": true
+    "lat": 37.6172653669997,
+    "lng": 127.085544432545,
+    "geoApprox": false
   },
   {
     "id": 281,
@@ -8988,9 +8988,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58784,
-    "lng": 127.05456,
-    "geoApprox": true
+    "lat": 37.5722517408702,
+    "lng": 127.060502369282,
+    "geoApprox": false
   },
   {
     "id": 282,
@@ -9020,9 +9020,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.46362,
-    "lng": 126.88598,
-    "geoApprox": true
+    "lat": 37.4796876429151,
+    "lng": 126.905988849793,
+    "geoApprox": false
   },
   {
     "id": 283,
@@ -9052,9 +9052,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51548,
-    "lng": 126.90742,
-    "geoApprox": true
+    "lat": 37.505742804221,
+    "lng": 126.900623831076,
+    "geoApprox": false
   },
   {
     "id": 284,
@@ -9084,9 +9084,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.47644,
-    "lng": 126.96146,
-    "geoApprox": true
+    "lat": 37.4767252713626,
+    "lng": 126.951284574125,
+    "geoApprox": false
   },
   {
     "id": 285,
@@ -9116,9 +9116,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5208,
-    "lng": 126.9359,
-    "geoApprox": true
+    "lat": 37.4891912314305,
+    "lng": 126.907388773996,
+    "geoApprox": false
   },
   {
     "id": 286,
@@ -9148,9 +9148,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5887,
-    "lng": 126.9121,
-    "geoApprox": true
+    "lat": 37.6000975693796,
+    "lng": 126.91422349301,
+    "geoApprox": false
   },
   {
     "id": 287,
@@ -9180,8 +9180,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5661048,
-    "lng": 127.033629,
+    "lat": 37.5662603501179,
+    "lng": 127.033427978699,
     "geoApprox": false
   },
   {
@@ -9212,9 +9212,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53794,
-    "lng": 127.11826,
-    "geoApprox": true
+    "lat": 37.5429263579664,
+    "lng": 127.13777046206,
+    "geoApprox": false
   },
   {
     "id": 289,
@@ -9244,9 +9244,9 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.51832,
-    "lng": 127.05138,
-    "geoApprox": true
+    "lat": 37.4931444060362,
+    "lng": 127.032564910969,
+    "geoApprox": false
   },
   {
     "id": 290,
@@ -9276,8 +9276,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5712052,
-    "lng": 127.0743788,
+    "lat": 37.5710568281709,
+    "lng": 127.075113657819,
     "geoApprox": false
   },
   {
@@ -9308,9 +9308,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58324,
-    "lng": 127.02826,
-    "geoApprox": true
+    "lat": 37.5937262094153,
+    "lng": 127.013004275409,
+    "geoApprox": false
   },
   {
     "id": 292,
@@ -9340,9 +9340,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
-    "lat": 37.6438,
-    "lng": 127.024,
-    "geoApprox": true
+    "lat": 37.631249657314,
+    "lng": 127.020292410668,
+    "geoApprox": false
   },
   {
     "id": 293,
@@ -9372,8 +9372,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5652319,
-    "lng": 126.8106748,
+    "lat": 37.5652344447823,
+    "lng": 126.810672285616,
     "geoApprox": false
   },
   {
@@ -9404,9 +9404,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.503,
-    "lng": 126.8494,
-    "geoApprox": true
+    "lat": 37.5242455952909,
+    "lng": 126.838769640851,
+    "geoApprox": false
   },
   {
     "id": 295,
@@ -9436,9 +9436,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54726,
-    "lng": 126.85324,
-    "geoApprox": true
+    "lat": 37.5614610999445,
+    "lng": 126.848518232742,
+    "geoApprox": false
   },
   {
     "id": 296,
@@ -9468,9 +9468,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57462,
-    "lng": 126.98308,
-    "geoApprox": true
+    "lat": 37.6007485057551,
+    "lng": 126.956425519955,
+    "geoApprox": false
   },
   {
     "id": 297,
@@ -9500,8 +9500,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5683239,
-    "lng": 126.9745091,
+    "lat": 37.5690888764456,
+    "lng": 126.974657902016,
     "geoApprox": false
   },
   {
@@ -9532,8 +9532,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5797185,
-    "lng": 126.9856138,
+    "lat": 37.5799415657652,
+    "lng": 126.9855017071,
     "geoApprox": false
   },
   {
@@ -9564,9 +9564,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5366,
-    "lng": 126.9883,
-    "geoApprox": true
+    "lat": 37.5196486041968,
+    "lng": 126.976816771637,
+    "geoApprox": false
   },
   {
     "id": 300,
@@ -9596,9 +9596,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51896,
-    "lng": 126.97504,
-    "geoApprox": true
+    "lat": 37.5406351948312,
+    "lng": 126.990648072602,
+    "geoApprox": false
   },
   {
     "id": 301,
@@ -9628,9 +9628,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57042,
-    "lng": 126.98478,
-    "geoApprox": true
+    "lat": 37.5794123977668,
+    "lng": 127.016654833584,
+    "geoApprox": false
   },
   {
     "id": 302,
@@ -9660,9 +9660,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59668,
-    "lng": 127.00922,
-    "geoApprox": true
+    "lat": 37.5989927554427,
+    "lng": 127.023132747169,
+    "geoApprox": false
   },
   {
     "id": 303,
@@ -9692,9 +9692,9 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.52542,
-    "lng": 127.09468,
-    "geoApprox": true
+    "lat": 37.513512293639,
+    "lng": 127.120531131015,
+    "geoApprox": false
   },
   {
     "id": 304,
@@ -9724,8 +9724,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5410239,
-    "lng": 127.1499697,
+    "lat": 37.5409268527757,
+    "lng": 127.149979091111,
     "geoApprox": false
   },
   {
@@ -9756,9 +9756,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5166,
-    "lng": 126.9376,
-    "geoApprox": true
+    "lat": 37.49804558503,
+    "lng": 126.95028099306,
+    "geoApprox": false
   },
   {
     "id": 306,
@@ -9788,9 +9788,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54046,
-    "lng": 127.11044,
-    "geoApprox": true
+    "lat": 37.5505624535913,
+    "lng": 127.174953956932,
+    "geoApprox": false
   },
   {
     "id": 307,
@@ -9820,8 +9820,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54483,
-    "lng": 127.104263,
+    "lat": 37.5436567301031,
+    "lng": 127.104250290998,
     "geoApprox": false
   },
   {
@@ -9852,8 +9852,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6170176,
-    "lng": 127.0303189,
+    "lat": 37.6169686486072,
+    "lng": 127.030375933428,
     "geoApprox": false
   },
   {
@@ -9884,9 +9884,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5754,
-    "lng": 126.9997,
-    "geoApprox": true
+    "lat": 37.6094837281621,
+    "lng": 127.058677170223,
+    "geoApprox": false
   },
   {
     "id": 310,
@@ -9916,9 +9916,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58688,
-    "lng": 127.02452,
-    "geoApprox": true
+    "lat": 37.6162471048919,
+    "lng": 127.041180709736,
+    "geoApprox": false
   },
   {
     "id": 311,
@@ -9948,9 +9948,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59724,
-    "lng": 127.01126,
-    "geoApprox": true
+    "lat": 37.5867725134878,
+    "lng": 127.017345082025,
+    "geoApprox": false
   },
   {
     "id": 312,
@@ -9980,8 +9980,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.504379,
-    "lng": 126.888298,
+    "lat": 37.5051066487493,
+    "lng": 126.888080264013,
     "geoApprox": false
   },
   {
@@ -10012,9 +10012,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52276,
-    "lng": 126.89994,
-    "geoApprox": true
+    "lat": 37.5039634012483,
+    "lng": 126.901151066112,
+    "geoApprox": false
   },
   {
     "id": 314,
@@ -10044,9 +10044,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65164,
-    "lng": 127.01856,
-    "geoApprox": true
+    "lat": 37.6218232749574,
+    "lng": 127.012407457085,
+    "geoApprox": false
   },
   {
     "id": 315,
@@ -10076,8 +10076,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5635287,
-    "lng": 126.8602252,
+    "lat": 37.5637580924465,
+    "lng": 126.85928943925,
     "geoApprox": false
   },
   {
@@ -10108,9 +10108,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.525,
-    "lng": 126.9081,
-    "geoApprox": true
+    "lat": 37.5270069102324,
+    "lng": 126.907703382657,
+    "geoApprox": false
   },
   {
     "id": 317,
@@ -10140,9 +10140,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.61166,
-    "lng": 126.92774,
-    "geoApprox": true
+    "lat": 37.5905122161631,
+    "lng": 126.925112608529,
+    "geoApprox": false
   },
   {
     "id": 318,
@@ -10172,9 +10172,9 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.61162,
-    "lng": 127.09508,
-    "geoApprox": true
+    "lat": 37.609044756978,
+    "lng": 127.073928695922,
+    "geoApprox": false
   },
   {
     "id": 319,
@@ -10204,8 +10204,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5009625,
-    "lng": 127.1509178,
+    "lat": 37.5013291325477,
+    "lng": 127.151063224565,
     "geoApprox": false
   },
   {
@@ -10236,9 +10236,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64436,
-    "lng": 127.02604,
-    "geoApprox": true
+    "lat": 37.6134009168268,
+    "lng": 127.035828005248,
+    "geoApprox": false
   },
   {
     "id": 321,
@@ -10268,8 +10268,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4752406,
-    "lng": 126.9643338,
+    "lat": 37.4754509759645,
+    "lng": 126.96442810661,
     "geoApprox": false
   },
   {
@@ -10300,9 +10300,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.66204,
-    "lng": 127.05136,
-    "geoApprox": true
+    "lat": 37.6251395729143,
+    "lng": 127.074046130883,
+    "geoApprox": false
   },
   {
     "id": 323,
@@ -10332,8 +10332,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4460087,
-    "lng": 126.906605,
+    "lat": 37.4463710473917,
+    "lng": 126.906462134788,
     "geoApprox": false
   },
   {
@@ -10364,9 +10364,9 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
-    "lat": 37.52444,
-    "lng": 126.90606,
-    "geoApprox": true
+    "lat": 37.5129480156762,
+    "lng": 126.898260025571,
+    "geoApprox": false
   },
   {
     "id": 325,
@@ -10396,9 +10396,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5348,
-    "lng": 126.8928,
-    "geoApprox": true
+    "lat": 37.5074451155132,
+    "lng": 126.900567851617,
+    "geoApprox": false
   },
   {
     "id": 326,
@@ -10428,8 +10428,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5780164,
-    "lng": 126.9164163,
+    "lat": 37.5784968293823,
+    "lng": 126.917392296871,
     "geoApprox": false
   },
   {
@@ -10460,9 +10460,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5917,
-    "lng": 126.9317,
-    "geoApprox": true
+    "lat": 37.5841214400939,
+    "lng": 126.922269798688,
+    "geoApprox": false
   },
   {
     "id": 328,
@@ -10492,9 +10492,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57406,
-    "lng": 126.95244,
-    "geoApprox": true
+    "lat": 37.5840548247576,
+    "lng": 126.943250608159,
+    "geoApprox": false
   },
   {
     "id": 329,
@@ -10524,9 +10524,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55202,
-    "lng": 126.85358,
-    "geoApprox": true
+    "lat": 37.5740891860366,
+    "lng": 126.813528129855,
+    "geoApprox": false
   },
   {
     "id": 330,
@@ -10556,9 +10556,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51252,
-    "lng": 126.85008,
-    "geoApprox": true
+    "lat": 37.5309024968854,
+    "lng": 126.835852578568,
+    "geoApprox": false
   },
   {
     "id": 331,
@@ -10588,8 +10588,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6000381,
-    "lng": 127.0683857,
+    "lat": 37.6007507501532,
+    "lng": 127.068769452719,
     "geoApprox": false
   },
   {
@@ -10620,9 +10620,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6013,
-    "lng": 126.941,
-    "geoApprox": true
+    "lat": 37.5998352012159,
+    "lng": 126.930068069923,
+    "geoApprox": false
   },
   {
     "id": 333,
@@ -10652,8 +10652,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6131591,
-    "lng": 126.9119457,
+    "lat": 37.6131689900588,
+    "lng": 126.911959349585,
     "geoApprox": false
   },
   {
@@ -10684,8 +10684,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5118411,
-    "lng": 126.8529891,
+    "lat": 37.5123242828723,
+    "lng": 126.853454551475,
     "geoApprox": false
   },
   {
@@ -10716,9 +10716,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50526,
-    "lng": 127.08924,
-    "geoApprox": true
+    "lat": 37.5077669299288,
+    "lng": 127.107583106525,
+    "geoApprox": false
   },
   {
     "id": 336,
@@ -10748,9 +10748,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53424,
-    "lng": 126.89076,
-    "geoApprox": true
+    "lat": 37.5032185546714,
+    "lng": 126.897260921154,
+    "geoApprox": false
   },
   {
     "id": 337,
@@ -10780,9 +10780,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51926,
-    "lng": 127.10624,
-    "geoApprox": true
+    "lat": 37.5023710549257,
+    "lng": 127.133003223687,
+    "geoApprox": false
   },
   {
     "id": 338,
@@ -10812,9 +10812,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50162,
-    "lng": 127.09298,
-    "geoApprox": true
+    "lat": 37.4827571265965,
+    "lng": 127.134044247855,
+    "geoApprox": false
   },
   {
     "id": 339,
@@ -10844,8 +10844,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59402,
-    "lng": 127.0896562,
+    "lat": 37.5940399583068,
+    "lng": 127.08962735907,
     "geoApprox": false
   },
   {
@@ -10876,9 +10876,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.61722,
-    "lng": 127.08148,
-    "geoApprox": true
+    "lat": 37.5781450721236,
+    "lng": 127.084655580941,
+    "geoApprox": false
   },
   {
     "id": 341,
@@ -10908,8 +10908,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5978993,
-    "lng": 127.0966244,
+    "lat": 37.5979012340131,
+    "lng": 127.096608784916,
     "geoApprox": false
   },
   {
@@ -10940,8 +10940,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5651501,
-    "lng": 127.0637387,
+    "lat": 37.5651958543852,
+    "lng": 127.063775155288,
     "geoApprox": false
   },
   {
@@ -10972,9 +10972,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57244,
-    "lng": 127.04946,
-    "geoApprox": true
+    "lat": 37.5926776807408,
+    "lng": 127.054067865832,
+    "geoApprox": false
   },
   {
     "id": 344,
@@ -11004,9 +11004,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6147,
-    "lng": 127.0893,
-    "geoApprox": true
+    "lat": 37.5999698241466,
+    "lng": 127.102995065481,
+    "geoApprox": false
   },
   {
     "id": 345,
@@ -11036,9 +11036,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.57414,
-    "lng": 126.89646,
-    "geoApprox": true
+    "lat": 37.549112429713,
+    "lng": 126.944058506049,
+    "geoApprox": false
   },
   {
     "id": 346,
@@ -11068,8 +11068,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5643371,
-    "lng": 126.9468925,
+    "lat": 37.5644645178259,
+    "lng": 126.950288837762,
     "geoApprox": false
   },
   {
@@ -11132,9 +11132,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58996,
-    "lng": 127.01874,
-    "geoApprox": true
+    "lat": 37.597432987781,
+    "lng": 127.034771773636,
+    "geoApprox": false
   },
   {
     "id": 349,
@@ -11164,9 +11164,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55986,
-    "lng": 126.84814,
-    "geoApprox": true
+    "lat": 37.5576619371701,
+    "lng": 126.813217094595,
+    "geoApprox": false
   },
   {
     "id": 350,
@@ -11196,8 +11196,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5663916,
-    "lng": 126.8533041,
+    "lat": 37.5670912310648,
+    "lng": 126.854748176977,
     "geoApprox": false
   },
   {
@@ -11228,9 +11228,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.49708,
-    "lng": 126.89352,
-    "geoApprox": true
+    "lat": 37.4916708097802,
+    "lng": 126.856831021848,
+    "geoApprox": false
   },
   {
     "id": 352,
@@ -11260,9 +11260,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52808,
-    "lng": 126.90232,
-    "geoApprox": true
+    "lat": 37.5023838193982,
+    "lng": 126.900258468499,
+    "geoApprox": false
   },
   {
     "id": 353,
@@ -11292,9 +11292,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53844,
-    "lng": 126.88906,
-    "geoApprox": true
+    "lat": 37.5323786659758,
+    "lng": 126.896800851966,
+    "geoApprox": false
   },
   {
     "id": 354,
@@ -11324,8 +11324,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6330696,
-    "lng": 127.0671382,
+    "lat": 37.6330646443357,
+    "lng": 127.06712319369,
     "geoApprox": false
   },
   {
@@ -11356,9 +11356,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64132,
-    "lng": 127.04388,
-    "geoApprox": true
+    "lat": 37.6302844506448,
+    "lng": 127.049264552091,
+    "geoApprox": false
   },
   {
     "id": 356,
@@ -11388,9 +11388,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.57098,
-    "lng": 126.92422,
-    "geoApprox": true
+    "lat": 37.5594791740789,
+    "lng": 126.951274321294,
+    "geoApprox": false
   },
   {
     "id": 357,
@@ -11420,8 +11420,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5363847,
-    "lng": 127.062392,
+    "lat": 37.5363847427107,
+    "lng": 127.062391971716,
     "geoApprox": false
   },
   {
@@ -11452,8 +11452,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.537359,
-    "lng": 127.0646476,
+    "lat": 37.5373590425456,
+    "lng": 127.064647556923,
     "geoApprox": false
   },
   {
@@ -11484,8 +11484,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4837929,
-    "lng": 127.0808473,
+    "lat": 37.484761123247,
+    "lng": 127.080874756987,
     "geoApprox": false
   },
   {
@@ -11516,9 +11516,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.48594,
-    "lng": 127.04056,
-    "geoApprox": true
+    "lat": 37.515205692824,
+    "lng": 127.010269489525,
+    "geoApprox": false
   },
   {
     "id": 361,
@@ -11548,9 +11548,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.52506,
-    "lng": 127.13934,
-    "geoApprox": true
+    "lat": 37.5595474750238,
+    "lng": 127.160483581978,
+    "geoApprox": false
   },
   {
     "id": 362,
@@ -11580,8 +11580,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5544124,
-    "lng": 127.1514592,
+    "lat": 37.5538244191386,
+    "lng": 127.151914012333,
     "geoApprox": false
   },
   {
@@ -11612,8 +11612,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4814593,
-    "lng": 127.1264285,
+    "lat": 37.4814511720735,
+    "lng": 127.126389567724,
     "geoApprox": false
   },
   {
@@ -11644,9 +11644,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54214,
-    "lng": 127.11656,
-    "geoApprox": true
+    "lat": 37.5313783123154,
+    "lng": 127.139706373204,
+    "geoApprox": false
   },
   {
     "id": 365,
@@ -11676,8 +11676,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6320725,
-    "lng": 127.0217093,
+    "lat": 37.6320725459003,
+    "lng": 127.021709319085,
     "geoApprox": false
   },
   {
@@ -11708,9 +11708,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.49952,
-    "lng": 126.92638,
-    "geoApprox": true
+    "lat": 37.4984000624837,
+    "lng": 126.921173811738,
+    "geoApprox": false
   },
   {
     "id": 367,
@@ -11740,8 +11740,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6269495,
-    "lng": 127.0831194,
+    "lat": 37.6263561038742,
+    "lng": 127.082183727929,
     "geoApprox": false
   },
   {
@@ -11772,9 +11772,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59724,
-    "lng": 127.01126,
-    "geoApprox": true
+    "lat": 37.5996570935306,
+    "lng": 127.015804834047,
+    "geoApprox": false
   },
   {
     "id": 369,
@@ -11804,8 +11804,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4933902,
-    "lng": 126.9572634,
+    "lat": 37.4934139745239,
+    "lng": 126.956974422755,
     "geoApprox": false
   },
   {
@@ -11836,9 +11836,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.525,
-    "lng": 126.9342,
-    "geoApprox": true
+    "lat": 37.509341435809,
+    "lng": 126.942238728118,
+    "geoApprox": false
   },
   {
     "id": 371,
@@ -11868,9 +11868,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.47336,
-    "lng": 126.96724,
-    "geoApprox": true
+    "lat": 37.4875554407187,
+    "lng": 126.95598852611,
+    "geoApprox": false
   },
   {
     "id": 372,
@@ -11900,8 +11900,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5804014,
-    "lng": 126.8810882,
+    "lat": 37.5804052847157,
+    "lng": 126.881142151445,
     "geoApprox": false
   },
   {
@@ -11932,8 +11932,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4856675,
-    "lng": 127.1331088,
+    "lat": 37.4857221007033,
+    "lng": 127.133063478935,
     "geoApprox": false
   },
   {
@@ -11964,9 +11964,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55146,
-    "lng": 126.85154,
-    "geoApprox": true
+    "lat": 37.5389489193049,
+    "lng": 126.847232822784,
+    "geoApprox": false
   },
   {
     "id": 375,
@@ -11996,9 +11996,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50632,
-    "lng": 126.87618,
-    "geoApprox": true
+    "lat": 37.481412481777,
+    "lng": 126.836947364315,
+    "geoApprox": false
   },
   {
     "id": 376,
@@ -12028,9 +12028,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56238,
-    "lng": 126.84032,
-    "geoApprox": true
+    "lat": 37.5321686871852,
+    "lng": 126.838542828777,
+    "geoApprox": false
   },
   {
     "id": 377,
@@ -12060,8 +12060,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.541429,
-    "lng": 126.8797459,
+    "lat": 37.5412913406969,
+    "lng": 126.87850378726,
     "geoApprox": false
   },
   {
@@ -12092,8 +12092,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5072756,
-    "lng": 126.8767091,
+    "lat": 37.5062634637578,
+    "lng": 126.876348360484,
     "geoApprox": false
   },
   {
@@ -12124,8 +12124,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5746095,
-    "lng": 127.0601291,
+    "lat": 37.5746094744702,
+    "lng": 127.060129124176,
     "geoApprox": false
   },
   {
@@ -12156,9 +12156,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.46916,
-    "lng": 126.93494,
-    "geoApprox": true
+    "lat": 37.4857339176177,
+    "lng": 126.943964801996,
+    "geoApprox": false
   },
   {
     "id": 381,
@@ -12188,8 +12188,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4745107,
-    "lng": 126.8926091,
+    "lat": 37.4761567725398,
+    "lng": 126.891289403751,
     "geoApprox": false
   },
   {
@@ -12220,8 +12220,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5225702,
-    "lng": 126.9312084,
+    "lat": 37.5225634268582,
+    "lng": 126.931203052964,
     "geoApprox": false
   },
   {
@@ -12252,9 +12252,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.49952,
-    "lng": 126.92638,
-    "geoApprox": true
+    "lat": 37.5015858890788,
+    "lng": 126.939960697058,
+    "geoApprox": false
   },
   {
     "id": 384,
@@ -12284,9 +12284,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.67412,
-    "lng": 127.04948,
-    "geoApprox": true
+    "lat": 37.6524704146763,
+    "lng": 127.015834944956,
+    "geoApprox": false
   },
   {
     "id": 385,
@@ -12316,8 +12316,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6227367,
-    "lng": 127.0822873,
+    "lat": 37.6233646903823,
+    "lng": 127.082122210605,
     "geoApprox": false
   },
   {
@@ -12348,9 +12348,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65896,
-    "lng": 127.05714,
-    "geoApprox": true
+    "lat": 37.6517772138584,
+    "lng": 127.073859531237,
+    "geoApprox": false
   },
   {
     "id": 387,
@@ -12380,9 +12380,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64132,
-    "lng": 127.04388,
-    "geoApprox": true
+    "lat": 37.6611602749525,
+    "lng": 127.060997299689,
+    "geoApprox": false
   },
   {
     "id": 388,
@@ -12412,8 +12412,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6355668,
-    "lng": 127.0514942,
+    "lat": 37.6358316688786,
+    "lng": 127.051926911669,
     "geoApprox": false
   },
   {
@@ -12444,9 +12444,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57162,
-    "lng": 126.90428,
-    "geoApprox": true
+    "lat": 37.5436247308559,
+    "lng": 126.943900794425,
+    "geoApprox": false
   },
   {
     "id": 390,
@@ -12476,9 +12476,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56678,
-    "lng": 126.92592,
-    "geoApprox": true
+    "lat": 37.581587462699,
+    "lng": 126.919412449272,
+    "geoApprox": false
   },
   {
     "id": 391,
@@ -12508,9 +12508,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57714,
-    "lng": 126.94666,
-    "geoApprox": true
+    "lat": 37.5756614284394,
+    "lng": 126.920851657864,
+    "geoApprox": false
   },
   {
     "id": 392,
@@ -12540,9 +12540,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55258,
-    "lng": 126.85562,
-    "geoApprox": true
+    "lat": 37.5550006717487,
+    "lng": 126.871204647976,
+    "geoApprox": false
   },
   {
     "id": 393,
@@ -12572,9 +12572,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4739,
-    "lng": 127.0477,
-    "geoApprox": true
+    "lat": 37.5024848344961,
+    "lng": 126.991741582915,
+    "geoApprox": false
   },
   {
     "id": 394,
@@ -12604,8 +12604,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4847872,
-    "lng": 127.0824068,
+    "lat": 37.4852019134102,
+    "lng": 127.082672775781,
     "geoApprox": false
   },
   {
@@ -12636,9 +12636,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.57194,
-    "lng": 126.99246,
-    "geoApprox": true
+    "lat": 37.559971222213,
+    "lng": 127.01170475684,
+    "geoApprox": false
   },
   {
     "id": 396,
@@ -12668,9 +12668,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5637,
-    "lng": 126.9943,
-    "geoApprox": true
+    "lat": 37.5766672930696,
+    "lng": 126.988198556535,
+    "geoApprox": false
   },
   {
     "id": 397,
@@ -12700,9 +12700,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51896,
-    "lng": 126.97504,
-    "geoApprox": true
+    "lat": 37.536196874528,
+    "lng": 126.962513836335,
+    "geoApprox": false
   },
   {
     "id": 398,
@@ -12732,9 +12732,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52988,
-    "lng": 126.99782,
-    "geoApprox": true
+    "lat": 37.5195187474809,
+    "lng": 126.981261146982,
+    "geoApprox": false
   },
   {
     "id": 399,
@@ -12764,9 +12764,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53178,
-    "lng": 127.09182,
-    "geoApprox": true
+    "lat": 37.5345768836952,
+    "lng": 127.075652041243,
+    "geoApprox": false
   },
   {
     "id": 400,
@@ -12796,9 +12796,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52084,
-    "lng": 127.04356,
-    "geoApprox": true
+    "lat": 37.4720493601914,
+    "lng": 127.099482575625,
+    "geoApprox": false
   },
   {
     "id": 401,
@@ -12828,8 +12828,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4979558,
-    "lng": 126.9110248,
+    "lat": 37.4971007008112,
+    "lng": 126.91171774768,
     "geoApprox": false
   },
   {
@@ -12860,9 +12860,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55202,
-    "lng": 126.85358,
-    "geoApprox": true
+    "lat": 37.5597387634115,
+    "lng": 126.847963290839,
+    "geoApprox": false
   },
   {
     "id": 403,
@@ -12892,8 +12892,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6481477,
-    "lng": 126.9298582,
+    "lat": 37.6480695766198,
+    "lng": 126.929826836735,
     "geoApprox": false
   },
   {
@@ -12924,9 +12924,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53598,
-    "lng": 127.12812,
-    "geoApprox": true
+    "lat": 37.5631452337736,
+    "lng": 127.178322444252,
+    "geoApprox": false
   },
   {
     "id": 405,
@@ -12956,9 +12956,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54746,
-    "lng": 127.08094,
-    "geoApprox": true
+    "lat": 37.5485408931781,
+    "lng": 127.105232896252,
+    "geoApprox": false
   },
   {
     "id": 406,
@@ -12988,9 +12988,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.52982,
-    "lng": 127.06768,
-    "geoApprox": true
+    "lat": 37.5311232360546,
+    "lng": 127.089234331023,
+    "geoApprox": false
   },
   {
     "id": 407,
@@ -13020,8 +13020,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6186144,
-    "lng": 127.0746314,
+    "lat": 37.6186120126537,
+    "lng": 127.074614270574,
     "geoApprox": false
   },
   {
@@ -13052,9 +13052,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.63708,
-    "lng": 127.03352,
-    "geoApprox": true
+    "lat": 37.6452739565111,
+    "lng": 127.01048543508,
+    "geoApprox": false
   },
   {
     "id": 409,
@@ -13084,9 +13084,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57124,
-    "lng": 127.03146,
-    "geoApprox": true
+    "lat": 37.5426294442931,
+    "lng": 127.015554372439,
+    "geoApprox": false
   },
   {
     "id": 410,
@@ -13116,9 +13116,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59108,
-    "lng": 127.02282,
-    "geoApprox": true
+    "lat": 37.60973789234,
+    "lng": 127.047692146833,
+    "geoApprox": false
   },
   {
     "id": 411,
@@ -13148,9 +13148,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.61054,
-    "lng": 126.92366,
-    "geoApprox": true
+    "lat": 37.5976791222992,
+    "lng": 126.918275747068,
+    "geoApprox": false
   },
   {
     "id": 412,
@@ -13180,8 +13180,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5350886,
-    "lng": 126.873667,
+    "lat": 37.5342244045517,
+    "lng": 126.874169046113,
     "geoApprox": false
   },
   {
@@ -13212,9 +13212,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6626,
-    "lng": 127.0534,
-    "geoApprox": true
+    "lat": 37.6591694905489,
+    "lng": 127.057171329582,
+    "geoApprox": false
   },
   {
     "id": 414,
@@ -13244,8 +13244,8 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.4648656,
-    "lng": 127.0238158,
+    "lat": 37.4647104685256,
+    "lng": 127.02376930375,
     "geoApprox": false
   },
   {
@@ -13276,8 +13276,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.464619,
-    "lng": 127.10685,
+    "lat": 37.4646391801831,
+    "lng": 127.105303959604,
     "geoApprox": false
   },
   {
@@ -13308,8 +13308,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5765936,
-    "lng": 127.0146657,
+    "lat": 37.5762114748296,
+    "lng": 127.014293687874,
     "geoApprox": false
   },
   {
@@ -13340,9 +13340,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51216,
-    "lng": 127.06294,
-    "geoApprox": true
+    "lat": 37.4936295805412,
+    "lng": 127.089707610517,
+    "geoApprox": false
   },
   {
     "id": 418,
@@ -13372,8 +13372,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.487443,
-    "lng": 127.0719857,
+    "lat": 37.4891406792843,
+    "lng": 127.070871480537,
     "geoApprox": false
   },
   {
@@ -13404,8 +13404,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4898654,
-    "lng": 127.0411444,
+    "lat": 37.4915488149067,
+    "lng": 127.040954182934,
     "geoApprox": false
   },
   {
@@ -13436,8 +13436,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4838803,
-    "lng": 127.0858431,
+    "lat": 37.485530536641,
+    "lng": 127.084797907539,
     "geoApprox": false
   },
   {
@@ -13468,8 +13468,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4974034,
-    "lng": 127.0587643,
+    "lat": 37.4974072125524,
+    "lng": 127.058766231153,
     "geoApprox": false
   },
   {
@@ -13500,9 +13500,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.44766,
-    "lng": 126.87884,
-    "geoApprox": true
+    "lat": 37.4769000471999,
+    "lng": 126.900959935246,
+    "geoApprox": false
   },
   {
     "id": 423,
@@ -13532,9 +13532,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60382,
-    "lng": 126.93318,
-    "geoApprox": true
+    "lat": 37.6177585910471,
+    "lng": 126.927398443385,
+    "geoApprox": false
   },
   {
     "id": 424,
@@ -13564,9 +13564,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.494,
-    "lng": 126.8993,
-    "geoApprox": true
+    "lat": 37.4847045985983,
+    "lng": 126.890267788001,
+    "geoApprox": false
   },
   {
     "id": 425,
@@ -13596,8 +13596,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5435317,
-    "lng": 126.874624,
+    "lat": 37.5436692981533,
+    "lng": 126.873986042971,
     "geoApprox": false
   },
   {
@@ -13628,9 +13628,9 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.54222,
-    "lng": 126.83488,
-    "geoApprox": true
+    "lat": 37.5349941902013,
+    "lng": 126.836293577736,
+    "geoApprox": false
   },
   {
     "id": 427,
@@ -13660,9 +13660,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4963,
-    "lng": 127.0273,
-    "geoApprox": true
+    "lat": 37.4723005921488,
+    "lng": 127.023731348976,
+    "geoApprox": false
   },
   {
     "id": 428,
@@ -13692,9 +13692,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50736,
-    "lng": 126.95494,
-    "geoApprox": true
+    "lat": 37.4846330175369,
+    "lng": 126.975577985193,
+    "geoApprox": false
   },
   {
     "id": 429,
@@ -13724,9 +13724,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51982,
-    "lng": 127.10828,
-    "geoApprox": true
+    "lat": 37.5011047688479,
+    "lng": 127.115267143634,
+    "geoApprox": false
   },
   {
     "id": 430,
@@ -13756,8 +13756,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6579385,
-    "lng": 127.0276759,
+    "lat": 37.6583037299981,
+    "lng": 127.027604638646,
     "geoApprox": false
   },
   {
@@ -13788,9 +13788,9 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.52024,
-    "lng": 126.90776,
-    "geoApprox": true
+    "lat": 37.4992678949668,
+    "lng": 126.900714062322,
+    "geoApprox": false
   },
   {
     "id": 432,
@@ -13820,8 +13820,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.543868,
-    "lng": 126.94239,
+    "lat": 37.5438675433938,
+    "lng": 126.942389642584,
     "geoApprox": false
   },
   {
@@ -13852,8 +13852,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5869052,
-    "lng": 126.9002532,
+    "lat": 37.586899476029,
+    "lng": 126.89916689751,
     "geoApprox": false
   },
   {
@@ -13884,8 +13884,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5706529,
-    "lng": 126.8067851,
+    "lat": 37.5710274870985,
+    "lng": 126.806399839179,
     "geoApprox": false
   },
   {
@@ -13916,8 +13916,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5512535,
-    "lng": 126.8378113,
+    "lat": 37.5508825455676,
+    "lng": 126.838164214765,
     "geoApprox": false
   },
   {
@@ -13948,9 +13948,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6147,
-    "lng": 127.0893,
-    "geoApprox": true
+    "lat": 37.5916786112537,
+    "lng": 127.078401124618,
+    "geoApprox": false
   },
   {
     "id": 437,
@@ -13980,8 +13980,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5727281,
-    "lng": 127.0323149,
+    "lat": 37.5731026565696,
+    "lng": 127.031584630503,
     "geoApprox": false
   },
   {
@@ -14012,8 +14012,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5828163,
-    "lng": 127.0687545,
+    "lat": 37.5828193166314,
+    "lng": 127.068739369277,
     "geoApprox": false
   },
   {
@@ -14044,9 +14044,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.66624,
-    "lng": 127.04966,
-    "geoApprox": true
+    "lat": 37.6578069716395,
+    "lng": 127.064607583167,
+    "geoApprox": false
   },
   {
     "id": 440,
@@ -14076,9 +14076,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.61418,
-    "lng": 126.91992,
-    "geoApprox": true
+    "lat": 37.5989748090808,
+    "lng": 126.91149028122,
+    "geoApprox": false
   },
   {
     "id": 441,
@@ -14108,9 +14108,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58324,
-    "lng": 127.02826,
-    "geoApprox": true
+    "lat": 37.6219292248912,
+    "lng": 127.047320465849,
+    "geoApprox": false
   },
   {
     "id": 442,
@@ -14140,8 +14140,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5009337,
-    "lng": 127.0952041,
+    "lat": 37.5009518983034,
+    "lng": 127.095207617451,
     "geoApprox": false
   },
   {
@@ -14172,9 +14172,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.61834,
-    "lng": 127.08556,
-    "geoApprox": true
+    "lat": 37.6097999635226,
+    "lng": 127.096294599887,
+    "geoApprox": false
   },
   {
     "id": 444,
@@ -14204,8 +14204,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5879642,
-    "lng": 127.0498098,
+    "lat": 37.5880281566858,
+    "lng": 127.049226158581,
     "geoApprox": false
   },
   {
@@ -14236,9 +14236,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57602,
-    "lng": 126.94258,
-    "geoApprox": true
+    "lat": 37.5573837915783,
+    "lng": 126.931451616749,
+    "geoApprox": false
   },
   {
     "id": 446,
@@ -14268,9 +14268,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59402,
-    "lng": 126.91448,
-    "geoApprox": true
+    "lat": 37.6109458980893,
+    "lng": 126.914792838283,
+    "geoApprox": false
   },
   {
     "id": 447,
@@ -14300,9 +14300,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53962,
-    "lng": 127.08638,
-    "geoApprox": true
+    "lat": 37.5444668112195,
+    "lng": 127.088949688986,
+    "geoApprox": false
   },
   {
     "id": 448,
@@ -14332,9 +14332,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54388,
-    "lng": 126.98082,
-    "geoApprox": true
+    "lat": 37.5387066649905,
+    "lng": 126.957863326754,
+    "geoApprox": false
   },
   {
     "id": 449,
@@ -14364,9 +14364,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55794,
-    "lng": 127.00946,
-    "geoApprox": true
+    "lat": 37.5578196996083,
+    "lng": 126.987980721445,
+    "geoApprox": false
   },
   {
     "id": 450,
@@ -14396,9 +14396,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64072,
-    "lng": 127.02978,
-    "geoApprox": true
+    "lat": 37.6234811353303,
+    "lng": 127.017713033702,
+    "geoApprox": false
   },
   {
     "id": 451,
@@ -14428,9 +14428,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60088,
-    "lng": 127.00752,
-    "geoApprox": true
+    "lat": 37.6149650928954,
+    "lng": 127.048518344337,
+    "geoApprox": false
   },
   {
     "id": 452,
@@ -14460,9 +14460,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51196,
-    "lng": 126.88204,
-    "geoApprox": true
+    "lat": 37.5260357664797,
+    "lng": 126.857155102243,
+    "geoApprox": false
   },
   {
     "id": 453,
@@ -14492,8 +14492,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5225252,
-    "lng": 126.8857004,
+    "lat": 37.5225223856935,
+    "lng": 126.885695628228,
     "geoApprox": false
   },
   {
@@ -14524,9 +14524,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.49288,
-    "lng": 126.89522,
-    "geoApprox": true
+    "lat": 37.4994002109405,
+    "lng": 126.842280533879,
+    "geoApprox": false
   },
   {
     "id": 455,
@@ -14556,9 +14556,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.64916,
-    "lng": 127.07244,
-    "geoApprox": true
+    "lat": 37.6675183641329,
+    "lng": 127.075828032383,
+    "geoApprox": false
   },
   {
     "id": 456,
@@ -14588,9 +14588,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.67412,
-    "lng": 127.04948,
-    "geoApprox": true
+    "lat": 37.6553630407375,
+    "lng": 127.044832890478,
+    "geoApprox": false
   },
   {
     "id": 457,
@@ -14620,9 +14620,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64188,
-    "lng": 127.04592,
-    "geoApprox": true
+    "lat": 37.6552608527769,
+    "lng": 127.069730371461,
+    "geoApprox": false
   },
   {
     "id": 458,
@@ -14652,9 +14652,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.57042,
-    "lng": 126.92218,
-    "geoApprox": true
+    "lat": 37.5688275546965,
+    "lng": 126.962941434617,
+    "geoApprox": false
   },
   {
     "id": 459,
@@ -14684,9 +14684,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52562,
-    "lng": 127.06938,
-    "geoApprox": true
+    "lat": 37.5562308963998,
+    "lng": 127.073022134574,
+    "geoApprox": false
   },
   {
     "id": 460,
@@ -14716,9 +14716,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53598,
-    "lng": 127.09012,
-    "geoApprox": true
+    "lat": 37.5498138606171,
+    "lng": 127.086793350213,
+    "geoApprox": false
   },
   {
     "id": 461,
@@ -14748,8 +14748,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5451366,
-    "lng": 127.1043841,
+    "lat": 37.5431620967232,
+    "lng": 127.095608314148,
     "geoApprox": false
   },
   {
@@ -14780,9 +14780,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51216,
-    "lng": 127.06294,
-    "geoApprox": true
+    "lat": 37.4759895368366,
+    "lng": 127.048642707174,
+    "geoApprox": false
   },
   {
     "id": 463,
@@ -14812,9 +14812,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6626,
-    "lng": 127.0534,
-    "geoApprox": true
+    "lat": 37.664592882014,
+    "lng": 127.078713836624,
+    "geoApprox": false
   },
   {
     "id": 464,
@@ -14844,9 +14844,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56426,
-    "lng": 126.96234,
-    "geoApprox": true
+    "lat": 37.5734543935233,
+    "lng": 127.006557824133,
+    "geoApprox": false
   },
   {
     "id": 465,
@@ -14876,9 +14876,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51408,
-    "lng": 126.94542,
-    "geoApprox": true
+    "lat": 37.5082493185794,
+    "lng": 126.943335302295,
+    "geoApprox": false
   },
   {
     "id": 466,
@@ -14908,9 +14908,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52444,
-    "lng": 126.93216,
-    "geoApprox": true
+    "lat": 37.5015776884476,
+    "lng": 126.951973560738,
+    "geoApprox": false
   },
   {
     "id": 467,
@@ -14940,9 +14940,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.66376,
-    "lng": 127.06274,
-    "geoApprox": true
+    "lat": 37.6567942017203,
+    "lng": 127.045665797854,
+    "geoApprox": false
   },
   {
     "id": 468,
@@ -14972,9 +14972,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58912,
-    "lng": 127.03268,
-    "geoApprox": true
+    "lat": 37.6048641989392,
+    "lng": 127.015721226023,
+    "geoApprox": false
   },
   {
     "id": 469,
@@ -15004,9 +15004,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.49378,
-    "lng": 127.03512,
-    "geoApprox": true
+    "lat": 37.5078602234885,
+    "lng": 127.011582043737,
+    "geoApprox": false
   },
   {
     "id": 470,
@@ -15036,9 +15036,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50944,
-    "lng": 126.85586,
-    "geoApprox": true
+    "lat": 37.5139128078247,
+    "lng": 126.832169591843,
+    "geoApprox": false
   },
   {
     "id": 471,
@@ -15068,8 +15068,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5538495,
-    "lng": 127.0340619,
+    "lat": 37.5538617325525,
+    "lng": 127.034055857783,
     "geoApprox": false
   },
   {
@@ -15100,9 +15100,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53598,
-    "lng": 127.12812,
-    "geoApprox": true
+    "lat": 37.5378495715068,
+    "lng": 127.142715361274,
+    "geoApprox": false
   },
   {
     "id": 473,
@@ -15132,8 +15132,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5389695,
-    "lng": 126.8668082,
+    "lat": 37.5396410684288,
+    "lng": 126.86784756595,
     "geoApprox": false
   },
   {
@@ -15164,9 +15164,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52288,
-    "lng": 126.87082,
-    "geoApprox": true
+    "lat": 37.5067310421678,
+    "lng": 126.864796603904,
+    "geoApprox": false
   },
   {
     "id": 475,
@@ -15196,9 +15196,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53592,
-    "lng": 126.89688,
-    "geoApprox": true
+    "lat": 37.5105473292025,
+    "lng": 126.901386465946,
+    "geoApprox": false
   },
   {
     "id": 476,
@@ -15228,8 +15228,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4988525,
-    "lng": 126.8384843,
+    "lat": 37.4999652512578,
+    "lng": 126.841353368958,
     "geoApprox": false
   },
   {
@@ -15260,9 +15260,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57608,
-    "lng": 127.04572,
-    "geoApprox": true
+    "lat": 37.5929409000658,
+    "lng": 127.059420443026,
+    "geoApprox": false
   },
   {
     "id": 478,
@@ -15292,8 +15292,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5215742,
-    "lng": 126.9389802,
+    "lat": 37.5215670500508,
+    "lng": 126.938985300887,
     "geoApprox": false
   },
   {
@@ -15324,8 +15324,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4538216,
-    "lng": 126.9195673,
+    "lat": 37.4522125872144,
+    "lng": 126.918245309403,
     "geoApprox": false
   },
   {
@@ -15356,9 +15356,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.494,
-    "lng": 126.8993,
-    "geoApprox": true
+    "lat": 37.4952260290266,
+    "lng": 126.817441288137,
+    "geoApprox": false
   },
   {
     "id": 481,
@@ -15388,9 +15388,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51716,
-    "lng": 126.93964,
-    "geoApprox": true
+    "lat": 37.5089639491646,
+    "lng": 126.92921971831,
+    "geoApprox": false
   },
   {
     "id": 482,
@@ -15420,8 +15420,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6427322,
-    "lng": 127.0641733,
+    "lat": 37.6429787995689,
+    "lng": 127.063230307894,
     "geoApprox": false
   },
   {
@@ -15452,8 +15452,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.62955,
-    "lng": 127.05417,
+    "lat": 37.6295499791392,
+    "lng": 127.05416967441,
     "geoApprox": false
   },
   {
@@ -15484,9 +15484,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.66316,
-    "lng": 127.05544,
-    "geoApprox": true
+    "lat": 37.6808384621835,
+    "lng": 127.0542198702,
+    "geoApprox": false
   },
   {
     "id": 485,
@@ -15516,9 +15516,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65592,
-    "lng": 127.03418,
-    "geoApprox": true
+    "lat": 37.6608821231494,
+    "lng": 127.047523339865,
+    "geoApprox": false
   },
   {
     "id": 486,
@@ -15548,9 +15548,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.66628,
-    "lng": 127.05492,
-    "geoApprox": true
+    "lat": 37.6591360455267,
+    "lng": 127.033557068172,
+    "geoApprox": false
   },
   {
     "id": 487,
@@ -15580,9 +15580,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60802,
-    "lng": 126.93148,
-    "geoApprox": true
+    "lat": 37.6081972739132,
+    "lng": 126.917359573492,
+    "geoApprox": false
   },
   {
     "id": 488,
@@ -15612,9 +15612,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60074,
-    "lng": 126.93896,
-    "geoApprox": true
+    "lat": 37.6135551596623,
+    "lng": 126.913551688374,
+    "geoApprox": false
   },
   {
     "id": 489,
@@ -15644,8 +15644,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5397201,
-    "lng": 126.954016,
+    "lat": 37.5399016047307,
+    "lng": 126.955738152741,
     "geoApprox": false
   },
   {
@@ -15676,9 +15676,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6298,
-    "lng": 127.041,
-    "geoApprox": true
+    "lat": 37.6423028216889,
+    "lng": 127.020988956763,
+    "geoApprox": false
   },
   {
     "id": 491,
@@ -15708,9 +15708,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5978,
-    "lng": 127.0133,
-    "geoApprox": true
+    "lat": 37.5832878743837,
+    "lng": 127.017057951549,
+    "geoApprox": false
   },
   {
     "id": 492,
@@ -15740,8 +15740,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5303548,
-    "lng": 127.0296135,
+    "lat": 37.5315341736395,
+    "lng": 127.029273123095,
     "geoApprox": false
   },
   {
@@ -15772,9 +15772,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51254,
-    "lng": 127.11576,
-    "geoApprox": true
+    "lat": 37.5147416618092,
+    "lng": 127.081636216984,
+    "geoApprox": false
   },
   {
     "id": 494,
@@ -15804,9 +15804,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5254,
-    "lng": 126.863,
-    "geoApprox": true
+    "lat": 37.5371981027922,
+    "lng": 126.823275879439,
+    "geoApprox": false
   },
   {
     "id": 495,
@@ -15836,8 +15836,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5620584,
-    "lng": 126.8569961,
+    "lat": 37.5618457999564,
+    "lng": 126.856800747299,
     "geoApprox": false
   },
   {
@@ -15868,9 +15868,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54388,
-    "lng": 126.98082,
-    "geoApprox": true
+    "lat": 37.5356738275449,
+    "lng": 126.964803669293,
+    "geoApprox": false
   },
   {
     "id": 497,
@@ -15900,8 +15900,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.518159,
-    "lng": 126.9851567,
+    "lat": 37.5191002810313,
+    "lng": 126.989737216338,
     "geoApprox": false
   },
   {
@@ -15932,8 +15932,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5547032,
-    "lng": 127.0146066,
+    "lat": 37.5551915990934,
+    "lng": 127.016359379417,
     "geoApprox": false
   },
   {
@@ -15964,8 +15964,8 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.477467,
-    "lng": 127.14151,
+    "lat": 37.4780197037471,
+    "lng": 127.140944323281,
     "geoApprox": false
   },
   {
@@ -15996,9 +15996,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5917,
-    "lng": 126.9317,
-    "geoApprox": true
+    "lat": 37.5774041447151,
+    "lng": 126.905665079312,
+    "geoApprox": false
   },
   {
     "id": 501,
@@ -16028,9 +16028,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52136,
-    "lng": 126.91184,
-    "geoApprox": true
+    "lat": 37.5287565489862,
+    "lng": 126.897107681069,
+    "geoApprox": false
   },
   {
     "id": 502,
@@ -16060,9 +16060,9 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
-    "lat": 37.56872,
-    "lng": 127.03928,
-    "geoApprox": true
+    "lat": 37.5607483738375,
+    "lng": 127.053786164972,
+    "geoApprox": false
   },
   {
     "id": 503,
@@ -16092,8 +16092,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4928465,
-    "lng": 126.8729844,
+    "lat": 37.4931918730561,
+    "lng": 126.873472709056,
     "geoApprox": false
   },
   {
@@ -16124,9 +16124,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52814,
-    "lng": 127.13356,
-    "geoApprox": true
+    "lat": 37.5523679459388,
+    "lng": 127.152621415299,
+    "geoApprox": false
   },
   {
     "id": 505,
@@ -16156,8 +16156,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.4745666,
-    "lng": 127.1082828,
+    "lat": 37.474558700755,
+    "lng": 127.108265007698,
     "geoApprox": false
   },
   {
@@ -16188,8 +16188,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6016036,
-    "lng": 127.0918016,
+    "lat": 37.6016299781509,
+    "lng": 127.091760454044,
     "geoApprox": false
   },
   {
@@ -16220,8 +16220,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5509206,
-    "lng": 127.072699,
+    "lat": 37.5517127888261,
+    "lng": 127.072672678034,
     "geoApprox": false
   },
   {
@@ -16252,8 +16252,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.617446,
-    "lng": 127.0114953,
+    "lat": 37.6176383628418,
+    "lng": 127.010599691076,
     "geoApprox": false
   },
   {
@@ -16284,9 +16284,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.63764,
-    "lng": 127.03556,
-    "geoApprox": true
+    "lat": 37.6346222824113,
+    "lng": 127.018874442135,
+    "geoApprox": false
   },
   {
     "id": 510,
@@ -16316,9 +16316,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64856,
-    "lng": 127.02434,
-    "geoApprox": true
+    "lat": 37.6440785176515,
+    "lng": 127.022265414258,
+    "geoApprox": false
   },
   {
     "id": 511,
@@ -16348,8 +16348,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6096884,
-    "lng": 127.0225672,
+    "lat": 37.6095384882498,
+    "lng": 127.02265060093,
     "geoApprox": false
   },
   {
@@ -16380,9 +16380,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5796,
-    "lng": 127.032,
-    "geoApprox": true
+    "lat": 37.5901562411963,
+    "lng": 127.00581347031,
+    "geoApprox": false
   },
   {
     "id": 513,
@@ -16412,8 +16412,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5940447,
-    "lng": 127.010565,
+    "lat": 37.5944725333435,
+    "lng": 127.012706037821,
     "geoApprox": false
   },
   {
@@ -16444,9 +16444,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54158,
-    "lng": 127.11452,
-    "geoApprox": true
+    "lat": 37.5259478182975,
+    "lng": 127.133775202692,
+    "geoApprox": false
   },
   {
     "id": 515,
@@ -16476,9 +16476,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.46916,
-    "lng": 126.93494,
-    "geoApprox": true
+    "lat": 37.4605886655784,
+    "lng": 126.920617398646,
+    "geoApprox": false
   },
   {
     "id": 516,
@@ -16508,9 +16508,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56452,
-    "lng": 127.04098,
-    "geoApprox": true
+    "lat": 37.5541592708709,
+    "lng": 127.069526172922,
+    "geoApprox": false
   },
   {
     "id": 517,
@@ -16540,9 +16540,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.61418,
-    "lng": 126.91992,
-    "geoApprox": true
+    "lat": 37.5851721490482,
+    "lng": 126.896012135221,
+    "geoApprox": false
   },
   {
     "id": 518,
@@ -16572,8 +16572,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.556664,
-    "lng": 127.142738,
+    "lat": 37.5551667468122,
+    "lng": 127.143838799591,
     "geoApprox": false
   },
   {
@@ -16604,9 +16604,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4963,
-    "lng": 127.0273,
-    "geoApprox": true
+    "lat": 37.510431872668484,
+    "lng": 127.01245289991346,
+    "geoApprox": false
   },
   {
     "id": 520,
@@ -16636,9 +16636,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53346,
-    "lng": 127.09794,
-    "geoApprox": true
+    "lat": 37.5662004471744,
+    "lng": 127.080470232908,
+    "geoApprox": false
   },
   {
     "id": 521,
@@ -16668,9 +16668,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.48902,
-    "lng": 127.03478,
-    "geoApprox": true
+    "lat": 37.5050047962103,
+    "lng": 126.995677426153,
+    "geoApprox": false
   },
   {
     "id": 522,
@@ -16700,9 +16700,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55108,
-    "lng": 127.02602,
-    "geoApprox": true
+    "lat": 37.5536553245533,
+    "lng": 127.038424603364,
+    "geoApprox": false
   },
   {
     "id": 523,
@@ -16732,9 +16732,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.47644,
-    "lng": 126.96146,
-    "geoApprox": true
+    "lat": 37.4890917715771,
+    "lng": 126.960111629303,
+    "geoApprox": false
   },
   {
     "id": 524,
@@ -16764,9 +16764,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58184,
-    "lng": 127.00616,
-    "geoApprox": true
+    "lat": 37.6163026751226,
+    "lng": 127.010290966169,
+    "geoApprox": false
   },
   {
     "id": 525,
@@ -16796,9 +16796,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64548,
-    "lng": 127.03012,
-    "geoApprox": true
+    "lat": 37.6238849781413,
+    "lng": 127.02971619019,
+    "geoApprox": false
   },
   {
     "id": 526,
@@ -16828,8 +16828,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5442441,
-    "lng": 127.0634367,
+    "lat": 37.5443378762671,
+    "lng": 127.062886077541,
     "geoApprox": false
   },
   {
@@ -16860,8 +16860,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.5431351,
-    "lng": 126.8293912,
+    "lat": 37.5421368264529,
+    "lng": 126.829581447367,
     "geoApprox": false
   },
   {
@@ -16892,9 +16892,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.61222,
-    "lng": 126.92978,
-    "geoApprox": true
+    "lat": 37.6260599638981,
+    "lng": 126.927751281025,
+    "geoApprox": false
   },
   {
     "id": 529,
@@ -16924,9 +16924,9 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.48728,
-    "lng": 126.87482,
-    "geoApprox": true
+    "lat": 37.4850989739589,
+    "lng": 126.843015236504,
+    "geoApprox": false
   },
   {
     "id": 530,
@@ -16956,9 +16956,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.48846,
-    "lng": 127.03274,
-    "geoApprox": true
+    "lat": 37.4864130094498,
+    "lng": 127.00557442153,
+    "geoApprox": false
   },
   {
     "id": 531,
@@ -16988,8 +16988,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4962661,
-    "lng": 127.0184385,
+    "lat": 37.4959475181655,
+    "lng": 127.018985138118,
     "geoApprox": false
   },
   {
@@ -17020,9 +17020,9 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.48064,
-    "lng": 126.95976,
-    "geoApprox": true
+    "lat": 37.4832732140812,
+    "lng": 126.95820924848,
+    "geoApprox": false
   },
   {
     "id": 533,
@@ -17052,8 +17052,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.519727,
-    "lng": 126.9373758,
+    "lat": 37.5213527337159,
+    "lng": 126.937326091368,
     "geoApprox": false
   },
   {
@@ -17084,9 +17084,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52982,
-    "lng": 127.06768,
-    "geoApprox": true
+    "lat": 37.5549008051683,
+    "lng": 127.096099086136,
+    "geoApprox": false
   },
   {
     "id": 535,
@@ -17116,9 +17116,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60378,
-    "lng": 127.10052,
-    "geoApprox": true
+    "lat": 37.6049361853383,
+    "lng": 127.079159983773,
+    "geoApprox": false
   },
   {
     "id": 536,
@@ -17148,9 +17148,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58224,
-    "lng": 127.03416,
-    "geoApprox": true
+    "lat": 37.5830669346508,
+    "lng": 127.034777091582,
+    "geoApprox": false
   },
   {
     "id": 537,
@@ -17180,9 +17180,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5965,
-    "lng": 127.108,
-    "geoApprox": true
+    "lat": 37.5976262324928,
+    "lng": 127.075925658557,
+    "geoApprox": false
   },
   {
     "id": 538,
@@ -17212,9 +17212,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5089,
-    "lng": 127.1195,
-    "geoApprox": true
+    "lat": 37.5364663628306,
+    "lng": 127.115699114303,
+    "geoApprox": false
   },
   {
     "id": 539,
@@ -17244,9 +17244,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51926,
-    "lng": 127.10624,
-    "geoApprox": true
+    "lat": 37.5069150122742,
+    "lng": 127.10212186823,
+    "geoApprox": false
   },
   {
     "id": 540,
@@ -17276,8 +17276,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5498645,
-    "lng": 126.8397406,
+    "lat": 37.5482625768732,
+    "lng": 126.840980606494,
     "geoApprox": false
   },
   {
@@ -17308,8 +17308,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5173532,
-    "lng": 127.1336159,
+    "lat": 37.5166909917264,
+    "lng": 127.137712375583,
     "geoApprox": false
   },
   {
@@ -17372,9 +17372,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.67832,
-    "lng": 127.04778,
-    "geoApprox": true
+    "lat": 37.6654284537118,
+    "lng": 127.046670747044,
+    "geoApprox": false
   },
   {
     "id": 544,
@@ -17436,9 +17436,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59416,
-    "lng": 127.01704,
-    "geoApprox": true
+    "lat": 37.6136049157335,
+    "lng": 127.016752046083,
+    "geoApprox": false
   },
   {
     "id": 546,
@@ -17468,9 +17468,9 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
-    "lat": 37.57652,
-    "lng": 127.00378,
-    "geoApprox": true
+    "lat": 37.5871415236472,
+    "lng": 127.012671844176,
+    "geoApprox": false
   },
   {
     "id": 547,
@@ -17500,9 +17500,9 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.58688,
-    "lng": 127.02452,
-    "geoApprox": true
+    "lat": 37.5940538893567,
+    "lng": 126.99877539809,
+    "geoApprox": false
   },
   {
     "id": 548,
@@ -17532,9 +17532,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59724,
-    "lng": 127.01126,
-    "geoApprox": true
+    "lat": 37.6086454014288,
+    "lng": 127.032743405553,
+    "geoApprox": false
   },
   {
     "id": 549,
@@ -17564,9 +17564,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53464,
-    "lng": 126.99816,
-    "geoApprox": true
+    "lat": 37.5358604644777,
+    "lng": 126.952781493004,
+    "geoApprox": false
   },
   {
     "id": 550,
@@ -17596,9 +17596,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.545,
-    "lng": 126.9849,
-    "geoApprox": true
+    "lat": 37.5207145099438,
+    "lng": 126.977855796455,
+    "geoApprox": false
   },
   {
     "id": 551,
@@ -17628,8 +17628,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5585609,
-    "lng": 127.0292869,
+    "lat": 37.5582053468995,
+    "lng": 127.027507006183,
     "geoApprox": false
   },
   {
@@ -17660,8 +17660,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.570069,
-    "lng": 127.05986,
+    "lat": 37.570069317441,
+    "lng": 127.059860257139,
     "geoApprox": false
   },
   {
@@ -17692,9 +17692,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65952,
-    "lng": 127.05918,
-    "geoApprox": true
+    "lat": 37.622176119269,
+    "lng": 127.059060497241,
+    "geoApprox": false
   },
   {
     "id": 554,
@@ -17724,9 +17724,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64188,
-    "lng": 127.04592,
-    "geoApprox": true
+    "lat": 37.6389456218063,
+    "lng": 127.070710119823,
+    "geoApprox": false
   },
   {
     "id": 555,
@@ -17756,9 +17756,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65224,
-    "lng": 127.06666,
-    "geoApprox": true
+    "lat": 37.628054057801,
+    "lng": 127.068573811877,
+    "geoApprox": false
   },
   {
     "id": 556,
@@ -17788,8 +17788,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5915868,
-    "lng": 126.9167567,
+    "lat": 37.5916295214996,
+    "lng": 126.916751405587,
     "geoApprox": false
   },
   {
@@ -17820,9 +17820,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60858,
-    "lng": 126.93352,
-    "geoApprox": true
+    "lat": 37.6023040358796,
+    "lng": 126.934033612153,
+    "geoApprox": false
   },
   {
     "id": 558,
@@ -17852,9 +17852,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55454,
-    "lng": 126.89306,
-    "geoApprox": true
+    "lat": 37.5549178201995,
+    "lng": 126.939295148137,
+    "geoApprox": false
   },
   {
     "id": 559,
@@ -17884,9 +17884,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.5777,
-    "lng": 126.9487,
-    "geoApprox": true
+    "lat": 37.5934809108736,
+    "lng": 126.945336524574,
+    "geoApprox": false
   },
   {
     "id": 560,
@@ -17916,9 +17916,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55818,
-    "lng": 126.88932,
-    "geoApprox": true
+    "lat": 37.5463557800484,
+    "lng": 126.937332888574,
+    "geoApprox": false
   },
   {
     "id": 561,
@@ -17948,9 +17948,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52618,
-    "lng": 127.07142,
-    "geoApprox": true
+    "lat": 37.533843780784,
+    "lng": 127.068342525785,
+    "geoApprox": false
   },
   {
     "id": 562,
@@ -17980,8 +17980,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.504589,
-    "lng": 127.139366,
+    "lat": 37.5050261154817,
+    "lng": 127.140946785902,
     "geoApprox": false
   },
   {
@@ -18012,9 +18012,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55164,
-    "lng": 127.02806,
-    "geoApprox": true
+    "lat": 37.557200803801,
+    "lng": 127.030175893046,
+    "geoApprox": false
   },
   {
     "id": 564,
@@ -18044,9 +18044,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6626,
-    "lng": 127.0534,
-    "geoApprox": true
+    "lat": 37.6318155292192,
+    "lng": 127.052326972987,
+    "geoApprox": false
   },
   {
     "id": 565,
@@ -18076,9 +18076,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54166,
-    "lng": 126.83284,
-    "geoApprox": true
+    "lat": 37.5501139627052,
+    "lng": 126.849164287717,
+    "geoApprox": false
   },
   {
     "id": 566,
@@ -18108,8 +18108,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5461772,
-    "lng": 126.8783393,
+    "lat": 37.545529399482,
+    "lng": 126.87809576336,
     "geoApprox": false
   },
   {
@@ -18140,8 +18140,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4934517,
-    "lng": 126.9109256,
+    "lat": 37.4910969139998,
+    "lng": 126.911813692107,
     "geoApprox": false
   },
   {
@@ -18172,9 +18172,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51828,
-    "lng": 126.94372,
-    "geoApprox": true
+    "lat": 37.4887047110087,
+    "lng": 126.964679741398,
+    "geoApprox": false
   },
   {
     "id": 569,
@@ -18204,8 +18204,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.4627745,
-    "lng": 126.9323913,
+    "lat": 37.4632725256816,
+    "lng": 126.932535154048,
     "geoApprox": false
   },
   {
@@ -18236,9 +18236,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.5158,
-    "lng": 127.0592,
-    "geoApprox": true
+    "lat": 37.5084895751287,
+    "lng": 127.026222910697,
+    "geoApprox": false
   },
   {
     "id": 571,
@@ -18268,9 +18268,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57526,
-    "lng": 126.90054,
-    "geoApprox": true
+    "lat": 37.5858060895514,
+    "lng": 126.880857196502,
+    "geoApprox": false
   },
   {
     "id": 572,
@@ -18300,9 +18300,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52372,
-    "lng": 126.97538,
-    "geoApprox": true
+    "lat": 37.5473049014312,
+    "lng": 126.963543924367,
+    "geoApprox": false
   },
   {
     "id": 573,
@@ -18332,9 +18332,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5718,
-    "lng": 127.0335,
-    "geoApprox": true
+    "lat": 37.5614602434531,
+    "lng": 127.030618116962,
+    "geoApprox": false
   },
   {
     "id": 574,
@@ -18364,9 +18364,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52086,
-    "lng": 127.10704,
-    "geoApprox": true
+    "lat": 37.5482605914235,
+    "lng": 127.15378404481,
+    "geoApprox": false
   },
   {
     "id": 575,
@@ -18396,8 +18396,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5149565,
-    "lng": 126.8724087,
+    "lat": 37.5149990018814,
+    "lng": 126.871236888208,
     "geoApprox": false
   },
   {
@@ -18428,9 +18428,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5254,
-    "lng": 126.863,
-    "geoApprox": true
+    "lat": 37.519409300743,
+    "lng": 126.841039369112,
+    "geoApprox": false
   },
   {
     "id": 577,
@@ -18460,9 +18460,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53424,
-    "lng": 126.89076,
-    "geoApprox": true
+    "lat": 37.4962984005085,
+    "lng": 126.906963735994,
+    "geoApprox": false
   },
   {
     "id": 578,
@@ -18492,8 +18492,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4899132,
-    "lng": 126.827403,
+    "lat": 37.4904619105388,
+    "lng": 126.828533564595,
     "geoApprox": false
   },
   {
@@ -18524,8 +18524,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4926822,
-    "lng": 126.8770747,
+    "lat": 37.4932672296102,
+    "lng": 126.87786990054,
     "geoApprox": false
   },
   {
@@ -18556,9 +18556,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5688,
-    "lng": 127.0532,
-    "geoApprox": true
+    "lat": 37.5904911969788,
+    "lng": 127.041496116551,
+    "geoApprox": false
   },
   {
     "id": 581,
@@ -18588,8 +18588,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5034666,
-    "lng": 126.9497408,
+    "lat": 37.5034943416461,
+    "lng": 126.949674358162,
     "geoApprox": false
   },
   {
@@ -18620,8 +18620,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5124525,
-    "lng": 126.9558452,
+    "lat": 37.5121632696688,
+    "lng": 126.955751258081,
     "geoApprox": false
   },
   {
@@ -18652,8 +18652,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5141068,
-    "lng": 126.9164007,
+    "lat": 37.5146985679608,
+    "lng": 126.916649621137,
     "geoApprox": false
   },
   {
@@ -18684,9 +18684,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52444,
-    "lng": 126.90606,
-    "geoApprox": true
+    "lat": 37.5253028912203,
+    "lng": 126.890075765077,
+    "geoApprox": false
   },
   {
     "id": 585,
@@ -18716,9 +18716,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5348,
-    "lng": 126.8928,
-    "geoApprox": true
+    "lat": 37.5310732454667,
+    "lng": 126.905233241408,
+    "geoApprox": false
   },
   {
     "id": 586,
@@ -18748,9 +18748,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.48316,
-    "lng": 126.95194,
-    "geoApprox": true
+    "lat": 37.4721359860647,
+    "lng": 126.92016125032,
+    "geoApprox": false
   },
   {
     "id": 587,
@@ -18780,9 +18780,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.46552,
-    "lng": 126.93868,
-    "geoApprox": true
+    "lat": 37.473813927863,
+    "lng": 126.920281107455,
+    "geoApprox": false
   },
   {
     "id": 588,
@@ -18812,9 +18812,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65784,
-    "lng": 127.05306,
-    "geoApprox": true
+    "lat": 37.6628823049142,
+    "lng": 127.062234187186,
+    "geoApprox": false
   },
   {
     "id": 589,
@@ -18844,9 +18844,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59906,
-    "lng": 126.93284,
-    "geoApprox": true
+    "lat": 37.5922940508202,
+    "lng": 126.907382316218,
+    "geoApprox": false
   },
   {
     "id": 590,
@@ -18876,9 +18876,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
-    "lat": 37.52372,
-    "lng": 126.85688,
-    "geoApprox": true
+    "lat": 37.5129972017178,
+    "lng": 126.845159735242,
+    "geoApprox": false
   },
   {
     "id": 591,
@@ -18908,8 +18908,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5294617,
-    "lng": 127.1191282,
+    "lat": 37.5301130130253,
+    "lng": 127.119355326822,
     "geoApprox": false
   },
   {
@@ -18940,8 +18940,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6031463,
-    "lng": 126.9375086,
+    "lat": 37.6031576200927,
+    "lng": 126.937484017426,
     "geoApprox": false
   },
   {
@@ -18972,9 +18972,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.49266,
-    "lng": 127.03104,
-    "geoApprox": true
+    "lat": 37.4747885614999,
+    "lng": 127.032081902108,
+    "geoApprox": false
   },
   {
     "id": 594,
@@ -19004,9 +19004,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54166,
-    "lng": 126.83284,
-    "geoApprox": true
+    "lat": 37.5705131330708,
+    "lng": 126.822944312857,
+    "geoApprox": false
   },
   {
     "id": 595,
@@ -19036,8 +19036,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5216907,
-    "lng": 126.8774319,
+    "lat": 37.5221332556567,
+    "lng": 126.87778960592,
     "geoApprox": false
   },
   {
@@ -19068,9 +19068,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56238,
-    "lng": 126.84032,
-    "geoApprox": true
+    "lat": 37.5554678551744,
+    "lng": 126.859373385283,
+    "geoApprox": false
   },
   {
     "id": 597,
@@ -19100,9 +19100,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5725,
-    "lng": 126.9945,
-    "geoApprox": true
+    "lat": 37.5553907163477,
+    "lng": 127.011863048832,
+    "geoApprox": false
   },
   {
     "id": 598,
@@ -19132,9 +19132,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56482,
-    "lng": 126.96438,
-    "geoApprox": true
+    "lat": 37.614371962767,
+    "lng": 126.977501177364,
+    "geoApprox": false
   },
   {
     "id": 599,
@@ -19164,9 +19164,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56578,
-    "lng": 127.00402,
-    "geoApprox": true
+    "lat": 37.5631846707305,
+    "lng": 127.020080840907,
+    "geoApprox": false
   },
   {
     "id": 600,
@@ -19196,9 +19196,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58016,
-    "lng": 127.00004,
-    "geoApprox": true
+    "lat": 37.607129288632,
+    "lng": 127.016375844082,
+    "geoApprox": false
   },
   {
     "id": 601,
@@ -19228,9 +19228,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.49708,
-    "lng": 126.89352,
-    "geoApprox": true
+    "lat": 37.486732301772,
+    "lng": 126.831363625175,
+    "geoApprox": false
   },
   {
     "id": 602,
@@ -19260,9 +19260,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5427,
-    "lng": 127.0806,
-    "geoApprox": true
+    "lat": 37.5302454529249,
+    "lng": 127.075587591515,
+    "geoApprox": false
   },
   {
     "id": 603,
@@ -19292,8 +19292,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5584964,
-    "lng": 127.0496305,
+    "lat": 37.5579175887117,
+    "lng": 127.049321897316,
     "geoApprox": false
   },
   {
@@ -19324,9 +19324,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59304,
-    "lng": 127.01296,
-    "geoApprox": true
+    "lat": 37.5940018148764,
+    "lng": 126.995299185127,
+    "geoApprox": false
   },
   {
     "id": 605,
@@ -19356,9 +19356,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51618,
-    "lng": 127.11202,
-    "geoApprox": true
+    "lat": 37.494336341692,
+    "lng": 127.135220740669,
+    "geoApprox": false
   },
   {
     "id": 606,
@@ -19388,8 +19388,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5072697,
-    "lng": 127.1155821,
+    "lat": 37.506960189807,
+    "lng": 127.115390716517,
     "geoApprox": false
   },
   {
@@ -19420,8 +19420,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6443474,
-    "lng": 126.9248333,
+    "lat": 37.6443853569228,
+    "lng": 126.924840779073,
     "geoApprox": false
   },
   {
@@ -19452,8 +19452,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5955566,
-    "lng": 127.0116847,
+    "lat": 37.5956408923336,
+    "lng": 127.011400646113,
     "geoApprox": false
   },
   {
@@ -19484,8 +19484,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5523739,
-    "lng": 126.8230239,
+    "lat": 37.5523853414736,
+    "lng": 126.822984263849,
     "geoApprox": false
   },
   {
@@ -19516,8 +19516,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.496044,
-    "lng": 126.9817955,
+    "lat": 37.49604395865,
+    "lng": 126.981795453933,
     "geoApprox": false
   },
   {
@@ -19548,9 +19548,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.61166,
-    "lng": 126.92774,
-    "geoApprox": true
+    "lat": 37.6213492886599,
+    "lng": 126.929917884841,
+    "geoApprox": false
   },
   {
     "id": 612,
@@ -19580,9 +19580,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56088,
-    "lng": 127.04472,
-    "geoApprox": true
+    "lat": 37.5404366739206,
+    "lng": 127.058066769768,
+    "geoApprox": false
   },
   {
     "id": 613,
@@ -19612,9 +19612,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53424,
-    "lng": 126.89076,
-    "geoApprox": true
+    "lat": 37.52628923031,
+    "lng": 126.889413529916,
+    "geoApprox": false
   },
   {
     "id": 614,
@@ -19644,9 +19644,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65896,
-    "lng": 127.05714,
-    "geoApprox": true
+    "lat": 37.6337376799395,
+    "lng": 127.072455545557,
+    "geoApprox": false
   },
   {
     "id": 615,
@@ -19676,8 +19676,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6681449,
-    "lng": 127.0544689,
+    "lat": 37.6701880464645,
+    "lng": 127.054677638301,
     "geoApprox": false
   },
   {
@@ -19708,8 +19708,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.4670974,
-    "lng": 126.891004,
+    "lat": 37.467546675265,
+    "lng": 126.890946472913,
     "geoApprox": false
   },
   {
@@ -19740,9 +19740,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.53004,
-    "lng": 126.89246,
-    "geoApprox": true
+    "lat": 37.5241432995791,
+    "lng": 126.903695688306,
+    "geoApprox": false
   },
   {
     "id": 618,
@@ -19772,8 +19772,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5661074,
-    "lng": 127.0782003,
+    "lat": 37.5661151011377,
+    "lng": 127.078223556542,
     "geoApprox": false
   },
   {
@@ -19804,9 +19804,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
-    "lat": 37.59286,
-    "lng": 127.07774,
-    "geoApprox": true
+    "lat": 37.604668339535,
+    "lng": 127.104292115551,
+    "geoApprox": false
   },
   {
     "id": 620,
@@ -19836,8 +19836,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5735258,
-    "lng": 127.0733051,
+    "lat": 37.5739950231496,
+    "lng": 127.073890977298,
     "geoApprox": false
   },
   {
@@ -19868,9 +19868,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.67608,
-    "lng": 127.03962,
-    "geoApprox": true
+    "lat": 37.6478754755732,
+    "lng": 127.04834926484,
+    "geoApprox": false
   },
   {
     "id": 622,
@@ -19900,8 +19900,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5846992,
-    "lng": 126.9182457,
+    "lat": 37.584579666194,
+    "lng": 126.918110733219,
     "geoApprox": false
   },
   {
@@ -19932,9 +19932,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50834,
-    "lng": 127.11746,
-    "geoApprox": true
+    "lat": 37.5288167759148,
+    "lng": 127.115424150571,
+    "geoApprox": false
   },
   {
     "id": 624,
@@ -19964,9 +19964,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50106,
-    "lng": 127.09094,
-    "geoApprox": true
+    "lat": 37.5048485219584,
+    "lng": 127.117385322638,
+    "geoApprox": false
   },
   {
     "id": 625,
@@ -19996,9 +19996,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58436,
-    "lng": 127.03234,
-    "geoApprox": true
+    "lat": 37.6090646447836,
+    "lng": 127.01679961391,
+    "geoApprox": false
   },
   {
     "id": 626,
@@ -20028,9 +20028,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53172,
-    "lng": 126.89858,
-    "geoApprox": true
+    "lat": 37.4937093653318,
+    "lng": 126.900450594121,
+    "geoApprox": false
   },
   {
     "id": 627,
@@ -20060,9 +20060,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52542,
-    "lng": 127.09468,
-    "geoApprox": true
+    "lat": 37.4930325164173,
+    "lng": 127.131611734241,
+    "geoApprox": false
   },
   {
     "id": 628,
@@ -20092,8 +20092,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5967857,
-    "lng": 127.0716638,
+    "lat": 37.5864831132149,
+    "lng": 127.075805081355,
     "geoApprox": false
   },
   {
@@ -20124,8 +20124,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.613337,
-    "lng": 126.9107299,
+    "lat": 37.6133370098557,
+    "lng": 126.910740576446,
     "geoApprox": false
   },
   {
@@ -20156,9 +20156,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54326,
-    "lng": 127.08264,
-    "geoApprox": true
+    "lat": 37.5351721266039,
+    "lng": 127.071536511547,
+    "geoApprox": false
   },
   {
     "id": 631,
@@ -20188,9 +20188,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57652,
-    "lng": 127.00378,
-    "geoApprox": true
+    "lat": 37.5982399496277,
+    "lng": 127.013421324355,
+    "geoApprox": false
   },
   {
     "id": 632,
@@ -20220,9 +20220,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59052,
-    "lng": 127.02078,
-    "geoApprox": true
+    "lat": 37.5999936643195,
+    "lng": 127.032341911923,
+    "geoApprox": false
   },
   {
     "id": 633,
@@ -20252,9 +20252,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60088,
-    "lng": 127.00752,
-    "geoApprox": true
+    "lat": 37.6141265933776,
+    "lng": 127.040501439425,
+    "geoApprox": false
   },
   {
     "id": 634,
@@ -20284,8 +20284,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6321586,
-    "lng": 127.0383543,
+    "lat": 37.6321585880638,
+    "lng": 127.038354303221,
     "geoApprox": false
   },
   {
@@ -20316,8 +20316,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5662418,
-    "lng": 126.8555628,
+    "lat": 37.564612123403,
+    "lng": 126.856278639847,
     "geoApprox": false
   },
   {
@@ -20348,8 +20348,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5354014,
-    "lng": 126.884796,
+    "lat": 37.5352056837361,
+    "lng": 126.884393234385,
     "geoApprox": false
   },
   {
@@ -20380,8 +20380,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5425481,
-    "lng": 126.881662,
+    "lat": 37.541627815078,
+    "lng": 126.882642695623,
     "geoApprox": false
   },
   {
@@ -20412,8 +20412,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5480879,
-    "lng": 126.8325842,
+    "lat": 37.5481092045563,
+    "lng": 126.832556463328,
     "geoApprox": false
   },
   {
@@ -20444,9 +20444,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4898,
-    "lng": 126.901,
-    "geoApprox": true
+    "lat": 37.4849753666473,
+    "lng": 126.88931808216,
+    "geoApprox": false
   },
   {
     "id": 640,
@@ -20476,9 +20476,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.49232,
-    "lng": 126.89318,
-    "geoApprox": true
+    "lat": 37.4912054930086,
+    "lng": 126.842026722372,
+    "geoApprox": false
   },
   {
     "id": 641,
@@ -20508,8 +20508,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.456841,
-    "lng": 126.888344,
+    "lat": 37.4553912730949,
+    "lng": 126.888877618767,
     "geoApprox": false
   },
   {
@@ -20540,8 +20540,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5945552,
-    "lng": 127.0643438,
+    "lat": 37.5945383139746,
+    "lng": 127.064317773941,
     "geoApprox": false
   },
   {
@@ -20572,9 +20572,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65592,
-    "lng": 127.03418,
-    "geoApprox": true
+    "lat": 37.6535964253192,
+    "lng": 127.039179546469,
+    "geoApprox": false
   },
   {
     "id": 644,
@@ -20604,9 +20604,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56742,
-    "lng": 126.90598,
-    "geoApprox": true
+    "lat": 37.5694358031023,
+    "lng": 126.903282651395,
+    "geoApprox": false
   },
   {
     "id": 645,
@@ -20636,8 +20636,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.529435,
-    "lng": 127.1463466,
+    "lat": 37.5297601213047,
+    "lng": 127.145594039357,
     "geoApprox": false
   },
   {
@@ -20668,9 +20668,9 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
-    "lat": 37.50162,
-    "lng": 127.09298,
-    "geoApprox": true
+    "lat": 37.5185748448001,
+    "lng": 127.134157724554,
+    "geoApprox": false
   },
   {
     "id": 647,
@@ -20700,9 +20700,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5718,
-    "lng": 127.0335,
-    "geoApprox": true
+    "lat": 37.5652516646835,
+    "lng": 127.046526343559,
+    "geoApprox": false
   },
   {
     "id": 648,
@@ -20732,9 +20732,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55416,
-    "lng": 127.02024,
-    "geoApprox": true
+    "lat": 37.5691096001774,
+    "lng": 127.032672663162,
+    "geoApprox": false
   },
   {
     "id": 649,
@@ -20764,9 +20764,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51562,
-    "lng": 127.10998,
-    "geoApprox": true
+    "lat": 37.4921672826521,
+    "lng": 127.126326771911,
+    "geoApprox": false
   },
   {
     "id": 650,
@@ -20796,8 +20796,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.641896,
-    "lng": 127.110506,
+    "lat": 37.643357369067,
+    "lng": 127.108850343184,
     "geoApprox": false
   },
   {
@@ -20828,8 +20828,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.625317,
-    "lng": 127.088135,
+    "lat": 37.6273815936787,
+    "lng": 127.091621159803,
     "geoApprox": false
   },
   {
@@ -20860,8 +20860,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4654862,
-    "lng": 126.9269893,
+    "lat": 37.4655088003601,
+    "lng": 126.927016908496,
     "geoApprox": false
   },
   {
@@ -20892,9 +20892,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5124,
-    "lng": 126.9393,
-    "geoApprox": true
+    "lat": 37.4975768878269,
+    "lng": 126.944623500398,
+    "geoApprox": false
   },
   {
     "id": 654,
@@ -20924,8 +20924,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
-    "lat": 37.4694693,
-    "lng": 126.9168376,
+    "lat": 37.4691282036291,
+    "lng": 126.916341558815,
     "geoApprox": false
   },
   {
@@ -20956,8 +20956,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5463387,
-    "lng": 126.8704252,
+    "lat": 37.5463772180659,
+    "lng": 126.870213610524,
     "geoApprox": false
   },
   {
@@ -20988,8 +20988,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5795737,
-    "lng": 126.8122128,
+    "lat": 37.5794087000437,
+    "lng": 126.81259277311,
     "geoApprox": false
   },
   {
@@ -21020,8 +21020,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4519957,
-    "lng": 126.9166882,
+    "lat": 37.4519206711218,
+    "lng": 126.915824008297,
     "geoApprox": false
   },
   {
@@ -21052,8 +21052,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4480466,
-    "lng": 126.8990753,
+    "lat": 37.4506582868917,
+    "lng": 126.89895393993,
     "geoApprox": false
   },
   {
@@ -21084,9 +21084,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50576,
-    "lng": 126.87414,
-    "geoApprox": true
+    "lat": 37.4916861610208,
+    "lng": 126.842823128873,
+    "geoApprox": false
   },
   {
     "id": 660,
@@ -21116,8 +21116,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6058972,
-    "lng": 127.0942704,
+    "lat": 37.6059761741832,
+    "lng": 127.09472455776,
     "geoApprox": false
   },
   {
@@ -21148,8 +21148,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.597383,
-    "lng": 127.080935,
+    "lat": 37.5970090851956,
+    "lng": 127.082070702444,
     "geoApprox": false
   },
   {
@@ -21212,9 +21212,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50932,
-    "lng": 126.94508,
-    "geoApprox": true
+    "lat": 37.5082713465255,
+    "lng": 126.967258187125,
+    "geoApprox": false
   },
   {
     "id": 664,
@@ -21244,9 +21244,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50372,
-    "lng": 126.92468,
-    "geoApprox": true
+    "lat": 37.498671886682,
+    "lng": 126.937077373861,
+    "geoApprox": false
   },
   {
     "id": 665,
@@ -21276,8 +21276,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4946598,
-    "lng": 126.9122035,
+    "lat": 37.4952734394062,
+    "lng": 126.911690497183,
     "geoApprox": false
   },
   {
@@ -21308,9 +21308,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64496,
-    "lng": 127.04014,
-    "geoApprox": true
+    "lat": 37.6724726102572,
+    "lng": 127.054005443807,
+    "geoApprox": false
   },
   {
     "id": 667,
@@ -21340,8 +21340,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6299996,
-    "lng": 127.0697483,
+    "lat": 37.6295747035271,
+    "lng": 127.069868704519,
     "geoApprox": false
   },
   {
@@ -21372,8 +21372,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6564444,
-    "lng": 127.0777144,
+    "lat": 37.6564417332028,
+    "lng": 127.077718270787,
     "geoApprox": false
   },
   {
@@ -21404,9 +21404,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6626,
-    "lng": 127.0534,
-    "geoApprox": true
+    "lat": 37.6498141709473,
+    "lng": 127.085192624195,
+    "geoApprox": false
   },
   {
     "id": 670,
@@ -21436,8 +21436,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65985,
-    "lng": 127.027476,
+    "lat": 37.6598465152087,
+    "lng": 127.027458332065,
     "geoApprox": false
   },
   {
@@ -21468,9 +21468,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5971,
-    "lng": 126.9427,
-    "geoApprox": true
+    "lat": 37.6154248414493,
+    "lng": 126.926219820178,
+    "geoApprox": false
   },
   {
     "id": 672,
@@ -21500,9 +21500,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55342,
-    "lng": 126.88898,
-    "geoApprox": true
+    "lat": 37.5560871299196,
+    "lng": 126.916048197797,
+    "geoApprox": false
   },
   {
     "id": 673,
@@ -21532,8 +21532,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5862221,
-    "lng": 127.0393773,
+    "lat": 37.586120384461,
+    "lng": 127.039414975087,
     "geoApprox": false
   },
   {
@@ -21564,9 +21564,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55202,
-    "lng": 126.85358,
-    "geoApprox": true
+    "lat": 37.5407120318703,
+    "lng": 126.847470802939,
+    "geoApprox": false
   },
   {
     "id": 675,
@@ -21596,9 +21596,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58588,
-    "lng": 127.03042,
-    "geoApprox": true
+    "lat": 37.5856764110055,
+    "lng": 127.070041638322,
+    "geoApprox": false
   },
   {
     "id": 676,
@@ -21628,8 +21628,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4901934,
-    "lng": 127.1312482,
+    "lat": 37.4892043157404,
+    "lng": 127.130231968818,
     "geoApprox": false
   },
   {
@@ -21660,9 +21660,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.4963,
-    "lng": 127.0273,
-    "geoApprox": true
+    "lat": 37.4964040023549,
+    "lng": 126.990156472861,
+    "geoApprox": false
   },
   {
     "id": 678,
@@ -21692,9 +21692,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.47866,
-    "lng": 127.04804,
-    "geoApprox": true
+    "lat": 37.5049534859631,
+    "lng": 126.994628453576,
+    "geoApprox": false
   },
   {
     "id": 679,
@@ -21724,9 +21724,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.51002,
-    "lng": 127.08958,
-    "geoApprox": true
+    "lat": 37.5141697474146,
+    "lng": 127.08797670792,
+    "geoApprox": false
   },
   {
     "id": 680,
@@ -21756,9 +21756,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53464,
-    "lng": 126.99816,
-    "geoApprox": true
+    "lat": 37.5520046977388,
+    "lng": 126.978181180222,
+    "geoApprox": false
   },
   {
     "id": 681,
@@ -21788,9 +21788,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5861,
-    "lng": 126.9739,
-    "geoApprox": true
+    "lat": 37.5813606333694,
+    "lng": 127.013724533725,
+    "geoApprox": false
   },
   {
     "id": 682,
@@ -21820,8 +21820,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5754056,
-    "lng": 126.9700268,
+    "lat": 37.5754120540877,
+    "lng": 126.970019620639,
     "geoApprox": false
   },
   {
@@ -21852,8 +21852,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5568873,
-    "lng": 126.9788381,
+    "lat": 37.556705153775,
+    "lng": 126.978900509832,
     "geoApprox": false
   },
   {
@@ -21884,8 +21884,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4561049,
-    "lng": 127.0163642,
+    "lat": 37.4560944659896,
+    "lng": 127.016216269444,
     "geoApprox": false
   },
   {
@@ -21916,8 +21916,8 @@ window.KINDERGARTENS = [
       "special": 5
     },
     "hasSpecialClass": true,
-    "lat": 37.6175691,
-    "lng": 127.1098758,
+    "lat": 37.617615735514,
+    "lng": 127.109941402837,
     "geoApprox": false
   },
   {
@@ -21948,9 +21948,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.511,
-    "lng": 126.9512,
-    "geoApprox": true
+    "lat": 37.5062047182589,
+    "lng": 126.953567101813,
+    "geoApprox": false
   },
   {
     "id": 687,
@@ -21980,8 +21980,8 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.454357,
-    "lng": 127.062103,
+    "lat": 37.4541133292306,
+    "lng": 127.061436582525,
     "geoApprox": false
   },
   {
@@ -22012,9 +22012,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5214,
-    "lng": 127.0456,
-    "geoApprox": true
+    "lat": 37.4639991973319,
+    "lng": 127.106204066607,
+    "geoApprox": false
   },
   {
     "id": 689,
@@ -22044,9 +22044,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53766,
-    "lng": 127.09624,
-    "geoApprox": true
+    "lat": 37.5702364330057,
+    "lng": 127.085874689055,
+    "geoApprox": false
   },
   {
     "id": 690,
@@ -22076,9 +22076,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.54802,
-    "lng": 127.08298,
-    "geoApprox": true
+    "lat": 37.5430074366803,
+    "lng": 127.08031177586,
+    "geoApprox": false
   },
   {
     "id": 691,
@@ -22108,9 +22108,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55528,
-    "lng": 127.02432,
-    "geoApprox": true
+    "lat": 37.5455293912538,
+    "lng": 127.021869551034,
+    "geoApprox": false
   },
   {
     "id": 692,
@@ -22140,9 +22140,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64856,
-    "lng": 127.02434,
-    "geoApprox": true
+    "lat": 37.6454050137608,
+    "lng": 127.010881924161,
+    "geoApprox": false
   },
   {
     "id": 693,
@@ -22172,8 +22172,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6008397,
-    "lng": 127.0379633,
+    "lat": 37.6008413496899,
+    "lng": 127.037976638554,
     "geoApprox": false
   },
   {
@@ -22204,8 +22204,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5940447,
-    "lng": 127.010565,
+    "lat": 37.5944725333435,
+    "lng": 127.012706037821,
     "geoApprox": false
   },
   {
@@ -22236,9 +22236,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56816,
-    "lng": 127.03724,
-    "geoApprox": true
+    "lat": 37.543609408993,
+    "lng": 127.017230521559,
+    "geoApprox": false
   },
   {
     "id": 696,
@@ -22268,9 +22268,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50218,
-    "lng": 127.09502,
-    "geoApprox": true
+    "lat": 37.5078700021703,
+    "lng": 127.074217420352,
+    "geoApprox": false
   },
   {
     "id": 697,
@@ -22300,8 +22300,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5119184,
-    "lng": 126.9028121,
+    "lat": 37.5117542837524,
+    "lng": 126.902325704642,
     "geoApprox": false
   },
   {
@@ -22332,8 +22332,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.446618,
-    "lng": 126.9171098,
+    "lat": 37.4497786332027,
+    "lng": 126.920020808062,
     "geoApprox": false
   },
   {
@@ -22364,9 +22364,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5427,
-    "lng": 127.1186,
-    "geoApprox": true
+    "lat": 37.5448561166197,
+    "lng": 127.128831647129,
+    "geoApprox": false
   },
   {
     "id": 700,
@@ -22396,9 +22396,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50946,
-    "lng": 127.12154,
-    "geoApprox": true
+    "lat": 37.5093137576925,
+    "lng": 127.089335038276,
+    "geoApprox": false
   },
   {
     "id": 701,
@@ -22428,9 +22428,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.59472,
-    "lng": 127.01908,
-    "geoApprox": true
+    "lat": 37.610999723005,
+    "lng": 127.058332812717,
+    "geoApprox": false
   },
   {
     "id": 702,
@@ -22460,9 +22460,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55398,
-    "lng": 126.89102,
-    "geoApprox": true
+    "lat": 37.5618376767692,
+    "lng": 126.919313979204,
+    "geoApprox": false
   },
   {
     "id": 703,
@@ -22492,8 +22492,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.543712,
-    "lng": 126.8312336,
+    "lat": 37.5472449743241,
+    "lng": 126.832243922532,
     "geoApprox": false
   },
   {
@@ -22524,8 +22524,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6261598,
-    "lng": 127.0793237,
+    "lat": 37.6259363374297,
+    "lng": 127.079415945795,
     "geoApprox": false
   },
   {
@@ -22556,8 +22556,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6175992,
-    "lng": 127.0694724,
+    "lat": 37.6187253727752,
+    "lng": 127.067084588448,
     "geoApprox": false
   },
   {
@@ -22588,8 +22588,8 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.5472219,
-    "lng": 127.1365746,
+    "lat": 37.5477189664877,
+    "lng": 127.136592330295,
     "geoApprox": false
   },
   {
@@ -22620,9 +22620,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51716,
-    "lng": 126.87954,
-    "geoApprox": true
+    "lat": 37.5029001208602,
+    "lng": 126.919020182507,
+    "geoApprox": false
   },
   {
     "id": 708,
@@ -22652,8 +22652,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4874378,
-    "lng": 127.099338,
+    "lat": 37.4879086504963,
+    "lng": 127.098186321626,
     "geoApprox": false
   },
   {
@@ -22684,8 +22684,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4886623,
-    "lng": 127.0272903,
+    "lat": 37.4806775261216,
+    "lng": 126.996107327182,
     "geoApprox": false
   },
   {
@@ -22716,9 +22716,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.47502,
-    "lng": 127.01778,
-    "geoApprox": true
+    "lat": 37.4890639851175,
+    "lng": 126.988578482875,
+    "geoApprox": false
   },
   {
     "id": 711,
@@ -22748,9 +22748,9 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.65592,
-    "lng": 127.03418,
-    "geoApprox": true
+    "lat": 37.6365395299158,
+    "lng": 127.042084340998,
+    "geoApprox": false
   },
   {
     "id": 712,
@@ -22780,9 +22780,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58918,
-    "lng": 126.93952,
-    "geoApprox": true
+    "lat": 37.5836258560794,
+    "lng": 126.926573087194,
+    "geoApprox": false
   },
   {
     "id": 713,
@@ -22812,9 +22812,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53094,
-    "lng": 127.07176,
-    "geoApprox": true
+    "lat": 37.5449782076528,
+    "lng": 127.098714317037,
+    "geoApprox": false
   },
   {
     "id": 714,
@@ -22844,9 +22844,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51002,
-    "lng": 127.08958,
-    "geoApprox": true
+    "lat": 37.4916183368483,
+    "lng": 127.122700488472,
+    "geoApprox": false
   },
   {
     "id": 715,
@@ -22876,8 +22876,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6347095,
-    "lng": 126.9215794,
+    "lat": 37.634724610201,
+    "lng": 126.921610430939,
     "geoApprox": false
   },
   {
@@ -22908,9 +22908,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65704,
-    "lng": 127.03826,
-    "geoApprox": true
+    "lat": 37.6511243216579,
+    "lng": 127.030607071369,
+    "geoApprox": false
   },
   {
     "id": 717,
@@ -22940,9 +22940,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52556,
-    "lng": 126.93624,
-    "geoApprox": true
+    "lat": 37.5064746281662,
+    "lng": 126.955594919593,
+    "geoApprox": false
   },
   {
     "id": 718,
@@ -22972,9 +22972,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.66008,
-    "lng": 127.06122,
-    "geoApprox": true
+    "lat": 37.6737368395994,
+    "lng": 127.058950013938,
+    "geoApprox": false
   },
   {
     "id": 719,
@@ -23004,9 +23004,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57042,
-    "lng": 126.92218,
-    "geoApprox": true
+    "lat": 37.5863161433489,
+    "lng": 126.951555281549,
+    "geoApprox": false
   },
   {
     "id": 720,
@@ -23036,9 +23036,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59114,
-    "lng": 126.92966,
-    "geoApprox": true
+    "lat": 37.5901192404721,
+    "lng": 126.943656221079,
+    "geoApprox": false
   },
   {
     "id": 721,
@@ -23068,9 +23068,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56042,
-    "lng": 126.85018,
-    "geoApprox": true
+    "lat": 37.5504697539457,
+    "lng": 126.860972189175,
+    "geoApprox": false
   },
   {
     "id": 722,
@@ -23100,8 +23100,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5276862,
-    "lng": 126.8674993,
+    "lat": 37.5292498871965,
+    "lng": 126.867093197507,
     "geoApprox": false
   },
   {
@@ -23132,9 +23132,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.51924,
-    "lng": 126.87456,
-    "geoApprox": true
+    "lat": 37.5113123131977,
+    "lng": 126.854212986887,
+    "geoApprox": false
   },
   {
     "id": 724,
@@ -23164,8 +23164,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5759139,
-    "lng": 127.0598915,
+    "lat": 37.5766590358858,
+    "lng": 127.061567688813,
     "geoApprox": false
   },
   {
@@ -23196,9 +23196,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60126,
-    "lng": 127.10834,
-    "geoApprox": true
+    "lat": 37.6123816314349,
+    "lng": 127.096104707834,
+    "geoApprox": false
   },
   {
     "id": 726,
@@ -23228,9 +23228,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.61162,
-    "lng": 127.09508,
-    "geoApprox": true
+    "lat": 37.6043694603432,
+    "lng": 127.079965365014,
+    "geoApprox": false
   },
   {
     "id": 727,
@@ -23260,8 +23260,8 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.5689352,
-    "lng": 127.055462,
+    "lat": 37.5688043221289,
+    "lng": 127.055427038114,
     "geoApprox": false
   },
   {
@@ -23292,9 +23292,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65224,
-    "lng": 127.06666,
-    "geoApprox": true
+    "lat": 37.6405874535415,
+    "lng": 127.075979782639,
+    "geoApprox": false
   },
   {
     "id": 729,
@@ -23324,8 +23324,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.543421,
-    "lng": 126.9557861,
+    "lat": 37.5426675523619,
+    "lng": 126.955654254637,
     "geoApprox": false
   },
   {
@@ -23356,9 +23356,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52506,
-    "lng": 127.13934,
-    "geoApprox": true
+    "lat": 37.5370947044821,
+    "lng": 127.141975761231,
+    "geoApprox": false
   },
   {
     "id": 731,
@@ -23388,8 +23388,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4881464,
-    "lng": 127.1465348,
+    "lat": 37.4884642152141,
+    "lng": 127.146186520149,
     "geoApprox": false
   },
   {
@@ -23420,8 +23420,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4893771,
-    "lng": 126.9446996,
+    "lat": 37.4873527233282,
+    "lng": 126.945428874003,
     "geoApprox": false
   },
   {
@@ -23452,8 +23452,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5639224,
-    "lng": 127.0616527,
+    "lat": 37.5641223174494,
+    "lng": 127.060523298508,
     "geoApprox": false
   },
   {
@@ -23484,9 +23484,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.5578,
-    "lng": 127.0505,
-    "geoApprox": true
+    "lat": 37.543825479341,
+    "lng": 127.050073697789,
+    "geoApprox": false
   },
   {
     "id": 735,
@@ -23516,8 +23516,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5928734,
-    "lng": 127.0567228,
+    "lat": 37.5925383443867,
+    "lng": 127.056844152107,
     "geoApprox": false
   },
   {
@@ -23548,9 +23548,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59762,
-    "lng": 127.07808,
-    "geoApprox": true
+    "lat": 37.6164615283138,
+    "lng": 127.079320691885,
+    "geoApprox": false
   },
   {
     "id": 737,
@@ -23580,9 +23580,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57608,
-    "lng": 127.04572,
-    "geoApprox": true
+    "lat": 37.5791219819217,
+    "lng": 127.053850210023,
+    "geoApprox": false
   },
   {
     "id": 738,
@@ -23612,9 +23612,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57462,
-    "lng": 126.92048,
-    "geoApprox": true
+    "lat": 37.5772788498995,
+    "lng": 126.913103347782,
+    "geoApprox": false
   },
   {
     "id": 739,
@@ -23644,9 +23644,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58498,
-    "lng": 126.94122,
-    "geoApprox": true
+    "lat": 37.5586572986096,
+    "lng": 126.947118952904,
+    "geoApprox": false
   },
   {
     "id": 740,
@@ -23676,9 +23676,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.63148,
-    "lng": 127.01312,
-    "geoApprox": true
+    "lat": 37.6215324222942,
+    "lng": 127.014133356491,
+    "geoApprox": false
   },
   {
     "id": 741,
@@ -23708,9 +23708,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.6528,
-    "lng": 127.0687,
-    "geoApprox": true
+    "lat": 37.6262508612825,
+    "lng": 127.090915053347,
+    "geoApprox": false
   },
   {
     "id": 742,
@@ -23740,8 +23740,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.642713,
-    "lng": 127.0269936,
+    "lat": 37.642712990065,
+    "lng": 127.026993589862,
     "geoApprox": false
   },
   {
@@ -23772,8 +23772,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5591198,
-    "lng": 126.8640832,
+    "lat": 37.5585550447206,
+    "lng": 126.863376121004,
     "geoApprox": false
   },
   {
@@ -23804,8 +23804,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5180184,
-    "lng": 126.9340339,
+    "lat": 37.5177350694079,
+    "lng": 126.934255971798,
     "geoApprox": false
   },
   {
@@ -23836,8 +23836,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5394007,
-    "lng": 126.8924178,
+    "lat": 37.5402803267019,
+    "lng": 126.891745831623,
     "geoApprox": false
   },
   {
@@ -23868,8 +23868,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5971213,
-    "lng": 127.0519867,
+    "lat": 37.5939491407769,
+    "lng": 127.054890960564,
     "geoApprox": false
   },
   {
@@ -23900,9 +23900,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64244,
-    "lng": 127.04796,
-    "geoApprox": true
+    "lat": 37.6344239191317,
+    "lng": 127.072522941451,
+    "geoApprox": false
   },
   {
     "id": 748,
@@ -23932,8 +23932,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6517944,
-    "lng": 127.058246,
+    "lat": 37.6508221948981,
+    "lng": 127.056160593171,
     "geoApprox": false
   },
   {
@@ -23964,9 +23964,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.67776,
-    "lng": 127.04574,
-    "geoApprox": true
+    "lat": 37.6413781116936,
+    "lng": 127.040995163731,
+    "geoApprox": false
   },
   {
     "id": 750,
@@ -23996,8 +23996,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6382861,
-    "lng": 127.0627122,
+    "lat": 37.6382878280766,
+    "lng": 127.062716147408,
     "geoApprox": false
   },
   {
@@ -24028,9 +24028,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65588,
-    "lng": 127.06292,
-    "geoApprox": true
+    "lat": 37.6529887282798,
+    "lng": 127.063558586941,
+    "geoApprox": false
   },
   {
     "id": 752,
@@ -24060,8 +24060,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5460985,
-    "lng": 126.9539405,
+    "lat": 37.5458033455121,
+    "lng": 126.954823056539,
     "geoApprox": false
   },
   {
@@ -24092,8 +24092,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4923339,
-    "lng": 127.0746135,
+    "lat": 37.4923220024104,
+    "lng": 127.074601198665,
     "geoApprox": false
   },
   {
@@ -24124,9 +24124,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52086,
-    "lng": 127.10704,
-    "geoApprox": true
+    "lat": 37.54165432908,
+    "lng": 127.131688441589,
+    "geoApprox": false
   },
   {
     "id": 755,
@@ -24156,8 +24156,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5048597,
-    "lng": 127.1259773,
+    "lat": 37.5063971034072,
+    "lng": 127.127363436377,
     "geoApprox": false
   },
   {
@@ -24188,9 +24188,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50624,
-    "lng": 126.95086,
-    "geoApprox": true
+    "lat": 37.5087210278798,
+    "lng": 126.960452596991,
+    "geoApprox": false
   },
   {
     "id": 757,
@@ -24220,9 +24220,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4826,
-    "lng": 126.9499,
-    "geoApprox": true
+    "lat": 37.4856068941059,
+    "lng": 126.941950592094,
+    "geoApprox": false
   },
   {
     "id": 758,
@@ -24252,8 +24252,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4883868,
-    "lng": 126.9508649,
+    "lat": 37.4898474387668,
+    "lng": 126.952985510916,
     "geoApprox": false
   },
   {
@@ -24284,9 +24284,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.48736,
-    "lng": 126.95024,
-    "geoApprox": true
+    "lat": 37.4745690534576,
+    "lng": 126.972864185575,
+    "geoApprox": false
   },
   {
     "id": 760,
@@ -24316,8 +24316,8 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.4810191,
-    "lng": 126.9561924,
+    "lat": 37.4813047920283,
+    "lng": 126.955766635019,
     "geoApprox": false
   },
   {
@@ -24348,9 +24348,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58324,
-    "lng": 127.02826,
-    "geoApprox": true
+    "lat": 37.6062454695273,
+    "lng": 127.04399977021,
+    "geoApprox": false
   },
   {
     "id": 762,
@@ -24380,9 +24380,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5676,
-    "lng": 127.0352,
-    "geoApprox": true
+    "lat": 37.5488034704729,
+    "lng": 127.02313352328,
+    "geoApprox": false
   },
   {
     "id": 763,
@@ -24412,8 +24412,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5109206,
-    "lng": 126.8829208,
+    "lat": 37.5109603819235,
+    "lng": 126.882239095216,
     "geoApprox": false
   },
   {
@@ -24444,8 +24444,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5987561,
-    "lng": 127.0868817,
+    "lat": 37.5987370042005,
+    "lng": 127.086856829132,
     "geoApprox": false
   },
   {
@@ -24476,9 +24476,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53536,
-    "lng": 126.89484,
-    "geoApprox": true
+    "lat": 37.5056095602778,
+    "lng": 126.913466403648,
+    "geoApprox": false
   },
   {
     "id": 766,
@@ -24508,9 +24508,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.48728,
-    "lng": 126.87482,
-    "geoApprox": true
+    "lat": 37.489086139145,
+    "lng": 126.8776398198,
+    "geoApprox": false
   },
   {
     "id": 767,
@@ -24540,9 +24540,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.48736,
-    "lng": 126.95024,
-    "geoApprox": true
+    "lat": 37.4897725465303,
+    "lng": 126.948407183906,
+    "geoApprox": false
   },
   {
     "id": 768,
@@ -24572,9 +24572,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50372,
-    "lng": 126.92468,
-    "geoApprox": true
+    "lat": 37.4890766359038,
+    "lng": 126.963458150158,
+    "geoApprox": false
   },
   {
     "id": 769,
@@ -24604,8 +24604,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.671414,
-    "lng": 127.047116,
+    "lat": 37.671592322382,
+    "lng": 127.047142967179,
     "geoApprox": false
   },
   {
@@ -24636,9 +24636,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64552,
-    "lng": 127.04218,
-    "geoApprox": true
+    "lat": 37.6648178269709,
+    "lng": 127.054322233957,
+    "geoApprox": false
   },
   {
     "id": 771,
@@ -24668,8 +24668,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6346293,
-    "lng": 127.0695433,
+    "lat": 37.6342325628683,
+    "lng": 127.06966018842,
     "geoApprox": false
   },
   {
@@ -24700,9 +24700,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65956,
-    "lng": 127.03044,
-    "geoApprox": true
+    "lat": 37.6863744624714,
+    "lng": 127.043972350861,
+    "geoApprox": false
   },
   {
     "id": 773,
@@ -24732,9 +24732,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65532,
-    "lng": 127.06088,
-    "geoApprox": true
+    "lat": 37.6652515464657,
+    "lng": 127.062532889006,
+    "geoApprox": false
   },
   {
     "id": 774,
@@ -24764,9 +24764,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56126,
-    "lng": 126.91754,
-    "geoApprox": true
+    "lat": 37.5395031794726,
+    "lng": 126.951596786385,
+    "geoApprox": false
   },
   {
     "id": 775,
@@ -24796,9 +24796,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.60802,
-    "lng": 126.93148,
-    "geoApprox": true
+    "lat": 37.6163012805824,
+    "lng": 126.932627176671,
+    "geoApprox": false
   },
   {
     "id": 776,
@@ -24828,9 +24828,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5371,
-    "lng": 127.0942,
-    "geoApprox": true
+    "lat": 37.5541431793711,
+    "lng": 127.071278503381,
+    "geoApprox": false
   },
   {
     "id": 777,
@@ -24860,9 +24860,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57236,
-    "lng": 127.03554,
-    "geoApprox": true
+    "lat": 37.5445928680771,
+    "lng": 127.011984339203,
+    "geoApprox": false
   },
   {
     "id": 778,
@@ -24892,9 +24892,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55472,
-    "lng": 127.02228,
-    "geoApprox": true
+    "lat": 37.5696275040008,
+    "lng": 127.041524043963,
+    "geoApprox": false
   },
   {
     "id": 779,
@@ -24924,9 +24924,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51888,
-    "lng": 127.05342,
-    "geoApprox": true
+    "lat": 37.4950483588811,
+    "lng": 127.045541914087,
+    "geoApprox": false
   },
   {
     "id": 780,
@@ -24956,9 +24956,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65532,
-    "lng": 127.06088,
-    "geoApprox": true
+    "lat": 37.6704594706621,
+    "lng": 127.051773754079,
+    "geoApprox": false
   },
   {
     "id": 781,
@@ -24988,9 +24988,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53788,
-    "lng": 126.88702,
-    "geoApprox": true
+    "lat": 37.4873460122893,
+    "lng": 126.902516130281,
+    "geoApprox": false
   },
   {
     "id": 782,
@@ -25020,9 +25020,9 @@ window.KINDERGARTENS = [
       "special": 7
     },
     "hasSpecialClass": true,
-    "lat": 37.50488,
-    "lng": 127.03642,
-    "geoApprox": true
+    "lat": 37.4863102060977,
+    "lng": 127.069280074656,
+    "geoApprox": false
   },
   {
     "id": 783,
@@ -25052,9 +25052,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.51524,
-    "lng": 127.05716,
-    "geoApprox": true
+    "lat": 37.5034861238053,
+    "lng": 127.063292075669,
+    "geoApprox": false
   },
   {
     "id": 784,
@@ -25084,9 +25084,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4921,
-    "lng": 127.029,
-    "geoApprox": true
+    "lat": 37.4867641043401,
+    "lng": 126.987137986274,
+    "geoApprox": false
   },
   {
     "id": 785,
@@ -25116,9 +25116,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50796,
-    "lng": 127.03064,
-    "geoApprox": true
+    "lat": 37.5114642946179,
+    "lng": 127.035353262644,
+    "geoApprox": false
   },
   {
     "id": 786,
@@ -25148,9 +25148,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51832,
-    "lng": 127.05138,
-    "geoApprox": true
+    "lat": 37.5268045411329,
+    "lng": 127.04823368406,
+    "geoApprox": false
   },
   {
     "id": 787,
@@ -25180,8 +25180,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4874374,
-    "lng": 127.1051263,
+    "lat": 37.4878478418441,
+    "lng": 127.105794693568,
     "geoApprox": false
   },
   {
@@ -25212,8 +25212,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.512287,
-    "lng": 126.86528,
+    "lat": 37.5094542561098,
+    "lng": 126.862162255157,
     "geoApprox": false
   },
   {
@@ -25244,8 +25244,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5465903,
-    "lng": 126.8649237,
+    "lat": 37.5465743747926,
+    "lng": 126.864927571424,
     "geoApprox": false
   },
   {
@@ -25276,9 +25276,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.5408,
-    "lng": 126.9866,
-    "geoApprox": true
+    "lat": 37.5220689203394,
+    "lng": 126.992300401397,
+    "geoApprox": false
   },
   {
     "id": 791,
@@ -25308,9 +25308,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.55416,
-    "lng": 127.02024,
-    "geoApprox": true
+    "lat": 37.5676883077439,
+    "lng": 127.028005141452,
+    "geoApprox": false
   },
   {
     "id": 792,
@@ -25340,9 +25340,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53352,
-    "lng": 126.99408,
-    "geoApprox": true
+    "lat": 37.528682977698,
+    "lng": 126.999625530067,
+    "geoApprox": false
   },
   {
     "id": 793,
@@ -25372,9 +25372,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58498,
-    "lng": 126.96982,
-    "geoApprox": true
+    "lat": 37.6002744711314,
+    "lng": 126.959654190315,
+    "geoApprox": false
   },
   {
     "id": 794,
@@ -25404,8 +25404,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5631497,
-    "lng": 127.0159061,
+    "lat": 37.5471505540187,
+    "lng": 127.005706247221,
     "geoApprox": false
   },
   {
@@ -25436,8 +25436,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58534,
-    "lng": 127.0049884,
+    "lat": 37.5868678097979,
+    "lng": 127.003138370487,
     "geoApprox": false
   },
   {
@@ -25468,8 +25468,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.5950266,
-    "lng": 127.0349604,
+    "lat": 37.5945203773277,
+    "lng": 127.035296496549,
     "geoApprox": false
   },
   {
@@ -25500,9 +25500,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.67048,
-    "lng": 127.05322,
-    "geoApprox": true
+    "lat": 37.6610367905413,
+    "lng": 127.035889306234,
+    "geoApprox": false
   },
   {
     "id": 798,
@@ -25532,8 +25532,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5579548,
-    "lng": 127.1462943,
+    "lat": 37.5579548375122,
+    "lng": 127.146294328922,
     "geoApprox": false
   },
   {
@@ -25564,8 +25564,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.477065,
-    "lng": 126.940391,
+    "lat": 37.477064914058,
+    "lng": 126.940391048487,
     "geoApprox": false
   },
   {
@@ -25596,8 +25596,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5222445,
-    "lng": 126.8682689,
+    "lat": 37.5223402739432,
+    "lng": 126.867563264965,
     "geoApprox": false
   },
   {
@@ -25628,9 +25628,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64552,
-    "lng": 127.04218,
-    "geoApprox": true
+    "lat": 37.6244145628298,
+    "lng": 127.080359290283,
+    "geoApprox": false
   },
   {
     "id": 802,
@@ -25660,9 +25660,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54998,
-    "lng": 127.07312,
-    "geoApprox": true
+    "lat": 37.5424637514332,
+    "lng": 127.091721950929,
+    "geoApprox": false
   },
   {
     "id": 803,
@@ -25692,9 +25692,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.55724,
-    "lng": 127.04846,
-    "geoApprox": true
+    "lat": 37.5626751242374,
+    "lng": 127.047560151027,
+    "geoApprox": false
   },
   {
     "id": 804,
@@ -25724,9 +25724,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5676,
-    "lng": 127.0352,
-    "geoApprox": true
+    "lat": 37.5423097389598,
+    "lng": 127.015785478614,
+    "geoApprox": false
   },
   {
     "id": 805,
@@ -25756,8 +25756,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5940447,
-    "lng": 127.010565,
+    "lat": 37.5944725333435,
+    "lng": 127.012706037821,
     "geoApprox": false
   },
   {
@@ -25788,9 +25788,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55108,
-    "lng": 127.02602,
-    "geoApprox": true
+    "lat": 37.5394791566457,
+    "lng": 127.046296359799,
+    "geoApprox": false
   },
   {
     "id": 807,
@@ -25820,9 +25820,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5089,
-    "lng": 127.1195,
-    "geoApprox": true
+    "lat": 37.5159732780003,
+    "lng": 127.115312970673,
+    "geoApprox": false
   },
   {
     "id": 808,
@@ -25852,9 +25852,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50016,
-    "lng": 126.88774,
-    "geoApprox": true
+    "lat": 37.5071588011358,
+    "lng": 126.879584155104,
+    "geoApprox": false
   },
   {
     "id": 809,
@@ -25884,9 +25884,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.46552,
-    "lng": 126.93868,
-    "geoApprox": true
+    "lat": 37.4685220375851,
+    "lng": 126.940492900894,
+    "geoApprox": false
   },
   {
     "id": 810,
@@ -25916,8 +25916,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5537114,
-    "lng": 126.8292337,
+    "lat": 37.5537008474169,
+    "lng": 126.829196933459,
     "geoApprox": false
   },
   {
@@ -25948,9 +25948,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58632,
-    "lng": 127.02248,
-    "geoApprox": true
+    "lat": 37.6083860735009,
+    "lng": 127.018829417408,
+    "geoApprox": false
   },
   {
     "id": 812,
@@ -25980,8 +25980,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5571032,
-    "lng": 126.8380914,
+    "lat": 37.5570784073479,
+    "lng": 126.83808109977,
     "geoApprox": false
   },
   {
@@ -26012,8 +26012,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4652569,
-    "lng": 126.9000477,
+    "lat": 37.4656561906645,
+    "lng": 126.899712928109,
     "geoApprox": false
   },
   {
@@ -26044,8 +26044,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5457383,
-    "lng": 126.8375627,
+    "lat": 37.545732598277,
+    "lng": 126.837556144962,
     "geoApprox": false
   },
   {
@@ -26076,9 +26076,9 @@ window.KINDERGARTENS = [
       "special": 6
     },
     "hasSpecialClass": true,
-    "lat": 37.5593,
-    "lng": 126.8461,
-    "geoApprox": true
+    "lat": 37.5692716608789,
+    "lng": 126.817972935639,
+    "geoApprox": false
   },
   {
     "id": 816,
@@ -26108,9 +26108,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.55706,
-    "lng": 126.88524,
-    "geoApprox": true
+    "lat": 37.5534453328883,
+    "lng": 126.910669687285,
+    "geoApprox": false
   },
   {
     "id": 817,
@@ -26140,8 +26140,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5074131,
-    "lng": 126.9494224,
+    "lat": 37.5076264776599,
+    "lng": 126.949547851693,
     "geoApprox": false
   },
   {
@@ -26172,9 +26172,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5212,
-    "lng": 126.8647,
-    "geoApprox": true
+    "lat": 37.5243764999949,
+    "lng": 126.860562915576,
+    "geoApprox": false
   },
   {
     "id": 819,
@@ -26204,9 +26204,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50778,
-    "lng": 127.11542,
-    "geoApprox": true
+    "lat": 37.4965451072588,
+    "lng": 127.157784930749,
+    "geoApprox": false
   },
   {
     "id": 820,
@@ -26236,9 +26236,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.51356,
-    "lng": 127.05104,
-    "geoApprox": true
+    "lat": 37.46681155875,
+    "lng": 127.097047657828,
+    "geoApprox": false
   },
   {
     "id": 821,
@@ -26268,9 +26268,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56182,
-    "lng": 126.83828,
-    "geoApprox": true
+    "lat": 37.5589015849099,
+    "lng": 126.809586744874,
+    "geoApprox": false
   },
   {
     "id": 822,
@@ -26300,9 +26300,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54418,
-    "lng": 126.85902,
-    "geoApprox": true
+    "lat": 37.5625966056402,
+    "lng": 126.841973328776,
+    "geoApprox": false
   },
   {
     "id": 823,
@@ -26332,9 +26332,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.48006,
-    "lng": 127.03614,
-    "geoApprox": true
+    "lat": 37.4617849977096,
+    "lng": 127.024963126337,
+    "geoApprox": false
   },
   {
     "id": 824,
@@ -26364,8 +26364,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
-    "lat": 37.6325784,
-    "lng": 127.0608791,
+    "lat": 37.6329639777027,
+    "lng": 127.060508959979,
     "geoApprox": false
   },
   {
@@ -26396,9 +26396,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.65504,
-    "lng": 127.04286,
-    "geoApprox": true
+    "lat": 37.6808384621835,
+    "lng": 127.0542198702,
+    "geoApprox": false
   },
   {
     "id": 826,
@@ -26428,8 +26428,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.4581198,
-    "lng": 126.8962659,
+    "lat": 37.4582299981347,
+    "lng": 126.896205569649,
     "geoApprox": false
   },
   {
@@ -26460,9 +26460,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.5394,
-    "lng": 126.9985,
-    "geoApprox": true
+    "lat": 37.5473049014312,
+    "lng": 126.963543924367,
+    "geoApprox": false
   },
   {
     "id": 828,
@@ -26492,8 +26492,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5945683,
-    "lng": 127.1034875,
+    "lat": 37.5944181555082,
+    "lng": 127.103547800182,
     "geoApprox": false
   },
   {
@@ -26524,9 +26524,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5215,
-    "lng": 127.1144,
-    "geoApprox": true
+    "lat": 37.50578969665,
+    "lng": 127.075317277909,
+    "geoApprox": false
   },
   {
     "id": 830,
@@ -26556,9 +26556,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.48588,
-    "lng": 126.88672,
-    "geoApprox": true
+    "lat": 37.4993252329505,
+    "lng": 126.865350068539,
+    "geoApprox": false
   },
   {
     "id": 831,
@@ -26588,9 +26588,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65,
-    "lng": 127.0585,
-    "geoApprox": true
+    "lat": 37.6676655147961,
+    "lng": 127.059630713208,
+    "geoApprox": false
   },
   {
     "id": 832,
@@ -26620,9 +26620,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.57652,
-    "lng": 127.00378,
-    "geoApprox": true
+    "lat": 37.6083860735009,
+    "lng": 127.018829417408,
+    "geoApprox": false
   },
   {
     "id": 833,
@@ -26652,9 +26652,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52196,
-    "lng": 127.04764,
-    "geoApprox": true
+    "lat": 37.4830083764678,
+    "lng": 127.094942548329,
+    "geoApprox": false
   },
   {
     "id": 834,
@@ -26684,8 +26684,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6289612,
-    "lng": 127.0407552,
+    "lat": 37.6290238580608,
+    "lng": 127.040039390037,
     "geoApprox": false
   },
   {
@@ -26716,9 +26716,9 @@ window.KINDERGARTENS = [
       "special": 5
     },
     "hasSpecialClass": true,
-    "lat": 37.48512,
-    "lng": 126.94208,
-    "geoApprox": true
+    "lat": 37.4890917715771,
+    "lng": 126.960111629303,
+    "geoApprox": false
   },
   {
     "id": 836,
@@ -26748,9 +26748,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53262,
-    "lng": 127.11588,
-    "geoApprox": true
+    "lat": 37.5538039438067,
+    "lng": 127.166050130468,
+    "geoApprox": false
   },
   {
     "id": 837,
@@ -26780,8 +26780,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.4919919,
-    "lng": 127.0812822,
+    "lat": 37.4923003980946,
+    "lng": 127.081132787699,
     "geoApprox": false
   },
   {
@@ -26812,9 +26812,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51632,
-    "lng": 126.95358,
-    "geoApprox": true
+    "lat": 37.5117195690698,
+    "lng": 126.940827465638,
+    "geoApprox": false
   },
   {
     "id": 839,
@@ -26844,8 +26844,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.4893771,
-    "lng": 126.9446996,
+    "lat": 37.4873527233282,
+    "lng": 126.945428874003,
     "geoApprox": false
   },
   {
@@ -26876,8 +26876,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5686962,
-    "lng": 127.0356944,
+    "lat": 37.5681230316305,
+    "lng": 127.035108248651,
     "geoApprox": false
   },
   {
@@ -26908,8 +26908,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.5523739,
-    "lng": 126.8230239,
+    "lat": 37.5523853414736,
+    "lng": 126.822984263849,
     "geoApprox": false
   },
   {
@@ -26940,9 +26940,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.50302,
-    "lng": 127.11508,
-    "geoApprox": true
+    "lat": 37.4876385082093,
+    "lng": 127.144815961872,
+    "geoApprox": false
   },
   {
     "id": 843,
@@ -26972,9 +26972,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5537,
-    "lng": 126.8597,
-    "geoApprox": true
+    "lat": 37.5322084180961,
+    "lng": 126.858038705977,
+    "geoApprox": false
   },
   {
     "id": 844,
@@ -27004,9 +27004,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56126,
-    "lng": 126.83624,
-    "geoApprox": true
+    "lat": 37.5359431935785,
+    "lng": 126.857323912102,
+    "geoApprox": false
   },
   {
     "id": 845,
@@ -27036,8 +27036,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6012173,
-    "lng": 127.1037082,
+    "lat": 37.6011516045762,
+    "lng": 127.103770593924,
     "geoApprox": false
   },
   {
@@ -27068,9 +27068,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
-    "lat": 37.51666,
-    "lng": 127.10874,
-    "geoApprox": true
+    "lat": 37.5618696246217,
+    "lng": 127.180267055739,
+    "geoApprox": false
   },
   {
     "id": 847,
@@ -27100,9 +27100,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53088,
-    "lng": 126.91252,
-    "geoApprox": true
+    "lat": 37.4982314495379,
+    "lng": 126.913035010017,
+    "geoApprox": false
   },
   {
     "id": 848,
@@ -27132,8 +27132,8 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
-    "lat": 37.6021649,
-    "lng": 127.0643351,
+    "lat": 37.6018964867149,
+    "lng": 127.064885003959,
     "geoApprox": false
   },
   {
@@ -27164,9 +27164,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64552,
-    "lng": 127.04218,
-    "geoApprox": true
+    "lat": 37.6482303134222,
+    "lng": 127.058252457257,
+    "geoApprox": false
   },
   {
     "id": 850,
@@ -27196,9 +27196,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.54782,
-    "lng": 126.85528,
-    "geoApprox": true
+    "lat": 37.5686146565852,
+    "lng": 126.811542221972,
+    "geoApprox": false
   },
   {
     "id": 851,
@@ -27228,8 +27228,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6410055,
-    "lng": 127.0690818,
+    "lat": 37.6410575739212,
+    "lng": 127.069114774673,
     "geoApprox": false
   },
   {
@@ -27260,8 +27260,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5579945,
-    "lng": 126.9025929,
+    "lat": 37.5583376929114,
+    "lng": 126.902078300574,
     "geoApprox": false
   },
   {
@@ -27292,9 +27292,9 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
-    "lat": 37.53774,
-    "lng": 126.85256,
-    "geoApprox": true
+    "lat": 37.539095457491,
+    "lng": 126.856009569323,
+    "geoApprox": false
   },
   {
     "id": 854,
@@ -27324,9 +27324,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.62952,
-    "lng": 127.02298,
-    "geoApprox": true
+    "lat": 37.6373144075316,
+    "lng": 127.032917771185,
+    "geoApprox": false
   },
   {
     "id": 855,
@@ -27356,9 +27356,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5856,
-    "lng": 127.0464,
-    "geoApprox": true
+    "lat": 37.5790073735728,
+    "lng": 127.075833615308,
+    "geoApprox": false
   },
   {
     "id": 856,
@@ -27388,9 +27388,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6702,
-    "lng": 127.0352,
-    "geoApprox": true
+    "lat": 37.6612204531084,
+    "lng": 127.025721318601,
+    "geoApprox": false
   },
   {
     "id": 857,
@@ -27420,9 +27420,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52108,
-    "lng": 126.95392,
-    "geoApprox": true
+    "lat": 37.4883352019428,
+    "lng": 126.979027173055,
+    "geoApprox": false
   },
   {
     "id": 858,
@@ -27452,9 +27452,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5194,
-    "lng": 126.9478,
-    "geoApprox": true
+    "lat": 37.5103042588159,
+    "lng": 126.946865796584,
+    "geoApprox": false
   },
   {
     "id": 859,
@@ -27484,8 +27484,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
-    "lat": 37.5651402,
-    "lng": 127.0824374,
+    "lat": 37.565172983593,
+    "lng": 127.082512285004,
     "geoApprox": false
   },
   {
@@ -27516,8 +27516,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5857309,
-    "lng": 126.9695124,
+    "lat": 37.585805731799,
+    "lng": 126.969294698603,
     "geoApprox": false
   },
   {
@@ -27548,8 +27548,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6681449,
-    "lng": 127.0544689,
+    "lat": 37.6701880464645,
+    "lng": 127.054677638301,
     "geoApprox": false
   },
   {
@@ -27580,9 +27580,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55342,
-    "lng": 126.84168,
-    "geoApprox": true
+    "lat": 37.5476142187642,
+    "lng": 126.857942163854,
+    "geoApprox": false
   },
   {
     "id": 863,
@@ -27612,9 +27612,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.58002,
-    "lng": 126.90088,
-    "geoApprox": true
+    "lat": 37.5610150373718,
+    "lng": 126.910759005302,
+    "geoApprox": false
   },
   {
     "id": 864,
@@ -27644,9 +27644,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.66908,
-    "lng": 127.03112,
-    "geoApprox": true
+    "lat": 37.6483638272869,
+    "lng": 127.024291051625,
+    "geoApprox": false
   },
   {
     "id": 865,
@@ -27676,9 +27676,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59458,
-    "lng": 126.91652,
-    "geoApprox": true
+    "lat": 37.6134294463781,
+    "lng": 126.930718712253,
+    "geoApprox": false
   },
   {
     "id": 866,
@@ -27708,9 +27708,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.59626,
-    "lng": 126.92264,
-    "geoApprox": true
+    "lat": 37.5887531914177,
+    "lng": 126.921616096958,
+    "geoApprox": false
   },
   {
     "id": 867,
@@ -27740,9 +27740,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55706,
-    "lng": 126.88524,
-    "geoApprox": true
+    "lat": 37.5664458381853,
+    "lng": 126.911780404952,
+    "geoApprox": false
   },
   {
     "id": 868,
@@ -27772,9 +27772,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64552,
-    "lng": 127.04218,
-    "geoApprox": true
+    "lat": 37.62719482311,
+    "lng": 127.074030837547,
+    "geoApprox": false
   },
   {
     "id": 869,
@@ -27804,8 +27804,8 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.4738361,
-    "lng": 127.0319606,
+    "lat": 37.4741653841614,
+    "lng": 127.03189250195,
     "geoApprox": false
   },
   {
@@ -27836,9 +27836,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.64072,
-    "lng": 127.02978,
-    "geoApprox": true
+    "lat": 37.614905195868,
+    "lng": 127.023735366645,
+    "geoApprox": false
   },
   {
     "id": 871,
@@ -27868,9 +27868,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56768,
-    "lng": 127.04912,
-    "geoApprox": true
+    "lat": 37.5807042921469,
+    "lng": 127.056012445216,
+    "geoApprox": false
   },
   {
     "id": 872,
@@ -27900,9 +27900,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.58072,
-    "lng": 127.00208,
-    "geoApprox": true
+    "lat": 37.6114414258051,
+    "lng": 127.050005965999,
+    "geoApprox": false
   },
   {
     "id": 873,
@@ -27932,9 +27932,9 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
-    "lat": 37.52738,
-    "lng": 127.11882,
-    "geoApprox": true
+    "lat": 37.4961862376383,
+    "lng": 127.143214689204,
+    "geoApprox": false
   },
   {
     "id": 874,
@@ -27964,9 +27964,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.52318,
-    "lng": 127.12052,
-    "geoApprox": true
+    "lat": 37.486734037842,
+    "lng": 127.150753871028,
+    "geoApprox": false
   },
   {
     "id": 875,
@@ -27996,9 +27996,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.5651,
-    "lng": 126.9198,
-    "geoApprox": true
+    "lat": 37.5737644190198,
+    "lng": 126.918388033648,
+    "geoApprox": false
   },
   {
     "id": 876,
@@ -28028,8 +28028,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.5664375,
-    "lng": 126.8525189,
+    "lat": 37.5670047685109,
+    "lng": 126.85259398539,
     "geoApprox": false
   },
   {
@@ -28060,9 +28060,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.49742,
-    "lng": 127.03138,
-    "geoApprox": true
+    "lat": 37.4477936807644,
+    "lng": 127.057743188109,
+    "geoApprox": false
   },
   {
     "id": 878,
@@ -28092,9 +28092,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
-    "lat": 37.48316,
-    "lng": 126.95194,
-    "geoApprox": true
+    "lat": 37.4738196175948,
+    "lng": 126.973366964486,
+    "geoApprox": false
   },
   {
     "id": 879,
@@ -28124,9 +28124,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.67468,
-    "lng": 127.05152,
-    "geoApprox": true
+    "lat": 37.6594678039701,
+    "lng": 127.042950889775,
+    "geoApprox": false
   },
   {
     "id": 880,
@@ -28156,9 +28156,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.47784,
-    "lng": 126.94956,
-    "geoApprox": true
+    "lat": 37.4855779476851,
+    "lng": 126.949130876206,
+    "geoApprox": false
   },
   {
     "id": 881,
@@ -28188,9 +28188,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.48762,
-    "lng": 127.04668,
-    "geoApprox": true
+    "lat": 37.5104061918797,
+    "lng": 127.01247336771,
+    "geoApprox": false
   },
   {
     "id": 882,
@@ -28220,9 +28220,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51408,
-    "lng": 126.94542,
-    "geoApprox": true
+    "lat": 37.4828114848946,
+    "lng": 126.964977725041,
+    "geoApprox": false
   },
   {
     "id": 883,
@@ -28252,9 +28252,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.50408,
-    "lng": 126.90202,
-    "geoApprox": true
+    "lat": 37.4770547149044,
+    "lng": 126.82495390619,
+    "geoApprox": false
   },
   {
     "id": 884,
@@ -28284,9 +28284,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
-    "lat": 37.49868,
-    "lng": 126.94032,
-    "geoApprox": true
+    "lat": 37.5033929766399,
+    "lng": 126.959778422441,
+    "geoApprox": false
   },
   {
     "id": 885,
@@ -28316,9 +28316,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
-    "lat": 37.51476,
-    "lng": 126.85824,
-    "geoApprox": true
+    "lat": 37.5258482641162,
+    "lng": 126.851240194989,
+    "geoApprox": false
   },
   {
     "id": 886,
@@ -28348,9 +28348,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52002,
-    "lng": 127.12098,
-    "geoApprox": true
+    "lat": 37.5503184973328,
+    "lng": 127.169808318585,
+    "geoApprox": false
   },
   {
     "id": 887,
@@ -28380,9 +28380,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5523,
-    "lng": 126.8376,
-    "geoApprox": true
+    "lat": 37.5403655143855,
+    "lng": 126.839455478388,
+    "geoApprox": false
   },
   {
     "id": 888,
@@ -28412,9 +28412,9 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.56928,
-    "lng": 127.04132,
-    "geoApprox": true
+    "lat": 37.5518979414195,
+    "lng": 127.020752859362,
+    "geoApprox": false
   },
   {
     "id": 889,
@@ -28444,9 +28444,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.67468,
-    "lng": 127.05152,
-    "geoApprox": true
+    "lat": 37.6610367905413,
+    "lng": 127.035889306234,
+    "geoApprox": false
   },
   {
     "id": 890,
@@ -28476,8 +28476,8 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.6121027,
-    "lng": 127.0287498,
+    "lat": 37.6120057743675,
+    "lng": 127.028773678213,
     "geoApprox": false
   },
   {
@@ -28508,9 +28508,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.67664,
-    "lng": 127.04166,
-    "geoApprox": true
+    "lat": 37.6717184874026,
+    "lng": 127.040258979982,
+    "geoApprox": false
   },
   {
     "id": 892,
@@ -28540,8 +28540,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4809813,
-    "lng": 127.0616882,
+    "lat": 37.4810262095918,
+    "lng": 127.062042570555,
     "geoApprox": false
   },
   {
@@ -28572,8 +28572,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5891808,
-    "lng": 127.0758059,
+    "lat": 37.5889223067352,
+    "lng": 127.075482375754,
     "geoApprox": false
   },
   {
@@ -28604,8 +28604,8 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.549526,
-    "lng": 127.1244568,
+    "lat": 37.5500236743432,
+    "lng": 127.124404356441,
     "geoApprox": false
   },
   {
@@ -28636,8 +28636,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4768787,
-    "lng": 127.1351626,
+    "lat": 37.4751100001573,
+    "lng": 127.136558093148,
     "geoApprox": false
   },
   {
@@ -28668,9 +28668,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5114,
-    "lng": 126.88,
-    "geoApprox": true
+    "lat": 37.5208632768685,
+    "lng": 126.840192854495,
+    "geoApprox": false
   },
   {
     "id": 897,
@@ -28700,9 +28700,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.61502,
-    "lng": 126.93998,
-    "geoApprox": true
+    "lat": 37.6002580875299,
+    "lng": 126.930307292442,
+    "geoApprox": false
   },
   {
     "id": 898,
@@ -28732,9 +28732,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50384,
-    "lng": 126.86946,
-    "geoApprox": true
+    "lat": 37.5176829407562,
+    "lng": 126.856860634862,
+    "geoApprox": false
   },
   {
     "id": 899,
@@ -28764,8 +28764,8 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.6481477,
-    "lng": 126.9298582,
+    "lat": 37.6480695766198,
+    "lng": 126.929826836735,
     "geoApprox": false
   },
   {
@@ -28796,9 +28796,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50904,
-    "lng": 126.92706,
-    "geoApprox": true
+    "lat": 37.5106568125953,
+    "lng": 126.953923907042,
+    "geoApprox": false
   },
   {
     "id": 901,
@@ -28828,9 +28828,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.61806,
-    "lng": 127.10154,
-    "geoApprox": true
+    "lat": 37.6135762310839,
+    "lng": 127.092408488473,
+    "geoApprox": false
   },
   {
     "id": 902,
@@ -28860,9 +28860,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.50768,
-    "lng": 127.04662,
-    "geoApprox": true
+    "lat": 37.5282818704161,
+    "lng": 127.045153024716,
+    "geoApprox": false
   },
   {
     "id": 903,
@@ -28892,8 +28892,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.6067105,
-    "lng": 127.0956152,
+    "lat": 37.6014097153165,
+    "lng": 127.083849146888,
     "geoApprox": false
   },
   {
@@ -28924,9 +28924,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65308,
-    "lng": 127.05272,
-    "geoApprox": true
+    "lat": 37.6279505755622,
+    "lng": 127.050869480548,
+    "geoApprox": false
   },
   {
     "id": 905,
@@ -28956,9 +28956,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.67692,
-    "lng": 127.05968,
-    "geoApprox": true
+    "lat": 37.6608821231494,
+    "lng": 127.047523339865,
+    "geoApprox": false
   },
   {
     "id": 906,
@@ -28988,9 +28988,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.518,
-    "lng": 126.8996,
-    "geoApprox": true
+    "lat": 37.5098647213535,
+    "lng": 126.911863664868,
+    "geoApprox": false
   },
   {
     "id": 907,
@@ -29020,9 +29020,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.6702,
-    "lng": 127.0352,
-    "geoApprox": true
+    "lat": 37.6510234416817,
+    "lng": 127.027944278021,
+    "geoApprox": false
   },
   {
     "id": 908,
@@ -29052,9 +29052,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52864,
-    "lng": 126.90436,
-    "geoApprox": true
+    "lat": 37.532879190933,
+    "lng": 126.892776819259,
+    "geoApprox": false
   },
   {
     "id": 909,
@@ -29084,8 +29084,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
-    "lat": 37.6089363,
-    "lng": 127.1053591,
+    "lat": 37.6090497375586,
+    "lng": 127.105433722535,
     "geoApprox": false
   },
   {
@@ -29116,9 +29116,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.53066,
-    "lng": 127.12574,
-    "geoApprox": true
+    "lat": 37.5743433210453,
+    "lng": 127.170774922577,
+    "geoApprox": false
   },
   {
     "id": 911,
@@ -29148,9 +29148,9 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.47502,
-    "lng": 127.01778,
-    "geoApprox": true
+    "lat": 37.4617849977096,
+    "lng": 127.024963126337,
+    "geoApprox": false
   },
   {
     "id": 912,
@@ -29180,9 +29180,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58274,
-    "lng": 126.99566,
-    "geoApprox": true
+    "lat": 37.5747695405448,
+    "lng": 126.961573946294,
+    "geoApprox": false
   },
   {
     "id": 913,
@@ -29212,9 +29212,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56172,
-    "lng": 127.03078,
-    "geoApprox": true
+    "lat": 37.5409410878081,
+    "lng": 127.046604922429,
+    "geoApprox": false
   },
   {
     "id": 914,
@@ -29244,8 +29244,8 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.6321459,
-    "lng": 126.9288097,
+    "lat": 37.6321862253702,
+    "lng": 126.928798490682,
     "geoApprox": false
   },
   {
@@ -29276,9 +29276,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.54662,
-    "lng": 127.09488,
-    "geoApprox": true
+    "lat": 37.5671086161443,
+    "lng": 127.088452984118,
+    "geoApprox": false
   },
   {
     "id": 916,
@@ -29308,8 +29308,8 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
-    "lat": 37.561531,
-    "lng": 126.810699,
+    "lat": 37.5622308905044,
+    "lng": 126.810281254376,
     "geoApprox": false
   },
   {
@@ -29340,9 +29340,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59622,
-    "lng": 127.08998,
-    "geoApprox": true
+    "lat": 37.5900368304084,
+    "lng": 127.079200700601,
+    "geoApprox": false
   },
   {
     "id": 918,
@@ -29372,8 +29372,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5507914,
-    "lng": 126.8734421,
+    "lat": 37.5739262377478,
+    "lng": 126.804694204855,
     "geoApprox": false
   },
   {
@@ -29404,9 +29404,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4672,
-    "lng": 126.9448,
-    "geoApprox": true
+    "lat": 37.4901681154487,
+    "lng": 126.930369788237,
+    "geoApprox": false
   },
   {
     "id": 920,
@@ -29436,9 +29436,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.65168,
-    "lng": 127.06462,
-    "geoApprox": true
+    "lat": 37.6624464105885,
+    "lng": 127.068880275281,
+    "geoApprox": false
   },
   {
     "id": 921,
@@ -29468,8 +29468,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5675583,
-    "lng": 127.0151389,
+    "lat": 37.5672992845452,
+    "lng": 127.015687859678,
     "geoApprox": false
   },
   {
@@ -29500,9 +29500,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.52318,
-    "lng": 127.12052,
-    "geoApprox": true
+    "lat": 37.5061719799247,
+    "lng": 127.094961922705,
+    "geoApprox": false
   },
   {
     "id": 923,
@@ -29532,8 +29532,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4756705,
-    "lng": 127.0524703,
+    "lat": 37.4758166247606,
+    "lng": 127.052045721323,
     "geoApprox": false
   },
   {
@@ -29564,9 +29564,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
-    "lat": 37.6298,
-    "lng": 127.041,
-    "geoApprox": true
+    "lat": 37.6386058279529,
+    "lng": 127.014240485582,
+    "geoApprox": false
   },
   {
     "id": 925,
@@ -29596,9 +29596,9 @@ window.KINDERGARTENS = [
       "special": 7
     },
     "hasSpecialClass": true,
-    "lat": 37.51,
-    "lng": 126.8579,
-    "geoApprox": true
+    "lat": 37.51357077726,
+    "lng": 126.833371811835,
+    "geoApprox": false
   },
   {
     "id": 926,
@@ -29628,9 +29628,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55174,
-    "lng": 126.83556,
-    "geoApprox": true
+    "lat": 37.5312631405147,
+    "lng": 126.852205584763,
+    "geoApprox": false
   },
   {
     "id": 927,
@@ -29660,9 +29660,9 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
-    "lat": 37.4714,
-    "lng": 126.9431,
-    "geoApprox": true
+    "lat": 37.4851194359099,
+    "lng": 126.922183775699,
+    "geoApprox": false
   },
   {
     "id": 928,
@@ -29692,9 +29692,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.53906,
-    "lng": 127.08434,
-    "geoApprox": true
+    "lat": 37.5346820949284,
+    "lng": 127.0699952764,
+    "geoApprox": false
   },
   {
     "id": 929,
@@ -29724,9 +29724,9 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
-    "lat": 37.53822,
-    "lng": 127.13628,
-    "geoApprox": true
+    "lat": 37.5515426236302,
+    "lng": 127.169410143976,
+    "geoApprox": false
   },
   {
     "id": 930,
@@ -29756,8 +29756,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4894425,
-    "lng": 127.0764023,
+    "lat": 37.4898127052732,
+    "lng": 127.076141940265,
     "geoApprox": false
   },
   {
@@ -29788,8 +29788,8 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
-    "lat": 37.4665029,
-    "lng": 126.9086952,
+    "lat": 37.4667696443557,
+    "lng": 126.90892992546,
     "geoApprox": false
   },
   {
@@ -29820,9 +29820,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4814,
-    "lng": 126.8704,
-    "geoApprox": true
+    "lat": 37.4897166823284,
+    "lng": 126.839098527316,
+    "geoApprox": false
   },
   {
     "id": 933,
@@ -29852,9 +29852,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59094,
-    "lng": 126.92026,
-    "geoApprox": true
+    "lat": 37.6065633137733,
+    "lng": 126.935058620612,
+    "geoApprox": false
   },
   {
     "id": 934,
@@ -29884,9 +29884,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5301,
-    "lng": 127.1237,
-    "geoApprox": true
+    "lat": 37.5408191681662,
+    "lng": 127.133635322641,
+    "geoApprox": false
   },
   {
     "id": 935,
@@ -29916,8 +29916,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.477636,
-    "lng": 127.1453547,
+    "lat": 37.477746438627,
+    "lng": 127.145616413948,
     "geoApprox": false
   },
   {
@@ -29948,9 +29948,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.59962,
-    "lng": 126.93488,
-    "geoApprox": true
+    "lat": 37.6082086276444,
+    "lng": 126.917361372981,
+    "geoApprox": false
   },
   {
     "id": 937,
@@ -29980,8 +29980,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.4773235,
-    "lng": 126.9274477,
+    "lat": 37.4771198534832,
+    "lng": 126.926876735629,
     "geoApprox": false
   },
   {
@@ -30012,9 +30012,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.55874,
-    "lng": 126.89136,
-    "geoApprox": true
+    "lat": 37.5536478329572,
+    "lng": 126.949778833645,
+    "geoApprox": false
   },
   {
     "id": 939,
@@ -30044,9 +30044,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.58308,
-    "lng": 127.05422,
-    "geoApprox": true
+    "lat": 37.5702600120377,
+    "lng": 127.057598419026,
+    "geoApprox": false
   },
   {
     "id": 940,
@@ -30076,8 +30076,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.6224769,
-    "lng": 127.0849931,
+    "lat": 37.622879790197,
+    "lng": 127.08478195175,
     "geoApprox": false
   },
   {
@@ -30108,9 +30108,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.57012,
-    "lng": 127.02738,
-    "geoApprox": true
+    "lat": 37.5632612152138,
+    "lng": 127.029678058836,
+    "geoApprox": false
   },
   {
     "id": 942,
@@ -30140,9 +30140,9 @@ window.KINDERGARTENS = [
       "special": 10
     },
     "hasSpecialClass": true,
-    "lat": 37.5357,
-    "lng": 127.1101,
-    "geoApprox": true
+    "lat": 37.5618696246217,
+    "lng": 127.180267055739,
+    "geoApprox": false
   },
   {
     "id": 943,
@@ -30172,9 +30172,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.51188,
-    "lng": 127.04492,
-    "geoApprox": true
+    "lat": 37.512045952,
+    "lng": 127.039435597045,
+    "geoApprox": false
   },
   {
     "id": 944,
@@ -30204,9 +30204,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5425,
-    "lng": 126.8529,
-    "geoApprox": true
+    "lat": 37.5622171927841,
+    "lng": 126.858521557616,
+    "geoApprox": false
   },
   {
     "id": 945,
@@ -30236,8 +30236,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.5070661,
-    "lng": 127.1108016,
+    "lat": 37.5069549745149,
+    "lng": 127.111247174893,
     "geoApprox": false
   },
   {
@@ -30268,9 +30268,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
-    "lat": 37.56042,
-    "lng": 126.85018,
-    "geoApprox": true
+    "lat": 37.560894450375,
+    "lng": 126.842382226829,
+    "geoApprox": false
   }
 ];
 window.DATA_META = {
