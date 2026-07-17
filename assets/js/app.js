@@ -240,7 +240,7 @@
     renderMarkers(list);
     renderCards(list);
     document.getElementById('resultCount').textContent =
-      '총 ' + list.length + '곳이 있어요' + (list.length < KINDERGARTENS.length ? ' (전체 ' + KINDERGARTENS.length + '곳 중)' : '!');
+      '총 ' + list.length + '곳' + (list.length < KINDERGARTENS.length ? ' (전체 ' + KINDERGARTENS.length + '곳 중)' : '');
   }
 
   /* ---------- 초기 UI 구성 ---------- */
@@ -402,7 +402,6 @@
   });
 
   /* ---------- 시작 ---------- */
-  document.getElementById('totalCount').textContent = KINDERGARTENS.length;
   document.getElementById('surveyDate').textContent = DATA_META.surveyDate || '';
   buildFilterPills();
   buildDistrictSelect();
