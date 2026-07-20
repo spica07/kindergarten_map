@@ -191,7 +191,7 @@
     var parts = AGE_ORDER
       .filter(function (k) { return f.classes[k] > 0; })
       .map(function (k) { return AGE_LABEL[k] + ' ' + f.classes[k] + '반(' + f.students[k] + '명)'; });
-    return parts.join(', ');
+    return parts.join('\n');
   }
 
   window.openFacilityModal = function (id) {

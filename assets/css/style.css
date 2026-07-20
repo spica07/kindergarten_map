@@ -331,7 +331,7 @@ body {
   border-left: 4px solid var(--gold); padding-left: 10px;
 }
 .detail-item .k { color: var(--coral); }
-.detail-item .v { color: #253044; word-break: break-all; }
+.detail-item .v { color: #253044; word-break: break-all; white-space: pre-line; }
 .modal-links { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; }
 .link-btn {
   font-family: inherit; font-size: 0.95rem; text-decoration: none;
