@@ -17763,7 +17763,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(법인)",
     "eduSupport": "강동송파교육지원청",
     "phone": "02-422-1311",
-    "homepage": "http://www.bulkwangkids.com",
+    "homepage": "",
     "operHours": "09시00분~18시00분",
     "classCount": 5,
     "studentCount": 110,
