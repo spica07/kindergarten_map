@@ -28,6 +28,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4719826762833,
     "lng": 126.908186532287,
     "geoApprox": false
@@ -60,6 +61,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5048485219584,
     "lng": 127.117385322638,
     "geoApprox": false
@@ -92,6 +94,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4807980422348,
     "lng": 127.126294853445,
     "geoApprox": false
@@ -124,6 +127,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6058145949305,
     "lng": 127.093521755522,
     "geoApprox": false
@@ -156,6 +160,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6065228487307,
     "lng": 127.075835832737,
     "geoApprox": false
@@ -188,6 +193,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.5962247021211,
     "lng": 126.912318682588,
     "geoApprox": false
@@ -220,6 +226,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.552781864533,
     "lng": 126.960655552156,
     "geoApprox": false
@@ -252,6 +259,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5597837446411,
     "lng": 126.986776737543,
     "geoApprox": false
@@ -284,6 +292,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6588438529621,
     "lng": 127.066336425835,
     "geoApprox": false
@@ -316,6 +325,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4846770065757,
     "lng": 127.147350395772,
     "geoApprox": false
@@ -348,6 +358,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6479137277855,
     "lng": 127.051425751311,
     "geoApprox": false
@@ -380,6 +391,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5230000891198,
     "lng": 127.023514362141,
     "geoApprox": false
@@ -412,6 +424,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4688571015783,
     "lng": 127.091075885061,
     "geoApprox": false
@@ -444,6 +457,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5090607429601,
     "lng": 127.004778953284,
     "geoApprox": false
@@ -476,6 +490,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.516341716111,
     "lng": 126.833431935892,
     "geoApprox": false
@@ -508,6 +523,7 @@ window.KINDERGARTENS = [
       "special": 7
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5533838477146,
     "lng": 127.180276830722,
     "geoApprox": false
@@ -540,6 +556,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.483008286730424,
     "lng": 127.09494209595904,
     "geoApprox": false
@@ -572,6 +589,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6236487604699,
     "lng": 126.923909005211,
     "geoApprox": false
@@ -604,6 +622,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5007499044884,
     "lng": 127.017066977739,
     "geoApprox": false
@@ -636,6 +655,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.563510635781,
     "lng": 126.919166278819,
     "geoApprox": false
@@ -668,6 +688,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5683388716972,
     "lng": 127.041605053834,
     "geoApprox": false
@@ -700,6 +721,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4570942208519,
     "lng": 127.019275619438,
     "geoApprox": false
@@ -732,6 +754,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4863219964306,
     "lng": 127.03679299115,
     "geoApprox": false
@@ -764,6 +787,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4816986136485,
     "lng": 127.059450501428,
     "geoApprox": false
@@ -796,6 +820,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4784201489683,
     "lng": 126.913478658732,
     "geoApprox": false
@@ -828,6 +853,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4467672802822,
     "lng": 126.905064619222,
     "geoApprox": false
@@ -860,6 +886,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.49344,
     "lng": 126.89726,
     "geoApprox": true
@@ -892,6 +919,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.505537832379,
     "lng": 126.92158522233,
     "geoApprox": false
@@ -924,6 +952,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5194246797911,
     "lng": 126.864038205091,
     "geoApprox": false
@@ -956,6 +985,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5184159016956,
     "lng": 126.835157228112,
     "geoApprox": false
@@ -988,6 +1018,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5328710177851,
     "lng": 126.885695675904,
     "geoApprox": false
@@ -1020,6 +1051,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5631752585272,
     "lng": 126.821215237029,
     "geoApprox": false
@@ -1052,6 +1084,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5751432705208,
     "lng": 127.071666424993,
     "geoApprox": false
@@ -1084,6 +1117,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5748917275114,
     "lng": 127.083439043719,
     "geoApprox": false
@@ -1116,6 +1150,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.6685080240309,
     "lng": 127.080813489899,
     "geoApprox": false
@@ -1148,6 +1183,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6492235267175,
     "lng": 127.025239329128,
     "geoApprox": false
@@ -1180,6 +1216,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6513707663527,
     "lng": 127.078214874554,
     "geoApprox": false
@@ -1212,6 +1249,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6219704228009,
     "lng": 126.913971706642,
     "geoApprox": false
@@ -1244,6 +1282,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4909161360666,
     "lng": 127.144566964221,
     "geoApprox": false
@@ -1276,6 +1315,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5292230076963,
     "lng": 127.131565329145,
     "geoApprox": false
@@ -1308,6 +1348,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6591763335951,
     "lng": 127.03221343839,
     "geoApprox": false
@@ -1340,6 +1381,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5898926414222,
     "lng": 126.919687804559,
     "geoApprox": false
@@ -1372,6 +1414,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6183016610212,
     "lng": 126.916946967451,
     "geoApprox": false
@@ -1404,6 +1447,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.5806284683372,
     "lng": 127.052798088901,
     "geoApprox": false
@@ -1436,6 +1480,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5817725038007,
     "lng": 126.904410147343,
     "geoApprox": false
@@ -1468,6 +1513,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5183357784743,
     "lng": 126.977416246934,
     "geoApprox": false
@@ -1500,6 +1546,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6157691851288,
     "lng": 127.004932905081,
     "geoApprox": false
@@ -1532,6 +1579,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5965594834136,
     "lng": 127.022954666928,
     "geoApprox": false
@@ -1564,6 +1612,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5846246415362,
     "lng": 127.016683393378,
     "geoApprox": false
@@ -1596,6 +1645,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5315163480803,
     "lng": 126.870904725016,
     "geoApprox": false
@@ -1628,6 +1678,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5768038501964,
     "lng": 126.810286852537,
     "geoApprox": false
@@ -1660,6 +1711,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.543780348526,
     "lng": 126.846678573063,
     "geoApprox": false
@@ -1692,6 +1744,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4963730035523,
     "lng": 126.863082153299,
     "geoApprox": false
@@ -1724,6 +1777,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5062347093767,
     "lng": 126.895153486219,
     "geoApprox": false
@@ -1756,6 +1810,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4949310633609,
     "lng": 126.908153923365,
     "geoApprox": false
@@ -1788,6 +1843,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2025",
     "lat": 37.6575810368528,
     "lng": 127.029886801092,
     "geoApprox": false
@@ -1820,6 +1876,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6840110750848,
     "lng": 127.048205945489,
     "geoApprox": false
@@ -1852,6 +1909,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.6481193643814,
     "lng": 127.057595830364,
     "geoApprox": false
@@ -1884,6 +1942,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5386376331175,
     "lng": 126.949973786127,
     "geoApprox": false
@@ -1916,6 +1975,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5763095825917,
     "lng": 126.891959952963,
     "geoApprox": false
@@ -1948,6 +2008,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6329384289784,
     "lng": 126.929198935551,
     "geoApprox": false
@@ -1980,6 +2041,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5674521269073,
     "lng": 126.908191614138,
     "geoApprox": false
@@ -2012,6 +2074,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5333960439046,
     "lng": 127.089785089027,
     "geoApprox": false
@@ -2044,6 +2107,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5329087681794,
     "lng": 127.084177549484,
     "geoApprox": false
@@ -2076,6 +2140,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.53116940601,
     "lng": 127.083768981607,
     "geoApprox": false
@@ -2108,6 +2173,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5387800804493,
     "lng": 127.098357196735,
     "geoApprox": false
@@ -2140,6 +2206,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5140077737504,
     "lng": 127.095036549398,
     "geoApprox": false
@@ -2172,6 +2239,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5179242320345,
     "lng": 127.100823924714,
     "geoApprox": false
@@ -2204,6 +2272,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.5818790526193,
     "lng": 126.924076297753,
     "geoApprox": false
@@ -2236,6 +2305,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4942068396456,
     "lng": 127.049734781209,
     "geoApprox": false
@@ -2268,6 +2338,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6137702863968,
     "lng": 127.068980441185,
     "geoApprox": false
@@ -2300,6 +2371,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.4827797878222,
     "lng": 126.956370656039,
     "geoApprox": false
@@ -2332,6 +2404,7 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4810297131995,
     "lng": 126.942570541831,
     "geoApprox": false
@@ -2364,6 +2437,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.6610943123375,
     "lng": 127.078534248864,
     "geoApprox": false
@@ -2396,6 +2470,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6031275113367,
     "lng": 127.014541747883,
     "geoApprox": false
@@ -2428,6 +2503,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5490844724681,
     "lng": 127.156927612469,
     "geoApprox": false
@@ -2460,6 +2536,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5406954304154,
     "lng": 126.876258028151,
     "geoApprox": false
@@ -2492,6 +2569,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.539331648604,
     "lng": 126.843641601375,
     "geoApprox": false
@@ -2524,6 +2602,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.516897584317,
     "lng": 126.840110819597,
     "geoApprox": false
@@ -2556,6 +2635,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4908690195115,
     "lng": 126.857963649044,
     "geoApprox": false
@@ -2588,6 +2668,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5773472429026,
     "lng": 127.064386983555,
     "geoApprox": false
@@ -2620,6 +2701,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5249254788745,
     "lng": 126.898029838734,
     "geoApprox": false
@@ -2652,6 +2734,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2022",
     "lat": 37.5033929766399,
     "lng": 126.959778422441,
     "geoApprox": false
@@ -2684,6 +2767,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4865852040387,
     "lng": 126.942679132637,
     "geoApprox": false
@@ -2716,6 +2800,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.5067786538055,
     "lng": 126.968934187019,
     "geoApprox": false
@@ -2748,6 +2833,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6566747087322,
     "lng": 127.022753987328,
     "geoApprox": false
@@ -2780,6 +2866,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6298024340719,
     "lng": 127.07261882185,
     "geoApprox": false
@@ -2812,6 +2899,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.6445447578627,
     "lng": 127.068780686525,
     "geoApprox": false
@@ -2844,6 +2932,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.684506075345,
     "lng": 127.055187311236,
     "geoApprox": false
@@ -2876,6 +2965,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6201216012053,
     "lng": 127.089415919561,
     "geoApprox": false
@@ -2908,6 +2998,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.6329639777027,
     "lng": 127.060508959979,
     "geoApprox": false
@@ -2940,6 +3031,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6533558400471,
     "lng": 127.032427255133,
     "geoApprox": false
@@ -2972,6 +3064,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6588889617162,
     "lng": 127.049087839187,
     "geoApprox": false
@@ -3004,6 +3097,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5525084741627,
     "lng": 126.919831600208,
     "geoApprox": false
@@ -3036,6 +3130,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5823673165563,
     "lng": 127.023436223635,
     "geoApprox": false
@@ -3068,6 +3163,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5916524767249,
     "lng": 127.02214561649,
     "geoApprox": false
@@ -3100,6 +3196,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5175441448731,
     "lng": 127.053424049522,
     "geoApprox": false
@@ -3132,6 +3229,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4928856919528,
     "lng": 127.021740095689,
     "geoApprox": false
@@ -3164,6 +3262,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5004532195354,
     "lng": 127.015647626899,
     "geoApprox": false
@@ -3196,6 +3295,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.4786384237574,
     "lng": 127.000750701283,
     "geoApprox": false
@@ -3228,6 +3328,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5619494839149,
     "lng": 127.001235055009,
     "geoApprox": false
@@ -3260,6 +3361,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5392036532348,
     "lng": 127.005599847436,
     "geoApprox": false
@@ -3292,6 +3394,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5631948856751,
     "lng": 126.989104578062,
     "geoApprox": false
@@ -3324,6 +3427,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5822216685014,
     "lng": 126.97034294611,
     "geoApprox": false
@@ -3356,6 +3460,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5210195125212,
     "lng": 126.973141261532,
     "geoApprox": false
@@ -3388,6 +3493,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5035683626161,
     "lng": 127.128561395568,
     "geoApprox": false
@@ -3420,6 +3526,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.6485694706115,
     "lng": 127.044061327345,
     "geoApprox": false
@@ -3452,6 +3559,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6168600216765,
     "lng": 127.048151233375,
     "geoApprox": false
@@ -3484,6 +3592,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5050604361168,
     "lng": 126.849126611988,
     "geoApprox": false
@@ -3516,6 +3625,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5852407128388,
     "lng": 127.085961098757,
     "geoApprox": false
@@ -3548,6 +3658,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5755060418781,
     "lng": 127.049695860484,
     "geoApprox": false
@@ -3580,6 +3691,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4629100391456,
     "lng": 126.890423305457,
     "geoApprox": false
@@ -3612,6 +3724,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6669153127476,
     "lng": 127.054316055338,
     "geoApprox": false
@@ -3644,6 +3757,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5368378891148,
     "lng": 127.080107720459,
     "geoApprox": false
@@ -3676,6 +3790,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.6361964757812,
     "lng": 127.031559882026,
     "geoApprox": false
@@ -3708,6 +3823,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.6135321169515,
     "lng": 127.034256454097,
     "geoApprox": false
@@ -3740,6 +3856,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6419553058077,
     "lng": 127.011095453075,
     "geoApprox": false
@@ -3772,6 +3889,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5304917886045,
     "lng": 127.126627719417,
     "geoApprox": false
@@ -3804,6 +3922,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.472003312266,
     "lng": 126.936754150323,
     "geoApprox": false
@@ -3836,6 +3955,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6307779754887,
     "lng": 127.073998366297,
     "geoApprox": false
@@ -3868,6 +3988,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5511122718085,
     "lng": 127.169246436226,
     "geoApprox": false
@@ -3900,6 +4021,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6347980559218,
     "lng": 126.931012134228,
     "geoApprox": false
@@ -3932,6 +4054,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6428170709901,
     "lng": 126.920260954556,
     "geoApprox": false
@@ -3964,6 +4087,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5578308778281,
     "lng": 126.822806144479,
     "geoApprox": false
@@ -3996,6 +4120,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6203042094228,
     "lng": 126.911993073275,
     "geoApprox": false
@@ -4028,6 +4153,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5003760295043,
     "lng": 126.937378799359,
     "geoApprox": false
@@ -4060,6 +4186,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4879290070931,
     "lng": 126.966763108256,
     "geoApprox": false
@@ -4092,6 +4219,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.4841357625535,
     "lng": 126.960607343765,
     "geoApprox": false
@@ -4124,6 +4252,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4922531476817,
     "lng": 126.959351195231,
     "geoApprox": false
@@ -4156,6 +4285,7 @@ window.KINDERGARTENS = [
       "special": 5
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4895280611996,
     "lng": 126.857972181036,
     "geoApprox": false
@@ -4188,6 +4318,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4879630931966,
     "lng": 126.895027399291,
     "geoApprox": false
@@ -4220,6 +4351,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5196416407122,
     "lng": 126.92259080096,
     "geoApprox": false
@@ -4252,6 +4384,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5416266176084,
     "lng": 127.100698325535,
     "geoApprox": false
@@ -4284,6 +4417,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5636169050906,
     "lng": 126.847393103837,
     "geoApprox": false
@@ -4316,6 +4450,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5686146565852,
     "lng": 126.811542221972,
     "geoApprox": false
@@ -4348,6 +4483,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5790832853249,
     "lng": 127.060805297019,
     "geoApprox": false
@@ -4380,6 +4516,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5883932941526,
     "lng": 127.039218485863,
     "geoApprox": false
@@ -4412,6 +4549,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5810707742625,
     "lng": 127.091659137245,
     "geoApprox": false
@@ -4444,6 +4582,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.598118412566,
     "lng": 127.076670924559,
     "geoApprox": false
@@ -4476,6 +4615,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6379556162713,
     "lng": 127.059802173858,
     "geoApprox": false
@@ -4508,6 +4648,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6238343591525,
     "lng": 127.064778103315,
     "geoApprox": false
@@ -4540,6 +4681,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5294607910398,
     "lng": 127.114054184816,
     "geoApprox": false
@@ -4572,6 +4714,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5028743847825,
     "lng": 127.106687281018,
     "geoApprox": false
@@ -4604,6 +4747,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5797510164641,
     "lng": 126.882073551893,
     "geoApprox": false
@@ -4636,6 +4780,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5621975027024,
     "lng": 126.916418582601,
     "geoApprox": false
@@ -4668,6 +4813,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5534474873056,
     "lng": 127.125660013035,
     "geoApprox": false
@@ -4700,6 +4846,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.4986156171997,
     "lng": 127.118757494143,
     "geoApprox": false
@@ -4732,6 +4879,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.4969953805775,
     "lng": 127.149081953037,
     "geoApprox": false
@@ -4764,6 +4912,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.6019982839232,
     "lng": 127.084548408505,
     "geoApprox": false
@@ -4796,6 +4945,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5351566093996,
     "lng": 126.881874415824,
     "geoApprox": false
@@ -4828,6 +4978,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.4973056636224,
     "lng": 126.839751372769,
     "geoApprox": false
@@ -4860,6 +5011,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.4488979968094,
     "lng": 126.903505969114,
     "geoApprox": false
@@ -4892,6 +5044,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.4960916957171,
     "lng": 126.84293975833,
     "geoApprox": false
@@ -4924,6 +5077,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5472457327354,
     "lng": 127.078304321398,
     "geoApprox": false
@@ -4956,6 +5110,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5540529884568,
     "lng": 127.097719061855,
     "geoApprox": false
@@ -4988,6 +5143,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.4791984024334,
     "lng": 127.000490785932,
     "geoApprox": false
@@ -5020,6 +5176,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5529725262612,
     "lng": 127.147436202442,
     "geoApprox": false
@@ -5052,6 +5209,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5534209244642,
     "lng": 127.141944709594,
     "geoApprox": false
@@ -5084,6 +5242,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5710197152233,
     "lng": 126.846462691088,
     "geoApprox": false
@@ -5116,6 +5275,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5603448974762,
     "lng": 127.169481229506,
     "geoApprox": false
@@ -5148,6 +5308,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6196000866042,
     "lng": 127.061393191294,
     "geoApprox": false
@@ -5180,6 +5341,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5973628688991,
     "lng": 127.032963688887,
     "geoApprox": false
@@ -5212,6 +5374,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4780152934722,
     "lng": 127.12936100839,
     "geoApprox": false
@@ -5244,6 +5407,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6039788539206,
     "lng": 127.020612397208,
     "geoApprox": false
@@ -5276,6 +5440,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5359499494616,
     "lng": 126.871942644571,
     "geoApprox": false
@@ -5308,6 +5473,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5769596950152,
     "lng": 126.818932773167,
     "geoApprox": false
@@ -5340,6 +5506,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5309878151642,
     "lng": 126.849228041434,
     "geoApprox": false
@@ -5372,6 +5539,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4898993993674,
     "lng": 126.888961869782,
     "geoApprox": false
@@ -5404,6 +5572,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6141017641988,
     "lng": 127.091034702557,
     "geoApprox": false
@@ -5436,6 +5605,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4816580692642,
     "lng": 126.979370260506,
     "geoApprox": false
@@ -5468,6 +5638,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2025",
     "lat": 37.49154085489,
     "lng": 126.893663774589,
     "geoApprox": false
@@ -5500,6 +5671,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.4824047772703,
     "lng": 126.925095251662,
     "geoApprox": false
@@ -5532,6 +5704,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4977831687345,
     "lng": 126.933201861843,
     "geoApprox": false
@@ -5564,6 +5737,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6578378451702,
     "lng": 127.033787334216,
     "geoApprox": false
@@ -5596,6 +5770,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.6677947086387,
     "lng": 127.058746395525,
     "geoApprox": false
@@ -5628,6 +5803,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6286067853213,
     "lng": 127.062796826548,
     "geoApprox": false
@@ -5660,6 +5836,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6528674456933,
     "lng": 127.077719531665,
     "geoApprox": false
@@ -5692,6 +5869,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6306654895742,
     "lng": 127.043504483567,
     "geoApprox": false
@@ -5724,6 +5902,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5661542249597,
     "lng": 126.932307330166,
     "geoApprox": false
@@ -5756,6 +5935,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5861396133623,
     "lng": 126.935825543282,
     "geoApprox": false
@@ -5788,6 +5968,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6160518597222,
     "lng": 126.914253420269,
     "geoApprox": false
@@ -5820,6 +6001,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5453300340479,
     "lng": 127.017925368592,
     "geoApprox": false
@@ -5852,6 +6034,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5998946652134,
     "lng": 127.036301667954,
     "geoApprox": false
@@ -5884,6 +6067,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5458497505471,
     "lng": 127.131921120496,
     "geoApprox": false
@@ -5916,6 +6100,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4911373654824,
     "lng": 127.10185783552,
     "geoApprox": false
@@ -5948,6 +6133,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5902198832433,
     "lng": 126.944804483066,
     "geoApprox": false
@@ -5980,6 +6166,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2025",
     "lat": 37.493154981993,
     "lng": 127.062999980103,
     "geoApprox": false
@@ -6012,6 +6199,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4932437695434,
     "lng": 127.079114775367,
     "geoApprox": false
@@ -6044,6 +6232,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.50432,
     "lng": 127.03438,
     "geoApprox": true
@@ -6076,6 +6265,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.4939058491626,
     "lng": 127.023431961533,
     "geoApprox": false
@@ -6108,6 +6298,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5482132735459,
     "lng": 126.850057007784,
     "geoApprox": false
@@ -6140,6 +6331,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5340074359806,
     "lng": 126.86159821496,
     "geoApprox": false
@@ -6172,6 +6364,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.52428,
     "lng": 126.85892,
     "geoApprox": true
@@ -6204,6 +6397,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.5488448495074,
     "lng": 126.867676737451,
     "geoApprox": false
@@ -6236,6 +6430,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5120947920338,
     "lng": 126.860291121004,
     "geoApprox": false
@@ -6268,6 +6463,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5453,
     "lng": 126.8631,
     "geoApprox": true
@@ -6300,6 +6496,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5578530747432,
     "lng": 126.987481605528,
     "geoApprox": false
@@ -6332,6 +6529,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5344326622037,
     "lng": 126.950182625895,
     "geoApprox": false
@@ -6364,6 +6562,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5905286694817,
     "lng": 127.001075311676,
     "geoApprox": false
@@ -6396,6 +6595,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5856754144498,
     "lng": 127.057916891964,
     "geoApprox": false
@@ -6428,6 +6628,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4995114113359,
     "lng": 127.054465527162,
     "geoApprox": false
@@ -6460,6 +6661,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.6321862253702,
     "lng": 126.928798490682,
     "geoApprox": false
@@ -6492,6 +6694,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5251047814187,
     "lng": 126.893740706505,
     "geoApprox": false
@@ -6524,6 +6727,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.4739096592716,
     "lng": 126.964265479428,
     "geoApprox": false
@@ -6556,6 +6760,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5428113683507,
     "lng": 127.147341961238,
     "geoApprox": false
@@ -6588,6 +6793,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5193541989926,
     "lng": 127.046542965156,
     "geoApprox": false
@@ -6620,6 +6826,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5435971286071,
     "lng": 127.085214074586,
     "geoApprox": false
@@ -6652,6 +6859,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5545314695033,
     "lng": 127.026186636459,
     "geoApprox": false
@@ -6684,6 +6892,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.5650973253908,
     "lng": 127.03474225024,
     "geoApprox": false
@@ -6716,6 +6925,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6541896346479,
     "lng": 127.013973638941,
     "geoApprox": false
@@ -6748,6 +6958,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.4471,
     "lng": 126.9108,
     "geoApprox": true
@@ -6780,6 +6991,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5891727709231,
     "lng": 126.999927989279,
     "geoApprox": false
@@ -6812,6 +7024,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6097895968758,
     "lng": 126.905707319658,
     "geoApprox": false
@@ -6844,6 +7057,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5973870636459,
     "lng": 127.019322962491,
     "geoApprox": false
@@ -6876,6 +7090,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5582881769332,
     "lng": 127.082801896999,
     "geoApprox": false
@@ -6908,6 +7123,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5748809802173,
     "lng": 126.814329101616,
     "geoApprox": false
@@ -6940,6 +7156,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5906965996805,
     "lng": 127.087287822911,
     "geoApprox": false
@@ -6972,6 +7189,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4889482943857,
     "lng": 126.914528045959,
     "geoApprox": false
@@ -7004,6 +7222,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.516733284228,
     "lng": 127.089889095677,
     "geoApprox": false
@@ -7036,6 +7255,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4711283689775,
     "lng": 127.049170534433,
     "geoApprox": false
@@ -7068,6 +7288,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4876033476735,
     "lng": 127.049755052514,
     "geoApprox": false
@@ -7100,6 +7321,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.679961751365,
     "lng": 127.038288664028,
     "geoApprox": false
@@ -7132,6 +7354,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.647684897261,
     "lng": 127.081465589212,
     "geoApprox": false
@@ -7164,6 +7387,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5049440040772,
     "lng": 126.844386612871,
     "geoApprox": false
@@ -7196,6 +7420,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.523450121384,
     "lng": 126.867236182114,
     "geoApprox": false
@@ -7228,6 +7453,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.46552,
     "lng": 126.93868,
     "geoApprox": true
@@ -7260,6 +7486,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4740581859067,
     "lng": 126.932256739479,
     "geoApprox": false
@@ -7292,6 +7519,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6440349660334,
     "lng": 127.066927183916,
     "geoApprox": false
@@ -7324,6 +7552,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6561110933603,
     "lng": 127.072595026681,
     "geoApprox": false
@@ -7356,6 +7585,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5009763571584,
     "lng": 126.85679629258,
     "geoApprox": false
@@ -7388,6 +7618,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.488040619727,
     "lng": 126.881808889261,
     "geoApprox": false
@@ -7420,6 +7651,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4523226721912,
     "lng": 126.914525435709,
     "geoApprox": false
@@ -7452,6 +7684,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5016428787326,
     "lng": 126.909256040448,
     "geoApprox": false
@@ -7484,6 +7717,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5900242441139,
     "lng": 126.908967797194,
     "geoApprox": false
@@ -7516,6 +7750,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5832772226944,
     "lng": 126.947232533354,
     "geoApprox": false
@@ -7548,6 +7783,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5295155831457,
     "lng": 126.829865622881,
     "geoApprox": false
@@ -7580,6 +7816,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6419195213127,
     "lng": 127.038011023237,
     "geoApprox": false
@@ -7612,6 +7849,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5959199688468,
     "lng": 126.94569176914,
     "geoApprox": false
@@ -7644,6 +7882,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5653495020407,
     "lng": 126.909043559638,
     "geoApprox": false
@@ -7676,6 +7915,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4947369176705,
     "lng": 127.130992550094,
     "geoApprox": false
@@ -7708,6 +7948,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6666919810414,
     "lng": 127.079126011496,
     "geoApprox": false
@@ -7740,6 +7981,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5088312569718,
     "lng": 127.095121373383,
     "geoApprox": false
@@ -7772,6 +8014,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4956823660362,
     "lng": 126.941133911047,
     "geoApprox": false
@@ -7804,6 +8047,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5598739694238,
     "lng": 127.153177950966,
     "geoApprox": false
@@ -7836,6 +8080,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5166909917264,
     "lng": 127.137712375583,
     "geoApprox": false
@@ -7868,6 +8113,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5047186137619,
     "lng": 127.120412264842,
     "geoApprox": false
@@ -7900,6 +8146,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4928802334449,
     "lng": 126.859308079005,
     "geoApprox": false
@@ -7932,6 +8179,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5749603198126,
     "lng": 127.0889553819,
     "geoApprox": false
@@ -7964,6 +8212,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5859738786556,
     "lng": 127.085550502087,
     "geoApprox": false
@@ -7996,6 +8245,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6066720723276,
     "lng": 126.926763237161,
     "geoApprox": false
@@ -8028,6 +8278,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5940290964604,
     "lng": 126.921565836958,
     "geoApprox": false
@@ -8060,6 +8311,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5500581711566,
     "lng": 126.946906393559,
     "geoApprox": false
@@ -8092,6 +8344,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6120328876191,
     "lng": 127.000333434653,
     "geoApprox": false
@@ -8124,6 +8377,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5591934088751,
     "lng": 126.966980133221,
     "geoApprox": false
@@ -8156,6 +8410,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5590698344618,
     "lng": 127.008963084864,
     "geoApprox": false
@@ -8188,6 +8443,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5795440101952,
     "lng": 126.967291871532,
     "geoApprox": false
@@ -8220,6 +8476,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6047479919616,
     "lng": 127.041090226562,
     "geoApprox": false
@@ -8252,6 +8509,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6426557894829,
     "lng": 127.01963902071,
     "geoApprox": false
@@ -8284,6 +8542,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5351780652108,
     "lng": 126.855325008112,
     "geoApprox": false
@@ -8316,6 +8575,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5284981870414,
     "lng": 126.904789059812,
     "geoApprox": false
@@ -8348,6 +8608,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5520558380171,
     "lng": 127.092574431221,
     "geoApprox": false
@@ -8380,6 +8641,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5427389649157,
     "lng": 127.065044620523,
     "geoApprox": false
@@ -8412,6 +8674,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.5388779460832,
     "lng": 127.078614308872,
     "geoApprox": false
@@ -8444,6 +8707,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4998746399971,
     "lng": 127.107214872322,
     "geoApprox": false
@@ -8476,6 +8740,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5385916779149,
     "lng": 127.144972942492,
     "geoApprox": false
@@ -8508,6 +8773,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5092192490953,
     "lng": 127.124042763378,
     "geoApprox": false
@@ -8540,6 +8806,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5204391801508,
     "lng": 127.1141159026,
     "geoApprox": false
@@ -8572,6 +8839,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5125072743566,
     "lng": 126.839850082787,
     "geoApprox": false
@@ -8604,6 +8872,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5743746971023,
     "lng": 126.890395580636,
     "geoApprox": false
@@ -8636,6 +8905,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5712114625604,
     "lng": 126.843591958573,
     "geoApprox": false
@@ -8668,6 +8938,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6469786593648,
     "lng": 127.06146433043,
     "geoApprox": false
@@ -8700,6 +8971,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5840296761835,
     "lng": 127.020378764065,
     "geoApprox": false
@@ -8732,6 +9004,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6098063072863,
     "lng": 127.022884328607,
     "geoApprox": false
@@ -8764,6 +9037,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5485163903283,
     "lng": 127.153572050646,
     "geoApprox": false
@@ -8796,6 +9070,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5238792766238,
     "lng": 126.861669190913,
     "geoApprox": false
@@ -8828,6 +9103,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5408985213958,
     "lng": 126.832751708426,
     "geoApprox": false
@@ -8860,6 +9136,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.51357077726,
     "lng": 126.833371811835,
     "geoApprox": false
@@ -8892,6 +9169,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2025",
     "lat": 37.5063500958885,
     "lng": 126.912123401085,
     "geoApprox": false
@@ -8924,6 +9202,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5076336086726,
     "lng": 126.90837021995,
     "geoApprox": false
@@ -8956,6 +9235,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6172653669997,
     "lng": 127.085544432545,
     "geoApprox": false
@@ -8988,6 +9268,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5722517408702,
     "lng": 127.060502369282,
     "geoApprox": false
@@ -9020,6 +9301,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.4796876429151,
     "lng": 126.905988849793,
     "geoApprox": false
@@ -9052,6 +9334,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.505742804221,
     "lng": 126.900623831076,
     "geoApprox": false
@@ -9084,6 +9367,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4767252713626,
     "lng": 126.951284574125,
     "geoApprox": false
@@ -9116,6 +9400,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.4891912314305,
     "lng": 126.907388773996,
     "geoApprox": false
@@ -9148,6 +9433,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.6000975693796,
     "lng": 126.91422349301,
     "geoApprox": false
@@ -9180,6 +9466,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5662603501179,
     "lng": 127.033427978699,
     "geoApprox": false
@@ -9212,6 +9499,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.5429263579664,
     "lng": 127.13777046206,
     "geoApprox": false
@@ -9244,6 +9532,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4931444060362,
     "lng": 127.032564910969,
     "geoApprox": false
@@ -9276,6 +9565,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5710568281709,
     "lng": 127.075113657819,
     "geoApprox": false
@@ -9308,6 +9598,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5937262094153,
     "lng": 127.013004275409,
     "geoApprox": false
@@ -9340,6 +9631,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.631249657314,
     "lng": 127.020292410668,
     "geoApprox": false
@@ -9372,6 +9664,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.5652344447823,
     "lng": 126.810672285616,
     "geoApprox": false
@@ -9404,6 +9697,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5242455952909,
     "lng": 126.838769640851,
     "geoApprox": false
@@ -9436,6 +9730,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5614610999445,
     "lng": 126.848518232742,
     "geoApprox": false
@@ -9468,6 +9763,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6007485057551,
     "lng": 126.956425519955,
     "geoApprox": false
@@ -9500,6 +9796,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5690888764456,
     "lng": 126.974657902016,
     "geoApprox": false
@@ -9532,6 +9829,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5799415657652,
     "lng": 126.9855017071,
     "geoApprox": false
@@ -9564,6 +9862,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5196486041968,
     "lng": 126.976816771637,
     "geoApprox": false
@@ -9596,6 +9895,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5406351948312,
     "lng": 126.990648072602,
     "geoApprox": false
@@ -9628,6 +9928,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.5794123977668,
     "lng": 127.016654833584,
     "geoApprox": false
@@ -9660,6 +9961,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5989927554427,
     "lng": 127.023132747169,
     "geoApprox": false
@@ -9692,6 +9994,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.513512293639,
     "lng": 127.120531131015,
     "geoApprox": false
@@ -9724,6 +10027,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5409268527757,
     "lng": 127.149979091111,
     "geoApprox": false
@@ -9756,6 +10060,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.49804558503,
     "lng": 126.95028099306,
     "geoApprox": false
@@ -9788,6 +10093,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5505624535913,
     "lng": 127.174953956932,
     "geoApprox": false
@@ -9820,6 +10126,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5436567301031,
     "lng": 127.104250290998,
     "geoApprox": false
@@ -9852,6 +10159,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6169686486072,
     "lng": 127.030375933428,
     "geoApprox": false
@@ -9884,6 +10192,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2025",
     "lat": 37.6094837281621,
     "lng": 127.058677170223,
     "geoApprox": false
@@ -9916,6 +10225,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6162471048919,
     "lng": 127.041180709736,
     "geoApprox": false
@@ -9948,6 +10258,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5867725134878,
     "lng": 127.017345082025,
     "geoApprox": false
@@ -9980,6 +10291,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5051066487493,
     "lng": 126.888080264013,
     "geoApprox": false
@@ -10012,6 +10324,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.5039634012483,
     "lng": 126.901151066112,
     "geoApprox": false
@@ -10044,6 +10357,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6218232749574,
     "lng": 127.012407457085,
     "geoApprox": false
@@ -10076,6 +10390,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5637580924465,
     "lng": 126.85928943925,
     "geoApprox": false
@@ -10108,6 +10423,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5270069102324,
     "lng": 126.907703382657,
     "geoApprox": false
@@ -10140,6 +10456,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5905122161631,
     "lng": 126.925112608529,
     "geoApprox": false
@@ -10172,6 +10489,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.609044756978,
     "lng": 127.073928695922,
     "geoApprox": false
@@ -10204,6 +10522,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.5013291325477,
     "lng": 127.151063224565,
     "geoApprox": false
@@ -10236,6 +10555,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6134009168268,
     "lng": 127.035828005248,
     "geoApprox": false
@@ -10268,6 +10588,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4754509759645,
     "lng": 126.96442810661,
     "geoApprox": false
@@ -10300,6 +10621,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6251395729143,
     "lng": 127.074046130883,
     "geoApprox": false
@@ -10332,6 +10654,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4463710473917,
     "lng": 126.906462134788,
     "geoApprox": false
@@ -10364,6 +10687,7 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5129480156762,
     "lng": 126.898260025571,
     "geoApprox": false
@@ -10396,6 +10720,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5074451155132,
     "lng": 126.900567851617,
     "geoApprox": false
@@ -10428,6 +10753,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5784968293823,
     "lng": 126.917392296871,
     "geoApprox": false
@@ -10460,6 +10786,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5841214400939,
     "lng": 126.922269798688,
     "geoApprox": false
@@ -10492,6 +10819,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2025",
     "lat": 37.5840548247576,
     "lng": 126.943250608159,
     "geoApprox": false
@@ -10524,6 +10852,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5740891860366,
     "lng": 126.813528129855,
     "geoApprox": false
@@ -10556,6 +10885,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5309024968854,
     "lng": 126.835852578568,
     "geoApprox": false
@@ -10588,6 +10918,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.6007507501532,
     "lng": 127.068769452719,
     "geoApprox": false
@@ -10620,6 +10951,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.5998352012159,
     "lng": 126.930068069923,
     "geoApprox": false
@@ -10652,6 +10984,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.6131689900588,
     "lng": 126.911959349585,
     "geoApprox": false
@@ -10684,6 +11017,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2025",
     "lat": 37.5123242828723,
     "lng": 126.853454551475,
     "geoApprox": false
@@ -10716,6 +11050,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.5077669299288,
     "lng": 127.107583106525,
     "geoApprox": false
@@ -10748,6 +11083,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5032185546714,
     "lng": 126.897260921154,
     "geoApprox": false
@@ -10780,6 +11116,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5023710549257,
     "lng": 127.133003223687,
     "geoApprox": false
@@ -10812,6 +11149,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4827571265965,
     "lng": 127.134044247855,
     "geoApprox": false
@@ -10844,6 +11182,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5940399583068,
     "lng": 127.08962735907,
     "geoApprox": false
@@ -10876,6 +11215,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5781450721236,
     "lng": 127.084655580941,
     "geoApprox": false
@@ -10908,6 +11248,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.5979012340131,
     "lng": 127.096608784916,
     "geoApprox": false
@@ -10940,6 +11281,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.5651958543852,
     "lng": 127.063775155288,
     "geoApprox": false
@@ -10972,6 +11314,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5926776807408,
     "lng": 127.054067865832,
     "geoApprox": false
@@ -11004,6 +11347,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5999698241466,
     "lng": 127.102995065481,
     "geoApprox": false
@@ -11036,6 +11380,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.549112429713,
     "lng": 126.944058506049,
     "geoApprox": false
@@ -11068,6 +11413,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5644645178259,
     "lng": 126.950288837762,
     "geoApprox": false
@@ -11100,6 +11446,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.59002,
     "lng": 126.92558,
     "geoApprox": true
@@ -11132,6 +11479,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.597432987781,
     "lng": 127.034771773636,
     "geoApprox": false
@@ -11164,6 +11512,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5576619371701,
     "lng": 126.813217094595,
     "geoApprox": false
@@ -11196,6 +11545,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.5670912310648,
     "lng": 126.854748176977,
     "geoApprox": false
@@ -11228,6 +11578,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4916708097802,
     "lng": 126.856831021848,
     "geoApprox": false
@@ -11260,6 +11611,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5023838193982,
     "lng": 126.900258468499,
     "geoApprox": false
@@ -11292,6 +11644,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2025",
     "lat": 37.5323786659758,
     "lng": 126.896800851966,
     "geoApprox": false
@@ -11324,6 +11677,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.6330646443357,
     "lng": 127.06712319369,
     "geoApprox": false
@@ -11356,6 +11710,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.6302844506448,
     "lng": 127.049264552091,
     "geoApprox": false
@@ -11388,6 +11743,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5594791740789,
     "lng": 126.951274321294,
     "geoApprox": false
@@ -11420,6 +11776,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5363847427107,
     "lng": 127.062391971716,
     "geoApprox": false
@@ -11452,6 +11809,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.5373590425456,
     "lng": 127.064647556923,
     "geoApprox": false
@@ -11484,6 +11842,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.484761123247,
     "lng": 127.080874756987,
     "geoApprox": false
@@ -11516,6 +11875,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.515205692824,
     "lng": 127.010269489525,
     "geoApprox": false
@@ -11548,6 +11908,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5595474750238,
     "lng": 127.160483581978,
     "geoApprox": false
@@ -11580,6 +11941,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5538244191386,
     "lng": 127.151914012333,
     "geoApprox": false
@@ -11612,6 +11974,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.4814511720735,
     "lng": 127.126389567724,
     "geoApprox": false
@@ -11644,6 +12007,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5313783123154,
     "lng": 127.139706373204,
     "geoApprox": false
@@ -11676,6 +12040,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.6320725459003,
     "lng": 127.021709319085,
     "geoApprox": false
@@ -11708,6 +12073,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.4984000624837,
     "lng": 126.921173811738,
     "geoApprox": false
@@ -11740,6 +12106,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.6263561038742,
     "lng": 127.082183727929,
     "geoApprox": false
@@ -11772,6 +12139,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5996570935306,
     "lng": 127.015804834047,
     "geoApprox": false
@@ -11804,6 +12172,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.4934139745239,
     "lng": 126.956974422755,
     "geoApprox": false
@@ -11836,6 +12205,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.509341435809,
     "lng": 126.942238728118,
     "geoApprox": false
@@ -11868,6 +12238,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.4875554407187,
     "lng": 126.95598852611,
     "geoApprox": false
@@ -11900,6 +12271,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5804052847157,
     "lng": 126.881142151445,
     "geoApprox": false
@@ -11932,6 +12304,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4857221007033,
     "lng": 127.133063478935,
     "geoApprox": false
@@ -11964,6 +12337,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5389489193049,
     "lng": 126.847232822784,
     "geoApprox": false
@@ -11996,6 +12370,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.481412481777,
     "lng": 126.836947364315,
     "geoApprox": false
@@ -12028,6 +12403,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5321686871852,
     "lng": 126.838542828777,
     "geoApprox": false
@@ -12060,6 +12436,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.5412913406969,
     "lng": 126.87850378726,
     "geoApprox": false
@@ -12092,6 +12469,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5062634637578,
     "lng": 126.876348360484,
     "geoApprox": false
@@ -12124,6 +12502,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5746094744702,
     "lng": 127.060129124176,
     "geoApprox": false
@@ -12156,6 +12535,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4857339176177,
     "lng": 126.943964801996,
     "geoApprox": false
@@ -12188,6 +12568,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.4761567725398,
     "lng": 126.891289403751,
     "geoApprox": false
@@ -12220,6 +12601,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5225634268582,
     "lng": 126.931203052964,
     "geoApprox": false
@@ -12252,6 +12634,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5015858890788,
     "lng": 126.939960697058,
     "geoApprox": false
@@ -12284,6 +12667,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6524704146763,
     "lng": 127.015834944956,
     "geoApprox": false
@@ -12316,6 +12700,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.6233646903823,
     "lng": 127.082122210605,
     "geoApprox": false
@@ -12348,6 +12733,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.6517772138584,
     "lng": 127.073859531237,
     "geoApprox": false
@@ -12380,6 +12766,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6611602749525,
     "lng": 127.060997299689,
     "geoApprox": false
@@ -12412,6 +12799,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.6358316688786,
     "lng": 127.051926911669,
     "geoApprox": false
@@ -12444,6 +12832,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5436247308559,
     "lng": 126.943900794425,
     "geoApprox": false
@@ -12476,6 +12865,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.581587462699,
     "lng": 126.919412449272,
     "geoApprox": false
@@ -12508,6 +12898,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5756614284394,
     "lng": 126.920851657864,
     "geoApprox": false
@@ -12540,6 +12931,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5550006717487,
     "lng": 126.871204647976,
     "geoApprox": false
@@ -12572,6 +12964,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.5024848344961,
     "lng": 126.991741582915,
     "geoApprox": false
@@ -12604,6 +12997,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.4852019134102,
     "lng": 127.082672775781,
     "geoApprox": false
@@ -12636,6 +13030,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.559971222213,
     "lng": 127.01170475684,
     "geoApprox": false
@@ -12668,6 +13063,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5766672930696,
     "lng": 126.988198556535,
     "geoApprox": false
@@ -12700,6 +13096,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.536196874528,
     "lng": 126.962513836335,
     "geoApprox": false
@@ -12732,6 +13129,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5195187474809,
     "lng": 126.981261146982,
     "geoApprox": false
@@ -12764,6 +13162,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5345768836952,
     "lng": 127.075652041243,
     "geoApprox": false
@@ -12796,6 +13195,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4720493601914,
     "lng": 127.099482575625,
     "geoApprox": false
@@ -12828,6 +13228,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4971007008112,
     "lng": 126.91171774768,
     "geoApprox": false
@@ -12860,6 +13261,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.5597387634115,
     "lng": 126.847963290839,
     "geoApprox": false
@@ -12892,6 +13294,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.6480695766198,
     "lng": 126.929826836735,
     "geoApprox": false
@@ -12924,6 +13327,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5631452337736,
     "lng": 127.178322444252,
     "geoApprox": false
@@ -12956,6 +13360,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2025",
     "lat": 37.5485408931781,
     "lng": 127.105232896252,
     "geoApprox": false
@@ -12988,6 +13393,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5311232360546,
     "lng": 127.089234331023,
     "geoApprox": false
@@ -13020,6 +13426,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6186120126537,
     "lng": 127.074614270574,
     "geoApprox": false
@@ -13052,6 +13459,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.6452739565111,
     "lng": 127.01048543508,
     "geoApprox": false
@@ -13084,6 +13492,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5426294442931,
     "lng": 127.015554372439,
     "geoApprox": false
@@ -13116,6 +13525,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.60973789234,
     "lng": 127.047692146833,
     "geoApprox": false
@@ -13148,6 +13558,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5976791222992,
     "lng": 126.918275747068,
     "geoApprox": false
@@ -13180,6 +13591,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5342244045517,
     "lng": 126.874169046113,
     "geoApprox": false
@@ -13212,6 +13624,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6591694905489,
     "lng": 127.057171329582,
     "geoApprox": false
@@ -13244,6 +13657,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4647104685256,
     "lng": 127.02376930375,
     "geoApprox": false
@@ -13276,6 +13690,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4646391801831,
     "lng": 127.105303959604,
     "geoApprox": false
@@ -13308,6 +13723,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5762114748296,
     "lng": 127.014293687874,
     "geoApprox": false
@@ -13340,6 +13756,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.4936295805412,
     "lng": 127.089707610517,
     "geoApprox": false
@@ -13372,6 +13789,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4891406792843,
     "lng": 127.070871480537,
     "geoApprox": false
@@ -13404,6 +13822,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.4915488149067,
     "lng": 127.040954182934,
     "geoApprox": false
@@ -13436,6 +13855,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.485530536641,
     "lng": 127.084797907539,
     "geoApprox": false
@@ -13468,6 +13888,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4974072125524,
     "lng": 127.058766231153,
     "geoApprox": false
@@ -13500,6 +13921,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4769000471999,
     "lng": 126.900959935246,
     "geoApprox": false
@@ -13532,6 +13954,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.6177585910471,
     "lng": 126.927398443385,
     "geoApprox": false
@@ -13564,6 +13987,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4847045985983,
     "lng": 126.890267788001,
     "geoApprox": false
@@ -13596,6 +14020,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5436692981533,
     "lng": 126.873986042971,
     "geoApprox": false
@@ -13628,6 +14053,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5349941902013,
     "lng": 126.836293577736,
     "geoApprox": false
@@ -13660,6 +14086,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2025",
     "lat": 37.4723005921488,
     "lng": 127.023731348976,
     "geoApprox": false
@@ -13692,6 +14119,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4846330175369,
     "lng": 126.975577985193,
     "geoApprox": false
@@ -13724,6 +14152,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5011047688479,
     "lng": 127.115267143634,
     "geoApprox": false
@@ -13756,6 +14185,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6583037299981,
     "lng": 127.027604638646,
     "geoApprox": false
@@ -13788,6 +14218,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4992678949668,
     "lng": 126.900714062322,
     "geoApprox": false
@@ -13820,6 +14251,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5438675433938,
     "lng": 126.942389642584,
     "geoApprox": false
@@ -13852,6 +14284,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.586899476029,
     "lng": 126.89916689751,
     "geoApprox": false
@@ -13884,6 +14317,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5710274870985,
     "lng": 126.806399839179,
     "geoApprox": false
@@ -13916,6 +14350,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5508825455676,
     "lng": 126.838164214765,
     "geoApprox": false
@@ -13948,6 +14383,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2025",
     "lat": 37.5916786112537,
     "lng": 127.078401124618,
     "geoApprox": false
@@ -13980,6 +14416,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5731026565696,
     "lng": 127.031584630503,
     "geoApprox": false
@@ -14012,6 +14449,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5828193166314,
     "lng": 127.068739369277,
     "geoApprox": false
@@ -14044,6 +14482,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6578069716395,
     "lng": 127.064607583167,
     "geoApprox": false
@@ -14076,6 +14515,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5989748090808,
     "lng": 126.91149028122,
     "geoApprox": false
@@ -14108,6 +14548,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6219292248912,
     "lng": 127.047320465849,
     "geoApprox": false
@@ -14140,6 +14581,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5009518983034,
     "lng": 127.095207617451,
     "geoApprox": false
@@ -14172,6 +14614,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6097999635226,
     "lng": 127.096294599887,
     "geoApprox": false
@@ -14204,6 +14647,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5880281566858,
     "lng": 127.049226158581,
     "geoApprox": false
@@ -14236,6 +14680,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5573837915783,
     "lng": 126.931451616749,
     "geoApprox": false
@@ -14268,6 +14713,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6109458980893,
     "lng": 126.914792838283,
     "geoApprox": false
@@ -14300,6 +14746,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.5444668112195,
     "lng": 127.088949688986,
     "geoApprox": false
@@ -14332,6 +14779,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5387066649905,
     "lng": 126.957863326754,
     "geoApprox": false
@@ -14364,6 +14812,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5578196996083,
     "lng": 126.987980721445,
     "geoApprox": false
@@ -14396,6 +14845,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6234811353303,
     "lng": 127.017713033702,
     "geoApprox": false
@@ -14428,6 +14878,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6149650928954,
     "lng": 127.048518344337,
     "geoApprox": false
@@ -14460,6 +14911,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5260357664797,
     "lng": 126.857155102243,
     "geoApprox": false
@@ -14492,6 +14944,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.5225223856935,
     "lng": 126.885695628228,
     "geoApprox": false
@@ -14524,6 +14977,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4994002109405,
     "lng": 126.842280533879,
     "geoApprox": false
@@ -14556,6 +15010,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6675183641329,
     "lng": 127.075828032383,
     "geoApprox": false
@@ -14588,6 +15043,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6553630407375,
     "lng": 127.044832890478,
     "geoApprox": false
@@ -14620,6 +15076,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.6552608527769,
     "lng": 127.069730371461,
     "geoApprox": false
@@ -14652,6 +15109,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5688275546965,
     "lng": 126.962941434617,
     "geoApprox": false
@@ -14684,6 +15142,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5562308963998,
     "lng": 127.073022134574,
     "geoApprox": false
@@ -14716,6 +15175,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5498138606171,
     "lng": 127.086793350213,
     "geoApprox": false
@@ -14748,6 +15208,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5431620967232,
     "lng": 127.095608314148,
     "geoApprox": false
@@ -14780,6 +15241,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4759895368366,
     "lng": 127.048642707174,
     "geoApprox": false
@@ -14812,6 +15274,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.664592882014,
     "lng": 127.078713836624,
     "geoApprox": false
@@ -14844,6 +15307,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5734543935233,
     "lng": 127.006557824133,
     "geoApprox": false
@@ -14876,6 +15340,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5082493185794,
     "lng": 126.943335302295,
     "geoApprox": false
@@ -14908,6 +15373,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.5015776884476,
     "lng": 126.951973560738,
     "geoApprox": false
@@ -14940,6 +15406,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6567942017203,
     "lng": 127.045665797854,
     "geoApprox": false
@@ -14972,6 +15439,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6048641989392,
     "lng": 127.015721226023,
     "geoApprox": false
@@ -15004,6 +15472,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5078602234885,
     "lng": 127.011582043737,
     "geoApprox": false
@@ -15036,6 +15505,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5139128078247,
     "lng": 126.832169591843,
     "geoApprox": false
@@ -15068,6 +15538,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5538617325525,
     "lng": 127.034055857783,
     "geoApprox": false
@@ -15100,6 +15571,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5378495715068,
     "lng": 127.142715361274,
     "geoApprox": false
@@ -15132,6 +15604,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5396410684288,
     "lng": 126.86784756595,
     "geoApprox": false
@@ -15164,6 +15637,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5067310421678,
     "lng": 126.864796603904,
     "geoApprox": false
@@ -15196,6 +15670,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5105473292025,
     "lng": 126.901386465946,
     "geoApprox": false
@@ -15228,6 +15703,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.4999652512578,
     "lng": 126.841353368958,
     "geoApprox": false
@@ -15260,6 +15736,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5929409000658,
     "lng": 127.059420443026,
     "geoApprox": false
@@ -15292,6 +15769,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5215670500508,
     "lng": 126.938985300887,
     "geoApprox": false
@@ -15324,6 +15802,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4522125872144,
     "lng": 126.918245309403,
     "geoApprox": false
@@ -15356,6 +15835,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4952260290266,
     "lng": 126.817441288137,
     "geoApprox": false
@@ -15388,6 +15868,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5089639491646,
     "lng": 126.92921971831,
     "geoApprox": false
@@ -15420,6 +15901,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.6429787995689,
     "lng": 127.063230307894,
     "geoApprox": false
@@ -15452,6 +15934,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6295499791392,
     "lng": 127.05416967441,
     "geoApprox": false
@@ -15484,6 +15967,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.6808384621835,
     "lng": 127.0542198702,
     "geoApprox": false
@@ -15516,6 +16000,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.6608821231494,
     "lng": 127.047523339865,
     "geoApprox": false
@@ -15548,6 +16033,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6591360455267,
     "lng": 127.033557068172,
     "geoApprox": false
@@ -15580,6 +16066,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6081972739132,
     "lng": 126.917359573492,
     "geoApprox": false
@@ -15612,6 +16099,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.6135551596623,
     "lng": 126.913551688374,
     "geoApprox": false
@@ -15644,6 +16132,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5399016047307,
     "lng": 126.955738152741,
     "geoApprox": false
@@ -15676,6 +16165,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6423028216889,
     "lng": 127.020988956763,
     "geoApprox": false
@@ -15708,6 +16198,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5832878743837,
     "lng": 127.017057951549,
     "geoApprox": false
@@ -15740,6 +16231,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.5315341736395,
     "lng": 127.029273123095,
     "geoApprox": false
@@ -15772,6 +16264,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5147416618092,
     "lng": 127.081636216984,
     "geoApprox": false
@@ -15804,6 +16297,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5371981027922,
     "lng": 126.823275879439,
     "geoApprox": false
@@ -15836,6 +16330,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.5618457999564,
     "lng": 126.856800747299,
     "geoApprox": false
@@ -15868,6 +16363,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5356738275449,
     "lng": 126.964803669293,
     "geoApprox": false
@@ -15900,6 +16396,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5191002810313,
     "lng": 126.989737216338,
     "geoApprox": false
@@ -15932,6 +16429,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.5551915990934,
     "lng": 127.016359379417,
     "geoApprox": false
@@ -15964,6 +16462,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4780197037471,
     "lng": 127.140944323281,
     "geoApprox": false
@@ -15996,6 +16495,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.5774041447151,
     "lng": 126.905665079312,
     "geoApprox": false
@@ -16028,6 +16528,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5287565489862,
     "lng": 126.897107681069,
     "geoApprox": false
@@ -16060,6 +16561,7 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5607483738375,
     "lng": 127.053786164972,
     "geoApprox": false
@@ -16092,6 +16594,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4931918730561,
     "lng": 126.873472709056,
     "geoApprox": false
@@ -16124,6 +16627,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5523679459388,
     "lng": 127.152621415299,
     "geoApprox": false
@@ -16156,6 +16660,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.474558700755,
     "lng": 127.108265007698,
     "geoApprox": false
@@ -16188,6 +16693,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6016299781509,
     "lng": 127.091760454044,
     "geoApprox": false
@@ -16220,6 +16726,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5517127888261,
     "lng": 127.072672678034,
     "geoApprox": false
@@ -16252,6 +16759,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6176383628418,
     "lng": 127.010599691076,
     "geoApprox": false
@@ -16284,6 +16792,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6346222824113,
     "lng": 127.018874442135,
     "geoApprox": false
@@ -16316,6 +16825,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6440785176515,
     "lng": 127.022265414258,
     "geoApprox": false
@@ -16348,6 +16858,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6095384882498,
     "lng": 127.02265060093,
     "geoApprox": false
@@ -16380,6 +16891,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5901562411963,
     "lng": 127.00581347031,
     "geoApprox": false
@@ -16412,6 +16924,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5944725333435,
     "lng": 127.012706037821,
     "geoApprox": false
@@ -16444,6 +16957,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5259478182975,
     "lng": 127.133775202692,
     "geoApprox": false
@@ -16476,6 +16990,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.4605886655784,
     "lng": 126.920617398646,
     "geoApprox": false
@@ -16508,6 +17023,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5541592708709,
     "lng": 127.069526172922,
     "geoApprox": false
@@ -16540,6 +17056,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5851721490482,
     "lng": 126.896012135221,
     "geoApprox": false
@@ -16572,6 +17089,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5551667468122,
     "lng": 127.143838799591,
     "geoApprox": false
@@ -16604,6 +17122,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.510431872668484,
     "lng": 127.01245289991346,
     "geoApprox": false
@@ -16636,6 +17155,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.5662004471744,
     "lng": 127.080470232908,
     "geoApprox": false
@@ -16668,6 +17188,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5050047962103,
     "lng": 126.995677426153,
     "geoApprox": false
@@ -16700,6 +17221,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5536553245533,
     "lng": 127.038424603364,
     "geoApprox": false
@@ -16732,6 +17254,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.4890917715771,
     "lng": 126.960111629303,
     "geoApprox": false
@@ -16764,6 +17287,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6163026751226,
     "lng": 127.010290966169,
     "geoApprox": false
@@ -16796,6 +17320,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6238849781413,
     "lng": 127.02971619019,
     "geoApprox": false
@@ -16828,6 +17353,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5443378762671,
     "lng": 127.062886077541,
     "geoApprox": false
@@ -16860,6 +17386,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5421368264529,
     "lng": 126.829581447367,
     "geoApprox": false
@@ -16892,6 +17419,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6260599638981,
     "lng": 126.927751281025,
     "geoApprox": false
@@ -16924,6 +17452,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4850989739589,
     "lng": 126.843015236504,
     "geoApprox": false
@@ -16956,6 +17485,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.4864130094498,
     "lng": 127.00557442153,
     "geoApprox": false
@@ -16988,6 +17518,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4959475181655,
     "lng": 127.018985138118,
     "geoApprox": false
@@ -17020,6 +17551,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4832732140812,
     "lng": 126.95820924848,
     "geoApprox": false
@@ -17052,6 +17584,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5213527337159,
     "lng": 126.937326091368,
     "geoApprox": false
@@ -17084,6 +17617,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.5549008051683,
     "lng": 127.096099086136,
     "geoApprox": false
@@ -17116,6 +17650,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6049361853383,
     "lng": 127.079159983773,
     "geoApprox": false
@@ -17148,6 +17683,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5830669346508,
     "lng": 127.034777091582,
     "geoApprox": false
@@ -17180,6 +17716,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5976262324928,
     "lng": 127.075925658557,
     "geoApprox": false
@@ -17212,6 +17749,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5364663628306,
     "lng": 127.115699114303,
     "geoApprox": false
@@ -17244,6 +17782,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.5069150122742,
     "lng": 127.10212186823,
     "geoApprox": false
@@ -17276,6 +17815,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5482625768732,
     "lng": 126.840980606494,
     "geoApprox": false
@@ -17308,6 +17848,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5166909917264,
     "lng": 127.137712375583,
     "geoApprox": false
@@ -17340,6 +17881,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.51722,
     "lng": 127.11078,
     "geoApprox": true
@@ -17372,6 +17914,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6654284537118,
     "lng": 127.046670747044,
     "geoApprox": false
@@ -17404,6 +17947,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.60802,
     "lng": 126.93148,
     "geoApprox": true
@@ -17436,6 +17980,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6136049157335,
     "lng": 127.016752046083,
     "geoApprox": false
@@ -17468,6 +18013,7 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5871415236472,
     "lng": 127.012671844176,
     "geoApprox": false
@@ -17500,6 +18046,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5940538893567,
     "lng": 126.99877539809,
     "geoApprox": false
@@ -17532,6 +18079,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6086454014288,
     "lng": 127.032743405553,
     "geoApprox": false
@@ -17564,6 +18112,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5358604644777,
     "lng": 126.952781493004,
     "geoApprox": false
@@ -17596,6 +18145,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5207145099438,
     "lng": 126.977855796455,
     "geoApprox": false
@@ -17628,6 +18178,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5582053468995,
     "lng": 127.027507006183,
     "geoApprox": false
@@ -17660,6 +18211,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.570069317441,
     "lng": 127.059860257139,
     "geoApprox": false
@@ -17692,6 +18244,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.622176119269,
     "lng": 127.059060497241,
     "geoApprox": false
@@ -17724,6 +18277,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6389456218063,
     "lng": 127.070710119823,
     "geoApprox": false
@@ -17756,6 +18310,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.628054057801,
     "lng": 127.068573811877,
     "geoApprox": false
@@ -17788,6 +18343,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.5916295214996,
     "lng": 126.916751405587,
     "geoApprox": false
@@ -17820,6 +18376,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6023040358796,
     "lng": 126.934033612153,
     "geoApprox": false
@@ -17852,6 +18409,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5549178201995,
     "lng": 126.939295148137,
     "geoApprox": false
@@ -17884,6 +18442,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5934809108736,
     "lng": 126.945336524574,
     "geoApprox": false
@@ -17916,6 +18475,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5463557800484,
     "lng": 126.937332888574,
     "geoApprox": false
@@ -17948,6 +18508,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.533843780784,
     "lng": 127.068342525785,
     "geoApprox": false
@@ -17980,6 +18541,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5050261154817,
     "lng": 127.140946785902,
     "geoApprox": false
@@ -18012,6 +18574,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.557200803801,
     "lng": 127.030175893046,
     "geoApprox": false
@@ -18044,6 +18607,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6318155292192,
     "lng": 127.052326972987,
     "geoApprox": false
@@ -18076,6 +18640,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.5501139627052,
     "lng": 126.849164287717,
     "geoApprox": false
@@ -18108,6 +18673,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.545529399482,
     "lng": 126.87809576336,
     "geoApprox": false
@@ -18140,6 +18706,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.4910969139998,
     "lng": 126.911813692107,
     "geoApprox": false
@@ -18172,6 +18739,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4887047110087,
     "lng": 126.964679741398,
     "geoApprox": false
@@ -18204,6 +18772,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4632725256816,
     "lng": 126.932535154048,
     "geoApprox": false
@@ -18236,6 +18805,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5084895751287,
     "lng": 127.026222910697,
     "geoApprox": false
@@ -18268,6 +18838,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5858060895514,
     "lng": 126.880857196502,
     "geoApprox": false
@@ -18300,6 +18871,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.5473049014312,
     "lng": 126.963543924367,
     "geoApprox": false
@@ -18332,6 +18904,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5614602434531,
     "lng": 127.030618116962,
     "geoApprox": false
@@ -18364,6 +18937,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5482605914235,
     "lng": 127.15378404481,
     "geoApprox": false
@@ -18396,6 +18970,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5149990018814,
     "lng": 126.871236888208,
     "geoApprox": false
@@ -18428,6 +19003,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.519409300743,
     "lng": 126.841039369112,
     "geoApprox": false
@@ -18460,6 +19036,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.4962984005085,
     "lng": 126.906963735994,
     "geoApprox": false
@@ -18492,6 +19069,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4904619105388,
     "lng": 126.828533564595,
     "geoApprox": false
@@ -18524,6 +19102,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4932672296102,
     "lng": 126.87786990054,
     "geoApprox": false
@@ -18556,6 +19135,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5904911969788,
     "lng": 127.041496116551,
     "geoApprox": false
@@ -18588,6 +19168,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5034943416461,
     "lng": 126.949674358162,
     "geoApprox": false
@@ -18620,6 +19201,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5121632696688,
     "lng": 126.955751258081,
     "geoApprox": false
@@ -18652,6 +19234,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5146985679608,
     "lng": 126.916649621137,
     "geoApprox": false
@@ -18684,6 +19267,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5253028912203,
     "lng": 126.890075765077,
     "geoApprox": false
@@ -18716,6 +19300,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5310732454667,
     "lng": 126.905233241408,
     "geoApprox": false
@@ -18748,6 +19333,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.4721359860647,
     "lng": 126.92016125032,
     "geoApprox": false
@@ -18780,6 +19366,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.473813927863,
     "lng": 126.920281107455,
     "geoApprox": false
@@ -18812,6 +19399,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6628823049142,
     "lng": 127.062234187186,
     "geoApprox": false
@@ -18844,6 +19432,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5922940508202,
     "lng": 126.907382316218,
     "geoApprox": false
@@ -18876,6 +19465,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5129972017178,
     "lng": 126.845159735242,
     "geoApprox": false
@@ -18908,6 +19498,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5301130130253,
     "lng": 127.119355326822,
     "geoApprox": false
@@ -18940,6 +19531,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6031576200927,
     "lng": 126.937484017426,
     "geoApprox": false
@@ -18972,6 +19564,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4747885614999,
     "lng": 127.032081902108,
     "geoApprox": false
@@ -19004,6 +19597,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5705131330708,
     "lng": 126.822944312857,
     "geoApprox": false
@@ -19036,6 +19630,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5221332556567,
     "lng": 126.87778960592,
     "geoApprox": false
@@ -19068,6 +19663,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5554678551744,
     "lng": 126.859373385283,
     "geoApprox": false
@@ -19100,6 +19696,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5553907163477,
     "lng": 127.011863048832,
     "geoApprox": false
@@ -19132,6 +19729,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.614371962767,
     "lng": 126.977501177364,
     "geoApprox": false
@@ -19164,6 +19762,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5631846707305,
     "lng": 127.020080840907,
     "geoApprox": false
@@ -19196,6 +19795,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.607129288632,
     "lng": 127.016375844082,
     "geoApprox": false
@@ -19228,6 +19828,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.486732301772,
     "lng": 126.831363625175,
     "geoApprox": false
@@ -19260,6 +19861,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5302454529249,
     "lng": 127.075587591515,
     "geoApprox": false
@@ -19292,6 +19894,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5579175887117,
     "lng": 127.049321897316,
     "geoApprox": false
@@ -19324,6 +19927,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5940018148764,
     "lng": 126.995299185127,
     "geoApprox": false
@@ -19356,6 +19960,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.494336341692,
     "lng": 127.135220740669,
     "geoApprox": false
@@ -19388,6 +19993,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.506960189807,
     "lng": 127.115390716517,
     "geoApprox": false
@@ -19420,6 +20026,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6443853569228,
     "lng": 126.924840779073,
     "geoApprox": false
@@ -19452,6 +20059,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5956408923336,
     "lng": 127.011400646113,
     "geoApprox": false
@@ -19484,6 +20092,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5523853414736,
     "lng": 126.822984263849,
     "geoApprox": false
@@ -19516,6 +20125,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.49604395865,
     "lng": 126.981795453933,
     "geoApprox": false
@@ -19548,6 +20158,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6213492886599,
     "lng": 126.929917884841,
     "geoApprox": false
@@ -19580,6 +20191,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5404366739206,
     "lng": 127.058066769768,
     "geoApprox": false
@@ -19612,6 +20224,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.52628923031,
     "lng": 126.889413529916,
     "geoApprox": false
@@ -19644,6 +20257,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.6337376799395,
     "lng": 127.072455545557,
     "geoApprox": false
@@ -19676,6 +20290,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6701880464645,
     "lng": 127.054677638301,
     "geoApprox": false
@@ -19708,6 +20323,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.467546675265,
     "lng": 126.890946472913,
     "geoApprox": false
@@ -19740,6 +20356,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5241432995791,
     "lng": 126.903695688306,
     "geoApprox": false
@@ -19772,6 +20389,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5661151011377,
     "lng": 127.078223556542,
     "geoApprox": false
@@ -19804,6 +20422,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.604668339535,
     "lng": 127.104292115551,
     "geoApprox": false
@@ -19836,6 +20455,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5739950231496,
     "lng": 127.073890977298,
     "geoApprox": false
@@ -19868,6 +20488,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6478754755732,
     "lng": 127.04834926484,
     "geoApprox": false
@@ -19900,6 +20521,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.584579666194,
     "lng": 126.918110733219,
     "geoApprox": false
@@ -19932,6 +20554,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5288167759148,
     "lng": 127.115424150571,
     "geoApprox": false
@@ -19964,6 +20587,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.5048485219584,
     "lng": 127.117385322638,
     "geoApprox": false
@@ -19996,6 +20620,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6090646447836,
     "lng": 127.01679961391,
     "geoApprox": false
@@ -20028,6 +20653,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4937093653318,
     "lng": 126.900450594121,
     "geoApprox": false
@@ -20060,6 +20686,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.4930325164173,
     "lng": 127.131611734241,
     "geoApprox": false
@@ -20092,6 +20719,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5864831132149,
     "lng": 127.075805081355,
     "geoApprox": false
@@ -20124,6 +20752,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.6133370098557,
     "lng": 126.910740576446,
     "geoApprox": false
@@ -20156,6 +20785,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5351721266039,
     "lng": 127.071536511547,
     "geoApprox": false
@@ -20188,6 +20818,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5982399496277,
     "lng": 127.013421324355,
     "geoApprox": false
@@ -20220,6 +20851,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5999936643195,
     "lng": 127.032341911923,
     "geoApprox": false
@@ -20252,6 +20884,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6141265933776,
     "lng": 127.040501439425,
     "geoApprox": false
@@ -20284,6 +20917,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6321585880638,
     "lng": 127.038354303221,
     "geoApprox": false
@@ -20316,6 +20950,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.564612123403,
     "lng": 126.856278639847,
     "geoApprox": false
@@ -20348,6 +20983,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5352056837361,
     "lng": 126.884393234385,
     "geoApprox": false
@@ -20380,6 +21016,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.541627815078,
     "lng": 126.882642695623,
     "geoApprox": false
@@ -20412,6 +21049,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5481092045563,
     "lng": 126.832556463328,
     "geoApprox": false
@@ -20444,6 +21082,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4849753666473,
     "lng": 126.88931808216,
     "geoApprox": false
@@ -20476,6 +21115,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.4912054930086,
     "lng": 126.842026722372,
     "geoApprox": false
@@ -20508,6 +21148,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4553912730949,
     "lng": 126.888877618767,
     "geoApprox": false
@@ -20540,6 +21181,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5945383139746,
     "lng": 127.064317773941,
     "geoApprox": false
@@ -20572,6 +21214,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6535964253192,
     "lng": 127.039179546469,
     "geoApprox": false
@@ -20604,6 +21247,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5694358031023,
     "lng": 126.903282651395,
     "geoApprox": false
@@ -20636,6 +21280,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5297601213047,
     "lng": 127.145594039357,
     "geoApprox": false
@@ -20668,6 +21313,7 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5185748448001,
     "lng": 127.134157724554,
     "geoApprox": false
@@ -20700,6 +21346,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5652516646835,
     "lng": 127.046526343559,
     "geoApprox": false
@@ -20732,6 +21379,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5691096001774,
     "lng": 127.032672663162,
     "geoApprox": false
@@ -20764,6 +21412,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4921672826521,
     "lng": 127.126326771911,
     "geoApprox": false
@@ -20796,6 +21445,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.643357369067,
     "lng": 127.108850343184,
     "geoApprox": false
@@ -20828,6 +21478,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6273815936787,
     "lng": 127.091621159803,
     "geoApprox": false
@@ -20860,6 +21511,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4655088003601,
     "lng": 126.927016908496,
     "geoApprox": false
@@ -20892,6 +21544,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.4975768878269,
     "lng": 126.944623500398,
     "geoApprox": false
@@ -20924,6 +21577,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4691282036291,
     "lng": 126.916341558815,
     "geoApprox": false
@@ -20956,6 +21610,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5463772180659,
     "lng": 126.870213610524,
     "geoApprox": false
@@ -20988,6 +21643,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5794087000437,
     "lng": 126.81259277311,
     "geoApprox": false
@@ -21020,6 +21676,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4519206711218,
     "lng": 126.915824008297,
     "geoApprox": false
@@ -21052,6 +21709,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4506582868917,
     "lng": 126.89895393993,
     "geoApprox": false
@@ -21084,6 +21742,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.4916861610208,
     "lng": 126.842823128873,
     "geoApprox": false
@@ -21116,6 +21775,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6059761741832,
     "lng": 127.09472455776,
     "geoApprox": false
@@ -21148,6 +21808,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5970090851956,
     "lng": 127.082070702444,
     "geoApprox": false
@@ -21180,6 +21841,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.46972,
     "lng": 126.93698,
     "geoApprox": true
@@ -21212,6 +21874,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5082713465255,
     "lng": 126.967258187125,
     "geoApprox": false
@@ -21244,6 +21907,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2025",
     "lat": 37.498671886682,
     "lng": 126.937077373861,
     "geoApprox": false
@@ -21276,6 +21940,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4952734394062,
     "lng": 126.911690497183,
     "geoApprox": false
@@ -21308,6 +21973,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6724726102572,
     "lng": 127.054005443807,
     "geoApprox": false
@@ -21340,6 +22006,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6295747035271,
     "lng": 127.069868704519,
     "geoApprox": false
@@ -21372,6 +22039,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.6564417332028,
     "lng": 127.077718270787,
     "geoApprox": false
@@ -21404,6 +22072,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6498141709473,
     "lng": 127.085192624195,
     "geoApprox": false
@@ -21436,6 +22105,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6598465152087,
     "lng": 127.027458332065,
     "geoApprox": false
@@ -21468,6 +22138,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6154248414493,
     "lng": 126.926219820178,
     "geoApprox": false
@@ -21500,6 +22171,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5560871299196,
     "lng": 126.916048197797,
     "geoApprox": false
@@ -21532,6 +22204,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.586120384461,
     "lng": 127.039414975087,
     "geoApprox": false
@@ -21564,6 +22237,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5407120318703,
     "lng": 126.847470802939,
     "geoApprox": false
@@ -21596,6 +22270,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5856764110055,
     "lng": 127.070041638322,
     "geoApprox": false
@@ -21628,6 +22303,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4892043157404,
     "lng": 127.130231968818,
     "geoApprox": false
@@ -21660,6 +22336,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4964040023549,
     "lng": 126.990156472861,
     "geoApprox": false
@@ -21692,6 +22369,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.5049534859631,
     "lng": 126.994628453576,
     "geoApprox": false
@@ -21724,6 +22402,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5141697474146,
     "lng": 127.08797670792,
     "geoApprox": false
@@ -21756,6 +22435,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5520046977388,
     "lng": 126.978181180222,
     "geoApprox": false
@@ -21788,6 +22468,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5813606333694,
     "lng": 127.013724533725,
     "geoApprox": false
@@ -21820,6 +22501,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5754120540877,
     "lng": 126.970019620639,
     "geoApprox": false
@@ -21852,6 +22534,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.556705153775,
     "lng": 126.978900509832,
     "geoApprox": false
@@ -21884,6 +22567,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4560944659896,
     "lng": 127.016216269444,
     "geoApprox": false
@@ -21916,6 +22600,7 @@ window.KINDERGARTENS = [
       "special": 5
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.617615735514,
     "lng": 127.109941402837,
     "geoApprox": false
@@ -21948,6 +22633,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5062047182589,
     "lng": 126.953567101813,
     "geoApprox": false
@@ -21980,6 +22666,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4541133292306,
     "lng": 127.061436582525,
     "geoApprox": false
@@ -22012,6 +22699,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4639991973319,
     "lng": 127.106204066607,
     "geoApprox": false
@@ -22044,6 +22732,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.5702364330057,
     "lng": 127.085874689055,
     "geoApprox": false
@@ -22076,6 +22765,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5430074366803,
     "lng": 127.08031177586,
     "geoApprox": false
@@ -22108,6 +22798,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5455293912538,
     "lng": 127.021869551034,
     "geoApprox": false
@@ -22140,6 +22831,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.6454050137608,
     "lng": 127.010881924161,
     "geoApprox": false
@@ -22172,6 +22864,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6008413496899,
     "lng": 127.037976638554,
     "geoApprox": false
@@ -22204,6 +22897,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.5944725333435,
     "lng": 127.012706037821,
     "geoApprox": false
@@ -22236,6 +22930,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.543609408993,
     "lng": 127.017230521559,
     "geoApprox": false
@@ -22268,6 +22963,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.5078700021703,
     "lng": 127.074217420352,
     "geoApprox": false
@@ -22300,6 +22996,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5117542837524,
     "lng": 126.902325704642,
     "geoApprox": false
@@ -22332,6 +23029,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4497786332027,
     "lng": 126.920020808062,
     "geoApprox": false
@@ -22364,6 +23062,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5448561166197,
     "lng": 127.128831647129,
     "geoApprox": false
@@ -22396,6 +23095,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.5093137576925,
     "lng": 127.089335038276,
     "geoApprox": false
@@ -22428,6 +23128,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.610999723005,
     "lng": 127.058332812717,
     "geoApprox": false
@@ -22460,6 +23161,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5618376767692,
     "lng": 126.919313979204,
     "geoApprox": false
@@ -22492,6 +23194,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5472449743241,
     "lng": 126.832243922532,
     "geoApprox": false
@@ -22524,6 +23227,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.6259363374297,
     "lng": 127.079415945795,
     "geoApprox": false
@@ -22556,6 +23260,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6187253727752,
     "lng": 127.067084588448,
     "geoApprox": false
@@ -22588,6 +23293,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5477189664877,
     "lng": 127.136592330295,
     "geoApprox": false
@@ -22620,6 +23326,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.5029001208602,
     "lng": 126.919020182507,
     "geoApprox": false
@@ -22652,6 +23359,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4879086504963,
     "lng": 127.098186321626,
     "geoApprox": false
@@ -22684,6 +23392,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4806775261216,
     "lng": 126.996107327182,
     "geoApprox": false
@@ -22716,6 +23425,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.4890639851175,
     "lng": 126.988578482875,
     "geoApprox": false
@@ -22748,6 +23458,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6365395299158,
     "lng": 127.042084340998,
     "geoApprox": false
@@ -22780,6 +23491,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5836258560794,
     "lng": 126.926573087194,
     "geoApprox": false
@@ -22812,6 +23524,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5449782076528,
     "lng": 127.098714317037,
     "geoApprox": false
@@ -22844,6 +23557,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4916183368483,
     "lng": 127.122700488472,
     "geoApprox": false
@@ -22876,6 +23590,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.634724610201,
     "lng": 126.921610430939,
     "geoApprox": false
@@ -22908,6 +23623,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6511243216579,
     "lng": 127.030607071369,
     "geoApprox": false
@@ -22940,6 +23656,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5064746281662,
     "lng": 126.955594919593,
     "geoApprox": false
@@ -22972,6 +23689,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6737368395994,
     "lng": 127.058950013938,
     "geoApprox": false
@@ -23004,6 +23722,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5863161433489,
     "lng": 126.951555281549,
     "geoApprox": false
@@ -23036,6 +23755,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5901192404721,
     "lng": 126.943656221079,
     "geoApprox": false
@@ -23068,6 +23788,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5504697539457,
     "lng": 126.860972189175,
     "geoApprox": false
@@ -23100,6 +23821,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5292498871965,
     "lng": 126.867093197507,
     "geoApprox": false
@@ -23132,6 +23854,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5113123131977,
     "lng": 126.854212986887,
     "geoApprox": false
@@ -23164,6 +23887,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5766590358858,
     "lng": 127.061567688813,
     "geoApprox": false
@@ -23196,6 +23920,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6123816314349,
     "lng": 127.096104707834,
     "geoApprox": false
@@ -23228,6 +23953,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.6043694603432,
     "lng": 127.079965365014,
     "geoApprox": false
@@ -23260,6 +23986,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5688043221289,
     "lng": 127.055427038114,
     "geoApprox": false
@@ -23292,6 +24019,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6405874535415,
     "lng": 127.075979782639,
     "geoApprox": false
@@ -23324,6 +24052,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5426675523619,
     "lng": 126.955654254637,
     "geoApprox": false
@@ -23356,6 +24085,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2021",
     "lat": 37.5370947044821,
     "lng": 127.141975761231,
     "geoApprox": false
@@ -23388,6 +24118,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4884642152141,
     "lng": 127.146186520149,
     "geoApprox": false
@@ -23420,6 +24151,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.4873527233282,
     "lng": 126.945428874003,
     "geoApprox": false
@@ -23452,6 +24184,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5641223174494,
     "lng": 127.060523298508,
     "geoApprox": false
@@ -23484,6 +24217,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.543825479341,
     "lng": 127.050073697789,
     "geoApprox": false
@@ -23516,6 +24250,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5925383443867,
     "lng": 127.056844152107,
     "geoApprox": false
@@ -23548,6 +24283,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.6164615283138,
     "lng": 127.079320691885,
     "geoApprox": false
@@ -23580,6 +24316,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.5791219819217,
     "lng": 127.053850210023,
     "geoApprox": false
@@ -23612,6 +24349,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5772788498995,
     "lng": 126.913103347782,
     "geoApprox": false
@@ -23644,6 +24382,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.5586572986096,
     "lng": 126.947118952904,
     "geoApprox": false
@@ -23676,6 +24415,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6215324222942,
     "lng": 127.014133356491,
     "geoApprox": false
@@ -23708,6 +24448,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6262508612825,
     "lng": 127.090915053347,
     "geoApprox": false
@@ -23740,6 +24481,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.642712990065,
     "lng": 127.026993589862,
     "geoApprox": false
@@ -23772,6 +24514,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5585550447206,
     "lng": 126.863376121004,
     "geoApprox": false
@@ -23804,6 +24547,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5177350694079,
     "lng": 126.934255971798,
     "geoApprox": false
@@ -23836,6 +24580,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5402803267019,
     "lng": 126.891745831623,
     "geoApprox": false
@@ -23868,6 +24613,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5939491407769,
     "lng": 127.054890960564,
     "geoApprox": false
@@ -23900,6 +24646,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6344239191317,
     "lng": 127.072522941451,
     "geoApprox": false
@@ -23932,6 +24679,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2025",
     "lat": 37.6508221948981,
     "lng": 127.056160593171,
     "geoApprox": false
@@ -23964,6 +24712,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6413781116936,
     "lng": 127.040995163731,
     "geoApprox": false
@@ -23996,6 +24745,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6382878280766,
     "lng": 127.062716147408,
     "geoApprox": false
@@ -24028,6 +24778,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.6529887282798,
     "lng": 127.063558586941,
     "geoApprox": false
@@ -24060,6 +24811,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5458033455121,
     "lng": 126.954823056539,
     "geoApprox": false
@@ -24092,6 +24844,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4923220024104,
     "lng": 127.074601198665,
     "geoApprox": false
@@ -24124,6 +24877,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.54165432908,
     "lng": 127.131688441589,
     "geoApprox": false
@@ -24156,6 +24910,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5063971034072,
     "lng": 127.127363436377,
     "geoApprox": false
@@ -24188,6 +24943,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5087210278798,
     "lng": 126.960452596991,
     "geoApprox": false
@@ -24220,6 +24976,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4856068941059,
     "lng": 126.941950592094,
     "geoApprox": false
@@ -24252,6 +25009,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4898474387668,
     "lng": 126.952985510916,
     "geoApprox": false
@@ -24284,6 +25042,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4745690534576,
     "lng": 126.972864185575,
     "geoApprox": false
@@ -24316,6 +25075,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4813047920283,
     "lng": 126.955766635019,
     "geoApprox": false
@@ -24348,6 +25108,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6062454695273,
     "lng": 127.04399977021,
     "geoApprox": false
@@ -24380,6 +25141,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.5488034704729,
     "lng": 127.02313352328,
     "geoApprox": false
@@ -24412,6 +25174,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5109603819235,
     "lng": 126.882239095216,
     "geoApprox": false
@@ -24444,6 +25207,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5987370042005,
     "lng": 127.086856829132,
     "geoApprox": false
@@ -24476,6 +25240,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5056095602778,
     "lng": 126.913466403648,
     "geoApprox": false
@@ -24508,6 +25273,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.489086139145,
     "lng": 126.8776398198,
     "geoApprox": false
@@ -24540,6 +25306,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.4897725465303,
     "lng": 126.948407183906,
     "geoApprox": false
@@ -24572,6 +25339,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.4890766359038,
     "lng": 126.963458150158,
     "geoApprox": false
@@ -24604,6 +25372,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.671592322382,
     "lng": 127.047142967179,
     "geoApprox": false
@@ -24636,6 +25405,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6648178269709,
     "lng": 127.054322233957,
     "geoApprox": false
@@ -24668,6 +25438,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6342325628683,
     "lng": 127.06966018842,
     "geoApprox": false
@@ -24700,6 +25471,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.6863744624714,
     "lng": 127.043972350861,
     "geoApprox": false
@@ -24732,6 +25504,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6652515464657,
     "lng": 127.062532889006,
     "geoApprox": false
@@ -24764,6 +25537,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5395031794726,
     "lng": 126.951596786385,
     "geoApprox": false
@@ -24796,6 +25570,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6163012805824,
     "lng": 126.932627176671,
     "geoApprox": false
@@ -24828,6 +25603,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5541431793711,
     "lng": 127.071278503381,
     "geoApprox": false
@@ -24860,6 +25636,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5445928680771,
     "lng": 127.011984339203,
     "geoApprox": false
@@ -24892,6 +25669,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5696275040008,
     "lng": 127.041524043963,
     "geoApprox": false
@@ -24924,6 +25702,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.4950483588811,
     "lng": 127.045541914087,
     "geoApprox": false
@@ -24956,6 +25735,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6704594706621,
     "lng": 127.051773754079,
     "geoApprox": false
@@ -24988,6 +25768,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4873460122893,
     "lng": 126.902516130281,
     "geoApprox": false
@@ -25020,6 +25801,7 @@ window.KINDERGARTENS = [
       "special": 7
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4863102060977,
     "lng": 127.069280074656,
     "geoApprox": false
@@ -25052,6 +25834,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5034861238053,
     "lng": 127.063292075669,
     "geoApprox": false
@@ -25084,6 +25867,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4867641043401,
     "lng": 126.987137986274,
     "geoApprox": false
@@ -25116,6 +25900,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5114642946179,
     "lng": 127.035353262644,
     "geoApprox": false
@@ -25148,6 +25933,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5268045411329,
     "lng": 127.04823368406,
     "geoApprox": false
@@ -25180,6 +25966,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.4878478418441,
     "lng": 127.105794693568,
     "geoApprox": false
@@ -25212,6 +25999,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5094542561098,
     "lng": 126.862162255157,
     "geoApprox": false
@@ -25244,6 +26032,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5465743747926,
     "lng": 126.864927571424,
     "geoApprox": false
@@ -25276,6 +26065,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5220689203394,
     "lng": 126.992300401397,
     "geoApprox": false
@@ -25308,6 +26098,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5676883077439,
     "lng": 127.028005141452,
     "geoApprox": false
@@ -25340,6 +26131,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.528682977698,
     "lng": 126.999625530067,
     "geoApprox": false
@@ -25372,6 +26164,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6002744711314,
     "lng": 126.959654190315,
     "geoApprox": false
@@ -25404,6 +26197,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5471505540187,
     "lng": 127.005706247221,
     "geoApprox": false
@@ -25436,6 +26230,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5868678097979,
     "lng": 127.003138370487,
     "geoApprox": false
@@ -25468,6 +26263,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5945203773277,
     "lng": 127.035296496549,
     "geoApprox": false
@@ -25500,6 +26296,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.6610367905413,
     "lng": 127.035889306234,
     "geoApprox": false
@@ -25532,6 +26329,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.5579548375122,
     "lng": 127.146294328922,
     "geoApprox": false
@@ -25564,6 +26362,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2025",
     "lat": 37.477064914058,
     "lng": 126.940391048487,
     "geoApprox": false
@@ -25596,6 +26395,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5223402739432,
     "lng": 126.867563264965,
     "geoApprox": false
@@ -25628,6 +26428,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6244145628298,
     "lng": 127.080359290283,
     "geoApprox": false
@@ -25660,6 +26461,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.5424637514332,
     "lng": 127.091721950929,
     "geoApprox": false
@@ -25692,6 +26494,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5626751242374,
     "lng": 127.047560151027,
     "geoApprox": false
@@ -25724,6 +26527,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5423097389598,
     "lng": 127.015785478614,
     "geoApprox": false
@@ -25756,6 +26560,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.5944725333435,
     "lng": 127.012706037821,
     "geoApprox": false
@@ -25788,6 +26593,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5394791566457,
     "lng": 127.046296359799,
     "geoApprox": false
@@ -25820,6 +26626,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5159732780003,
     "lng": 127.115312970673,
     "geoApprox": false
@@ -25852,6 +26659,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5071588011358,
     "lng": 126.879584155104,
     "geoApprox": false
@@ -25884,6 +26692,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4685220375851,
     "lng": 126.940492900894,
     "geoApprox": false
@@ -25916,6 +26725,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5537008474169,
     "lng": 126.829196933459,
     "geoApprox": false
@@ -25948,6 +26758,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.6083860735009,
     "lng": 127.018829417408,
     "geoApprox": false
@@ -25980,6 +26791,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5570784073479,
     "lng": 126.83808109977,
     "geoApprox": false
@@ -26012,6 +26824,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4656561906645,
     "lng": 126.899712928109,
     "geoApprox": false
@@ -26044,6 +26857,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.545732598277,
     "lng": 126.837556144962,
     "geoApprox": false
@@ -26076,6 +26890,7 @@ window.KINDERGARTENS = [
       "special": 6
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5692716608789,
     "lng": 126.817972935639,
     "geoApprox": false
@@ -26108,6 +26923,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5534453328883,
     "lng": 126.910669687285,
     "geoApprox": false
@@ -26140,6 +26956,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5076264776599,
     "lng": 126.949547851693,
     "geoApprox": false
@@ -26172,6 +26989,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5243764999949,
     "lng": 126.860562915576,
     "geoApprox": false
@@ -26204,6 +27022,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4965451072588,
     "lng": 127.157784930749,
     "geoApprox": false
@@ -26236,6 +27055,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.46681155875,
     "lng": 127.097047657828,
     "geoApprox": false
@@ -26268,6 +27088,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.5589015849099,
     "lng": 126.809586744874,
     "geoApprox": false
@@ -26300,6 +27121,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2024",
     "lat": 37.5625966056402,
     "lng": 126.841973328776,
     "geoApprox": false
@@ -26332,6 +27154,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2019",
     "lat": 37.4617849977096,
     "lng": 127.024963126337,
     "geoApprox": false
@@ -26364,6 +27187,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6329639777027,
     "lng": 127.060508959979,
     "geoApprox": false
@@ -26396,6 +27220,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6808384621835,
     "lng": 127.0542198702,
     "geoApprox": false
@@ -26428,6 +27253,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4582299981347,
     "lng": 126.896205569649,
     "geoApprox": false
@@ -26460,6 +27286,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5473049014312,
     "lng": 126.963543924367,
     "geoApprox": false
@@ -26492,6 +27319,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5944181555082,
     "lng": 127.103547800182,
     "geoApprox": false
@@ -26524,6 +27352,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.50578969665,
     "lng": 127.075317277909,
     "geoApprox": false
@@ -26556,6 +27385,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4993252329505,
     "lng": 126.865350068539,
     "geoApprox": false
@@ -26588,6 +27418,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6676655147961,
     "lng": 127.059630713208,
     "geoApprox": false
@@ -26620,6 +27451,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6083860735009,
     "lng": 127.018829417408,
     "geoApprox": false
@@ -26652,6 +27484,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4830083764678,
     "lng": 127.094942548329,
     "geoApprox": false
@@ -26684,6 +27517,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6290238580608,
     "lng": 127.040039390037,
     "geoApprox": false
@@ -26716,6 +27550,7 @@ window.KINDERGARTENS = [
       "special": 5
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4890917715771,
     "lng": 126.960111629303,
     "geoApprox": false
@@ -26748,6 +27583,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5538039438067,
     "lng": 127.166050130468,
     "geoApprox": false
@@ -26780,6 +27616,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4923003980946,
     "lng": 127.081132787699,
     "geoApprox": false
@@ -26812,6 +27649,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5117195690698,
     "lng": 126.940827465638,
     "geoApprox": false
@@ -26844,6 +27682,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4873527233282,
     "lng": 126.945428874003,
     "geoApprox": false
@@ -26876,6 +27715,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5681230316305,
     "lng": 127.035108248651,
     "geoApprox": false
@@ -26908,6 +27748,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5523853414736,
     "lng": 126.822984263849,
     "geoApprox": false
@@ -26940,6 +27781,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4876385082093,
     "lng": 127.144815961872,
     "geoApprox": false
@@ -26972,6 +27814,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2020",
     "lat": 37.5322084180961,
     "lng": 126.858038705977,
     "geoApprox": false
@@ -27004,6 +27847,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5359431935785,
     "lng": 126.857323912102,
     "geoApprox": false
@@ -27036,6 +27880,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6011516045762,
     "lng": 127.103770593924,
     "geoApprox": false
@@ -27068,6 +27913,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5618696246217,
     "lng": 127.180267055739,
     "geoApprox": false
@@ -27100,6 +27946,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4982314495379,
     "lng": 126.913035010017,
     "geoApprox": false
@@ -27132,6 +27979,7 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6018964867149,
     "lng": 127.064885003959,
     "geoApprox": false
@@ -27164,6 +28012,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6482303134222,
     "lng": 127.058252457257,
     "geoApprox": false
@@ -27196,6 +28045,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5686146565852,
     "lng": 126.811542221972,
     "geoApprox": false
@@ -27228,6 +28078,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6410575739212,
     "lng": 127.069114774673,
     "geoApprox": false
@@ -27260,6 +28111,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5583376929114,
     "lng": 126.902078300574,
     "geoApprox": false
@@ -27292,6 +28144,7 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.539095457491,
     "lng": 126.856009569323,
     "geoApprox": false
@@ -27324,6 +28177,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6373144075316,
     "lng": 127.032917771185,
     "geoApprox": false
@@ -27356,6 +28210,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5790073735728,
     "lng": 127.075833615308,
     "geoApprox": false
@@ -27388,6 +28243,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6612204531084,
     "lng": 127.025721318601,
     "geoApprox": false
@@ -27420,6 +28276,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2018",
     "lat": 37.4883352019428,
     "lng": 126.979027173055,
     "geoApprox": false
@@ -27452,6 +28309,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5103042588159,
     "lng": 126.946865796584,
     "geoApprox": false
@@ -27484,6 +28342,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.565172983593,
     "lng": 127.082512285004,
     "geoApprox": false
@@ -27516,6 +28375,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.585805731799,
     "lng": 126.969294698603,
     "geoApprox": false
@@ -27548,6 +28408,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6701880464645,
     "lng": 127.054677638301,
     "geoApprox": false
@@ -27580,6 +28441,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5476142187642,
     "lng": 126.857942163854,
     "geoApprox": false
@@ -27612,6 +28474,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5610150373718,
     "lng": 126.910759005302,
     "geoApprox": false
@@ -27644,6 +28507,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6483638272869,
     "lng": 127.024291051625,
     "geoApprox": false
@@ -27676,6 +28540,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6134294463781,
     "lng": 126.930718712253,
     "geoApprox": false
@@ -27708,6 +28573,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5887531914177,
     "lng": 126.921616096958,
     "geoApprox": false
@@ -27740,6 +28606,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5664458381853,
     "lng": 126.911780404952,
     "geoApprox": false
@@ -27772,6 +28639,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.62719482311,
     "lng": 127.074030837547,
     "geoApprox": false
@@ -27804,6 +28672,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4741653841614,
     "lng": 127.03189250195,
     "geoApprox": false
@@ -27836,6 +28705,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.614905195868,
     "lng": 127.023735366645,
     "geoApprox": false
@@ -27868,6 +28738,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5807042921469,
     "lng": 127.056012445216,
     "geoApprox": false
@@ -27900,6 +28771,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6114414258051,
     "lng": 127.050005965999,
     "geoApprox": false
@@ -27932,6 +28804,7 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4961862376383,
     "lng": 127.143214689204,
     "geoApprox": false
@@ -27964,6 +28837,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.486734037842,
     "lng": 127.150753871028,
     "geoApprox": false
@@ -27996,6 +28870,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5737644190198,
     "lng": 126.918388033648,
     "geoApprox": false
@@ -28028,6 +28903,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5670047685109,
     "lng": 126.85259398539,
     "geoApprox": false
@@ -28060,6 +28936,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4477936807644,
     "lng": 127.057743188109,
     "geoApprox": false
@@ -28092,6 +28969,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4738196175948,
     "lng": 126.973366964486,
     "geoApprox": false
@@ -28124,6 +29002,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6594678039701,
     "lng": 127.042950889775,
     "geoApprox": false
@@ -28156,6 +29035,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4855779476851,
     "lng": 126.949130876206,
     "geoApprox": false
@@ -28188,6 +29068,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5104061918797,
     "lng": 127.01247336771,
     "geoApprox": false
@@ -28220,6 +29101,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4828114848946,
     "lng": 126.964977725041,
     "geoApprox": false
@@ -28252,6 +29134,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4770547149044,
     "lng": 126.82495390619,
     "geoApprox": false
@@ -28284,6 +29167,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5033929766399,
     "lng": 126.959778422441,
     "geoApprox": false
@@ -28316,6 +29200,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5258482641162,
     "lng": 126.851240194989,
     "geoApprox": false
@@ -28348,6 +29233,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5503184973328,
     "lng": 127.169808318585,
     "geoApprox": false
@@ -28380,6 +29266,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5403655143855,
     "lng": 126.839455478388,
     "geoApprox": false
@@ -28412,6 +29299,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5518979414195,
     "lng": 127.020752859362,
     "geoApprox": false
@@ -28444,6 +29332,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6610367905413,
     "lng": 127.035889306234,
     "geoApprox": false
@@ -28476,6 +29365,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6120057743675,
     "lng": 127.028773678213,
     "geoApprox": false
@@ -28508,6 +29398,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6717184874026,
     "lng": 127.040258979982,
     "geoApprox": false
@@ -28540,6 +29431,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4810262095918,
     "lng": 127.062042570555,
     "geoApprox": false
@@ -28572,6 +29464,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5889223067352,
     "lng": 127.075482375754,
     "geoApprox": false
@@ -28604,6 +29497,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5500236743432,
     "lng": 127.124404356441,
     "geoApprox": false
@@ -28636,6 +29530,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4751100001573,
     "lng": 127.136558093148,
     "geoApprox": false
@@ -28668,6 +29563,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5208632768685,
     "lng": 126.840192854495,
     "geoApprox": false
@@ -28700,6 +29596,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6002580875299,
     "lng": 126.930307292442,
     "geoApprox": false
@@ -28732,6 +29629,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5176829407562,
     "lng": 126.856860634862,
     "geoApprox": false
@@ -28764,6 +29662,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6480695766198,
     "lng": 126.929826836735,
     "geoApprox": false
@@ -28796,6 +29695,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2022",
     "lat": 37.5106568125953,
     "lng": 126.953923907042,
     "geoApprox": false
@@ -28828,6 +29728,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6135762310839,
     "lng": 127.092408488473,
     "geoApprox": false
@@ -28860,6 +29761,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5282818704161,
     "lng": 127.045153024716,
     "geoApprox": false
@@ -28892,6 +29794,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6014097153165,
     "lng": 127.083849146888,
     "geoApprox": false
@@ -28924,6 +29827,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6279505755622,
     "lng": 127.050869480548,
     "geoApprox": false
@@ -28956,6 +29860,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6608821231494,
     "lng": 127.047523339865,
     "geoApprox": false
@@ -28988,6 +29893,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5098647213535,
     "lng": 126.911863664868,
     "geoApprox": false
@@ -29020,6 +29926,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6510234416817,
     "lng": 127.027944278021,
     "geoApprox": false
@@ -29052,6 +29959,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.532879190933,
     "lng": 126.892776819259,
     "geoApprox": false
@@ -29084,6 +29992,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6090497375586,
     "lng": 127.105433722535,
     "geoApprox": false
@@ -29116,6 +30025,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5743433210453,
     "lng": 127.170774922577,
     "geoApprox": false
@@ -29148,6 +30058,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4617849977096,
     "lng": 127.024963126337,
     "geoApprox": false
@@ -29180,6 +30091,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5747695405448,
     "lng": 126.961573946294,
     "geoApprox": false
@@ -29212,6 +30124,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5409410878081,
     "lng": 127.046604922429,
     "geoApprox": false
@@ -29244,6 +30157,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6321862253702,
     "lng": 126.928798490682,
     "geoApprox": false
@@ -29276,6 +30190,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5671086161443,
     "lng": 127.088452984118,
     "geoApprox": false
@@ -29308,6 +30223,7 @@ window.KINDERGARTENS = [
       "special": 1
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5622308905044,
     "lng": 126.810281254376,
     "geoApprox": false
@@ -29340,6 +30256,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5900368304084,
     "lng": 127.079200700601,
     "geoApprox": false
@@ -29372,6 +30289,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5739262377478,
     "lng": 126.804694204855,
     "geoApprox": false
@@ -29404,6 +30322,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4901681154487,
     "lng": 126.930369788237,
     "geoApprox": false
@@ -29436,6 +30355,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6624464105885,
     "lng": 127.068880275281,
     "geoApprox": false
@@ -29468,6 +30388,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5672992845452,
     "lng": 127.015687859678,
     "geoApprox": false
@@ -29500,6 +30421,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5061719799247,
     "lng": 127.094961922705,
     "geoApprox": false
@@ -29532,6 +30454,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4758166247606,
     "lng": 127.052045721323,
     "geoApprox": false
@@ -29564,6 +30487,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.6386058279529,
     "lng": 127.014240485582,
     "geoApprox": false
@@ -29596,6 +30520,7 @@ window.KINDERGARTENS = [
       "special": 7
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.51357077726,
     "lng": 126.833371811835,
     "geoApprox": false
@@ -29628,6 +30553,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5312631405147,
     "lng": 126.852205584763,
     "geoApprox": false
@@ -29660,6 +30586,7 @@ window.KINDERGARTENS = [
       "special": 2
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4851194359099,
     "lng": 126.922183775699,
     "geoApprox": false
@@ -29692,6 +30619,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5346820949284,
     "lng": 127.0699952764,
     "geoApprox": false
@@ -29724,6 +30652,7 @@ window.KINDERGARTENS = [
       "special": 3
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.5515426236302,
     "lng": 127.169410143976,
     "geoApprox": false
@@ -29756,6 +30685,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4898127052732,
     "lng": 127.076141940265,
     "geoApprox": false
@@ -29788,6 +30718,7 @@ window.KINDERGARTENS = [
       "special": 4
     },
     "hasSpecialClass": true,
+    "censusYear": "2026",
     "lat": 37.4667696443557,
     "lng": 126.90892992546,
     "geoApprox": false
@@ -29820,6 +30751,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4897166823284,
     "lng": 126.839098527316,
     "geoApprox": false
@@ -29852,6 +30784,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.6065633137733,
     "lng": 126.935058620612,
     "geoApprox": false
@@ -29884,6 +30817,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5408191681662,
     "lng": 127.133635322641,
     "geoApprox": false
@@ -29916,6 +30850,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.477746438627,
     "lng": 127.145616413948,
     "geoApprox": false
@@ -29948,6 +30883,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2023",
     "lat": 37.6082086276444,
     "lng": 126.917361372981,
     "geoApprox": false
@@ -29980,6 +30916,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.4771198534832,
     "lng": 126.926876735629,
     "geoApprox": false
@@ -30012,6 +30949,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5536478329572,
     "lng": 126.949778833645,
     "geoApprox": false
@@ -30044,6 +30982,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5702600120377,
     "lng": 127.057598419026,
     "geoApprox": false
@@ -30076,6 +31015,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.622879790197,
     "lng": 127.08478195175,
     "geoApprox": false
@@ -30108,6 +31048,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5632612152138,
     "lng": 127.029678058836,
     "geoApprox": false
@@ -30140,6 +31081,7 @@ window.KINDERGARTENS = [
       "special": 10
     },
     "hasSpecialClass": true,
+    "censusYear": "2019",
     "lat": 37.5618696246217,
     "lng": 127.180267055739,
     "geoApprox": false
@@ -30172,6 +31114,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.512045952,
     "lng": 127.039435597045,
     "geoApprox": false
@@ -30204,6 +31147,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5622171927841,
     "lng": 126.858521557616,
     "geoApprox": false
@@ -30236,6 +31180,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.5069549745149,
     "lng": 127.111247174893,
     "geoApprox": false
@@ -30268,12 +31213,13 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "hasSpecialClass": false,
+    "censusYear": "2026",
     "lat": 37.560894450375,
     "lng": 126.842382226829,
     "geoApprox": false
   }
 ];
 window.DATA_META = {
-  "surveyDate": "2026-07-19",
+  "surveyDate": "2026-07-20",
   "total": 946
 };

@@ -177,6 +177,7 @@ def main():
             "classes": it["classes"],
             "students": it["students"],
             "hasSpecialClass": it["hasSpecialClass"],
+            "censusYear": it["censusYear"],
             "lat": lat,
             "lng": lng,
             "geoApprox": geo != "geocoded",

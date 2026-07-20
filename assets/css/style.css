@@ -277,6 +277,8 @@ body {
 .tag.approx { background: #FFE3E3; color: #C0392B; }
 .approx-note { color: #C0392B; }
 .card-info { font-size: 0.85rem; color: var(--text-muted); line-height: 1.5; }
+.census-year { opacity: .75; }
+.census-year.stale { opacity: 1; color: #C0392B; font-weight: 600; }
 .card-info .ico { margin-right: 4px; }
 .card-locate {
   align-self: flex-start; margin-top: 2px;

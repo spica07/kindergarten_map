@@ -89,6 +89,9 @@ def main():
         class_count = sum(classes.values())
         student_count = sum(students.values())
 
+        cycle = (r.get("PBLNT_CYCL") or "").strip()
+        census_year = cycle[:4] if len(cycle) >= 5 and cycle[:4].isdigit() else ""
+
         merged.append({
             "kdgtCd": r.get("KDGT_CD", ""),
             "name": r.get("KDGT_NM", ""),
@@ -105,6 +108,7 @@ def main():
             "classes": classes,
             "students": students,
             "hasSpecialClass": classes["special"] > 0,
+            "censusYear": census_year,
         })
 
     OUT.write_text(json.dumps(merged, ensure_ascii=False, indent=2), encoding="utf-8")

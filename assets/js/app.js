@@ -154,7 +154,9 @@
     var info = [];
     info.push('<div class="card-info">' + esc(f.address) + '</div>');
     if (f.operHours) info.push('<div class="card-info">' + esc(f.operHours) + '</div>');
-    info.push('<div class="card-info">총 ' + f.classCount + '개 반 · 원아 ' + f.studentCount + '명</div>');
+    var censusStale = f.censusYear && (new Date().getFullYear() - parseInt(f.censusYear, 10)) >= 3;
+    info.push('<div class="card-info">총 ' + f.classCount + '개 반 · 원아 ' + f.studentCount + '명' +
+      (f.censusYear ? ' <span class="census-year' + (censusStale ? ' stale' : '') + '">(' + esc(f.censusYear) + '년 기준)</span>' : '') + '</div>');
     return (
       '<article class="facility-card" data-id="' + f.id + '">' +
         '<div class="card-body">' +
