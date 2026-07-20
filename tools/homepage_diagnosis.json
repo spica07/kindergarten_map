@@ -1,0 +1,1028 @@
+[
+  {
+    "id": 61,
+    "name": "서울신도초등학교병설유치원",
+    "url": "http://www.sindo.sen.es.kr",
+    "cleaned": "http://www.sindo.sen.es.kr",
+    "host": "www.sindo.sen.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 60,
+    "name": "서울상암초등학교병설유치원",
+    "url": "http://www.sangam.es.kr",
+    "cleaned": "http://www.sangam.es.kr",
+    "host": "www.sangam.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 19,
+    "name": "서울원명초등학교병설유치원",
+    "url": "http://www.wonmyong.es.kr/index/index.do",
+    "cleaned": "http://www.wonmyong.es.kr/index/index.do",
+    "host": "www.wonmyong.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 131,
+    "name": "서울영서초등학교병설유치원",
+    "url": "http://www.youngseo.es.kr",
+    "cleaned": "http://www.youngseo.es.kr",
+    "host": "www.youngseo.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 1,
+    "name": "서울정심초등학교병설유치원",
+    "url": "http://www.jungshim.es.kr",
+    "cleaned": "http://www.jungshim.es.kr",
+    "host": "www.jungshim.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 108,
+    "name": "서울장곡초등학교병설유치원",
+    "url": "http://www.janggokcho.es.kr",
+    "cleaned": "http://www.janggokcho.es.kr",
+    "host": "www.janggokcho.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 107,
+    "name": "예랑유치원",
+    "url": "http://www.yerangkid.com",
+    "cleaned": "http://www.yerangkid.com",
+    "host": "www.yerangkid.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 35,
+    "name": "한울유치원",
+    "url": "http:// www.hanulkid.co.kr",
+    "cleaned": "http://www.hanulkid.co.kr",
+    "host": "www.hanulkid.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 80,
+    "name": "미림유치원",
+    "url": "http://www.미림유치원.kr/",
+    "cleaned": "http://www.미림유치원.kr/",
+    "host": "www.미림유치원.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 23,
+    "name": "서울언주초등학교병설유치원",
+    "url": "http://www.eonju.es.kr",
+    "cleaned": "http://www.eonju.es.kr",
+    "host": "www.eonju.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 110,
+    "name": "서울면동초등학교병설유치원",
+    "url": "http://www.myeondong.es.kr",
+    "cleaned": "http://www.myeondong.es.kr",
+    "host": "www.myeondong.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 217,
+    "name": "서울면목초등학교병설유치원",
+    "url": "http://www.myeonmok.es.kr",
+    "cleaned": "http://www.myeonmok.es.kr",
+    "host": "www.myeonmok.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 210,
+    "name": "현대유치원",
+    "url": "http://:www.hyundaikids.com",
+    "cleaned": "http://www.hyundaikids.com",
+    "host": "www.hyundaikids.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 153,
+    "name": "준희유치원",
+    "url": "http://www.junheekids.com",
+    "cleaned": "http://www.junheekids.com",
+    "host": "www.junheekids.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 284,
+    "name": "서울청룡초등학교병설유치원",
+    "url": "http://www.chungryong.es.kr/",
+    "cleaned": "http://www.chungryong.es.kr/",
+    "host": "www.chungryong.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 264,
+    "name": "서울가락초등학교병설유치원",
+    "url": "http://www.garak.sen.es.kr",
+    "cleaned": "http://www.garak.sen.es.kr",
+    "host": "www.garak.sen.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 175,
+    "name": "대원유치원",
+    "url": "http://www.deawon.co.kr",
+    "cleaned": "http://www.deawon.co.kr",
+    "host": "www.deawon.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 263,
+    "name": "자양하나유치원",
+    "url": "http://www.hanayoochiwon.com",
+    "cleaned": "http://www.hanayoochiwon.com",
+    "host": "www.hanayoochiwon.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 366,
+    "name": "사랑유치원",
+    "url": "http://www,sarangkid.co.kr",
+    "cleaned": "http://www,sarangkid.co.kr",
+    "host": "www,sarangkid.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 282,
+    "name": "양지유치원",
+    "url": "http://www.yangjikids.co.kr/",
+    "cleaned": "http://www.yangjikids.co.kr/",
+    "host": "www.yangjikids.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 361,
+    "name": "서울강덕초등학교병설유치원",
+    "url": "http://www.gangdeok.es.kr/",
+    "cleaned": "http://www.gangdeok.es.kr/",
+    "host": "www.gangdeok.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 317,
+    "name": "서울연은초등학교병설유치원",
+    "url": "http://www.yeoneun.sen.es.kr",
+    "cleaned": "http://www.yeoneun.sen.es.kr",
+    "host": "www.yeoneun.sen.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 318,
+    "name": "서울묵현초등학교병설유치원",
+    "url": "http://www.mh.es.kr",
+    "cleaned": "http://www.mh.es.kr",
+    "host": "www.mh.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 328,
+    "name": "현대홍익유치원",
+    "url": "http://www.hdhongik.com/",
+    "cleaned": "http://www.hdhongik.com/",
+    "host": "www.hdhongik.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 339,
+    "name": "나래유치원",
+    "url": "http://www.naraekinder.com/",
+    "cleaned": "http://www.naraekinder.com/",
+    "host": "www.naraekinder.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 371,
+    "name": "서울유치원",
+    "url": "http://www.seoul-montessori.com",
+    "cleaned": "http://www.seoul-montessori.com",
+    "host": "www.seoul-montessori.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 265,
+    "name": "서울길동초등학교병설유치원",
+    "url": "http://www.gildong.es.kr",
+    "cleaned": "http://www.gildong.es.kr",
+    "host": "www.gildong.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 17,
+    "name": "강남유치원",
+    "url": "http://www.knk.or.kr",
+    "cleaned": "http://www.knk.or.kr",
+    "host": "www.knk.or.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 319,
+    "name": "서울남천초등학교병설유치원",
+    "url": "http://s-namcheon.es.kr",
+    "cleaned": "http://s-namcheon.es.kr",
+    "host": "s-namcheon.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 209,
+    "name": "송곡유치원",
+    "url": "http://songkok.co.kr",
+    "cleaned": "http://songkok.co.kr",
+    "host": "songkok.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 403,
+    "name": "하나유치원",
+    "url": "http://hanakids.kr",
+    "cleaned": "http://hanakids.kr",
+    "host": "hanakids.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 400,
+    "name": "서울자곡초등학교병설유치원",
+    "url": "http://www.jagok.sen.es.kr",
+    "cleaned": "http://www.jagok.sen.es.kr",
+    "host": "www.jagok.sen.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 386,
+    "name": "청암유치원",
+    "url": "http://cakids.co.kr/",
+    "cleaned": "http://cakids.co.kr/",
+    "host": "cakids.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 393,
+    "name": "서울반포초등학교병설유치원",
+    "url": "http://www.banpokid.co.kr",
+    "cleaned": "http://www.banpokid.co.kr",
+    "host": "www.banpokid.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 402,
+    "name": "등촌이화유치원",
+    "url": "http://www.ewkinder.co.kr",
+    "cleaned": "http://www.ewkinder.co.kr",
+    "host": "www.ewkinder.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 234,
+    "name": "피노키오유치원",
+    "url": "http://pino.yoochiwon.kr",
+    "cleaned": "http://pino.yoochiwon.kr",
+    "host": "pino.yoochiwon.kr",
+    "dns": "resolved",
+    "ip": "220.73.160.27"
+  },
+  {
+    "id": 215,
+    "name": "예일유치원",
+    "url": "http://www.yeilkid.co.kr",
+    "cleaned": "http://www.yeilkid.co.kr",
+    "host": "www.yeilkid.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 416,
+    "name": "서울창신초등학교병설유치원",
+    "url": "http://www.chang-shin.sen.es.kr",
+    "cleaned": "http://www.chang-shin.sen.es.kr",
+    "host": "www.chang-shin.sen.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 65,
+    "name": "자양유치원",
+    "url": "http://www.jayangkids.com/",
+    "cleaned": "http://www.jayangkids.com/",
+    "host": "www.jayangkids.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 410,
+    "name": "광운유치원",
+    "url": "http://www.kwangwoon.or.kr",
+    "cleaned": "http://www.kwangwoon.or.kr",
+    "host": "www.kwangwoon.or.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 415,
+    "name": "서울대왕초등학교병설유치원",
+    "url": "http://www.dwkids.kg.kr/",
+    "cleaned": "http://www.dwkids.kg.kr/",
+    "host": "www.dwkids.kg.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 149,
+    "name": "로뎅유치원",
+    "url": "http://www.rodinkinder.com/",
+    "cleaned": "http://www.rodinkinder.com/",
+    "host": "www.rodinkinder.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 465,
+    "name": "동아유치원",
+    "url": "http://www.dongakids.net",
+    "cleaned": "http://www.dongakids.net",
+    "host": "www.dongakids.net",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 493,
+    "name": "서울잠일초등학교병설유치원",
+    "url": "http://www.jamil.es.kr/",
+    "cleaned": "http://www.jamil.es.kr/",
+    "host": "www.jamil.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 427,
+    "name": "서울우암초등학교병설유치원",
+    "url": "http://www.wooam.es.kr",
+    "cleaned": "http://www.wooam.es.kr",
+    "host": "www.wooam.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 486,
+    "name": "천사유치원",
+    "url": "http://www.1004.kg.kr",
+    "cleaned": "http://www.1004.kg.kr",
+    "host": "www.1004.kg.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 441,
+    "name": "서울장월초등학교병설유치원",
+    "url": "http://www.jangwol.es.kr/",
+    "cleaned": "http://www.jangwol.es.kr/",
+    "host": "www.jangwol.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 472,
+    "name": "예크유치원",
+    "url": "http://ykkids.co.kr",
+    "cleaned": "http://ykkids.co.kr",
+    "host": "ykkids.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 434,
+    "name": "미래유치원",
+    "url": "http://www.미래유치원.com",
+    "cleaned": "http://www.미래유치원.com",
+    "host": "www.미래유치원.com",
+    "dns": "resolved",
+    "ip": "115.68.102.14"
+  },
+  {
+    "id": 498,
+    "name": "약수유치원",
+    "url": "http://www.yaksui.com",
+    "cleaned": "http://www.yaksui.com",
+    "host": "www.yaksui.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 517,
+    "name": "서울수색초등학교병설유치원",
+    "url": "http://www.susaek.es.kr",
+    "cleaned": "http://www.susaek.es.kr",
+    "host": "www.susaek.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 555,
+    "name": "예진유치원",
+    "url": "http://www.yejinchild.com/",
+    "cleaned": "http://www.yejinchild.com/",
+    "host": "www.yejinchild.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 519,
+    "name": "신반포중앙유치원",
+    "url": "http://sbpckids.com/",
+    "cleaned": "http://sbpckids.com/",
+    "host": "sbpckids.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 520,
+    "name": "아이조아유치원",
+    "url": "http://www.i-joais.co.kr",
+    "cleaned": "http://www.i-joais.co.kr",
+    "host": "www.i-joais.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 542,
+    "name": "한성유치원",
+    "url": "http://www.hansungk.co.kr",
+    "cleaned": "http://www.hansungk.co.kr",
+    "host": "www.hansungk.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 300,
+    "name": "유성유치원",
+    "url": "http://www.yusungkids.org/",
+    "cleaned": "http://www.yusungkids.org/",
+    "host": "www.yusungkids.org",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 322,
+    "name": "공능유치원",
+    "url": "http://kongneungkidis.co.kr",
+    "cleaned": "http://kongneungkidis.co.kr",
+    "host": "kongneungkidis.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 331,
+    "name": "서울유치원",
+    "url": "http://www.seoulkid.com",
+    "cleaned": "http://www.seoulkid.com",
+    "host": "www.seoulkid.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 523,
+    "name": "은비유치원",
+    "url": "http://www.eunb.co.kr",
+    "cleaned": "http://www.eunb.co.kr",
+    "host": "www.eunb.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 557,
+    "name": "서울은평초등학교병설유치원",
+    "url": "http://www.eunpyeong.es.kr",
+    "cleaned": "http://www.eunpyeong.es.kr",
+    "host": "www.eunpyeong.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 566,
+    "name": "레인보우유치원",
+    "url": "http://www.rainbowkid.net",
+    "cleaned": "http://www.rainbowkid.net",
+    "host": "www.rainbowkid.net",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 228,
+    "name": "고운유치원",
+    "url": "http://www.gounkid.com",
+    "cleaned": "http://www.gounkid.com",
+    "host": "www.gounkid.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 573,
+    "name": "무학유치원",
+    "url": "http://www.moohak.co.kr",
+    "cleaned": "http://www.moohak.co.kr",
+    "host": "www.moohak.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 447,
+    "name": "현정유치원",
+    "url": "http://www.hyunjungkids.co.kr",
+    "cleaned": "http://www.hyunjungkids.co.kr",
+    "host": "www.hyunjungkids.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 579,
+    "name": "바니유치원",
+    "url": "https://cafe. naver. com/bunnykindergarten",
+    "cleaned": "https://cafe.naver.com/bunnykindergarten",
+    "host": "cafe.naver.com",
+    "dns": "resolved",
+    "ip": "110.93.159.37"
+  },
+  {
+    "id": 586,
+    "name": "신림유치원",
+    "url": "http://www.sillimkids.com",
+    "cleaned": "http://www.sillimkids.com",
+    "host": "www.sillimkids.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 613,
+    "name": "서울당중초등학교병설유치원",
+    "url": "http://www.dangjung.es.kr",
+    "cleaned": "http://www.dangjung.es.kr",
+    "host": "www.dangjung.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 588,
+    "name": "서울상곡초등학교병설유치원",
+    "url": "http://www.sanggok.sen.es.com",
+    "cleaned": "http://www.sanggok.sen.es.com",
+    "host": "www.sanggok.sen.es.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 589,
+    "name": "서울서신초등학교병설유치원",
+    "url": "http://www.susin.es.kr",
+    "cleaned": "http://www.susin.es.kr",
+    "host": "www.susin.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 609,
+    "name": "미래클유치원",
+    "url": "http://www.miraclekid.co.kr",
+    "cleaned": "http://www.miraclekid.co.kr",
+    "host": "www.miraclekid.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 616,
+    "name": "서울두산초등학교병설유치원",
+    "url": "http://www.doosan.es.kr",
+    "cleaned": "http://www.doosan.es.kr",
+    "host": "www.doosan.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 646,
+    "name": "서울세륜초등학교병설유치원",
+    "url": "http://www.seryun.es.kr",
+    "cleaned": "http://www.seryun.es.kr",
+    "host": "www.seryun.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 622,
+    "name": "무지개나라유치원",
+    "url": "http://rainbowkin.com",
+    "cleaned": "http://rainbowkin.com",
+    "host": "rainbowkin.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 548,
+    "name": "서울숭곡초등학교병설유치원",
+    "url": "http://www.soonggok.es.kr",
+    "cleaned": "http://www.soonggok.es.kr",
+    "host": "www.soonggok.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 677,
+    "name": "서울서래초등학교병설유치원",
+    "url": "http://www.seorae.es.kr/",
+    "cleaned": "http://www.seorae.es.kr/",
+    "host": "www.seorae.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 431,
+    "name": "서울도신초등학교병설유치원",
+    "url": "http://www.doshin.es.kr",
+    "cleaned": "http://www.doshin.es.kr",
+    "host": "www.doshin.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 419,
+    "name": "럭키유치원",
+    "url": "http://www.luckids.org",
+    "cleaned": "http://www.luckids.org",
+    "host": "www.luckids.org",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 667,
+    "name": "아랑유치원",
+    "url": "http://arangkidiskids.co.kr",
+    "cleaned": "http://arangkidiskids.co.kr",
+    "host": "arangkidiskids.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 675,
+    "name": "서울휘봉초등학교병설유치원",
+    "url": "http://www.hwibong.es.kr",
+    "cleaned": "http://www.hwibong.es.kr",
+    "host": "www.hwibong.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 654,
+    "name": "서울난곡초등학교병설유치원",
+    "url": "http://nangok.es.kr/",
+    "cleaned": "http://nangok.es.kr/",
+    "host": "nangok.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 707,
+    "name": "서울대방초등학교병설유치원",
+    "url": "http://www.sdaebang.es.kr",
+    "cleaned": "http://www.sdaebang.es.kr",
+    "host": "www.sdaebang.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 678,
+    "name": "반포성모유치원",
+    "url": "http://www.banposm.com",
+    "cleaned": "http://www.banposm.com",
+    "host": "www.banposm.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 662,
+    "name": "건영유치원",
+    "url": "http://www.gunykid.com",
+    "cleaned": "http://www.gunykid.com",
+    "host": "www.gunykid.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 732,
+    "name": "해슬아유치원",
+    "url": "https://www.haeseula.co.kr",
+    "cleaned": "https://www.haeseula.co.kr",
+    "host": "www.haeseula.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 423,
+    "name": "은혜유치원",
+    "url": "http://www.eunhye.kg.kr",
+    "cleaned": "http://www.eunhye.kg.kr",
+    "host": "www.eunhye.kg.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 326,
+    "name": "조은유치원",
+    "url": "http://www.joeun.kg.kr",
+    "cleaned": "http://www.joeun.kg.kr",
+    "host": "www.joeun.kg.kr",
+    "dns": "fail",
+    "error": "[Errno 11002] getaddrinfo failed"
+  },
+  {
+    "id": 752,
+    "name": "서울공덕초등학교병설유치원",
+    "url": "http://www.kongduck.es.kr/",
+    "cleaned": "http://www.kongduck.es.kr/",
+    "host": "www.kongduck.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 768,
+    "name": "송림유치원",
+    "url": "http://songrim.kg.kr/",
+    "cleaned": "http://songrim.kg.kr/",
+    "host": "songrim.kg.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 632,
+    "name": "예린유치원",
+    "url": "http://www.yerinkids.co.kr",
+    "cleaned": "http://www.yerinkids.co.kr",
+    "host": "www.yerinkids.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 770,
+    "name": "서울동일초등학교병설유치원",
+    "url": "http://www.dongil.es.kr",
+    "cleaned": "http://www.dongil.es.kr",
+    "host": "www.dongil.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 780,
+    "name": "서울상경초등학교병설유치원",
+    "url": "http://www.sanggyeong.es.kr",
+    "cleaned": "http://www.sanggyeong.es.kr",
+    "host": "www.sanggyeong.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 802,
+    "name": "샬롬유치원",
+    "url": "http://www.shalomkids.co.kr",
+    "cleaned": "http://www.shalomkids.co.kr",
+    "host": "www.shalomkids.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 876,
+    "name": "서울탑산초등학교병설유치원",
+    "url": "http://www.top.es.kr",
+    "cleaned": "http://www.top.es.kr",
+    "host": "www.top.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 15,
+    "name": "서울강월초등학교병설유치원",
+    "url": "http://gangwol.es.kr/",
+    "cleaned": "http://gangwol.es.kr/",
+    "host": "gangwol.es.kr",
+    "dns": "resolved",
+    "ip": "211.241.100.111"
+  },
+  {
+    "id": 303,
+    "name": "서울방이초등학교병설유치원",
+    "url": "http://www.bangi.es.kr",
+    "cleaned": "http://www.bangi.es.kr",
+    "host": "www.bangi.es.kr",
+    "dns": "resolved",
+    "ip": "211.241.100.111"
+  },
+  {
+    "id": 936,
+    "name": "서울역촌유치원",
+    "url": "http://www.서울역촌유치원.kr",
+    "cleaned": "http://www.서울역촌유치원.kr",
+    "host": "www.서울역촌유치원.kr",
+    "dns": "resolved",
+    "ip": "112.175.141.122"
+  },
+  {
+    "id": 34,
+    "name": "서울중곡초등학교병설유치원",
+    "url": "http://cg.new21.net",
+    "cleaned": "http://cg.new21.net",
+    "host": "cg.new21.net",
+    "dns": "resolved",
+    "ip": "110.45.144.77"
+  },
+  {
+    "id": 392,
+    "name": "서울염경초등학교병설유치원",
+    "url": "http://www.yeomkyoung.es.kr",
+    "cleaned": "http://www.yeomkyoung.es.kr",
+    "host": "www.yeomkyoung.es.kr",
+    "dns": "resolved",
+    "ip": "211.241.100.111"
+  },
+  {
+    "id": 625,
+    "name": "서울길원초등학교병설유치원",
+    "url": "http://www.gilwon.es.kr",
+    "cleaned": "http://www.gilwon.es.kr",
+    "host": "www.gilwon.es.kr",
+    "dns": "resolved",
+    "ip": "211.241.100.111"
+  },
+  {
+    "id": 704,
+    "name": "토마토유치원",
+    "url": "http://www.tomatokids.co.kr",
+    "cleaned": "http://www.tomatokids.co.kr",
+    "host": "www.tomatokids.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 860,
+    "name": "서울청운초등학교병설유치원",
+    "url": "http://www.chungwoon.es.kr",
+    "cleaned": "http://www.chungwoon.es.kr",
+    "host": "www.chungwoon.es.kr",
+    "dns": "resolved",
+    "ip": "211.241.100.111"
+  },
+  {
+    "id": 762,
+    "name": "금호유치원",
+    "url": "http://www.keumhokids.co.kr",
+    "cleaned": "http://www.keumhokids.co.kr",
+    "host": "www.keumhokids.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 923,
+    "name": "서울포이초등학교병설유치원",
+    "url": "http://www.poi.es.kr/",
+    "cleaned": "http://www.poi.es.kr/",
+    "host": "www.poi.es.kr",
+    "dns": "resolved",
+    "ip": "211.241.100.111"
+  },
+  {
+    "id": 843,
+    "name": "새싹유치원",
+    "url": "http://www.saessakkids.co.kr/",
+    "cleaned": "http://www.saessakkids.co.kr/",
+    "host": "www.saessakkids.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 482,
+    "name": "동은유치원",
+    "url": "http://dongeun.kids.co.kr",
+    "cleaned": "http://dongeun.kids.co.kr",
+    "host": "dongeun.kids.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11002] getaddrinfo failed"
+  },
+  {
+    "id": 626,
+    "name": "서울대동초등학교병설유치원",
+    "url": "http://www.sdaedong.es.kr/46683/subMenu.do",
+    "cleaned": "http://www.sdaedong.es.kr/46683/subMenu.do",
+    "host": "www.sdaedong.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 513,
+    "name": "반디유치원",
+    "url": "http://www.bandykindergarten.co.kr/",
+    "cleaned": "http://www.bandykindergarten.co.kr/",
+    "host": "www.bandykindergarten.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11002] getaddrinfo failed"
+  },
+  {
+    "id": 834,
+    "name": "서울번동초등학교병설유치원",
+    "url": "http://www.beondong.kg.kr/",
+    "cleaned": "http://www.beondong.kg.kr/",
+    "host": "www.beondong.kg.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 610,
+    "name": "하랑숲유치원",
+    "url": "http://www.harangsoop.com/",
+    "cleaned": "http://www.harangsoop.com/",
+    "host": "www.harangsoop.com",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  },
+  {
+    "id": 556,
+    "name": "서문유치원",
+    "url": "http://kids.seomoonch.org/",
+    "cleaned": "http://kids.seomoonch.org/",
+    "host": "kids.seomoonch.org",
+    "dns": "resolved",
+    "ip": "180.150.229.57"
+  },
+  {
+    "id": 539,
+    "name": "불광유치원",
+    "url": "http://www.bulkwangkids.com",
+    "cleaned": "http://www.bulkwangkids.com",
+    "host": "www.bulkwangkids.com",
+    "dns": "resolved",
+    "ip": "172.65.211.209"
+  },
+  {
+    "id": 116,
+    "name": "동명유치원",
+    "url": "http://cyworld.com/dongmyoungkid",
+    "cleaned": "http://cyworld.com/dongmyoungkid",
+    "host": "cyworld.com",
+    "dns": "fail",
+    "error": "[Errno 11002] getaddrinfo failed"
+  },
+  {
+    "id": 495,
+    "name": "대붕유치원",
+    "url": "http://www.daebung.co.kr",
+    "cleaned": "http://www.daebung.co.kr",
+    "host": "www.daebung.co.kr",
+    "dns": "fail",
+    "error": "[Errno 11002] getaddrinfo failed"
+  },
+  {
+    "id": 18,
+    "name": "서울연광초등학교병설유치원",
+    "url": "http://www.yeonkwang.es.kr",
+    "cleaned": "http://www.yeonkwang.es.kr",
+    "host": "www.yeonkwang.es.kr",
+    "dns": "fail",
+    "error": "[Errno 11001] getaddrinfo failed"
+  }
+]

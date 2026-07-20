@@ -1,0 +1,2747 @@
+[
+  {
+    "id": 35,
+    "name": "한울유치원",
+    "url": "http:// www.hanulkid.co.kr",
+    "tried": "http:// www.hanulkid.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 23,
+    "name": "서울언주초등학교병설유치원",
+    "url": "http://www.eonju.es.kr",
+    "tried": "http://www.eonju.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 1,
+    "name": "서울정심초등학교병설유치원",
+    "url": "http://www.jungshim.es.kr",
+    "tried": "http://www.jungshim.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 60,
+    "name": "서울상암초등학교병설유치원",
+    "url": "http://www.sangam.es.kr",
+    "tried": "http://www.sangam.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 17,
+    "name": "강남유치원",
+    "url": "http://www.knk.or.kr",
+    "tried": "http://www.knk.or.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 19,
+    "name": "서울원명초등학교병설유치원",
+    "url": "http://www.wonmyong.es.kr/index/index.do",
+    "tried": "http://www.wonmyong.es.kr/index/index.do",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 22,
+    "name": "서울우솔초등학교병설유치원",
+    "url": "http://woosol.sen.es.kr",
+    "tried": "http://woosol.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "http://woosol.sen.es.kr/"
+  },
+  {
+    "id": 65,
+    "name": "자양유치원",
+    "url": "http://www.jayangkids.com/",
+    "tried": "http://www.jayangkids.com/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 61,
+    "name": "서울신도초등학교병설유치원",
+    "url": "http://www.sindo.sen.es.kr",
+    "tried": "http://www.sindo.sen.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 80,
+    "name": "미림유치원",
+    "url": "http://www.미림유치원.kr/",
+    "tried": "http://www.미림유치원.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 5,
+    "name": "서울신묵초등학교병설유치원",
+    "url": "https://sinmook.sen.es.kr/",
+    "tried": "https://sinmook.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sinmook.sen.es.kr/"
+  },
+  {
+    "id": 108,
+    "name": "서울장곡초등학교병설유치원",
+    "url": "http://www.janggokcho.es.kr",
+    "tried": "http://www.janggokcho.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 11,
+    "name": "서울월천초등학교병설유치원",
+    "url": "https://wol.sen.es.kr",
+    "tried": "https://wol.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wol.sen.es.kr/"
+  },
+  {
+    "id": 8,
+    "name": "서울남산초등학교병설유치원",
+    "url": "https://namsan.sen.es.kr",
+    "tried": "https://namsan.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://namsan.sen.es.kr/"
+  },
+  {
+    "id": 110,
+    "name": "서울면동초등학교병설유치원",
+    "url": "http://www.myeondong.es.kr",
+    "tried": "http://www.myeondong.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 107,
+    "name": "예랑유치원",
+    "url": "http://www.yerangkid.com",
+    "tried": "http://www.yerangkid.com",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 77,
+    "name": "서울월촌초등학교병설유치원",
+    "url": "https://swc.sen.es.kr",
+    "tried": "https://swc.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://swc.sen.es.kr/"
+  },
+  {
+    "id": 131,
+    "name": "서울영서초등학교병설유치원",
+    "url": "http://www.youngseo.es.kr",
+    "tried": "http://www.youngseo.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 83,
+    "name": "서울은로초등학교병설유치원",
+    "url": "http://eunlo.sen.es.kr/index.do",
+    "tried": "http://eunlo.sen.es.kr/index.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "http://eunlo.sen.es.kr/index.do"
+  },
+  {
+    "id": 18,
+    "name": "서울연광초등학교병설유치원",
+    "url": "http://www.yeonkwang.es.kr",
+    "tried": "http://www.yeonkwang.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 84,
+    "name": "서울은천초등학교병설유치원",
+    "url": "https://euncheon.sen.es.kr/",
+    "tried": "https://euncheon.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://euncheon.sen.es.kr/"
+  },
+  {
+    "id": 7,
+    "name": "서울소의초등학교병설유치원",
+    "url": "http://soeui.sen.es.kr",
+    "tried": "http://soeui.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://soeui.sen.es.kr/"
+  },
+  {
+    "id": 10,
+    "name": "서울송파위례유치원",
+    "url": "https://songpawirye.sen.kg.kr/",
+    "tried": "https://songpawirye.sen.kg.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://songpawirye.sen.kg.kr/"
+  },
+  {
+    "id": 21,
+    "name": "서울마장초등학교병설유치원",
+    "url": "https://majang.sen.es.kr",
+    "tried": "https://majang.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://majang.sen.es.kr/"
+  },
+  {
+    "id": 149,
+    "name": "로뎅유치원",
+    "url": "http://www.rodinkinder.com/",
+    "tried": "http://www.rodinkinder.com/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 26,
+    "name": "서울백산초등학교병설유치원",
+    "url": "http://backsan.sen.es.kr/112708/subMenu.do",
+    "tried": "http://backsan.sen.es.kr/112708/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://backsan.sen.es.kr/112708/subMenu.do"
+  },
+  {
+    "id": 153,
+    "name": "준희유치원",
+    "url": "http://www.junheekids.com",
+    "tried": "http://www.junheekids.com",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 89,
+    "name": "서울수락초등학교병설유치원",
+    "url": "https://surak.sen.es.kr/",
+    "tried": "https://surak.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://surak.sen.es.kr/"
+  },
+  {
+    "id": 175,
+    "name": "대원유치원",
+    "url": "http://www.deawon.co.kr",
+    "tried": "http://www.deawon.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 9,
+    "name": "서울상계초등학교병설유치원",
+    "url": "https://sanggye.sen.es.kr",
+    "tried": "https://sanggye.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sanggye.sen.es.kr/"
+  },
+  {
+    "id": 109,
+    "name": "서울세곡초등학교병설유치원",
+    "url": "https://segok.sen.es.kr/113392/subMenu.do",
+    "tried": "https://segok.sen.es.kr/113392/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://segok.sen.es.kr/113392/subMenu.do"
+  },
+  {
+    "id": 102,
+    "name": "서울한남초등학교병설유치원",
+    "url": "http://hannam.sen.es.kr",
+    "tried": "http://hannam.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hannam.sen.es.kr/"
+  },
+  {
+    "id": 209,
+    "name": "송곡유치원",
+    "url": "http://songkok.co.kr",
+    "tried": "http://songkok.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 210,
+    "name": "현대유치원",
+    "url": "http://:www.hyundaikids.com",
+    "tried": "http://:www.hyundaikids.com",
+    "ok": false,
+    "status": null,
+    "error": "InvalidURL"
+  },
+  {
+    "id": 119,
+    "name": "서울신성초등학교병설유치원",
+    "url": "https://sss.sen.es.kr",
+    "tried": "https://sss.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sss.sen.es.kr/"
+  },
+  {
+    "id": 217,
+    "name": "서울면목초등학교병설유치원",
+    "url": "http://www.myeonmok.es.kr",
+    "tried": "http://www.myeonmok.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 73,
+    "name": "서울관악초등학교병설유치원",
+    "url": "http://seoul-kwanak.sen.es.kr",
+    "tried": "http://seoul-kwanak.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://seoul-kwanak.sen.es.kr/"
+  },
+  {
+    "id": 200,
+    "name": "서울휘경유치원",
+    "url": "www.hwykyung.kg.kr",
+    "tried": "http://www.hwykyung.kg.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://www.hwykyung.kg.kr:464/"
+  },
+  {
+    "id": 215,
+    "name": "예일유치원",
+    "url": "http://www.yeilkid.co.kr",
+    "tried": "http://www.yeilkid.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 32,
+    "name": "서울공항초등학교병설유치원",
+    "url": "https://konghang.sen.es.kr/",
+    "tried": "https://konghang.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://konghang.sen.es.kr/"
+  },
+  {
+    "id": 24,
+    "name": "서울개원초등학교병설유치원",
+    "url": "https://gaewon.sen.es.kr/",
+    "tried": "https://gaewon.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://gaewon.sen.es.kr/"
+  },
+  {
+    "id": 228,
+    "name": "고운유치원",
+    "url": "http://www.gounkid.com",
+    "tried": "http://www.gounkid.com",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 114,
+    "name": "서울자양초등학교병설유치원",
+    "url": "https://jayang.sen.es.kr/177783/subMenu.do",
+    "tried": "https://jayang.sen.es.kr/177783/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jayang.sen.es.kr/177783/subMenu.do"
+  },
+  {
+    "id": 132,
+    "name": "서울윤중초등학교병설유치원",
+    "url": "https://yunjung.sen.es.kr/",
+    "tried": "https://yunjung.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://yunjung.sen.es.kr/"
+  },
+  {
+    "id": 59,
+    "name": "서울마포초등학교병설유치원",
+    "url": "http://mapo.sen.es.kr/140251/subMenu.do",
+    "tried": "http://mapo.sen.es.kr/140251/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://mapo.sen.es.kr/140251/subMenu.do"
+  },
+  {
+    "id": 234,
+    "name": "피노키오유치원",
+    "url": "http://pino.yoochiwon.kr",
+    "tried": "http://pino.yoochiwon.kr",
+    "ok": false,
+    "status": 403,
+    "final_url": "http://pino.yoochiwon.kr/"
+  },
+  {
+    "id": 124,
+    "name": "서울공진초등학교병설유치원",
+    "url": "http://kongjin.sen.es.kr",
+    "tried": "http://kongjin.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kongjin.sen.es.kr/"
+  },
+  {
+    "id": 157,
+    "name": "서울고명초등학교병설유치원",
+    "url": "https://gomyung.sen.es.kr/",
+    "tried": "https://gomyung.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://gomyung.sen.es.kr/"
+  },
+  {
+    "id": 186,
+    "name": "서울인왕초등학교병설유치원",
+    "url": "http://inwang.sen.es.kr",
+    "tried": "http://inwang.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://inwang.sen.es.kr/"
+  },
+  {
+    "id": 201,
+    "name": "서울도곡초등학교병설유치원",
+    "url": "https://dogok.sen.es.kr/",
+    "tried": "https://dogok.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://dogok.sen.es.kr/"
+  },
+  {
+    "id": 263,
+    "name": "자양하나유치원",
+    "url": "http://www.hanayoochiwon.com",
+    "tried": "http://www.hanayoochiwon.com",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 185,
+    "name": "서울수서초등학교병설유치원",
+    "url": "http://suseo.sen.es.kr",
+    "tried": "http://suseo.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://suseo.sen.es.kr/"
+  },
+  {
+    "id": 264,
+    "name": "서울가락초등학교병설유치원",
+    "url": "http://www.garak.sen.es.kr",
+    "tried": "http://www.garak.sen.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 282,
+    "name": "양지유치원",
+    "url": "http://www.yangjikids.co.kr/",
+    "tried": "http://www.yangjikids.co.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 265,
+    "name": "서울길동초등학교병설유치원",
+    "url": "http://www.gildong.es.kr",
+    "tried": "http://www.gildong.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 284,
+    "name": "서울청룡초등학교병설유치원",
+    "url": "http://www.chungryong.es.kr/",
+    "tried": "http://www.chungryong.es.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 136,
+    "name": "서울전동초등학교병설유치원",
+    "url": "https://jeondong.sen.es.kr",
+    "tried": "https://jeondong.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jeondong.sen.es.kr/"
+  },
+  {
+    "id": 225,
+    "name": "서울서정초등학교병설유치원",
+    "url": "https://sj.sen.es.kr/",
+    "tried": "https://sj.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sj.sen.es.kr/"
+  },
+  {
+    "id": 218,
+    "name": "서울문창초등학교병설유치원",
+    "url": "https://munchang.sen.es.kr/",
+    "tried": "https://munchang.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://munchang.sen.es.kr/"
+  },
+  {
+    "id": 223,
+    "name": "서울수암초등학교병설유치원",
+    "url": "https://suam.sen.es.kr",
+    "tried": "https://suam.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://suam.sen.es.kr/"
+  },
+  {
+    "id": 292,
+    "name": "서울수유초등학교병설유치원",
+    "url": "http://suyu.sen.es.kr",
+    "tried": "http://suyu.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "http://suyu.sen.es.kr/"
+  },
+  {
+    "id": 300,
+    "name": "유성유치원",
+    "url": "http://www.yusungkids.org/",
+    "tried": "http://www.yusungkids.org/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 319,
+    "name": "서울남천초등학교병설유치원",
+    "url": "http://s-namcheon.es.kr",
+    "tried": "http://s-namcheon.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 318,
+    "name": "서울묵현초등학교병설유치원",
+    "url": "http://www.mh.es.kr",
+    "tried": "http://www.mh.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 317,
+    "name": "서울연은초등학교병설유치원",
+    "url": "http://www.yeoneun.sen.es.kr",
+    "tried": "http://www.yeoneun.sen.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 242,
+    "name": "서울송전초등학교병설유치원",
+    "url": "https://ssj.sen.es.kr/191456/subMenu.do",
+    "tried": "https://ssj.sen.es.kr/191456/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ssj.sen.es.kr/191456/subMenu.do"
+  },
+  {
+    "id": 322,
+    "name": "공능유치원",
+    "url": "http://kongneungkidis.co.kr",
+    "tried": "http://kongneungkidis.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 328,
+    "name": "현대홍익유치원",
+    "url": "http://www.hdhongik.com/",
+    "tried": "http://www.hdhongik.com/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 213,
+    "name": "서울구현초등학교병설유치원",
+    "url": "https://guhyun.sen.es.kr/",
+    "tried": "https://guhyun.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://guhyun.sen.es.kr/"
+  },
+  {
+    "id": 212,
+    "name": "서울혜화초등학교병설유치원",
+    "url": "http://hyehwa.sen.es.kr/",
+    "tried": "http://hyehwa.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hyehwa.sen.es.kr/"
+  },
+  {
+    "id": 331,
+    "name": "서울유치원",
+    "url": "http://www.seoulkid.com",
+    "tried": "http://www.seoulkid.com",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 236,
+    "name": "서울신원초등학교병설유치원",
+    "url": "https://shinwon.sen.es.kr",
+    "tried": "https://shinwon.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://shinwon.sen.es.kr/"
+  },
+  {
+    "id": 339,
+    "name": "나래유치원",
+    "url": "http://www.naraekinder.com/",
+    "tried": "http://www.naraekinder.com/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 224,
+    "name": "서울매봉초등학교병설유치원",
+    "url": "https://maebong.sen.es.kr/",
+    "tried": "https://maebong.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://maebong.sen.es.kr/"
+  },
+  {
+    "id": 130,
+    "name": "서울개봉초등학교병설유치원",
+    "url": "http://gaebong.sen.es.kr",
+    "tried": "http://gaebong.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://gaebong.sen.es.kr/"
+  },
+  {
+    "id": 361,
+    "name": "서울강덕초등학교병설유치원",
+    "url": "http://www.gangdeok.es.kr/",
+    "tried": "http://www.gangdeok.es.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 366,
+    "name": "사랑유치원",
+    "url": "http://www,sarangkid.co.kr",
+    "tried": "http://www,sarangkid.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 371,
+    "name": "서울유치원",
+    "url": "http://www.seoul-montessori.com",
+    "tried": "http://www.seoul-montessori.com",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 291,
+    "name": "서울돈암초등학교병설유치원",
+    "url": "https://donam.sen.es.kr/97257/subMenu.do",
+    "tried": "https://donam.sen.es.kr/97257/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://donam.sen.es.kr/97257/subMenu.do"
+  },
+  {
+    "id": 386,
+    "name": "청암유치원",
+    "url": "http://cakids.co.kr/",
+    "tried": "http://cakids.co.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 326,
+    "name": "조은유치원",
+    "url": "http://www.joeun.kg.kr",
+    "tried": "http://www.joeun.kg.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 393,
+    "name": "서울반포초등학교병설유치원",
+    "url": "http://www.banpokid.co.kr",
+    "tried": "http://www.banpokid.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 400,
+    "name": "서울자곡초등학교병설유치원",
+    "url": "http://www.jagok.sen.es.kr",
+    "tried": "http://www.jagok.sen.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 402,
+    "name": "등촌이화유치원",
+    "url": "http://www.ewkinder.co.kr",
+    "tried": "http://www.ewkinder.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 289,
+    "name": "서울역삼초등학교병설유치원",
+    "url": "http://yeoksam.sen.es.kr",
+    "tried": "http://yeoksam.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://yeoksam.sen.es.kr/"
+  },
+  {
+    "id": 403,
+    "name": "하나유치원",
+    "url": "http://hanakids.kr",
+    "tried": "http://hanakids.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 297,
+    "name": "서울덕수초등학교병설유치원",
+    "url": "http://deoksoo.sen.es.kr",
+    "tried": "http://deoksoo.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://deoksoo.sen.es.kr/"
+  },
+  {
+    "id": 410,
+    "name": "광운유치원",
+    "url": "http://www.kwangwoon.or.kr",
+    "tried": "http://www.kwangwoon.or.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 415,
+    "name": "서울대왕초등학교병설유치원",
+    "url": "http://www.dwkids.kg.kr/",
+    "tried": "http://www.dwkids.kg.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 416,
+    "name": "서울창신초등학교병설유치원",
+    "url": "http://www.chang-shin.sen.es.kr",
+    "tried": "http://www.chang-shin.sen.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 423,
+    "name": "은혜유치원",
+    "url": "http://www.eunhye.kg.kr",
+    "tried": "http://www.eunhye.kg.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 304,
+    "name": "서울신명초등학교병설유치원",
+    "url": "https://shinmyung.sen.es.kr/",
+    "tried": "https://shinmyung.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://shinmyung.sen.es.kr/"
+  },
+  {
+    "id": 324,
+    "name": "서울영등포초등학교병설유치원",
+    "url": "https://ydp.sen.es.kr",
+    "tried": "https://ydp.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ydp.sen.es.kr/"
+  },
+  {
+    "id": 222,
+    "name": "서울도봉초등학교병설유치원",
+    "url": "https://dobong.sen.es.kr/",
+    "tried": "https://dobong.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://dobong.sen.es.kr/"
+  },
+  {
+    "id": 427,
+    "name": "서울우암초등학교병설유치원",
+    "url": "http://www.wooam.es.kr",
+    "tried": "http://www.wooam.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 419,
+    "name": "럭키유치원",
+    "url": "http://www.luckids.org",
+    "tried": "http://www.luckids.org",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 253,
+    "name": "서울청덕초등학교병설유치원",
+    "url": "http://cheongdeok.sen.es.kr/",
+    "tried": "http://cheongdeok.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://cheongdeok.sen.es.kr/"
+  },
+  {
+    "id": 375,
+    "name": "서울천왕초등학교병설유치원",
+    "url": "https://cheonwang.sen.es.kr/index.do",
+    "tried": "https://cheonwang.sen.es.kr/index.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://cheonwang.sen.es.kr/index.do"
+  },
+  {
+    "id": 441,
+    "name": "서울장월초등학교병설유치원",
+    "url": "http://www.jangwol.es.kr/",
+    "tried": "http://www.jangwol.es.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 447,
+    "name": "현정유치원",
+    "url": "http://www.hyunjungkids.co.kr",
+    "tried": "http://www.hyunjungkids.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 316,
+    "name": "서울영동초등학교병설유치원",
+    "url": "https://youngdong.sen.es.kr",
+    "tried": "https://youngdong.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://youngdong.sen.es.kr/"
+  },
+  {
+    "id": 275,
+    "name": "서울양목초등학교병설유치원",
+    "url": "https://yangmok.sen.es.kr/",
+    "tried": "https://yangmok.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://yangmok.sen.es.kr/"
+  },
+  {
+    "id": 434,
+    "name": "미래유치원",
+    "url": "http://www.미래유치원.com",
+    "tried": "http://www.미래유치원.com",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 465,
+    "name": "동아유치원",
+    "url": "http://www.dongakids.net",
+    "tried": "http://www.dongakids.net",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 472,
+    "name": "예크유치원",
+    "url": "http://ykkids.co.kr",
+    "tried": "http://ykkids.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 298,
+    "name": "서울재동초등학교병설유치원",
+    "url": "https://jaedong.sen.es.kr/",
+    "tried": "https://jaedong.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jaedong.sen.es.kr/"
+  },
+  {
+    "id": 411,
+    "name": "서울은명초등학교병설유치원",
+    "url": "https://em.sen.es.kr/",
+    "tried": "https://em.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://em.sen.es.kr/"
+  },
+  {
+    "id": 144,
+    "name": "서울상지초등학교병설유치원",
+    "url": "https://seoulsangji.sen.es.kr",
+    "tried": "https://seoulsangji.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://seoulsangji.sen.es.kr/"
+  },
+  {
+    "id": 486,
+    "name": "천사유치원",
+    "url": "http://www.1004.kg.kr",
+    "tried": "http://www.1004.kg.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 493,
+    "name": "서울잠일초등학교병설유치원",
+    "url": "http://www.jamil.es.kr/",
+    "tried": "http://www.jamil.es.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 498,
+    "name": "약수유치원",
+    "url": "http://www.yaksui.com",
+    "tried": "http://www.yaksui.com",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 482,
+    "name": "동은유치원",
+    "url": "http://dongeun.kids.co.kr",
+    "tried": "http://dongeun.kids.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 406,
+    "name": "서울양남초등학교병설유치원",
+    "url": "http://s-yangnam.sen.es.kr",
+    "tried": "http://s-yangnam.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://s-yangnam.sen.es.kr/"
+  },
+  {
+    "id": 424,
+    "name": "서울구로남초등학교병설유치원",
+    "url": "http://guronam.sen.es.kr",
+    "tried": "http://guronam.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://guronam.sen.es.kr/"
+  },
+  {
+    "id": 428,
+    "name": "서울남성초등학교병설유치원",
+    "url": "https://namsung.sen.es.kr/",
+    "tried": "https://namsung.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://namsung.sen.es.kr/"
+  },
+  {
+    "id": 345,
+    "name": "서울용강초등학교병설유치원",
+    "url": "https://yonggang.sen.es.kr",
+    "tried": "https://yonggang.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://yonggang.sen.es.kr/"
+  },
+  {
+    "id": 116,
+    "name": "동명유치원",
+    "url": "http://cyworld.com/dongmyoungkid",
+    "tried": "http://cyworld.com/dongmyoungkid",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 517,
+    "name": "서울수색초등학교병설유치원",
+    "url": "http://www.susaek.es.kr",
+    "tried": "http://www.susaek.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 519,
+    "name": "신반포중앙유치원",
+    "url": "http://sbpckids.com/",
+    "tried": "http://sbpckids.com/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 513,
+    "name": "반디유치원",
+    "url": "http://www.bandykindergarten.co.kr/",
+    "tried": "http://www.bandykindergarten.co.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 520,
+    "name": "아이조아유치원",
+    "url": "http://www.i-joais.co.kr",
+    "tried": "http://www.i-joais.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 495,
+    "name": "대붕유치원",
+    "url": "http://www.daebung.co.kr",
+    "tried": "http://www.daebung.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 523,
+    "name": "은비유치원",
+    "url": "http://www.eunb.co.kr",
+    "tried": "http://www.eunb.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 455,
+    "name": "서울신상계초등학교병설유치원",
+    "url": "http://sinsanggye.sen.es.kr",
+    "tried": "http://sinsanggye.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sinsanggye.sen.es.kr/"
+  },
+  {
+    "id": 435,
+    "name": "서울내발산초등학교병설유치원",
+    "url": "https://nbs.sen.es.kr/",
+    "tried": "https://nbs.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nbs.sen.es.kr/"
+  },
+  {
+    "id": 458,
+    "name": "서울금화초등학교병설유치원",
+    "url": "https://geumhwa.sen.es.kr",
+    "tried": "https://geumhwa.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://geumhwa.sen.es.kr/"
+  },
+  {
+    "id": 503,
+    "name": "서울구일초등학교병설유치원",
+    "url": "http://guil.sen.es.kr",
+    "tried": "http://guil.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "http://guil.sen.es.kr/"
+  },
+  {
+    "id": 542,
+    "name": "한성유치원",
+    "url": "http://www.hansungk.co.kr",
+    "tried": "http://www.hansungk.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 491,
+    "name": "서울동신초등학교병설유치원",
+    "url": "https://dongsin.sen.es.kr/38859/subMenu.do",
+    "tried": "https://dongsin.sen.es.kr/38859/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://dongsin.sen.es.kr/38859/subMenu.do"
+  },
+  {
+    "id": 414,
+    "name": "서울우면초등학교병설유치원",
+    "url": "http://woomyeon.sen.es.kr/",
+    "tried": "http://woomyeon.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://woomyeon.sen.es.kr/"
+  },
+  {
+    "id": 502,
+    "name": "서울용답초등학교병설유치원",
+    "url": "https://yd.sen.es.kr/46384/subMenu.do",
+    "tried": "https://yd.sen.es.kr/46384/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://yd.sen.es.kr/46384/subMenu.do"
+  },
+  {
+    "id": 470,
+    "name": "서울신은초등학교병설유치원",
+    "url": "https://se.sen.es.kr/88163/subMenu.do",
+    "tried": "https://se.sen.es.kr/88163/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://se.sen.es.kr/88163/subMenu.do"
+  },
+  {
+    "id": 555,
+    "name": "예진유치원",
+    "url": "http://www.yejinchild.com/",
+    "tried": "http://www.yejinchild.com/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 496,
+    "name": "서울남정초등학교병설유치원",
+    "url": "https://seoul-nj.sen.es.kr/152412/subMenu.do",
+    "tried": "https://seoul-nj.sen.es.kr/152412/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://seoul-nj.sen.es.kr/152412/subMenu.do"
+  },
+  {
+    "id": 557,
+    "name": "서울은평초등학교병설유치원",
+    "url": "http://www.eunpyeong.es.kr",
+    "tried": "http://www.eunpyeong.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 532,
+    "name": "서울봉천초등학교병설유치원",
+    "url": "https://bongcheon.sen.es.kr",
+    "tried": "https://bongcheon.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bongcheon.sen.es.kr/"
+  },
+  {
+    "id": 525,
+    "name": "서울화계초등학교병설유치원",
+    "url": "https://hwagye.sen.es.kr/",
+    "tried": "https://hwagye.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hwagye.sen.es.kr/"
+  },
+  {
+    "id": 566,
+    "name": "레인보우유치원",
+    "url": "http://www.rainbowkid.net",
+    "tried": "http://www.rainbowkid.net",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 528,
+    "name": "서울연신초등학교병설유치원",
+    "url": "https://yeonsin.sen.es.kr/index.do",
+    "tried": "https://yeonsin.sen.es.kr/index.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://yeonsin.sen.es.kr/index.do"
+  },
+  {
+    "id": 312,
+    "name": "서울미래초등학교병설유치원",
+    "url": "https://mirae.sen.es.kr/",
+    "tried": "https://mirae.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://mirae.sen.es.kr/"
+  },
+  {
+    "id": 573,
+    "name": "무학유치원",
+    "url": "http://www.moohak.co.kr",
+    "tried": "http://www.moohak.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 539,
+    "name": "불광유치원",
+    "url": "http://www.bulkwangkids.com",
+    "tried": "http://www.bulkwangkids.com",
+    "ok": false,
+    "status": 503,
+    "final_url": "http://www.bulkwangkids.com/"
+  },
+  {
+    "id": 579,
+    "name": "바니유치원",
+    "url": "https://cafe. naver. com/bunnykindergarten",
+    "tried": "http://cafe. naver. com/bunnykindergarten",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 588,
+    "name": "서울상곡초등학교병설유치원",
+    "url": "http://www.sanggok.sen.es.com",
+    "tried": "http://www.sanggok.sen.es.com",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 586,
+    "name": "신림유치원",
+    "url": "http://www.sillimkids.com",
+    "tried": "http://www.sillimkids.com",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 589,
+    "name": "서울서신초등학교병설유치원",
+    "url": "http://www.susin.es.kr",
+    "tried": "http://www.susin.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 546,
+    "name": "서울삼선초등학교병설유치원",
+    "url": "https://samsun.sen.es.kr/",
+    "tried": "https://samsun.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://samsun.sen.es.kr/"
+  },
+  {
+    "id": 516,
+    "name": "서울송원초등학교병설유치원",
+    "url": "ssw.sen.es.kr",
+    "tried": "http://ssw.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ssw.sen.es.kr/"
+  },
+  {
+    "id": 505,
+    "name": "서울율현초등학교병설유치원",
+    "url": "yulhyeon.sen.es.kr",
+    "tried": "http://yulhyeon.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://yulhyeon.sen.es.kr/"
+  },
+  {
+    "id": 609,
+    "name": "미래클유치원",
+    "url": "http://www.miraclekid.co.kr",
+    "tried": "http://www.miraclekid.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 426,
+    "name": "서울월정초등학교병설유치원",
+    "url": "http://woljung.sen.es.kr/",
+    "tried": "http://woljung.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://woljung.sen.es.kr/"
+  },
+  {
+    "id": 610,
+    "name": "하랑숲유치원",
+    "url": "http://www.harangsoop.com/",
+    "tried": "http://www.harangsoop.com/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 613,
+    "name": "서울당중초등학교병설유치원",
+    "url": "http://www.dangjung.es.kr",
+    "tried": "http://www.dangjung.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 616,
+    "name": "서울두산초등학교병설유치원",
+    "url": "http://www.doosan.es.kr",
+    "tried": "http://www.doosan.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 558,
+    "name": "서울창천초등학교병설유치원",
+    "url": "https://changchon.sen.es.kr/",
+    "tried": "https://changchon.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://changchon.sen.es.kr/"
+  },
+  {
+    "id": 548,
+    "name": "서울숭곡초등학교병설유치원",
+    "url": "http://www.soonggok.es.kr",
+    "tried": "http://www.soonggok.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 431,
+    "name": "서울도신초등학교병설유치원",
+    "url": "http://www.doshin.es.kr",
+    "tried": "http://www.doshin.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 570,
+    "name": "서울논현초등학교병설유치원",
+    "url": "https://nonhyun.sen.es.kr/",
+    "tried": "https://nonhyun.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://nonhyun.sen.es.kr/"
+  },
+  {
+    "id": 622,
+    "name": "무지개나라유치원",
+    "url": "http://rainbowkin.com",
+    "tried": "http://rainbowkin.com",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 632,
+    "name": "예린유치원",
+    "url": "http://www.yerinkids.co.kr",
+    "tried": "http://www.yerinkids.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 547,
+    "name": "서울성북초등학교병설유치원",
+    "url": "https://sungbuk.sen.es.kr/",
+    "tried": "https://sungbuk.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sungbuk.sen.es.kr/"
+  },
+  {
+    "id": 626,
+    "name": "서울대동초등학교병설유치원",
+    "url": "http://www.sdaedong.es.kr/46683/subMenu.do",
+    "tried": "http://www.sdaedong.es.kr/46683/subMenu.do",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 567,
+    "name": "메이플유치원",
+    "url": "http://www.maplekin.com",
+    "tried": "http://www.maplekin.com",
+    "ok": true,
+    "status": 200,
+    "final_url": "http://www.maplekin.com/"
+  },
+  {
+    "id": 646,
+    "name": "서울세륜초등학교병설유치원",
+    "url": "http://www.seryun.es.kr",
+    "tried": "http://www.seryun.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 456,
+    "name": "서울창동초등학교병설유치원",
+    "url": "https://changdong-s.sen.es.kr/",
+    "tried": "https://changdong-s.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://changdong-s.sen.es.kr/"
+  },
+  {
+    "id": 571,
+    "name": "서울하늘초등학교병설유치원",
+    "url": "https://sky.sen.es.kr/",
+    "tried": "https://sky.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sky.sen.es.kr/"
+  },
+  {
+    "id": 654,
+    "name": "서울난곡초등학교병설유치원",
+    "url": "http://nangok.es.kr/",
+    "tried": "http://nangok.es.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 662,
+    "name": "건영유치원",
+    "url": "http://www.gunykid.com",
+    "tried": "http://www.gunykid.com",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 667,
+    "name": "아랑유치원",
+    "url": "http://arangkidiskids.co.kr",
+    "tried": "http://arangkidiskids.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 677,
+    "name": "서울서래초등학교병설유치원",
+    "url": "http://www.seorae.es.kr/",
+    "tried": "http://www.seorae.es.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 675,
+    "name": "서울휘봉초등학교병설유치원",
+    "url": "http://www.hwibong.es.kr",
+    "tried": "http://www.hwibong.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 590,
+    "name": "서울장수초등학교병설유치원",
+    "url": "https://jangsoo.sen.es.kr",
+    "tried": "https://jangsoo.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jangsoo.sen.es.kr/"
+  },
+  {
+    "id": 527,
+    "name": "서울강신초등학교병설유치원",
+    "url": "https://kangsin.sen.es.kr/26459/subMenu.do",
+    "tried": "https://kangsin.sen.es.kr/26459/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kangsin.sen.es.kr/26459/subMenu.do"
+  },
+  {
+    "id": 678,
+    "name": "반포성모유치원",
+    "url": "http://www.banposm.com",
+    "tried": "http://www.banposm.com",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 526,
+    "name": "서울성수초등학교병설유치원",
+    "url": "https://sungsu.sen.es.kr",
+    "tried": "https://sungsu.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sungsu.sen.es.kr/"
+  },
+  {
+    "id": 602,
+    "name": "서울신자초등학교병설유치원",
+    "url": "http://sinja.sen.es.kr",
+    "tried": "http://sinja.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sinja.sen.es.kr/"
+  },
+  {
+    "id": 612,
+    "name": "서울경수초등학교병설유치원",
+    "url": "https://ks.sen.es.kr",
+    "tried": "https://ks.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ks.sen.es.kr/"
+  },
+  {
+    "id": 631,
+    "name": "서울정덕초등학교병설유치원",
+    "url": "https://jeongdeok.sen.es.kr",
+    "tried": "https://jeongdeok.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jeongdeok.sen.es.kr/"
+  },
+  {
+    "id": 241,
+    "name": "동화나라유치원",
+    "url": "http://동화나라.kr",
+    "tried": "http://동화나라.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://cafe.daum.net/donghwanarakid"
+  },
+  {
+    "id": 704,
+    "name": "토마토유치원",
+    "url": "http://www.tomatokids.co.kr",
+    "tried": "http://www.tomatokids.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 673,
+    "name": "서울홍파초등학교병설유치원",
+    "url": "https://hongpa.sen.es.kr/100533/subMenu.do",
+    "tried": "https://hongpa.sen.es.kr/100533/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hongpa.sen.es.kr/100533/subMenu.do"
+  },
+  {
+    "id": 707,
+    "name": "서울대방초등학교병설유치원",
+    "url": "http://www.sdaebang.es.kr",
+    "tried": "http://www.sdaebang.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 686,
+    "name": "서울강남초등학교병설유치원",
+    "url": "https://gangnam.sen.es.kr/",
+    "tried": "https://gangnam.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://gangnam.sen.es.kr/"
+  },
+  {
+    "id": 568,
+    "name": "서울신남성초등학교병설유치원",
+    "url": "http://shinnamsung.sen.es.kr",
+    "tried": "http://shinnamsung.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://shinnamsung.sen.es.kr/"
+  },
+  {
+    "id": 611,
+    "name": "서울연천초등학교병설유치원",
+    "url": "https://yc1985.sen.es.kr/",
+    "tried": "https://yc1985.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://yc1985.sen.es.kr/"
+  },
+  {
+    "id": 681,
+    "name": "서울명신초등학교병설유치원",
+    "url": "https://myungshin.sen.es.kr/",
+    "tried": "https://myungshin.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://myungshin.sen.es.kr/"
+  },
+  {
+    "id": 732,
+    "name": "해슬아유치원",
+    "url": "https://www.haeseula.co.kr",
+    "tried": "http://www.haeseula.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 620,
+    "name": "서울장평초등학교병설유치원",
+    "url": "https://jang-pyung.sen.es.kr/",
+    "tried": "https://jang-pyung.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jang-pyung.sen.es.kr/"
+  },
+  {
+    "id": 752,
+    "name": "서울공덕초등학교병설유치원",
+    "url": "http://www.kongduck.es.kr/",
+    "tried": "http://www.kongduck.es.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 687,
+    "name": "서울언남초등학교병설유치원",
+    "url": "https://eonnam.sen.es.kr/",
+    "tried": "https://eonnam.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://eonnam.sen.es.kr/"
+  },
+  {
+    "id": 691,
+    "name": "서울옥수초등학교병설유치원",
+    "url": "https://oksu.sen.es.kr/39794/subMenu.do",
+    "tried": "https://oksu.sen.es.kr/39794/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://oksu.sen.es.kr/39794/subMenu.do"
+  },
+  {
+    "id": 559,
+    "name": "서울홍제초등학교병설유치원",
+    "url": "http://hongje.sen.es.kr",
+    "tried": "http://hongje.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hongje.sen.es.kr/"
+  },
+  {
+    "id": 762,
+    "name": "금호유치원",
+    "url": "http://www.keumhokids.co.kr",
+    "tried": "http://www.keumhokids.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 674,
+    "name": "서울화일초등학교병설유치원",
+    "url": "https://hwail.sen.es.kr/",
+    "tried": "https://hwail.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hwail.sen.es.kr/"
+  },
+  {
+    "id": 768,
+    "name": "송림유치원",
+    "url": "http://songrim.kg.kr/",
+    "tried": "http://songrim.kg.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 770,
+    "name": "서울동일초등학교병설유치원",
+    "url": "http://www.dongil.es.kr",
+    "tried": "http://www.dongil.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 780,
+    "name": "서울상경초등학교병설유치원",
+    "url": "http://www.sanggyeong.es.kr",
+    "tried": "http://www.sanggyeong.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 714,
+    "name": "서울평화초등학교병설유치원",
+    "url": "https://pyunghwa.sen.es.kr/",
+    "tried": "https://pyunghwa.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://pyunghwa.sen.es.kr/"
+  },
+  {
+    "id": 701,
+    "name": "서울석관초등학교병설유치원",
+    "url": "https://seokgwan.sen.es.kr/",
+    "tried": "https://seokgwan.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://seokgwan.sen.es.kr/"
+  },
+  {
+    "id": 713,
+    "name": "서울양진초등학교병설유치원",
+    "url": "https://yjs.sen.es.kr/",
+    "tried": "https://yjs.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://yjs.sen.es.kr/"
+  },
+  {
+    "id": 734,
+    "name": "서울경동유치원",
+    "url": "http://skd.sen.kg.kr",
+    "tried": "http://skd.sen.kg.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://skd.sen.kg.kr/"
+  },
+  {
+    "id": 706,
+    "name": "서울천호초등학교병설유치원",
+    "url": "http://chunho.sen.es.kr/index.do",
+    "tried": "http://chunho.sen.es.kr/index.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://chunho.sen.es.kr/index.do"
+  },
+  {
+    "id": 741,
+    "name": "서울태랑초등학교병설유치원",
+    "url": "https://taerang.sen.es.kr/",
+    "tried": "https://taerang.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://taerang.sen.es.kr/"
+  },
+  {
+    "id": 802,
+    "name": "샬롬유치원",
+    "url": "http://www.shalomkids.co.kr",
+    "tried": "http://www.shalomkids.co.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 690,
+    "name": "서울구의초등학교병설유치원",
+    "url": "https://guui.sen.es.kr/",
+    "tried": "https://guui.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://guui.sen.es.kr/"
+  },
+  {
+    "id": 782,
+    "name": "서울개포유치원",
+    "url": "https://gaepo.sen.kg.kr/index.do",
+    "tried": "https://gaepo.sen.kg.kr/index.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://gaepo.sen.kg.kr/index.do"
+  },
+  {
+    "id": 747,
+    "name": "서울연촌초등학교병설유치원",
+    "url": "https://yeonchon.sen.es.kr",
+    "tried": "https://yeonchon.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://yeonchon.sen.es.kr/"
+  },
+  {
+    "id": 679,
+    "name": "서울잠신초등학교병설유치원",
+    "url": "https://jamshin.sen.es.kr/",
+    "tried": "https://jamshin.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jamshin.sen.es.kr/"
+  },
+  {
+    "id": 740,
+    "name": "서울미양초등학교병설유치원",
+    "url": "http://mi-yang.sen.es.kr",
+    "tried": "http://mi-yang.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://mi-yang.sen.es.kr/"
+  },
+  {
+    "id": 760,
+    "name": "서울원당초등학교병설유치원",
+    "url": "http://wondang.sen.es.kr",
+    "tried": "http://wondang.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wondang.sen.es.kr/"
+  },
+  {
+    "id": 723,
+    "name": "서울신기초등학교병설유치원",
+    "url": "https://singi.sen.es.kr/",
+    "tried": "https://singi.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://singi.sen.es.kr/"
+  },
+  {
+    "id": 834,
+    "name": "서울번동초등학교병설유치원",
+    "url": "http://www.beondong.kg.kr/",
+    "tried": "http://www.beondong.kg.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 809,
+    "name": "서울삼성초등학교병설유치원",
+    "url": "http://samseong.sen.es.kr/",
+    "tried": "http://samseong.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "http://samseong.sen.es.kr/"
+  },
+  {
+    "id": 790,
+    "name": "서울서빙고초등학교병설유치원",
+    "url": "https://seobinggo.sen.es.kr/index.do",
+    "tried": "https://seobinggo.sen.es.kr/index.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://seobinggo.sen.es.kr/index.do"
+  },
+  {
+    "id": 784,
+    "name": "서울방배초등학교병설유치원",
+    "url": "https://bangbae.sen.es.kr/",
+    "tried": "https://bangbae.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bangbae.sen.es.kr/"
+  },
+  {
+    "id": 843,
+    "name": "새싹유치원",
+    "url": "http://www.saessakkids.co.kr/",
+    "tried": "http://www.saessakkids.co.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 617,
+    "name": "서울영중초등학교병설유치원",
+    "url": "https://youngjoong.sen.es.kr",
+    "tried": "https://youngjoong.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://youngjoong.sen.es.kr/"
+  },
+  {
+    "id": 813,
+    "name": "서울독산초등학교병설유치원",
+    "url": "https://doksan.sen.es.kr/",
+    "tried": "https://doksan.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://doksan.sen.es.kr/"
+  },
+  {
+    "id": 796,
+    "name": "서울숭례초등학교병설유치원",
+    "url": "https://sungrye.sen.es.kr/210092/subMenu.do",
+    "tried": "https://sungrye.sen.es.kr/210092/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sungrye.sen.es.kr/210092/subMenu.do"
+  },
+  {
+    "id": 831,
+    "name": "서울상원초등학교병설유치원",
+    "url": "https://sangwon.sen.es.kr/",
+    "tried": "https://sangwon.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sangwon.sen.es.kr/"
+  },
+  {
+    "id": 808,
+    "name": "서울신미림초등학교병설유치원",
+    "url": "https://sinmirim.sen.es.kr/",
+    "tried": "https://sinmirim.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sinmirim.sen.es.kr/"
+  },
+  {
+    "id": 803,
+    "name": "서울사근초등학교병설유치원",
+    "url": "https://sageun.sen.es.kr/",
+    "tried": "https://sageun.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sageun.sen.es.kr/"
+  },
+  {
+    "id": 826,
+    "name": "서울금나래초등학교병설유치원",
+    "url": "https://geumnarae.sen.es.kr/index.do",
+    "tried": "https://geumnarae.sen.es.kr/index.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://geumnarae.sen.es.kr/index.do"
+  },
+  {
+    "id": 829,
+    "name": "서울아주초등학교병설유치원",
+    "url": "https://aju.sen.es.kr/",
+    "tried": "https://aju.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://aju.sen.es.kr/"
+  },
+  {
+    "id": 828,
+    "name": "서울면북초등학교병설유치원",
+    "url": "https://myeonbuk.sen.es.kr/179295/subMenu.do",
+    "tried": "https://myeonbuk.sen.es.kr/179295/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://myeonbuk.sen.es.kr/179295/subMenu.do"
+  },
+  {
+    "id": 837,
+    "name": "서울영희초등학교병설유치원",
+    "url": "https://younghee.sen.es.kr/",
+    "tried": "https://younghee.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://younghee.sen.es.kr/"
+  },
+  {
+    "id": 838,
+    "name": "서울노량진초등학교병설유치원",
+    "url": "https://noryangjin.sen.es.kr/index.do",
+    "tried": "https://noryangjin.sen.es.kr/index.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://noryangjin.sen.es.kr/index.do"
+  },
+  {
+    "id": 847,
+    "name": "서울대길초등학교병설유치원",
+    "url": "https://idaegil.sen.es.kr",
+    "tried": "https://idaegil.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://idaegil.sen.es.kr/"
+  },
+  {
+    "id": 840,
+    "name": "서울동명초등학교병설유치원",
+    "url": "http://dgmg.sen.es.kr/index.do",
+    "tried": "http://dgmg.sen.es.kr/index.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://dgmg.sen.es.kr/index.do"
+  },
+  {
+    "id": 804,
+    "name": "서울옥정초등학교병설유치원",
+    "url": "https://okjeong.sen.es.kr/",
+    "tried": "https://okjeong.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://okjeong.sen.es.kr/"
+  },
+  {
+    "id": 836,
+    "name": "서울고현초등학교병설유치원",
+    "url": "http://gohyeon.sen.es.kr/index.do",
+    "tried": "http://gohyeon.sen.es.kr/index.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://gohyeon.sen.es.kr/index.do"
+  },
+  {
+    "id": 781,
+    "name": "서울영림초등학교병설유치원",
+    "url": "https://younglim.sen.es.kr/",
+    "tried": "https://younglim.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://younglim.sen.es.kr/"
+  },
+  {
+    "id": 852,
+    "name": "서울동교초등학교병설유치원",
+    "url": "https://donggyo.sen.es.kr/",
+    "tried": "https://donggyo.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://donggyo.sen.es.kr/"
+  },
+  {
+    "id": 783,
+    "name": "서울대현초등학교병설유치원",
+    "url": "http://daehyun.sen.es.kr",
+    "tried": "http://daehyun.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://daehyun.sen.es.kr/"
+  },
+  {
+    "id": 849,
+    "name": "서울당현초등학교병설유치원",
+    "url": "http://danghyeon.sen.es.kr",
+    "tried": "http://danghyeon.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "http://danghyeon.sen.es.kr/"
+  },
+  {
+    "id": 876,
+    "name": "서울탑산초등학교병설유치원",
+    "url": "http://www.top.es.kr",
+    "tried": "http://www.top.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectionError"
+  },
+  {
+    "id": 830,
+    "name": "서울고산초등학교병설유치원",
+    "url": "https://kohsan.sen.es.kr",
+    "tried": "https://kohsan.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kohsan.sen.es.kr/"
+  },
+  {
+    "id": 791,
+    "name": "서울숭신초등학교병설유치원",
+    "url": "https://soongshin.sen.es.kr/",
+    "tried": "https://soongshin.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://soongshin.sen.es.kr/"
+  },
+  {
+    "id": 862,
+    "name": "서울등촌초등학교병설유치원",
+    "url": "https://deungchon.sen.es.kr",
+    "tried": "https://deungchon.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://deungchon.sen.es.kr/"
+  },
+  {
+    "id": 854,
+    "name": "서울수송초등학교병설유치원",
+    "url": "https://soosong.sen.es.kr/",
+    "tried": "https://soosong.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://soosong.sen.es.kr/"
+  },
+  {
+    "id": 856,
+    "name": "서울신학초등학교병설유치원",
+    "url": "https://seoulsinhak.sen.es.kr/",
+    "tried": "https://seoulsinhak.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://seoulsinhak.sen.es.kr/"
+  },
+  {
+    "id": 873,
+    "name": "서울영풍초등학교병설유치원",
+    "url": "https://youngpung.sen.es.kr/139606/subMenu.do",
+    "tried": "https://youngpung.sen.es.kr/139606/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://youngpung.sen.es.kr/139606/subMenu.do"
+  },
+  {
+    "id": 871,
+    "name": "서울전곡초등학교병설유치원",
+    "url": "https://jeongok.sen.es.kr",
+    "tried": "https://jeongok.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jeongok.sen.es.kr/"
+  },
+  {
+    "id": 863,
+    "name": "서울성서초등학교병설유치원",
+    "url": "https://sseo.sen.es.kr/",
+    "tried": "https://sseo.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sseo.sen.es.kr/"
+  },
+  {
+    "id": 868,
+    "name": "서울공연초등학교병설유치원",
+    "url": "https://gongyeon.sen.es.kr",
+    "tried": "https://gongyeon.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://gongyeon.sen.es.kr/"
+  },
+  {
+    "id": 879,
+    "name": "서울가인초등학교병설유치원",
+    "url": "https://seoulgain.sen.es.kr/189877/subMenu.do",
+    "tried": "https://seoulgain.sen.es.kr/189877/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://seoulgain.sen.es.kr/189877/subMenu.do"
+  },
+  {
+    "id": 864,
+    "name": "서울쌍문초등학교병설유치원",
+    "url": "https://ssangmun.sen.es.kr",
+    "tried": "https://ssangmun.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ssangmun.sen.es.kr/"
+  },
+  {
+    "id": 872,
+    "name": "서울장위초등학교병설유치원",
+    "url": "https://jangwicho.sen.es.kr",
+    "tried": "https://jangwicho.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jangwicho.sen.es.kr/"
+  },
+  {
+    "id": 866,
+    "name": "서울응암초등학교병설유치원",
+    "url": "https://eungam.sen.es.kr/",
+    "tried": "https://eungam.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://eungam.sen.es.kr/"
+  },
+  {
+    "id": 853,
+    "name": "서울신곡초등학교병설유치원",
+    "url": "https://sg.sen.es.kr/",
+    "tried": "https://sg.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sg.sen.es.kr/"
+  },
+  {
+    "id": 885,
+    "name": "서울양동초등학교병설유치원",
+    "url": "https://yangdong.sen.es.kr/",
+    "tried": "https://yangdong.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://yangdong.sen.es.kr/"
+  },
+  {
+    "id": 880,
+    "name": "서울신봉초등학교병설유치원",
+    "url": "http://sinbong.sen.es.kr",
+    "tried": "http://sinbong.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "http://sinbong.sen.es.kr/"
+  },
+  {
+    "id": 874,
+    "name": "서울위례솔초등학교병설유치원",
+    "url": "https://wiryesol.sen.es.kr",
+    "tried": "https://wiryesol.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wiryesol.sen.es.kr/"
+  },
+  {
+    "id": 883,
+    "name": "서울항동유치원",
+    "url": "https://hangdong.sen.kg.kr/",
+    "tried": "https://hangdong.sen.kg.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hangdong.sen.kg.kr/"
+  },
+  {
+    "id": 867,
+    "name": "서울중동초등학교병설유치원",
+    "url": "http://jungdong.sen.es.kr",
+    "tried": "http://jungdong.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jungdong.sen.es.kr/"
+  },
+  {
+    "id": 875,
+    "name": "서울가재울초등학교병설유치원",
+    "url": "http://gajaeul.sen.es.kr",
+    "tried": "http://gajaeul.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://gajaeul.sen.es.kr/"
+  },
+  {
+    "id": 851,
+    "name": "서울용동초등학교병설유치원",
+    "url": "https://yongdong.sen.es.kr",
+    "tried": "https://yongdong.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://yongdong.sen.es.kr/"
+  },
+  {
+    "id": 892,
+    "name": "개현초등학교병설유치원",
+    "url": "https://gaehyeon.sen.es.kr/207692/subMenu.do",
+    "tried": "https://gaehyeon.sen.es.kr/207692/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://gaehyeon.sen.es.kr/207692/subMenu.do"
+  },
+  {
+    "id": 887,
+    "name": "서울신월초등학교병설유치원",
+    "url": "https://ssinwol.sen.es.kr/",
+    "tried": "https://ssinwol.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ssinwol.sen.es.kr/"
+  },
+  {
+    "id": 893,
+    "name": "서울중랑초등학교병설유치원",
+    "url": "https://jungnang.sen.es.kr",
+    "tried": "https://jungnang.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jungnang.sen.es.kr/"
+  },
+  {
+    "id": 888,
+    "name": "서울금호초등학교병설유치원",
+    "url": "http://geumho.sen.es.kr/",
+    "tried": "http://geumho.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://geumho.sen.es.kr/"
+  },
+  {
+    "id": 865,
+    "name": "서울불광초등학교병설유치원",
+    "url": "https://bulgwang.sen.es.kr",
+    "tried": "https://bulgwang.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bulgwang.sen.es.kr/"
+  },
+  {
+    "id": 894,
+    "name": "서울신암초등학교병설유치원",
+    "url": "https://shinam.sen.es.kr/212441/subMenu.do",
+    "tried": "https://shinam.sen.es.kr/212441/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://shinam.sen.es.kr/212441/subMenu.do"
+  },
+  {
+    "id": 904,
+    "name": "서울월계초등학교병설유치원",
+    "url": "https://wolgye.sen.es.kr/197675/subMenu.do",
+    "tried": "https://wolgye.sen.es.kr/197675/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://wolgye.sen.es.kr/197675/subMenu.do"
+  },
+  {
+    "id": 901,
+    "name": "서울봉화초등학교병설유치원",
+    "url": "https://bonghwa.sen.es.kr/183327/subMenu.do",
+    "tried": "https://bonghwa.sen.es.kr/183327/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bonghwa.sen.es.kr/183327/subMenu.do"
+  },
+  {
+    "id": 902,
+    "name": "서울청담초등학교병설유치원",
+    "url": "https://cheongdam.sen.es.kr/182525/subMenu.do",
+    "tried": "https://cheongdam.sen.es.kr/182525/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://cheongdam.sen.es.kr/182525/subMenu.do"
+  },
+  {
+    "id": 891,
+    "name": "서울오봉초등학교병설유치원",
+    "url": "https://obong.sen.es.kr/194208/subMenu.do",
+    "tried": "https://obong.sen.es.kr/194208/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://obong.sen.es.kr/194208/subMenu.do"
+  },
+  {
+    "id": 890,
+    "name": "서울좋은소리유치원분원",
+    "url": "http://joeunsorikd.sen.kg.kr",
+    "tried": "http://joeunsorikd.sen.kg.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://joeunsorikd.sen.kg.kr/"
+  },
+  {
+    "id": 936,
+    "name": "서울역촌유치원",
+    "url": "http://www.서울역촌유치원.kr",
+    "tried": "http://www.서울역촌유치원.kr",
+    "ok": false,
+    "status": 403,
+    "final_url": "http://www.xn--2i4b41gnra7czrm70apkc.kr/"
+  },
+  {
+    "id": 906,
+    "name": "서울우신초등학교병설유치원",
+    "url": "https://usin.sen.es.kr",
+    "tried": "https://usin.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://usin.sen.es.kr/"
+  },
+  {
+    "id": 900,
+    "name": "서울본동초등학교병설유치원",
+    "url": "http://bondong.sen.es.kr",
+    "tried": "http://bondong.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://bondong.sen.es.kr/"
+  },
+  {
+    "id": 913,
+    "name": "서울경일초등학교병설유치원",
+    "url": "https://kyongil.sen.es.kr/",
+    "tried": "https://kyongil.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kyongil.sen.es.kr/"
+  },
+  {
+    "id": 909,
+    "name": "서울양원숲초등학교병설유치원",
+    "url": "https://yangwonsoop.sen.es.kr/",
+    "tried": "https://yangwonsoop.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://yangwonsoop.sen.es.kr/"
+  },
+  {
+    "id": 919,
+    "name": "서울당곡초등학교병설유치원",
+    "url": "https://danggok.sen.es.kr/169330/subMenu.do",
+    "tried": "https://danggok.sen.es.kr/169330/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://danggok.sen.es.kr/169330/subMenu.do"
+  },
+  {
+    "id": 908,
+    "name": "서울선유초등학교병설유치원",
+    "url": "https://seonyu.sen.es.kr/184296/subMenu.do",
+    "tried": "https://seonyu.sen.es.kr/184296/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://seonyu.sen.es.kr/184296/subMenu.do"
+  },
+  {
+    "id": 920,
+    "name": "서울계상초등학교병설유치원",
+    "url": "https://kyesang.sen.es.kr/",
+    "tried": "https://kyesang.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kyesang.sen.es.kr/"
+  },
+  {
+    "id": 921,
+    "name": "서울광희초등학교병설유치원",
+    "url": "https://gwanghee.sen.es.kr/",
+    "tried": "https://gwanghee.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://gwanghee.sen.es.kr/"
+  },
+  {
+    "id": 917,
+    "name": "서울중목초등학교병설유치원",
+    "url": "http://joongmok.sen.es.kr",
+    "tried": "http://joongmok.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "http://joongmok.sen.es.kr/"
+  },
+  {
+    "id": 932,
+    "name": "서울오류남초등학교병설유치원",
+    "url": "https://oryunam.sen.es.kr/",
+    "tried": "https://oryunam.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://oryunam.sen.es.kr/"
+  },
+  {
+    "id": 915,
+    "name": "서울용곡초등학교병설유치원",
+    "url": "http://yonggok.sen.es.kr",
+    "tried": "http://yonggok.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://yonggok.sen.es.kr/"
+  },
+  {
+    "id": 918,
+    "name": "서울개화초등학교병설유치원",
+    "url": "https://gaehwa.sen.es.kr/",
+    "tried": "https://gaehwa.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://gaehwa.sen.es.kr/"
+  },
+  {
+    "id": 930,
+    "name": "서울일원초등학교병설유치원",
+    "url": "https://ilwon.sen.es.kr/198960/subMenu.do",
+    "tried": "https://ilwon.sen.es.kr/198960/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://ilwon.sen.es.kr/198960/subMenu.do"
+  },
+  {
+    "id": 933,
+    "name": "서울어울초등학교병설유치원",
+    "url": "https://urwool.sen.es.kr/index.do",
+    "tried": "https://urwool.sen.es.kr/index.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://urwool.sen.es.kr/index.do"
+  },
+  {
+    "id": 941,
+    "name": "서울무학초등학교병설유치원",
+    "url": "https://muhag.sen.es.kr/index.do",
+    "tried": "https://muhag.sen.es.kr/index.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://muhag.sen.es.kr/index.do"
+  },
+  {
+    "id": 946,
+    "name": "서울등명초등학교병설유치원",
+    "url": "https://dungmyong.sen.es.kr",
+    "tried": "https://dungmyong.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://dungmyong.sen.es.kr/"
+  },
+  {
+    "id": 929,
+    "name": "서울고일초등학교병설유치원",
+    "url": "https://goil.sen.es.kr/",
+    "tried": "https://goil.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://goil.sen.es.kr/"
+  },
+  {
+    "id": 944,
+    "name": "서울가양초등학교병설유치원",
+    "url": "https://kayang.sen.es.kr/",
+    "tried": "https://kayang.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://kayang.sen.es.kr/"
+  },
+  {
+    "id": 832,
+    "name": "서울좋은소리유치원",
+    "url": "https://joeunsorikd.sen.kg.kr/",
+    "tried": "https://joeunsorikd.sen.kg.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://joeunsorikd.sen.kg.kr/"
+  },
+  {
+    "id": 938,
+    "name": "서울한서초등학교병설유치원",
+    "url": "https://hanseo.sen.es.kr",
+    "tried": "https://hanseo.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hanseo.sen.es.kr/"
+  },
+  {
+    "id": 916,
+    "name": "서울송정초등학교병설유치원",
+    "url": "http://sjes.sen.es.kr",
+    "tried": "http://sjes.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sjes.sen.es.kr/"
+  },
+  {
+    "id": 940,
+    "name": "서울태릉초등학교병설유치원",
+    "url": "https://taereung.sen.es.kr/184357/subMenu.do",
+    "tried": "https://taereung.sen.es.kr/184357/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://taereung.sen.es.kr/184357/subMenu.do"
+  },
+  {
+    "id": 945,
+    "name": "서울송파초등학교병설유치원",
+    "url": "http://songpa.sen.es.kr",
+    "tried": "http://songpa.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://songpa.sen.es.kr/"
+  },
+  {
+    "id": 943,
+    "name": "서울학동초등학교병설유치원",
+    "url": "https://hakdong.sen.es.kr/",
+    "tried": "https://hakdong.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hakdong.sen.es.kr/"
+  },
+  {
+    "id": 937,
+    "name": "서울신림초등학교병설유치원",
+    "url": "http://sillim.sen.es.kr",
+    "tried": "http://sillim.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sillim.sen.es.kr/"
+  },
+  {
+    "id": 928,
+    "name": "서울신양초등학교병설유치원",
+    "url": "http://sinyang.sen.es.kr/",
+    "tried": "http://sinyang.sen.es.kr/",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://sinyang.sen.es.kr/"
+  },
+  {
+    "id": 882,
+    "name": "서울행림초등학교병설유치원",
+    "url": "https://hrim.sen.es.kr",
+    "tried": "https://hrim.sen.es.kr",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://hrim.sen.es.kr/"
+  },
+  {
+    "id": 903,
+    "name": "서울중흥초등학교병설유치원",
+    "url": "https://jung-heung.sen.es.kr/136193/subMenu.do",
+    "tried": "https://jung-heung.sen.es.kr/136193/subMenu.do",
+    "ok": true,
+    "status": 200,
+    "final_url": "https://jung-heung.sen.es.kr/message/authReadError.do"
+  },
+  {
+    "id": 34,
+    "name": "서울중곡초등학교병설유치원",
+    "url": "http://cg.new21.net",
+    "tried": "http://cg.new21.net",
+    "ok": false,
+    "status": null,
+    "error": "ConnectTimeout"
+  },
+  {
+    "id": 15,
+    "name": "서울강월초등학교병설유치원",
+    "url": "http://gangwol.es.kr/",
+    "tried": "http://gangwol.es.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectTimeout"
+  },
+  {
+    "id": 303,
+    "name": "서울방이초등학교병설유치원",
+    "url": "http://www.bangi.es.kr",
+    "tried": "http://www.bangi.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectTimeout"
+  },
+  {
+    "id": 556,
+    "name": "서문유치원",
+    "url": "http://kids.seomoonch.org/",
+    "tried": "http://kids.seomoonch.org/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectTimeout"
+  },
+  {
+    "id": 625,
+    "name": "서울길원초등학교병설유치원",
+    "url": "http://www.gilwon.es.kr",
+    "tried": "http://www.gilwon.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectTimeout"
+  },
+  {
+    "id": 392,
+    "name": "서울염경초등학교병설유치원",
+    "url": "http://www.yeomkyoung.es.kr",
+    "tried": "http://www.yeomkyoung.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectTimeout"
+  },
+  {
+    "id": 923,
+    "name": "서울포이초등학교병설유치원",
+    "url": "http://www.poi.es.kr/",
+    "tried": "http://www.poi.es.kr/",
+    "ok": false,
+    "status": null,
+    "error": "ConnectTimeout"
+  },
+  {
+    "id": 860,
+    "name": "서울청운초등학교병설유치원",
+    "url": "http://www.chungwoon.es.kr",
+    "tried": "http://www.chungwoon.es.kr",
+    "ok": false,
+    "status": null,
+    "error": "ConnectTimeout"
+  }
+]
