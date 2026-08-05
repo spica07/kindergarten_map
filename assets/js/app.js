@@ -6,8 +6,21 @@
   var DATA_META = window.DATA_META || {};
 
   var KIND_SLUG = { '공립': 'public', '사립': 'private' };
-  var KIND_COLOR = { '공립': '#4A90D9', '사립': '#F5A623' };
   var KIND_ORDER = ['공립', '사립'];
+
+  var HEART_ICON = '<svg class="ico" viewBox="0 0 24 24" aria-hidden="true" focusable="false">' +
+    '<path d="M12 20.4 4.3 12.8a4.8 4.8 0 0 1 6.8-6.8l.9.9.9-.9a4.8 4.8 0 1 1 6.8 6.8z"/></svg>';
+
+  /* 마커·범례 색은 디자인 시스템이 소유한다.
+     style.css 의 --kind-* 가 면색 계열에서 유도한 값이고, 여기서는 읽어 쓰기만 한다. */
+  var ROOT_STYLE = getComputedStyle(document.documentElement);
+  function cssVar(name, fallback) {
+    return (ROOT_STYLE.getPropertyValue(name) || '').trim() || fallback;
+  }
+  var KIND_COLOR = KIND_ORDER.reduce(function (m, k, i) {
+    m[k] = cssVar('--kind-' + (i + 1), cssVar('--sign', '#333'));
+    return m;
+  }, {});
 
   var AGE_LABEL = { age3: '만3세', age4: '만4세', age5: '만5세', mix: '혼합반', special: '특수학급' };
   var AGE_ORDER = ['age3', 'age4', 'age5', 'mix', 'special'];
@@ -167,7 +180,7 @@
     var dc = districtColor(f.district);
     var fav = favorites.has(f.id);
     var tags = [
-      '<span class="tag district" style="background:' + dc + '">' + esc(f.district) + '</span>',
+      '<span class="tag district">' + esc(f.district) + '</span>',
       '<span class="tag kind-' + kindSlug(f.kind) + '">' + esc(f.kind) + '</span>'
     ];
     if (f.hasSpecialClass) tags.push('<span class="tag special">특수학급</span>');
@@ -183,7 +196,8 @@
         '<div class="card-body">' +
           '<div class="card-title-row">' +
             '<h3 class="card-name">' + esc(f.name) + '</h3>' +
-            '<button class="fav-btn" data-fav="' + f.id + '" aria-label="찜">' + (fav ? '❤️' : '🤍') + '</button>' +
+            '<button class="fav-btn' + (fav ? ' on' : '') + '" data-fav="' + f.id + '"' +
+              ' aria-label="찜" aria-pressed="' + fav + '">' + HEART_ICON + '</button>' +
           '</div>' +
           '<div class="card-tags">' + tags.join('') + '</div>' +
           info.join('') +
@@ -227,7 +241,7 @@
     body.innerHTML =
       '<h2 class="modal-title">' + esc(f.name) + '</h2>' +
       '<div class="modal-tags">' +
-        '<span class="tag district" style="background:' + dc + '">' + esc(f.district) + '</span>' +
+        '<span class="tag district">' + esc(f.district) + '</span>' +
         '<span class="tag kind-' + kindSlug(f.kind) + '">' + esc(f.kindDetail || f.kind) + '</span>' +
         (f.hasSpecialClass ? '<span class="tag special">특수학급</span>' : '') +
         (f.geoApprox ? '<span class="tag approx">위치 확인 필요</span>' : '') +
@@ -333,7 +347,6 @@
   filterToggleBtn.addEventListener('click', function () {
     var willOpen = filterGroups.hidden;
     filterGroups.hidden = !willOpen;
-    filterToggleBtn.textContent = willOpen ? '▲' : '▼';
     var label = willOpen ? '필터 닫기' : '필터 열기';
     filterToggleBtn.title = label;
     filterToggleBtn.setAttribute('aria-label', label);
@@ -428,6 +441,7 @@
 
   /* ---------- 시작 ---------- */
   document.getElementById('surveyDate').textContent = DATA_META.surveyDate || '';
+  document.getElementById('totalCount').textContent = KINDERGARTENS.length;
   buildFilterPills();
   buildDistrictSelect();
   buildLegend();

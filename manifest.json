@@ -8,8 +8,8 @@
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait-primary",
-  "background_color": "#FFF3E0",
-  "theme_color": "#FF9843",
+  "background_color": "#F7F7F5",
+  "theme_color": "#F5A700",
   "categories": ["education", "lifestyle", "utilities"],
   "icons": [
     {
