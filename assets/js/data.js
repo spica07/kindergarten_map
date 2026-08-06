@@ -9,8 +9,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "남부교육지원청",
     "phone": "02-851-7792",
-    "homepage": "",
-    "operHours": "09시20분~13시50분",
+    "homepage": "http://www.jungshim.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 42,
     "classes": {
@@ -43,7 +43,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-6481-6001",
     "homepage": "https://www.xn--vh3bn4gkky3oca8l5w657b.kr:497/home/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 7,
     "studentCount": 104,
     "classes": {
@@ -76,7 +76,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-404-4045",
     "homepage": "https://blog.naver.com/rankids_",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~18시30분",
     "classCount": 4,
     "studentCount": 97,
     "classes": {
@@ -109,7 +109,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-6956-0147",
     "homepage": "http://shinhyun.sen.es.kr/",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 40,
     "classes": {
@@ -142,7 +142,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-6951-5495",
     "homepage": "https://sinmook.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 4,
     "studentCount": 16,
     "classes": {
@@ -208,7 +208,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-362-6512",
     "homepage": "http://soeui.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 32,
     "classes": {
@@ -241,7 +241,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-2097-9575",
     "homepage": "https://namsan.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~21시00분",
     "classCount": 4,
     "studentCount": 31,
     "classes": {
@@ -274,7 +274,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-933-6888",
     "homepage": "https://sanggye.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 2,
     "studentCount": 14,
     "classes": {
@@ -307,7 +307,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-6952-6430",
     "homepage": "https://songpawirye.sen.kg.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 8,
     "studentCount": 101,
     "classes": {
@@ -340,7 +340,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "029038020",
     "homepage": "https://wol.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 46,
     "classes": {
@@ -373,7 +373,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-3446-7480",
     "homepage": "http://서울신구유치원.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 66,
     "classes": {
@@ -406,7 +406,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-3411-0890",
     "homepage": "http://www.서울세명유치원.kr",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 80,
     "classes": {
@@ -439,7 +439,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-593-3100",
     "homepage": "https://blog.naver.com/hanshinkindergarten",
-    "operHours": "09시00분~13시30분",
+    "operHours": "09시00분~17시00분",
     "classCount": 6,
     "studentCount": 140,
     "classes": {
@@ -471,7 +471,7 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2605-1702",
-    "homepage": "",
+    "homepage": "http://gangwol.es.kr/",
     "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 13,
@@ -505,7 +505,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-441-0301",
     "homepage": "https://xn--939at21bd7d1czrv17a0pn.kr:462/home/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 11,
     "studentCount": 155,
     "classes": {
@@ -537,7 +537,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "강남서초교육지원청",
     "phone": "02-546-1673",
-    "homepage": "",
+    "homepage": "http://www.knk.or.kr",
     "operHours": "08시40분~17시40분",
     "classCount": 3,
     "studentCount": 76,
@@ -570,8 +570,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "서부교육지원청",
     "phone": "02-353-5977",
-    "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "homepage": "http://www.yeonkwang.es.kr",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 17,
     "classes": {
@@ -603,8 +603,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강남서초교육지원청",
     "phone": "02-593-4490",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.wonmyong.es.kr/index/index.do",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 49,
     "classes": {
@@ -670,7 +670,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2282-2831",
     "homepage": "https://majang.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 33,
     "classes": {
@@ -703,7 +703,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "3463-9073",
     "homepage": "http://woosol.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 6,
     "studentCount": 51,
     "classes": {
@@ -735,8 +735,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강남서초교육지원청",
     "phone": "02-3462-5280",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.eonju.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 52,
     "classes": {
@@ -769,7 +769,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-2138-1949",
     "homepage": "https://gaewon.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 5,
     "studentCount": 54,
     "classes": {
@@ -802,7 +802,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-855-6659",
     "homepage": "https://hanbyeol.kidsnote.ac",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 5,
     "studentCount": 90,
     "classes": {
@@ -835,7 +835,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-803-5883",
     "homepage": "http://backsan.sen.es.kr/112708/subMenu.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 32,
     "classes": {
@@ -901,7 +901,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-842-2903",
     "homepage": "http://cafe.daum.net/ntdsm",
-    "operHours": "09시50분~14시00분",
+    "operHours": "09시50분~18시00분",
     "classCount": 5,
     "studentCount": 117,
     "classes": {
@@ -934,7 +934,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2646-1100",
     "homepage": "http://www.새서울유치원.com",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 3,
     "studentCount": 29,
     "classes": {
@@ -967,7 +967,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2691-1424",
     "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~19시00분",
     "classCount": 4,
     "studentCount": 118,
     "classes": {
@@ -1000,7 +1000,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2646-4906",
     "homepage": "http://www.서울경인유치원.com/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 84,
     "classes": {
@@ -1033,7 +1033,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2661-4560",
     "homepage": "https://konghang.sen.es.kr/",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 64,
     "classes": {
@@ -1066,7 +1066,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2212-6229",
     "homepage": "http://cafe.naver.com/saeilmoon",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 2,
     "studentCount": 38,
     "classes": {
@@ -1098,8 +1098,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "동부교육지원청",
     "phone": "02-2209-1281",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://cg.new21.net",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 61,
     "classes": {
@@ -1131,7 +1131,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "북부교육지원청",
     "phone": "02-935-3345",
-    "homepage": "",
+    "homepage": "http:// www.hanulkid.co.kr",
     "operHours": "08시00분~17시00분",
     "classCount": 3,
     "studentCount": 26,
@@ -1165,7 +1165,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-904-6248",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~20시00분",
     "classCount": 5,
     "studentCount": 62,
     "classes": {
@@ -1198,7 +1198,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-930-8891",
     "homepage": "http://hyochunkids.com/",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~19시00분",
     "classCount": 4,
     "studentCount": 106,
     "classes": {
@@ -1264,7 +1264,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-3401-1752",
     "homepage": "http://www.honeybeekids.co.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "09시00분~17시30분",
     "classCount": 4,
     "studentCount": 79,
     "classes": {
@@ -1330,7 +1330,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-900-8001",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 48,
     "classes": {
@@ -1363,7 +1363,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-303-6004",
     "homepage": "https://sunga.kidsnote.ac",
-    "operHours": "09시00분~13시20분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 53,
     "classes": {
@@ -1396,7 +1396,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-356-5373",
     "homepage": "http://www.skkokok.com",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 5,
     "studentCount": 102,
     "classes": {
@@ -1462,7 +1462,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-372-3030",
     "homepage": "http://dongsankid.kidis.co.kr",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 62,
     "classes": {
@@ -1495,7 +1495,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-792-2652",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 46,
     "classes": {
@@ -1528,7 +1528,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-915-5721",
     "homepage": "http://kaedong.kidswon.com",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 1,
     "studentCount": 25,
     "classes": {
@@ -1561,7 +1561,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-923-5900",
     "homepage": "http://cafe.daum.net/ykkindergarten",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 6,
     "studentCount": 87,
     "classes": {
@@ -1594,7 +1594,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-926-9278",
     "homepage": "http://cafe.daum.net/dmsdud9278",
-    "operHours": "09시00분~13시20분",
+    "operHours": "09시00분~18시00분",
     "classCount": 5,
     "studentCount": 81,
     "classes": {
@@ -1660,7 +1660,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2666-1004",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 50,
     "classes": {
@@ -1726,7 +1726,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2683-6833",
     "homepage": "",
-    "operHours": "09시30분~14시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 5,
     "studentCount": 135,
     "classes": {
@@ -1759,7 +1759,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-832-3904",
     "homepage": "https://bigtreekid.kidsnote.ac",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 6,
     "studentCount": 135,
     "classes": {
@@ -1792,7 +1792,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-848-0502",
     "homepage": "http://www.pkkid.pyungkang.tv",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 127,
     "classes": {
@@ -1858,7 +1858,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-954-7771",
     "homepage": "http://www.seulgi.co.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 8,
     "studentCount": 194,
     "classes": {
@@ -1924,7 +1924,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-712-1170",
     "homepage": "http://mapo.sen.es.kr/140251/subMenu.do",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 55,
     "classes": {
@@ -1956,8 +1956,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "서부교육지원청",
     "phone": "02-376-4110",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.sangam.es.kr",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 32,
     "classes": {
@@ -1989,8 +1989,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "서부교육지원청",
     "phone": "02-352-3693",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.sindo.sen.es.kr",
+    "operHours": "07시00분~19시00분",
     "classCount": 2,
     "studentCount": 7,
     "classes": {
@@ -2023,7 +2023,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-308-2114",
     "homepage": "http://www.seoilkids.com",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 6,
     "studentCount": 106,
     "classes": {
@@ -2056,7 +2056,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-447-0852",
     "homepage": "http://www.sk-kinder.net",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시30분~18시00분",
     "classCount": 6,
     "studentCount": 137,
     "classes": {
@@ -2089,7 +2089,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-455-0581",
     "homepage": "https://bit.ly/3IuoU6C",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 33,
     "classes": {
@@ -2121,7 +2121,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "성동광진교육지원청",
     "phone": "02-446-4345",
-    "homepage": "",
+    "homepage": "http://www.jayangkids.com/",
     "operHours": "09시00분~20시00분",
     "classCount": 2,
     "studentCount": 33,
@@ -2155,7 +2155,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-453-0671",
     "homepage": "http://www.primekid.co.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 8,
     "studentCount": 202,
     "classes": {
@@ -2188,7 +2188,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-412-5488",
     "homepage": "http://www.서울신천병설유치원.com/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 5,
     "studentCount": 54,
     "classes": {
@@ -2221,7 +2221,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-424-0090",
     "homepage": "http://www.jangmikid.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 3,
     "studentCount": 60,
     "classes": {
@@ -2287,7 +2287,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-579-7736",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시30분~18시00분",
     "classCount": 8,
     "studentCount": 200,
     "classes": {
@@ -2320,7 +2320,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-963-8334",
     "homepage": "http://www.dshyojak.com",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 76,
     "classes": {
@@ -2386,7 +2386,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-883-0932",
     "homepage": "http://seoul-kwanak.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 4,
     "studentCount": 27,
     "classes": {
@@ -2452,7 +2452,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-914-6529",
     "homepage": "http://www.saessakid.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 70,
     "classes": {
@@ -2485,7 +2485,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-6954-2304",
     "homepage": "https://www.hanyoung.kg.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~17시00분",
     "classCount": 7,
     "studentCount": 182,
     "classes": {
@@ -2518,7 +2518,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2643-3477",
     "homepage": "https://swc.sen.es.kr",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 72,
     "classes": {
@@ -2551,7 +2551,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2606-3341",
     "homepage": "https://cafe.naver.com/sunmikinder3341",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 5,
     "studentCount": 56,
     "classes": {
@@ -2616,8 +2616,8 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "남부교육지원청",
     "phone": "02-2612-1006",
-    "homepage": "",
-    "operHours": "09시30분~14시00분",
+    "homepage": "http://www.미림유치원.kr/",
+    "operHours": "07시20분~19시20분",
     "classCount": 3,
     "studentCount": 83,
     "classes": {
@@ -2650,7 +2650,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2215-0084",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 6,
     "studentCount": 104,
     "classes": {
@@ -2683,7 +2683,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2068-0109",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~18시30분",
     "classCount": 3,
     "studentCount": 80,
     "classes": {
@@ -2749,7 +2749,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-883-6421",
     "homepage": "https://euncheon.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 6,
     "studentCount": 59,
     "classes": {
@@ -2815,7 +2815,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-956-3197",
     "homepage": "https://www.bonakinder.com",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 4,
     "studentCount": 100,
     "classes": {
@@ -2848,7 +2848,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-974-7766",
     "homepage": "http://cafe.naver.com/sarayouchwon",
-    "operHours": "09시30분~13시30분",
+    "operHours": "09시30분~17시30분",
     "classCount": 5,
     "studentCount": 91,
     "classes": {
@@ -2914,7 +2914,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-951-4146",
     "homepage": "https://surak.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 17,
     "classes": {
@@ -2947,7 +2947,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-972-0451",
     "homepage": "",
-    "operHours": "09시30분~14시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 43,
     "classes": {
@@ -3013,7 +3013,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-992-5108",
     "homepage": "http://www.jeongeui.kg.kr/main/main.html",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 96,
     "classes": {
@@ -3046,7 +3046,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-907-3811",
     "homepage": "https://cheonga.kidsnote.ac",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 77,
     "classes": {
@@ -3079,7 +3079,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-334-3405",
     "homepage": "http://www.bykkid.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~20시00분",
     "classCount": 4,
     "studentCount": 71,
     "classes": {
@@ -3112,7 +3112,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-922-4773",
     "homepage": "https://myoungahmolw.zaemit.com/",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~20시00분",
     "classCount": 3,
     "studentCount": 79,
     "classes": {
@@ -3145,7 +3145,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-920-7384",
     "homepage": "http://www.sskid.or.kr",
-    "operHours": "09시30분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 5,
     "studentCount": 86,
     "classes": {
@@ -3178,7 +3178,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-544-3111",
     "homepage": "https://blog.naver.com/youngdongjeil",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~17시00분",
     "classCount": 6,
     "studentCount": 144,
     "classes": {
@@ -3211,7 +3211,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-585-5881",
     "homepage": "https://cafe.naver.com/smu5881",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 4,
     "studentCount": 96,
     "classes": {
@@ -3244,7 +3244,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-536-1116",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~17시00분",
     "classCount": 6,
     "studentCount": 85,
     "classes": {
@@ -3310,7 +3310,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-2265-4840",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 2,
     "studentCount": 14,
     "classes": {
@@ -3343,7 +3343,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-749-2393",
     "homepage": "http://hannam.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 14,
     "classes": {
@@ -3376,7 +3376,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-2277-5878",
     "homepage": "http://ynchild.net",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~22시00분",
     "classCount": 3,
     "studentCount": 41,
     "classes": {
@@ -3409,7 +3409,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-735-3984",
     "homepage": "http://okin.kidis.co.kr",
-    "operHours": "09시10분~14시10분",
+    "operHours": "08시00분~20시00분",
     "classCount": 3,
     "studentCount": 41,
     "classes": {
@@ -3442,7 +3442,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-793-4266",
     "homepage": "http://kids.choongshin.or.kr/",
-    "operHours": "09시00분~13시50분",
+    "operHours": "08시00분~18시30분",
     "classCount": 7,
     "studentCount": 132,
     "classes": {
@@ -3507,7 +3507,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "북부교육지원청",
     "phone": "02-991-0652",
-    "homepage": "",
+    "homepage": "http://www.yerangkid.com",
     "operHours": "09시00분~19시00분",
     "classCount": 3,
     "studentCount": 45,
@@ -3540,8 +3540,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "성북강북교육지원청",
     "phone": "02-919-9128",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.janggokcho.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 47,
     "classes": {
@@ -3574,7 +3574,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2060-2686",
     "homepage": "https://segok.sen.es.kr/113392/subMenu.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 34,
     "classes": {
@@ -3606,8 +3606,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "동부교육지원청",
     "phone": "02-496-7922",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.myeondong.es.kr",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 43,
     "classes": {
@@ -3640,7 +3640,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2213-0080",
     "homepage": "",
-    "operHours": "09시30분~14시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 8,
     "studentCount": 198,
     "classes": {
@@ -3673,7 +3673,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-896-5881",
     "homepage": "http://cafe.daum.net/H-truelove/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~18시30분",
     "classCount": 7,
     "studentCount": 148,
     "classes": {
@@ -3706,7 +3706,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-933-2083",
     "homepage": "https://cafe.daum.net/ONNURI-2026",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 123,
     "classes": {
@@ -3739,7 +3739,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-455-8051",
     "homepage": "https://jayang.sen.es.kr/177783/subMenu.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 55,
     "classes": {
@@ -3804,7 +3804,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "성북강북교육지원청",
     "phone": "02-989-5723",
-    "homepage": "",
+    "homepage": "http://cyworld.com/dongmyoungkid",
     "operHours": "09시00분~17시00분",
     "classCount": 3,
     "studentCount": 45,
@@ -3838,7 +3838,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-902-7775",
     "homepage": "",
-    "operHours": "07시30분~13시30분",
+    "operHours": "07시30분~20시00분",
     "classCount": 3,
     "studentCount": 60,
     "classes": {
@@ -3871,7 +3871,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-477-0287",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 6,
     "studentCount": 140,
     "classes": {
@@ -3904,7 +3904,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-6101-7616",
     "homepage": "https://sss.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 74,
     "classes": {
@@ -3937,7 +3937,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-948-9483",
     "homepage": "http://www.flowergardenkids.com",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 3,
     "studentCount": 8,
     "classes": {
@@ -3970,7 +3970,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-440-5302",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 4,
     "studentCount": 96,
     "classes": {
@@ -4003,7 +4003,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-352-9042",
     "homepage": "http://www.서울진관유치원.kr/",
-    "operHours": "09시00분~19시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 7,
     "studentCount": 87,
     "classes": {
@@ -4036,7 +4036,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-353-2230",
     "homepage": "http://www.seouleunbit.kg.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 7,
     "studentCount": 89,
     "classes": {
@@ -4069,7 +4069,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2223-2391",
     "homepage": "http://kongjin.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 40,
     "classes": {
@@ -4102,7 +4102,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-355-2049",
     "homepage": "http://www.sunilkids.co.kr",
-    "operHours": "09시30분~14시30분",
+    "operHours": "09시00분~18시00분",
     "classCount": 3,
     "studentCount": 63,
     "classes": {
@@ -4135,7 +4135,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-827-0037",
     "homepage": "http://www.서울상도유치원.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 8,
     "studentCount": 109,
     "classes": {
@@ -4168,7 +4168,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-3479-0550",
     "homepage": "http://www.csuk.kr/",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 6,
     "studentCount": 114,
     "classes": {
@@ -4234,7 +4234,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-884-3809",
     "homepage": "http://hdkid.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 6,
     "studentCount": 137,
     "classes": {
@@ -4267,7 +4267,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2616-8755",
     "homepage": "http://gaebong.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 5,
     "studentCount": 60,
     "classes": {
@@ -4299,8 +4299,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "남부교육지원청",
     "phone": "02-861-6971",
-    "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "homepage": "http://www.youngseo.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 33,
     "classes": {
@@ -4333,7 +4333,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-783-0407",
     "homepage": "https://yunjung.sen.es.kr/",
-    "operHours": "09시10분~13시30분",
+    "operHours": "07시20분~19시20분",
     "classCount": 4,
     "studentCount": 38,
     "classes": {
@@ -4366,7 +4366,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-455-6774",
     "homepage": "http://광남유치원.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 6,
     "studentCount": 152,
     "classes": {
@@ -4399,7 +4399,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2658-1154",
     "homepage": "http://www.borakid.com",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 117,
     "classes": {
@@ -4465,7 +4465,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2214-1528",
     "homepage": "https://jeondong.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 4,
     "studentCount": 45,
     "classes": {
@@ -4531,7 +4531,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-493-7962",
     "homepage": "http://cafe.naver.com/sinil7962",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 1,
     "studentCount": 0,
     "classes": {
@@ -4597,7 +4597,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-975-6611",
     "homepage": "https://cafe.naver.com/hnukids",
-    "operHours": "08시30분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 146,
     "classes": {
@@ -4630,7 +4630,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-977-8333",
     "homepage": "https://www.hyojak.com",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 8,
     "studentCount": 99,
     "classes": {
@@ -4663,7 +4663,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-475-2011",
     "homepage": "http://www.wooilkids.net",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시40분~18시40분",
     "classCount": 11,
     "studentCount": 287,
     "classes": {
@@ -4696,7 +4696,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-414-6692",
     "homepage": "https://seokchon.kidsnote.ac/",
-    "operHours": "08시50분~12시50분",
+    "operHours": "08시00분~18시30분",
     "classCount": 11,
     "studentCount": 248,
     "classes": {
@@ -4729,7 +4729,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-303-8434",
     "homepage": "https://seoulsangji.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 35,
     "classes": {
@@ -4762,7 +4762,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-334-3533",
     "homepage": "http://daejin.kidis.co.kr",
-    "operHours": "10시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 4,
     "studentCount": 65,
     "classes": {
@@ -4795,7 +4795,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-3013-7878",
     "homepage": "http://www.yaeseul.com",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 7,
     "studentCount": 132,
     "classes": {
@@ -4893,7 +4893,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "동부교육지원청",
     "phone": "02-491-2114",
-    "homepage": "",
+    "homepage": "http://www.rodinkinder.com/",
     "operHours": "07시00분~20시00분",
     "classCount": 2,
     "studentCount": 16,
@@ -4927,7 +4927,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2646-4265",
     "homepage": "http://www.wonilkid.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 6,
     "studentCount": 108,
     "classes": {
@@ -5025,7 +5025,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "남부교육지원청",
     "phone": "02-2614-4845",
-    "homepage": "",
+    "homepage": "http://www.junheekids.com",
     "operHours": "09시00분~20시00분",
     "classCount": 1,
     "studentCount": 20,
@@ -5059,7 +5059,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2204-6001",
     "homepage": "https://www.yookyoung.kr/",
-    "operHours": "08시50분~13시20분",
+    "operHours": "08시50분~18시30분",
     "classCount": 12,
     "studentCount": 286,
     "classes": {
@@ -5092,7 +5092,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-453-5149",
     "homepage": "http://www.younghwau.com/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 58,
     "classes": {
@@ -5158,7 +5158,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-3426-4133",
     "homepage": "https://gomyung.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 40,
     "classes": {
@@ -5191,7 +5191,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-428-9077",
     "homepage": "http://www.서울명일유치원.com/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시30분",
     "classCount": 7,
     "studentCount": 76,
     "classes": {
@@ -5224,7 +5224,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2659-1257",
     "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 4,
     "studentCount": 66,
     "classes": {
@@ -5257,7 +5257,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-427-1123",
     "homepage": "http://cafe.naver.com/stbona",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시30분~18시00분",
     "classCount": 3,
     "studentCount": 65,
     "classes": {
@@ -5290,7 +5290,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-912-0570",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 17,
     "classes": {
@@ -5356,7 +5356,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-408-2443",
     "homepage": "https://lifetreekids.modoo.at/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 6,
     "studentCount": 118,
     "classes": {
@@ -5389,9 +5389,9 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-919-2226",
     "homepage": "http://cafe.daum.net/seonhan1987",
-    "operHours": "07시00분~20시00분",
+    "operHours": "07시30분~20시00분",
     "classCount": 3,
-    "studentCount": 75,
+    "studentCount": 74,
     "classes": {
       "age3": 1,
       "age4": 1,
@@ -5401,8 +5401,8 @@ window.KINDERGARTENS = [
     },
     "students": {
       "age3": 24,
-      "age4": 25,
-      "age5": 26,
+      "age4": 26,
+      "age5": 24,
       "mix": 0,
       "special": 0
     },
@@ -5422,7 +5422,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2643-5978",
     "homepage": "http://www.영도병설유치원.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 4,
     "studentCount": 48,
     "classes": {
@@ -5455,7 +5455,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2666-3130",
     "homepage": "http://www.jk.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 2,
     "studentCount": 8,
     "classes": {
@@ -5488,7 +5488,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2692-2729",
     "homepage": "http://www.sykid.com/",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 90,
     "classes": {
@@ -5521,7 +5521,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-854-4133",
     "homepage": "http://www.sdskinder.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시00분",
     "classCount": 5,
     "studentCount": 80,
     "classes": {
@@ -5554,7 +5554,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-3421-7557",
     "homepage": "http://www.young-eun.kg.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시50분~19시50분",
     "classCount": 8,
     "studentCount": 165,
     "classes": {
@@ -5587,7 +5587,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-587-5599",
     "homepage": "http://www.donggrami.com",
-    "operHours": "10시00분~14시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 10,
     "studentCount": 265,
     "classes": {
@@ -5686,7 +5686,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-822-3450",
     "homepage": "http://grace.kidis.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 1,
     "classes": {
@@ -5751,7 +5751,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "북부교육지원청",
     "phone": "02-938-4868",
-    "homepage": "",
+    "homepage": "http://www.deawon.co.kr",
     "operHours": "08시30분~18시30분",
     "classCount": 2,
     "studentCount": 11,
@@ -5785,7 +5785,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-977-2727",
     "homepage": "http://www.ibobae.com",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 36,
     "classes": {
@@ -5818,7 +5818,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-951-8383",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 7,
     "studentCount": 154,
     "classes": {
@@ -5851,7 +5851,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-996-2101",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~20시00분",
     "classCount": 4,
     "studentCount": 51,
     "classes": {
@@ -5886,7 +5886,7 @@ window.KINDERGARTENS = [
     "homepage": "http://happybethel.co.kr",
     "operHours": "07시30분~19시30분",
     "classCount": 6,
-    "studentCount": 112,
+    "studentCount": 97,
     "classes": {
       "age3": 2,
       "age4": 2,
@@ -5895,9 +5895,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "students": {
-      "age3": 31,
-      "age4": 39,
-      "age5": 42,
+      "age3": 25,
+      "age4": 32,
+      "age5": 40,
       "mix": 0,
       "special": 0
     },
@@ -5950,7 +5950,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-353-5671",
     "homepage": "",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 6,
     "studentCount": 117,
     "classes": {
@@ -5983,7 +5983,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2299-8955",
     "homepage": "http://www.kids-world.or.kr",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시20분~18시00분",
     "classCount": 5,
     "studentCount": 106,
     "classes": {
@@ -6016,7 +6016,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-913-4114",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 5,
     "studentCount": 156,
     "classes": {
@@ -6049,7 +6049,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-484-85357",
     "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~18시30분",
     "classCount": 7,
     "studentCount": 128,
     "classes": {
@@ -6082,7 +6082,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-459-5926",
     "homepage": "http://suseo.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 2,
     "studentCount": 5,
     "classes": {
@@ -6115,7 +6115,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-391-9520",
     "homepage": "http://inwang.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 32,
     "classes": {
@@ -6181,7 +6181,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-3411-5091",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시00분",
     "classCount": 4,
     "studentCount": 105,
     "classes": {
@@ -6280,7 +6280,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2602-5225",
     "homepage": "https://kangseo.kidsnote.ac/home/main",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 7,
     "studentCount": 125,
     "classes": {
@@ -6313,7 +6313,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2644-0393",
     "homepage": "http://www.daeyoo1.com",
-    "operHours": "09시30분~14시00분",
+    "operHours": "08시00분~20시00분",
     "classCount": 4,
     "studentCount": 60,
     "classes": {
@@ -6412,7 +6412,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2642-7970",
     "homepage": "http://cafe.daum.net/moksung123",
-    "operHours": "09시00분~13시50분",
+    "operHours": "08시00분~18시30분",
     "classCount": 6,
     "studentCount": 171,
     "classes": {
@@ -6478,7 +6478,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-3708-9078",
     "homepage": "https://www.sewu.ac.kr/kindergarten",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~17시00분",
     "classCount": 3,
     "studentCount": 46,
     "classes": {
@@ -6511,7 +6511,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-704-0915",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "09시00분~19시00분",
     "classCount": 6,
     "studentCount": 133,
     "classes": {
@@ -6544,7 +6544,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-747-2449",
     "homepage": "http://hanarum.kidis.co.kr",
-    "operHours": "09시40분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 31,
     "classes": {
@@ -6577,7 +6577,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2242-0356",
     "homepage": "www.hwykyung.kg.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 7,
     "studentCount": 104,
     "classes": {
@@ -6610,7 +6610,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-2052-1007",
     "homepage": "https://dogok.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 4,
     "studentCount": 54,
     "classes": {
@@ -6676,7 +6676,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2675-0324",
     "homepage": "http://rainbowi.kidis.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 10,
     "studentCount": 250,
     "classes": {
@@ -6742,7 +6742,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-485-7831",
     "homepage": "http://www.goodbansuk.com",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시20분",
     "classCount": 4,
     "studentCount": 58,
     "classes": {
@@ -6775,7 +6775,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-546-3369",
     "homepage": "http://www.cheongdamkids.com",
-    "operHours": "08시30분~13시00분",
+    "operHours": "08시30분~18시00분",
     "classCount": 6,
     "studentCount": 121,
     "classes": {
@@ -6841,7 +6841,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2298-2277",
     "homepage": "http://www.kdongkid.com",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시30분~17시00분",
     "classCount": 6,
     "studentCount": 159,
     "classes": {
@@ -6873,7 +6873,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(법인)",
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2295-2111",
-    "homepage": "",
+    "homepage": "http://songkok.co.kr",
     "operHours": "09시00분~17시00분",
     "classCount": 2,
     "studentCount": 61,
@@ -6906,7 +6906,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "북부교육지원청",
     "phone": "02-991-9483",
-    "homepage": "",
+    "homepage": "http://:www.hyundaikids.com",
     "operHours": "09시00분~17시00분",
     "classCount": 2,
     "studentCount": 28,
@@ -6973,7 +6973,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-763-0124",
     "homepage": "http://hyehwa.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 2,
     "studentCount": 6,
     "classes": {
@@ -7006,7 +7006,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-357-6215",
     "homepage": "https://guhyun.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시20분~19시20분",
     "classCount": 3,
     "studentCount": 31,
     "classes": {
@@ -7039,7 +7039,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-927-1636",
     "homepage": "http://www.arang.kg.kr",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 7,
     "studentCount": 178,
     "classes": {
@@ -7071,7 +7071,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "성동광진교육지원청",
     "phone": "02-452-5544",
-    "homepage": "",
+    "homepage": "http://www.yeilkid.co.kr",
     "operHours": "09시00분~20시00분",
     "classCount": 3,
     "studentCount": 68,
@@ -7105,7 +7105,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2667-0645",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 8,
     "studentCount": 173,
     "classes": {
@@ -7137,8 +7137,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "동부교육지원청",
     "phone": "02-2209-4341",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.myeonmok.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 17,
     "classes": {
@@ -7171,7 +7171,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-836-9535",
     "homepage": "https://munchang.sen.es.kr/",
-    "operHours": "09시00분~13시20분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 48,
     "classes": {
@@ -7204,7 +7204,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-424-5665",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~17시30분",
     "classCount": 6,
     "studentCount": 132,
     "classes": {
@@ -7239,18 +7239,18 @@ window.KINDERGARTENS = [
     "homepage": "https://guryung.kidsnote.ac/",
     "operHours": "08시00분~19시00분",
     "classCount": 4,
-    "studentCount": 86,
+    "studentCount": 79,
     "classes": {
       "age3": 1,
-      "age4": 1,
-      "age5": 2,
+      "age4": 2,
+      "age5": 1,
       "mix": 0,
       "special": 0
     },
     "students": {
-      "age3": 22,
-      "age4": 26,
-      "age5": 38,
+      "age3": 23,
+      "age4": 27,
+      "age5": 29,
       "mix": 0,
       "special": 0
     },
@@ -7270,7 +7270,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-572-2371",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~17시00분",
     "classCount": 2,
     "studentCount": 43,
     "classes": {
@@ -7336,7 +7336,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-3392-0354",
     "homepage": "https://suam.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 48,
     "classes": {
@@ -7369,7 +7369,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2616-1803",
     "homepage": "https://maebong.sen.es.kr/",
-    "operHours": "08시50분~13시20분",
+    "operHours": "07시00분~19시00분",
     "classCount": 2,
     "studentCount": 18,
     "classes": {
@@ -7402,7 +7402,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2643-7004",
     "homepage": "https://sj.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 39,
     "classes": {
@@ -7468,7 +7468,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-871-8508",
     "homepage": "https://skykid.kidsnote.ac",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시30분~18시00분",
     "classCount": 2,
     "studentCount": 10,
     "classes": {
@@ -7500,8 +7500,8 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "북부교육지원청",
     "phone": "02-948-6700",
-    "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "homepage": "http://www.gounkid.com",
+    "operHours": "07시00분~20시00분",
     "classCount": 9,
     "studentCount": 186,
     "classes": {
@@ -7534,7 +7534,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-937-0331",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 7,
     "studentCount": 93,
     "classes": {
@@ -7567,7 +7567,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2612-8307",
     "homepage": "http://www.gocheok.kg.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 6,
     "studentCount": 68,
     "classes": {
@@ -7600,7 +7600,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-865-0137",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~17시00분",
     "classCount": 3,
     "studentCount": 39,
     "classes": {
@@ -7633,7 +7633,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-894-6056",
     "homepage": "http://www.topdong.kg.kr/",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 6,
     "studentCount": 78,
     "classes": {
@@ -7666,7 +7666,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-845-7306",
     "homepage": "http://www.smi.or.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 9,
     "studentCount": 208,
     "classes": {
@@ -7698,7 +7698,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "서부교육지원청",
     "phone": "02-373-1253",
-    "homepage": "",
+    "homepage": "http://pino.yoochiwon.kr",
     "operHours": "09시00분~20시00분",
     "classCount": 3,
     "studentCount": 80,
@@ -7743,9 +7743,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "students": {
-      "age3": 22,
-      "age4": 18,
-      "age5": 22,
+      "age3": 21,
+      "age4": 23,
+      "age5": 18,
       "mix": 0,
       "special": 0
     },
@@ -7765,7 +7765,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2608-4679",
     "homepage": "https://shinwon.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 16,
     "classes": {
@@ -7798,7 +7798,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-907-4782",
     "homepage": "https://hanbyeul4782.kidsnote.ac",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 84,
     "classes": {
@@ -7831,7 +7831,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-396-8384",
     "homepage": "http://www.kyung-bok.co.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 6,
     "studentCount": 119,
     "classes": {
@@ -7864,7 +7864,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-373-9190",
     "homepage": "https://sungsanart.hkapp.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 6,
     "studentCount": 151,
     "classes": {
@@ -7897,7 +7897,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-402-9436",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 8,
     "studentCount": 206,
     "classes": {
@@ -7930,7 +7930,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-939-6715",
     "homepage": "http://동화나라.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 3,
     "studentCount": 8,
     "classes": {
@@ -7963,7 +7963,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-6493-6390",
     "homepage": "https://ssj.sen.es.kr/191456/subMenu.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 32,
     "classes": {
@@ -7996,7 +7996,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-3280-1188",
     "homepage": "http://www.sokahappy.co.kr",
-    "operHours": "08시30분~13시30분",
+    "operHours": "08시30분~17시30분",
     "classCount": 7,
     "studentCount": 157,
     "classes": {
@@ -8029,7 +8029,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-426-1196",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~17시30분",
     "classCount": 6,
     "studentCount": 100,
     "classes": {
@@ -8062,7 +8062,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-400-2440",
     "homepage": "https://olympic.kidsnote.ac",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시30분~17시30분",
     "classCount": 7,
     "studentCount": 118,
     "classes": {
@@ -8095,7 +8095,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-424-6768",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시10분~18시00분",
     "classCount": 2,
     "studentCount": 37,
     "classes": {
@@ -8128,7 +8128,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2066-6060",
     "homepage": "",
-    "operHours": "09시30분~14시00분",
+    "operHours": "09시30분~19시00분",
     "classCount": 8,
     "studentCount": 170,
     "classes": {
@@ -8161,7 +8161,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-436-1035",
     "homepage": "http://www.pineconekids.co.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 2,
     "studentCount": 27,
     "classes": {
@@ -8194,7 +8194,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-438-9711",
     "homepage": "http://bomnae.or.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시50분~20시00분",
     "classCount": 5,
     "studentCount": 84,
     "classes": {
@@ -8227,7 +8227,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-354-2411",
     "homepage": "http://유정유치원.com",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~19시00분",
     "classCount": 6,
     "studentCount": 158,
     "classes": {
@@ -8260,7 +8260,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-359-6966",
     "homepage": "http://wowlab.kr",
-    "operHours": "08시30분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 9,
     "studentCount": 227,
     "classes": {
@@ -8293,7 +8293,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-713-8053",
     "homepage": "http://cafe.daum.net/2001jungnim",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 6,
     "studentCount": 153,
     "classes": {
@@ -8326,7 +8326,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-919-8685",
     "homepage": "http://cheongdeok.sen.es.kr/",
-    "operHours": "09시00분~13시20분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 37,
     "classes": {
@@ -8359,7 +8359,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-362-7593",
     "homepage": "http://gamyungkids.kidis.co.kr/",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 3,
     "studentCount": 66,
     "classes": {
@@ -8392,7 +8392,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-2237-1684",
     "homepage": "http://guenhwa.com",
-    "operHours": "08시40분~14시40분",
+    "operHours": "08시40분~17시20분",
     "classCount": 4,
     "studentCount": 84,
     "classes": {
@@ -8425,7 +8425,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-737-1433",
     "homepage": "http://www.baewha.ac.kr/mbs/child",
-    "operHours": "09시20분~14시20분",
+    "operHours": "09시20분~17시20분",
     "classCount": 3,
     "studentCount": 28,
     "classes": {
@@ -8458,7 +8458,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-913-5548",
     "homepage": "http://cafe.naver.com/tapju",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 7,
     "studentCount": 166,
     "classes": {
@@ -8491,7 +8491,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-905-8700",
     "homepage": "http://www.성실유치원.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 6,
     "studentCount": 92,
     "classes": {
@@ -8524,7 +8524,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2602-4026",
     "homepage": "http://www.wooilkindy.co.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "09시00분~16시00분",
     "classCount": 5,
     "studentCount": 67,
     "classes": {
@@ -8557,7 +8557,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2677-5422",
     "homepage": "https://hykid.kidsnote.ac/",
-    "operHours": "09시30분~14시00분",
+    "operHours": "08시10분~19시00분",
     "classCount": 4,
     "studentCount": 89,
     "classes": {
@@ -8590,7 +8590,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-446-0581",
     "homepage": "http://슬기유치원.com/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 36,
     "classes": {
@@ -8655,7 +8655,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "성동광진교육지원청",
     "phone": "02-456-1799",
-    "homepage": "",
+    "homepage": "http://www.hanayoochiwon.com",
     "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 42,
@@ -8688,8 +8688,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강동송파교육지원청",
     "phone": "02-3402-1154",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.garak.sen.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 54,
     "classes": {
@@ -8721,8 +8721,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강동송파교육지원청",
     "phone": "02-474-3956",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.gildong.es.kr",
+    "operHours": "07시00분~19시00분",
     "classCount": 4,
     "studentCount": 57,
     "classes": {
@@ -8788,7 +8788,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-421-2234",
     "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~17시30분",
     "classCount": 10,
     "studentCount": 246,
     "classes": {
@@ -8821,7 +8821,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2625-5608",
     "homepage": "http://www.kyesangkids.com",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 8,
     "studentCount": 184,
     "classes": {
@@ -8854,7 +8854,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-303-6721",
     "homepage": "",
-    "operHours": "09시30분~14시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 6,
     "studentCount": 135,
     "classes": {
@@ -8887,7 +8887,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2659-3323",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~20시30분",
     "classCount": 4,
     "studentCount": 81,
     "classes": {
@@ -8953,7 +8953,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-926-3704",
     "homepage": "http://dongsun.kidis.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 2,
     "studentCount": 12,
     "classes": {
@@ -9019,7 +9019,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-481-3141",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 4,
     "studentCount": 116,
     "classes": {
@@ -9052,7 +9052,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2604-8297",
     "homepage": "https://yangmok.sen.es.kr/",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 5,
     "studentCount": 31,
     "classes": {
@@ -9184,7 +9184,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-832-5543",
     "homepage": "http://www.myoungshin.co.kr",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 5,
     "studentCount": 98,
     "classes": {
@@ -9217,7 +9217,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-3421-7184",
     "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~19시00분",
     "classCount": 6,
     "studentCount": 112,
     "classes": {
@@ -9282,7 +9282,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "남부교육지원청",
     "phone": "02-839-4769",
-    "homepage": "",
+    "homepage": "http://www.yangjikids.co.kr/",
     "operHours": "09시00분~22시00분",
     "classCount": 2,
     "studentCount": 39,
@@ -9316,7 +9316,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-847-2525",
     "homepage": "https://cafe.naver.com/woosungkinder",
-    "operHours": "09시30분~13시40분",
+    "operHours": "07시20분~19시20분",
     "classCount": 3,
     "studentCount": 22,
     "classes": {
@@ -9348,8 +9348,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "동작관악교육지원청",
     "phone": "02-871-2429",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.chungryong.es.kr/",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 23,
     "classes": {
@@ -9448,7 +9448,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2293-0621",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 3,
     "studentCount": 69,
     "classes": {
@@ -9514,7 +9514,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-569-2731",
     "homepage": "http://yeoksam.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 26,
     "classes": {
@@ -9547,7 +9547,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2213-1382",
     "homepage": "https://blog.naver.com/sehakids",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~20시00분",
     "classCount": 5,
     "studentCount": 111,
     "classes": {
@@ -9580,7 +9580,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-926-2357",
     "homepage": "https://donam.sen.es.kr/97257/subMenu.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 45,
     "classes": {
@@ -9613,7 +9613,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-988-4612",
     "homepage": "http://suyu.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 19,
     "classes": {
@@ -9679,7 +9679,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2692-8975",
     "homepage": "https://www.instagram.com/mokdongdasom_kindergarten",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~22시00분",
     "classCount": 6,
     "studentCount": 91,
     "classes": {
@@ -9712,7 +9712,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-3662-2205",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 7,
     "studentCount": 173,
     "classes": {
@@ -9745,7 +9745,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-396-1602",
     "homepage": "https://smu-k.kidsnote.ac",
-    "operHours": "09시40분~13시40분",
+    "operHours": "08시40분~18시00분",
     "classCount": 6,
     "studentCount": 150,
     "classes": {
@@ -9778,7 +9778,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-720-7275",
     "homepage": "http://deoksoo.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 33,
     "classes": {
@@ -9811,7 +9811,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-764-2830",
     "homepage": "https://jaedong.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 2,
     "studentCount": 13,
     "classes": {
@@ -9844,7 +9844,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-797-0038",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 7,
     "studentCount": 155,
     "classes": {
@@ -9876,7 +9876,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "중부교육지원청",
     "phone": "02-792-8691",
-    "homepage": "",
+    "homepage": "http://www.yusungkids.org/",
     "operHours": "08시40분~18시00분",
     "classCount": 7,
     "studentCount": 96,
@@ -9943,7 +9943,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-926-6888",
     "homepage": "http://cafe.daum.net/hmcps",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시00분",
     "classCount": 6,
     "studentCount": 88,
     "classes": {
@@ -9975,8 +9975,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강동송파교육지원청",
     "phone": "02-421-0776",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.bangi.es.kr",
+    "operHours": "07시00분~19시00분",
     "classCount": 5,
     "studentCount": 48,
     "classes": {
@@ -10009,7 +10009,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-489-5580",
     "homepage": "https://shinmyung.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 2,
     "studentCount": 23,
     "classes": {
@@ -10042,7 +10042,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-3280-8993",
     "homepage": "http://www.stellar1004.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~20시00분",
     "classCount": 8,
     "studentCount": 160,
     "classes": {
@@ -10075,7 +10075,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "428-4466",
     "homepage": "http://gdyujung.com/",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 17,
     "studentCount": 409,
     "classes": {
@@ -10108,7 +10108,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-453-9712",
     "homepage": "http://www.bosungkid.co.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 84,
     "classes": {
@@ -10207,7 +10207,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-942-5353",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 5,
     "studentCount": 78,
     "classes": {
@@ -10240,7 +10240,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-928-6004",
     "homepage": "http://www.shinam.net",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 83,
     "classes": {
@@ -10273,7 +10273,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-858-1965",
     "homepage": "https://mirae.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 52,
     "classes": {
@@ -10339,7 +10339,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-984-1616",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 12,
     "studentCount": 223,
     "classes": {
@@ -10372,7 +10372,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2659-5216",
     "homepage": "https://unikidschool.kidsnote.ac",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~16시00분",
     "classCount": 6,
     "studentCount": 140,
     "classes": {
@@ -10405,7 +10405,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2635-0584",
     "homepage": "https://youngdong.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 4,
     "studentCount": 29,
     "classes": {
@@ -10437,8 +10437,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "서부교육지원청",
     "phone": "02-302-4593",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.yeoneun.sen.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 6,
     "classes": {
@@ -10470,8 +10470,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "동부교육지원청",
     "phone": "02-977-9105",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.mh.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 19,
     "classes": {
@@ -10503,7 +10503,7 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강동송파교육지원청",
     "phone": "02-3401-0687",
-    "homepage": "",
+    "homepage": "http://s-namcheon.es.kr",
     "operHours": "07시00분~20시00분",
     "classCount": 1,
     "studentCount": 10,
@@ -10537,7 +10537,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-943-7780",
     "homepage": "http://changmunkids.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~20시00분",
     "classCount": 7,
     "studentCount": 170,
     "classes": {
@@ -10570,7 +10570,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-882-0018",
     "homepage": "http://www.euna.co.kr",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시00분",
     "classCount": 12,
     "studentCount": 244,
     "classes": {
@@ -10602,7 +10602,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "북부교육지원청",
     "phone": "02-972-0481",
-    "homepage": "",
+    "homepage": "http://kongneungkidis.co.kr",
     "operHours": "09시00분~18시30분",
     "classCount": 3,
     "studentCount": 37,
@@ -10636,7 +10636,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-896-2093",
     "homepage": "http://www.seoulkugak.com",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 6,
     "studentCount": 128,
     "classes": {
@@ -10669,7 +10669,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2632-9781",
     "homepage": "https://ydp.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 6,
     "classes": {
@@ -10734,8 +10734,8 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "서부교육지원청",
     "phone": "02-309-4415",
-    "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "homepage": "http://www.joeun.kg.kr",
+    "operHours": "08시00분~18시30분",
     "classCount": 5,
     "studentCount": 112,
     "classes": {
@@ -10768,7 +10768,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-372-8678",
     "homepage": "http://www.choongam.kg.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 6,
     "studentCount": 119,
     "classes": {
@@ -10800,7 +10800,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "서부교육지원청",
     "phone": "02-720-3004",
-    "homepage": "",
+    "homepage": "http://www.hdhongik.com/",
     "operHours": "09시00분~14시00분",
     "classCount": 4,
     "studentCount": 58,
@@ -10834,7 +10834,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2662-2017",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 75,
     "classes": {
@@ -10899,7 +10899,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "동부교육지원청",
     "phone": "02-959-9411",
-    "homepage": "",
+    "homepage": "http://www.seoulkid.com",
     "operHours": "09시00분~18시00분",
     "classCount": 4,
     "studentCount": 93,
@@ -11065,7 +11065,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-844-7115",
     "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~18시30분",
     "classCount": 7,
     "studentCount": 144,
     "classes": {
@@ -11163,7 +11163,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "동부교육지원청",
     "phone": "02-432-5009",
-    "homepage": "",
+    "homepage": "http://www.naraekinder.com/",
     "operHours": "09시00분~22시00분",
     "classCount": 6,
     "studentCount": 135,
@@ -11197,7 +11197,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-432-2949",
     "homepage": "https://blog.naver.com/dongil2947",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~20시00분",
     "classCount": 5,
     "studentCount": 78,
     "classes": {
@@ -11296,9 +11296,9 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-963-0371",
     "homepage": "https://cafe.naver.com/grace0371",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
-    "studentCount": 43,
+    "studentCount": 42,
     "classes": {
       "age3": 2,
       "age4": 1,
@@ -11308,7 +11308,7 @@ window.KINDERGARTENS = [
     },
     "students": {
       "age3": 23,
-      "age4": 10,
+      "age4": 9,
       "age5": 10,
       "mix": 0,
       "special": 0
@@ -11362,7 +11362,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-711-2578",
     "homepage": "https://yonggang.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 22,
     "classes": {
@@ -11461,7 +11461,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-925-4114",
     "homepage": "https://cafe.naver.com/yjua",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~22시00분",
     "classCount": 4,
     "studentCount": 53,
     "classes": {
@@ -11560,7 +11560,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2615-8812",
     "homepage": "http://cafe.daum.net/gooddaddy",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시10분~19시30분",
     "classCount": 3,
     "studentCount": 42,
     "classes": {
@@ -11593,7 +11593,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-834-3050",
     "homepage": "",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 4,
     "studentCount": 41,
     "classes": {
@@ -11725,7 +11725,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-365-2061",
     "homepage": "http://www.서울북성유치원.com/",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 7,
     "studentCount": 88,
     "classes": {
@@ -11824,7 +11824,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-2226-2697",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 5,
     "studentCount": 150,
     "classes": {
@@ -11857,7 +11857,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-595-6585",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~19시00분",
     "classCount": 8,
     "studentCount": 196,
     "classes": {
@@ -11889,8 +11889,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강동송파교육지원청",
     "phone": "02-426-0878",
-    "homepage": "",
-    "operHours": "08시50분~13시30분",
+    "homepage": "http://www.gangdeok.es.kr/",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 45,
     "classes": {
@@ -11923,7 +11923,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-481-1144",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시50분~18시30분",
     "classCount": 2,
     "studentCount": 33,
     "classes": {
@@ -11989,7 +11989,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-475-7913",
     "homepage": "",
-    "operHours": "08시30분~14시00분",
+    "operHours": "08시30분~18시30분",
     "classCount": 3,
     "studentCount": 61,
     "classes": {
@@ -12054,7 +12054,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "동작관악교육지원청",
     "phone": "02-822-0102",
-    "homepage": "",
+    "homepage": "http://www,sarangkid.co.kr",
     "operHours": "08시00분~19시00분",
     "classCount": 3,
     "studentCount": 43,
@@ -12121,7 +12121,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-6922-5900",
     "homepage": "https://cafe.naver.com/benedictine",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 7,
     "studentCount": 165,
     "classes": {
@@ -12187,7 +12187,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-814-1482",
     "homepage": "http://www.bethelkids.or.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시30분~18시00분",
     "classCount": 6,
     "studentCount": 131,
     "classes": {
@@ -12219,7 +12219,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "동작관악교육지원청",
     "phone": "02-878-3773",
-    "homepage": "",
+    "homepage": "http://www.seoul-montessori.com",
     "operHours": "09시00분~17시00분",
     "classCount": 2,
     "studentCount": 12,
@@ -12253,7 +12253,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-302-8780",
     "homepage": "http://worldforkids.net",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 14,
     "studentCount": 345,
     "classes": {
@@ -12286,7 +12286,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-408-3408",
     "homepage": "http://yujungsongpa.com",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 14,
     "studentCount": 384,
     "classes": {
@@ -12352,7 +12352,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-6343-4388",
     "homepage": "https://cheonwang.sen.es.kr/index.do",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 30,
     "classes": {
@@ -12451,7 +12451,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2634-7918",
     "homepage": "",
-    "operHours": "09시20분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 156,
     "classes": {
@@ -12484,7 +12484,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2243-3553",
     "homepage": "http://www.pastel.kg.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 5,
     "studentCount": 77,
     "classes": {
@@ -12517,7 +12517,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-3285-5555",
     "homepage": "http://www.narang.kg.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 5,
     "studentCount": 61,
     "classes": {
@@ -12583,7 +12583,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-782-1492",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 1,
     "studentCount": 6,
     "classes": {
@@ -12649,7 +12649,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-995-0611",
     "homepage": "http://dskinder.or.kr/",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 5,
     "studentCount": 88,
     "classes": {
@@ -12714,7 +12714,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "북부교육지원청",
     "phone": "02-934-5119",
-    "homepage": "",
+    "homepage": "http://cakids.co.kr/",
     "operHours": "08시00분~18시00분",
     "classCount": 2,
     "studentCount": 22,
@@ -12748,7 +12748,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-937-1616",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시40분",
     "classCount": 6,
     "studentCount": 117,
     "classes": {
@@ -12847,7 +12847,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-372-2211",
     "homepage": "http://kindergarten.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 6,
     "studentCount": 120,
     "classes": {
@@ -12880,7 +12880,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-304-3130",
     "homepage": "http://saena.kidsnote.ac",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~20시00분",
     "classCount": 6,
     "studentCount": 115,
     "classes": {
@@ -12912,8 +12912,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강서양천교육지원청",
     "phone": "02-3662-1910",
-    "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "homepage": "http://www.yeomkyoung.es.kr",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 41,
     "classes": {
@@ -12945,7 +12945,7 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강남서초교육지원청",
     "phone": "02-591-5204",
-    "homepage": "",
+    "homepage": "http://www.banpokid.co.kr",
     "operHours": "09시00분~13시30분",
     "classCount": 3,
     "studentCount": 0,
@@ -13012,7 +13012,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-2234-6047",
     "homepage": "http://www.서울장충유치원.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 7,
     "studentCount": 62,
     "classes": {
@@ -13045,7 +13045,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-742-7790",
     "homepage": "http://www.unhyunms.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~17시00분",
     "classCount": 3,
     "studentCount": 75,
     "classes": {
@@ -13111,7 +13111,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-796-8865",
     "homepage": "http://hangaram.kidis.co.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 3,
     "studentCount": 39,
     "classes": {
@@ -13144,7 +13144,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-458-0820",
     "homepage": "http://daewon.kidis.co.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 32,
     "classes": {
@@ -13176,8 +13176,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강남서초교육지원청",
     "phone": "02-3413-8780",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.jagok.sen.es.kr",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 27,
     "classes": {
@@ -13210,7 +13210,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-847-3490",
     "homepage": "https://cafe.naver.com/gfkindergarten",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 7,
     "studentCount": 126,
     "classes": {
@@ -13242,7 +13242,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2658-3123",
-    "homepage": "",
+    "homepage": "http://www.ewkinder.co.kr",
     "operHours": "07시30분~19시30분",
     "classCount": 2,
     "studentCount": 17,
@@ -13275,7 +13275,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "서부교육지원청",
     "phone": "02-353-7004",
-    "homepage": "",
+    "homepage": "http://hanakids.kr",
     "operHours": "09시30분~19시30분",
     "classCount": 8,
     "studentCount": 146,
@@ -13309,7 +13309,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-3426-8700",
     "homepage": "https://alwayslove.kidsnote.ac",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~20시00분",
     "classCount": 10,
     "studentCount": 248,
     "classes": {
@@ -13375,7 +13375,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-6222-0583",
     "homepage": "http://s-yangnam.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~20시00분",
     "classCount": 5,
     "studentCount": 68,
     "classes": {
@@ -13408,7 +13408,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-973-3074",
     "homepage": "http://gongrung.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 23,
     "classes": {
@@ -13474,7 +13474,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2293-5657",
     "homepage": "http://oksu-samsung.co.kr",
-    "operHours": "08시30분~13시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 4,
     "studentCount": 80,
     "classes": {
@@ -13506,7 +13506,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(법인)",
     "eduSupport": "성북강북교육지원청",
     "phone": "02-915-0903",
-    "homepage": "",
+    "homepage": "http://www.kwangwoon.or.kr",
     "operHours": "09시00분~17시00분",
     "classCount": 3,
     "studentCount": 62,
@@ -13540,7 +13540,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-359-9510",
     "homepage": "https://em.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 2,
     "studentCount": 29,
     "classes": {
@@ -13573,7 +13573,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2646-5674",
     "homepage": "https://arankids.kidsnote.ac",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~20시00분",
     "classCount": 5,
     "studentCount": 117,
     "classes": {
@@ -13606,7 +13606,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-937-0604",
     "homepage": "http://www.1004id.com",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~21시00분",
     "classCount": 6,
     "studentCount": 118,
     "classes": {
@@ -13639,7 +13639,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-2057-1676",
     "homepage": "http://woomyeon.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 4,
     "studentCount": 19,
     "classes": {
@@ -13671,8 +13671,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강남서초교육지원청",
     "phone": "02-3412-0840",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.dwkids.kg.kr/",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 36,
     "classes": {
@@ -13704,8 +13704,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "중부교육지원청",
     "phone": "02-763-8812",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.chang-shin.sen.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 24,
     "classes": {
@@ -13771,7 +13771,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-3411-0003",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 6,
     "studentCount": 135,
     "classes": {
@@ -13803,7 +13803,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "강남서초교육지원청",
     "phone": "02-573-7048",
-    "homepage": "",
+    "homepage": "http://www.luckids.org",
     "operHours": "09시00분~18시00분",
     "classCount": 5,
     "studentCount": 128,
@@ -13837,7 +13837,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-2226-8686",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 4,
     "studentCount": 48,
     "classes": {
@@ -13870,9 +13870,9 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-556-8737",
     "homepage": "http://md.kidis.co.kr",
-    "operHours": "08시00분~18시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 6,
-    "studentCount": 136,
+    "studentCount": 140,
     "classes": {
       "age3": 2,
       "age4": 2,
@@ -13882,8 +13882,8 @@ window.KINDERGARTENS = [
     },
     "students": {
       "age3": 40,
-      "age4": 46,
-      "age5": 50,
+      "age4": 48,
+      "age5": 52,
       "mix": 0,
       "special": 0
     },
@@ -13903,7 +13903,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-866-6571",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 5,
     "studentCount": 118,
     "classes": {
@@ -13935,7 +13935,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(법인)",
     "eduSupport": "서부교육지원청",
     "phone": "02-355-3913",
-    "homepage": "",
+    "homepage": "http://www.eunhye.kg.kr",
     "operHours": "09시30분~14시30분",
     "classCount": 5,
     "studentCount": 0,
@@ -13969,7 +13969,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-853-5025",
     "homepage": "http://guronam.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 22,
     "classes": {
@@ -14002,7 +14002,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2646-1090",
     "homepage": "https://blog.naver.com/yanghwakd",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시00분~19시30분",
     "classCount": 3,
     "studentCount": 44,
     "classes": {
@@ -14035,7 +14035,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2694-5013",
     "homepage": "http://woljung.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 30,
     "classes": {
@@ -14067,7 +14067,7 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강남서초교육지원청",
     "phone": "02-529-3285",
-    "homepage": "",
+    "homepage": "http://www.wooam.es.kr",
     "operHours": "09시30분~13시30분",
     "classCount": 2,
     "studentCount": 5,
@@ -14101,7 +14101,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-595-3991",
     "homepage": "https://namsung.sen.es.kr/",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 4,
     "studentCount": 53,
     "classes": {
@@ -14134,7 +14134,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-417-3408",
     "homepage": "https://tium3408.kidsnote.ac/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시50분",
     "classCount": 4,
     "studentCount": 94,
     "classes": {
@@ -14167,7 +14167,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-956-9380",
     "homepage": "http://kkumbat1.ebikids.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시00분",
     "classCount": 6,
     "studentCount": 154,
     "classes": {
@@ -14199,8 +14199,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "남부교육지원청",
     "phone": "02-849-0803",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.doshin.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 10,
     "classes": {
@@ -14233,7 +14233,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-3275-7667",
     "homepage": "http://cafe.daum.net/taeyoungkindergarten",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시30분~17시30분",
     "classCount": 4,
     "studentCount": 120,
     "classes": {
@@ -14266,7 +14266,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-308-5176",
     "homepage": "https://hyorim.kidsnote.ac",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시00분",
     "classCount": 6,
     "studentCount": 130,
     "classes": {
@@ -14299,7 +14299,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2662-1160",
     "homepage": "http://www.미래유치원.com",
-    "operHours": "09시40분~13시40분",
+    "operHours": "07시00분~20시00분",
     "classCount": 4,
     "studentCount": 63,
     "classes": {
@@ -14332,7 +14332,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-3662-7670",
     "homepage": "https://nbs.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 42,
     "classes": {
@@ -14398,7 +14398,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-921-3361",
     "homepage": "https://cafe.naver.com/sindonga",
-    "operHours": "09시00분~13시40분",
+    "operHours": "07시00분~20시00분",
     "classCount": 6,
     "studentCount": 100,
     "classes": {
@@ -14431,7 +14431,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2213-1508",
     "homepage": "http://cafe.naver.com/02ivykdg",
-    "operHours": "09시20분~14시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 6,
     "studentCount": 148,
     "classes": {
@@ -14497,7 +14497,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-302-7123",
     "homepage": "https://ep.kidis.co.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 9,
     "studentCount": 186,
     "classes": {
@@ -14529,8 +14529,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "성북강북교육지원청",
     "phone": "02-914-6122",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.jangwol.es.kr/",
+    "operHours": "07시00분~19시00분",
     "classCount": 4,
     "studentCount": 57,
     "classes": {
@@ -14596,7 +14596,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-434-2690",
     "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 7,
     "studentCount": 156,
     "classes": {
@@ -14629,7 +14629,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-957-5330",
     "homepage": "http://sarang-kindergarten.co.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 5,
     "studentCount": 124,
     "classes": {
@@ -14662,7 +14662,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-324-0671",
     "homepage": "http://www.shinchonkid.com",
-    "operHours": "09시00분~13시50분",
+    "operHours": "09시00분~18시00분",
     "classCount": 4,
     "studentCount": 119,
     "classes": {
@@ -14695,7 +14695,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-3800-948950",
     "homepage": "http://www.yale.kg.kr",
-    "operHours": "09시20분~14시00분",
+    "operHours": "08시30분~17시30분",
     "classCount": 4,
     "studentCount": 85,
     "classes": {
@@ -14727,7 +14727,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "성동광진교육지원청",
     "phone": "02-446-9209",
-    "homepage": "",
+    "homepage": "http://www.hyunjungkids.co.kr",
     "operHours": "09시30분~19시00분",
     "classCount": 4,
     "studentCount": 51,
@@ -14761,7 +14761,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-713-1960",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시40분~18시00분",
     "classCount": 3,
     "studentCount": 40,
     "classes": {
@@ -14794,7 +14794,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-753-7751",
     "homepage": "https://www.lilakindergarten.kr",
-    "operHours": "07시50분~11시50분",
+    "operHours": "07시50분~16시30분",
     "classCount": 8,
     "studentCount": 161,
     "classes": {
@@ -14827,7 +14827,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-988-9419",
     "homepage": "http://www.예원프리스쿨.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 27,
     "classes": {
@@ -14893,7 +14893,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2604-4151",
     "homepage": "http://www.tuntun.or.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 81,
     "classes": {
@@ -14959,7 +14959,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2612-7735",
     "homepage": "http://www.hwkd.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 7,
     "studentCount": 144,
     "classes": {
@@ -14992,7 +14992,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-3392-0570",
     "homepage": "http://sinsanggye.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 35,
     "classes": {
@@ -15025,7 +15025,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-907-8102",
     "homepage": "https://changdong-s.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~19시00분",
     "classCount": 2,
     "studentCount": 6,
     "classes": {
@@ -15091,7 +15091,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-364-1446",
     "homepage": "https://geumhwa.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 7,
     "studentCount": 65,
     "classes": {
@@ -15157,7 +15157,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2204-10502",
     "homepage": "http://www.sunhwakids.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 5,
     "studentCount": 117,
     "classes": {
@@ -15190,7 +15190,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-458-5981",
     "homepage": "http://ewkids.kidis.co.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 6,
     "studentCount": 139,
     "classes": {
@@ -15223,7 +15223,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-578-5248",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 4,
     "studentCount": 49,
     "classes": {
@@ -15256,7 +15256,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-951-8546",
     "homepage": "",
-    "operHours": "09시00분~13시40분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 87,
     "classes": {
@@ -15289,7 +15289,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-764-3210",
     "homepage": "https://www.bomsaem.co.kr",
-    "operHours": "09시40분~14시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 53,
     "classes": {
@@ -15321,7 +15321,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "동작관악교육지원청",
     "phone": "02-6332-7718",
-    "homepage": "",
+    "homepage": "http://www.dongakids.net",
     "operHours": "09시00분~19시30분",
     "classCount": 6,
     "studentCount": 124,
@@ -15388,7 +15388,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-992-3171",
     "homepage": "http://www.삼풍유치원.kr",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~19시00분",
     "classCount": 10,
     "studentCount": 235,
     "classes": {
@@ -15421,7 +15421,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-942-8687",
     "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 6,
     "studentCount": 132,
     "classes": {
@@ -15454,7 +15454,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-596-6668",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "09시00분~17시00분",
     "classCount": 6,
     "studentCount": 147,
     "classes": {
@@ -15487,7 +15487,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-6210-0696",
     "homepage": "https://se.sen.es.kr/88163/subMenu.do",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 18,
     "classes": {
@@ -15520,7 +15520,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2296-6107",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 2,
     "studentCount": 20,
     "classes": {
@@ -15552,7 +15552,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "강동송파교육지원청",
     "phone": "02-478-0065",
-    "homepage": "",
+    "homepage": "http://ykkids.co.kr",
     "operHours": "09시00분~19시00분",
     "classCount": 7,
     "studentCount": 114,
@@ -15619,7 +15619,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2646-1133",
     "homepage": "http://www.kinderjw.co.kr",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 9,
     "studentCount": 211,
     "classes": {
@@ -15652,7 +15652,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-833-9041",
     "homepage": "http://www.donbosco.me",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~17시00분",
     "classCount": 8,
     "studentCount": 190,
     "classes": {
@@ -15718,7 +15718,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-957-8166",
     "homepage": "http://cafe.daum.net/ilovegemma",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~17시00분",
     "classCount": 6,
     "studentCount": 123,
     "classes": {
@@ -15751,7 +15751,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-782-0555",
     "homepage": "http://cafe.naver.com/yeouidochild",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 4,
     "studentCount": 79,
     "classes": {
@@ -15784,7 +15784,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-809-2121",
     "homepage": "https://yaelimkindergarten.kidsnote.ac",
-    "operHours": "09시30분~14시30분",
+    "operHours": "09시30분~19시30분",
     "classCount": 6,
     "studentCount": 84,
     "classes": {
@@ -15817,7 +15817,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2615-3145",
     "homepage": "https://cafe.daum.net/yepum",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~19시00분",
     "classCount": 3,
     "studentCount": 63,
     "classes": {
@@ -15850,7 +15850,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-825-5021",
     "homepage": "https://yullim.kidswon.com/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 9,
     "studentCount": 187,
     "classes": {
@@ -15882,7 +15882,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "북부교육지원청",
     "phone": "02-949-1064",
-    "homepage": "",
+    "homepage": "http://dongeun.kids.co.kr",
     "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 28,
@@ -15916,7 +15916,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-991-8337",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 4,
     "studentCount": 91,
     "classes": {
@@ -16014,7 +16014,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "북부교육지원청",
     "phone": "02-904-8445",
-    "homepage": "",
+    "homepage": "http://www.1004.kg.kr",
     "operHours": "09시00분~17시00분",
     "classCount": 4,
     "studentCount": 70,
@@ -16048,7 +16048,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-353-0855",
     "homepage": "http://bakwhap.kidswon.com/index.asp",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 4,
     "studentCount": 75,
     "classes": {
@@ -16114,7 +16114,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-3273-3723",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 4,
     "studentCount": 99,
     "classes": {
@@ -16147,7 +16147,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-993-7411",
     "homepage": "https://cafe.naver.com/sungche1973",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 5,
     "studentCount": 68,
     "classes": {
@@ -16180,7 +16180,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-929-8475",
     "homepage": "https://dongsin.sen.es.kr/38859/subMenu.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 16,
     "classes": {
@@ -16245,8 +16245,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강동송파교육지원청",
     "phone": "02-413-2856",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.jamil.es.kr/",
+    "operHours": "07시00분~19시30분",
     "classCount": 3,
     "studentCount": 51,
     "classes": {
@@ -16279,7 +16279,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2603-6235",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 3,
     "studentCount": 22,
     "classes": {
@@ -16311,7 +16311,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "강서양천교육지원청",
     "phone": "02-3663-1636",
-    "homepage": "",
+    "homepage": "http://www.daebung.co.kr",
     "operHours": "07시00분~20시00분",
     "classCount": 2,
     "studentCount": 20,
@@ -16345,7 +16345,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-3273-6510",
     "homepage": "https://seoul-nj.sen.es.kr/152412/subMenu.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 39,
     "classes": {
@@ -16410,7 +16410,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "중부교육지원청",
     "phone": "02-2232-1934",
-    "homepage": "",
+    "homepage": "http://www.yaksui.com",
     "operHours": "09시00분~18시00분",
     "classCount": 3,
     "studentCount": 53,
@@ -16444,7 +16444,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-401-0781",
     "homepage": "http://www.solgaram.kg.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 7,
     "studentCount": 81,
     "classes": {
@@ -16543,7 +16543,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2245-8985",
     "homepage": "https://yd.sen.es.kr/46384/subMenu.do",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 4,
     "studentCount": 11,
     "classes": {
@@ -16576,7 +16576,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-6952-0097",
     "homepage": "http://guil.sen.es.kr",
-    "operHours": "09시10분~13시40분",
+    "operHours": "07시30분~19시30분",
     "classCount": 2,
     "studentCount": 20,
     "classes": {
@@ -16609,7 +16609,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-428-2256",
     "homepage": "",
-    "operHours": "09시20분~13시20분",
+    "operHours": "08시00분~18시00분",
     "classCount": 4,
     "studentCount": 76,
     "classes": {
@@ -16642,7 +16642,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-3413-8877",
     "homepage": "yulhyeon.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 5,
     "studentCount": 43,
     "classes": {
@@ -16675,7 +16675,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-494-9094",
     "homepage": "http://www.yiruni.com",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~20시00분",
     "classCount": 9,
     "studentCount": 205,
     "classes": {
@@ -16708,7 +16708,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-499-6101",
     "homepage": "http://dongsim.kidis.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 2,
     "studentCount": 13,
     "classes": {
@@ -16741,7 +16741,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-984-7557",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 10,
     "studentCount": 200,
     "classes": {
@@ -16774,7 +16774,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-902-8905",
     "homepage": "http://hwagyekinder.com",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 19,
     "classes": {
@@ -16840,7 +16840,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-913-3654",
     "homepage": "http://www.naraekids.com",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 4,
     "studentCount": 79,
     "classes": {
@@ -16873,7 +16873,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-745-9415",
     "homepage": "http://www.ssskid.co.kr",
-    "operHours": "09시00분~13시40분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 60,
     "classes": {
@@ -16905,8 +16905,8 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "성북강북교육지원청",
     "phone": "02-929-1228",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.bandykindergarten.co.kr/",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 90,
     "classes": {
@@ -16939,7 +16939,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-471-3151",
     "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 12,
     "studentCount": 344,
     "classes": {
@@ -17005,7 +17005,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-469-5012",
     "homepage": "ssw.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 13,
     "classes": {
@@ -17037,8 +17037,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "서부교육지원청",
     "phone": "02-376-6752",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.susaek.es.kr",
+    "operHours": "07시00분~19시00분",
     "classCount": 4,
     "studentCount": 52,
     "classes": {
@@ -17071,7 +17071,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-3426-5472",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~17시00분",
     "classCount": 8,
     "studentCount": 227,
     "classes": {
@@ -17103,7 +17103,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(법인)",
     "eduSupport": "강남서초교육지원청",
     "phone": "02-594-2214",
-    "homepage": "",
+    "homepage": "http://sbpckids.com/",
     "operHours": "09시00분~20시00분",
     "classCount": 5,
     "studentCount": 82,
@@ -17136,7 +17136,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "성동광진교육지원청",
     "phone": "02-498-9903",
-    "homepage": "",
+    "homepage": "http://www.i-joais.co.kr",
     "operHours": "09시00분~20시00분",
     "classCount": 3,
     "studentCount": 23,
@@ -17170,7 +17170,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-536-2329",
     "homepage": "http://www.sbpch.com",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시40분~18시00분",
     "classCount": 3,
     "studentCount": 71,
     "classes": {
@@ -17203,7 +17203,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2296-2577",
     "homepage": "http://www.yulhwa.co.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시30분~17시30분",
     "classCount": 4,
     "studentCount": 90,
     "classes": {
@@ -17235,7 +17235,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "동작관악교육지원청",
     "phone": "02-882-0533",
-    "homepage": "",
+    "homepage": "http://www.eunb.co.kr",
     "operHours": "09시00분~17시00분",
     "classCount": 7,
     "studentCount": 172,
@@ -17269,7 +17269,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-942-0042",
     "homepage": "http://www.hangaramdream.co.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~20시00분",
     "classCount": 10,
     "studentCount": 233,
     "classes": {
@@ -17302,7 +17302,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-945-6936",
     "homepage": "https://hwagye.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 56,
     "classes": {
@@ -17335,7 +17335,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-463-1186",
     "homepage": "https://sungsu.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시30분",
     "classCount": 3,
     "studentCount": 19,
     "classes": {
@@ -17368,7 +17368,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2699-9916",
     "homepage": "https://kangsin.sen.es.kr/26459/subMenu.do",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 6,
     "studentCount": 42,
     "classes": {
@@ -17401,7 +17401,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-384-0374",
     "homepage": "https://yeonsin.sen.es.kr/index.do",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 17,
     "classes": {
@@ -17434,7 +17434,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2625-8003",
     "homepage": "http://www.서울하늘숲유치원.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 8,
     "studentCount": 108,
     "classes": {
@@ -17500,7 +17500,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-595-9392",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시20분~18시00분",
     "classCount": 3,
     "studentCount": 57,
     "classes": {
@@ -17533,7 +17533,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-874-7406",
     "homepage": "https://bongcheon.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 11,
     "classes": {
@@ -17566,7 +17566,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-783-6921",
     "homepage": "",
-    "operHours": "09시30분~14시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 79,
     "classes": {
@@ -17665,7 +17665,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-921-0136",
     "homepage": "https://cafe.daum.net/sowha921",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~18시30분",
     "classCount": 4,
     "studentCount": 69,
     "classes": {
@@ -17698,7 +17698,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-433-1674",
     "homepage": "https://blog.naver.com/susan8971",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 5,
     "studentCount": 122,
     "classes": {
@@ -17731,7 +17731,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-486-1210",
     "homepage": "http://www.h-garam.com",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 4,
     "studentCount": 78,
     "classes": {
@@ -17763,7 +17763,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(법인)",
     "eduSupport": "강동송파교육지원청",
     "phone": "02-422-1311",
-    "homepage": "",
+    "homepage": "http://www.bulkwangkids.com",
     "operHours": "09시00분~18시00분",
     "classCount": 5,
     "studentCount": 110,
@@ -17797,7 +17797,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2695-2940",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 7,
     "studentCount": 162,
     "classes": {
@@ -17830,7 +17830,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-404-0708",
     "homepage": "https://lea1989.kidsnote.ac",
-    "operHours": "08시30분~13시10분",
+    "operHours": "08시30분~17시00분",
     "classCount": 7,
     "studentCount": 159,
     "classes": {
@@ -17862,7 +17862,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "강동송파교육지원청",
     "phone": "02-483-4560",
-    "homepage": "",
+    "homepage": "http://www.hansungk.co.kr",
     "operHours": "09시00분~20시00분",
     "classCount": 6,
     "studentCount": 110,
@@ -17896,7 +17896,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-956-2666",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 3,
     "studentCount": 50,
     "classes": {
@@ -17962,7 +17962,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-918-9931",
     "homepage": "http://www.gileum.net",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 104,
     "classes": {
@@ -17995,7 +17995,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-745-7116",
     "homepage": "https://samsun.sen.es.kr/",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 27,
     "classes": {
@@ -18028,7 +18028,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-743-4419",
     "homepage": "https://sungbuk.sen.es.kr/",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 30,
     "classes": {
@@ -18060,8 +18060,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "성북강북교육지원청",
     "phone": "02-912-5188",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.soonggok.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 39,
     "classes": {
@@ -18127,7 +18127,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-790-5016",
     "homepage": "http://www.daegeon.kg.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 6,
     "studentCount": 151,
     "classes": {
@@ -18160,7 +18160,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2292-2779",
     "homepage": "http://www.edenkid.com",
-    "operHours": "08시30분~13시00분",
+    "operHours": "08시30분~17시30분",
     "classCount": 6,
     "studentCount": 140,
     "classes": {
@@ -18193,7 +18193,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-3394-6254",
     "homepage": "http://cafe.naver.com/grimmkid",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~20시00분",
     "classCount": 9,
     "studentCount": 169,
     "classes": {
@@ -18259,7 +18259,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-977-0246",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시40분~19시30분",
     "classCount": 6,
     "studentCount": 120,
     "classes": {
@@ -18291,8 +18291,8 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "북부교육지원청",
     "phone": "02-973-9898",
-    "homepage": "",
-    "operHours": "09시30분~14시00분",
+    "homepage": "http://www.yejinchild.com/",
+    "operHours": "08시00분~19시00분",
     "classCount": 6,
     "studentCount": 131,
     "classes": {
@@ -18324,7 +18324,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "서부교육지원청",
     "phone": "02-309-7983",
-    "homepage": "",
+    "homepage": "http://kids.seomoonch.org/",
     "operHours": "09시00분~18시00분",
     "classCount": 1,
     "studentCount": 13,
@@ -18357,8 +18357,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "서부교육지원청",
     "phone": "02-384-0407",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.eunpyeong.es.kr",
+    "operHours": "07시00분~20시00분",
     "classCount": 2,
     "studentCount": 24,
     "classes": {
@@ -18391,7 +18391,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-703-2014",
     "homepage": "https://changchon.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 19,
     "classes": {
@@ -18424,7 +18424,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-396-7239",
     "homepage": "http://hongje.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 7,
     "studentCount": 71,
     "classes": {
@@ -18457,7 +18457,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-717-1687",
     "homepage": "https://www.sungkyul-kid.kr/",
-    "operHours": "09시30분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 3,
     "studentCount": 42,
     "classes": {
@@ -18492,7 +18492,7 @@ window.KINDERGARTENS = [
     "homepage": "http://www.inaepreschool.org/",
     "operHours": "09시00분~18시00분",
     "classCount": 2,
-    "studentCount": 65,
+    "studentCount": 61,
     "classes": {
       "age3": 0,
       "age4": 0,
@@ -18504,7 +18504,7 @@ window.KINDERGARTENS = [
       "age3": 0,
       "age4": 0,
       "age5": 0,
-      "mix": 65,
+      "mix": 61,
       "special": 0
     },
     "hasSpecialClass": false,
@@ -18523,7 +18523,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-2160-5490",
     "homepage": "http://www.geoyeo.kg.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 5,
     "studentCount": 52,
     "classes": {
@@ -18589,7 +18589,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-906-7807",
     "homepage": "https://www.dayeon.or.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 70,
     "classes": {
@@ -18654,7 +18654,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(법인)",
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2653-7272",
-    "homepage": "",
+    "homepage": "http://www.rainbowkid.net",
     "operHours": "09시00분~18시00분",
     "classCount": 4,
     "studentCount": 81,
@@ -18721,7 +18721,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-587-6131",
     "homepage": "http://shinnamsung.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 28,
     "classes": {
@@ -18754,7 +18754,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-874-3558",
     "homepage": "http://www.seoulsinwoo.com",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시20분~19시20분",
     "classCount": 7,
     "studentCount": 95,
     "classes": {
@@ -18787,7 +18787,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-514-2082",
     "homepage": "https://nonhyun.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 44,
     "classes": {
@@ -18820,7 +18820,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-305-7230",
     "homepage": "https://sky.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 5,
     "studentCount": 48,
     "classes": {
@@ -18885,7 +18885,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2299-2402",
-    "homepage": "",
+    "homepage": "http://www.moohak.co.kr",
     "operHours": "09시00분~19시00분",
     "classCount": 2,
     "studentCount": 32,
@@ -18919,7 +18919,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-427-3151",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 5,
     "studentCount": 146,
     "classes": {
@@ -18952,7 +18952,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2642-0784",
     "homepage": "http://www.saehwaa.com",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~17시00분",
     "classCount": 6,
     "studentCount": 127,
     "classes": {
@@ -19051,7 +19051,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2684-3624",
     "homepage": "https://www.djsungmo.co.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "09시00분~17시00분",
     "classCount": 7,
     "studentCount": 151,
     "classes": {
@@ -19084,7 +19084,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-865-4234",
     "homepage": "https://cafe. naver. com/bunnykindergarten",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시30분",
     "classCount": 3,
     "studentCount": 40,
     "classes": {
@@ -19150,7 +19150,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-813-7122",
     "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 2,
     "studentCount": 25,
     "classes": {
@@ -19183,7 +19183,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-817-3875",
     "homepage": "http://nrj-kids.net",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시20분~18시30분",
     "classCount": 3,
     "studentCount": 66,
     "classes": {
@@ -19216,7 +19216,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-834-2222",
     "homepage": "http://shinna.kidswon.com",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 24,
     "classes": {
@@ -19249,7 +19249,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2676-0568",
     "homepage": "https://cafe.naver.com/youngeunkindergarten",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~19시00분",
     "classCount": 5,
     "studentCount": 104,
     "classes": {
@@ -19282,7 +19282,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2676-8276",
     "homepage": "http://yeongjung.kidis.co.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 4,
     "studentCount": 76,
     "classes": {
@@ -19314,7 +19314,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "동작관악교육지원청",
     "phone": "02-856-4523",
-    "homepage": "",
+    "homepage": "http://www.sillimkids.com",
     "operHours": "09시00분~20시00분",
     "classCount": 4,
     "studentCount": 62,
@@ -19348,7 +19348,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-856-7555",
     "homepage": "https://aedong.moapp.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 5,
     "studentCount": 55,
     "classes": {
@@ -19380,8 +19380,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "북부교육지원청",
     "phone": "02-934-2715",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.sanggok.sen.es.com",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 67,
     "classes": {
@@ -19413,8 +19413,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "서부교육지원청",
     "phone": "02-380-0090",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.susin.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 2,
     "studentCount": 17,
     "classes": {
@@ -19447,7 +19447,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-6090-9887",
     "homepage": "https://jangsoo.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 52,
     "classes": {
@@ -19480,7 +19480,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-470-2008",
     "homepage": "https://littlebaum.com",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 4,
     "studentCount": 95,
     "classes": {
@@ -19513,7 +19513,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-303-1455",
     "homepage": "https://nature.kidsnote.ac",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 9,
     "studentCount": 193,
     "classes": {
@@ -19546,7 +19546,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "070-8289-9515",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~17시00분",
     "classCount": 4,
     "studentCount": 110,
     "classes": {
@@ -19579,7 +19579,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-3662-7404",
     "homepage": "http://gook1990.kidsnote.ac",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 49,
     "classes": {
@@ -19612,7 +19612,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2646-0204",
     "homepage": "https://cafe.naver.com/deungdaekids",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~19시30분",
     "classCount": 6,
     "studentCount": 151,
     "classes": {
@@ -19645,7 +19645,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-3663-6043",
     "homepage": "https://dcjikinder.kidsnote.ac",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~19시00분",
     "classCount": 6,
     "studentCount": 146,
     "classes": {
@@ -19678,7 +19678,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-2234-4006",
     "homepage": "https://shinilyu.co.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 69,
     "classes": {
@@ -19744,7 +19744,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-2235-0016",
     "homepage": "https://hanil.kidsnote.ac",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 49,
     "classes": {
@@ -19777,7 +19777,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-919-5959",
     "homepage": "http://www.lui.or.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~20시00분",
     "classCount": 4,
     "studentCount": 73,
     "classes": {
@@ -19810,7 +19810,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2613-1303",
     "homepage": "http://www.greengd.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~17시30분",
     "classCount": 6,
     "studentCount": 98,
     "classes": {
@@ -19843,7 +19843,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-450-5690",
     "homepage": "http://sinja.sen.es.kr",
-    "operHours": "09시00분~13시20분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 32,
     "classes": {
@@ -19876,7 +19876,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2290-2100",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 4,
     "studentCount": 64,
     "classes": {
@@ -19909,7 +19909,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-3675-5164",
     "homepage": "http://www.ducksoo-i.net",
-    "operHours": "09시20분~13시20분",
+    "operHours": "07시00분~20시00분",
     "classCount": 5,
     "studentCount": 97,
     "classes": {
@@ -19942,7 +19942,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-400-5308",
     "homepage": "http://www.hyelim.net",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 5,
     "studentCount": 120,
     "classes": {
@@ -20008,7 +20008,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-389-6596",
     "homepage": "https://dawoorimelite.kidsnote.ac/home/main",
-    "operHours": "09시20분~13시20분",
+    "operHours": "08시00분~18시30분",
     "classCount": 10,
     "studentCount": 226,
     "classes": {
@@ -20041,7 +20041,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-922-2344",
     "homepage": "http://uchonkid.com",
-    "operHours": "09시30분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 4,
     "studentCount": 55,
     "classes": {
@@ -20073,7 +20073,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2667-7979",
-    "homepage": "",
+    "homepage": "http://www.miraclekid.co.kr",
     "operHours": "09시00분~18시00분",
     "classCount": 6,
     "studentCount": 144,
@@ -20106,7 +20106,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "동작관악교육지원청",
     "phone": "02-2038-6606",
-    "homepage": "",
+    "homepage": "http://www.harangsoop.com/",
     "operHours": "09시00분~18시00분",
     "classCount": 10,
     "studentCount": 187,
@@ -20140,7 +20140,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-357-3956",
     "homepage": "https://yc1985.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 1,
     "studentCount": 3,
     "classes": {
@@ -20173,7 +20173,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-465-9547",
     "homepage": "https://ks.sen.es.kr",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~20시00분",
     "classCount": 3,
     "studentCount": 17,
     "classes": {
@@ -20205,8 +20205,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "남부교육지원청",
     "phone": "02-2633-1497",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.dangjung.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 43,
     "classes": {
@@ -20304,8 +20304,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "남부교육지원청",
     "phone": "02-893-8632",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.doosan.es.kr",
+    "operHours": "07시00분~20시00분",
     "classCount": 6,
     "studentCount": 56,
     "classes": {
@@ -20338,7 +20338,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2633-8793",
     "homepage": "https://youngjoong.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시30분",
     "classCount": 5,
     "studentCount": 62,
     "classes": {
@@ -20404,7 +20404,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-438-3288",
     "homepage": "http://www.dongwonkid.kg.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 28,
     "classes": {
@@ -20437,7 +20437,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2213-3086",
     "homepage": "https://jang-pyung.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 36,
     "classes": {
@@ -20470,7 +20470,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-907-8224",
     "homepage": "https://www.한사랑유치원.kr:475/home/",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~22시00분",
     "classCount": 3,
     "studentCount": 63,
     "classes": {
@@ -20502,7 +20502,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "서부교육지원청",
     "phone": "02-302-5258",
-    "homepage": "",
+    "homepage": "http://rainbowkin.com",
     "operHours": "08시30분~18시30분",
     "classCount": 4,
     "studentCount": 76,
@@ -20536,7 +20536,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-473-1136",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 7,
     "studentCount": 165,
     "classes": {
@@ -20601,8 +20601,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "성북강북교육지원청",
     "phone": "02-914-2410",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.gilwon.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 49,
     "classes": {
@@ -20634,8 +20634,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "남부교육지원청",
     "phone": "02-63796199",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.sdaedong.es.kr/46683/subMenu.do",
+    "operHours": "07시00분~20시00분",
     "classCount": 2,
     "studentCount": 19,
     "classes": {
@@ -20701,7 +20701,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-437-1201",
     "homepage": "http://cafe.naver.com/nuriekindergarten",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 41,
     "classes": {
@@ -20767,7 +20767,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-454-0002",
     "homepage": "http://hanil90.co.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~17시00분",
     "classCount": 3,
     "studentCount": 73,
     "classes": {
@@ -20800,7 +20800,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-924-0423",
     "homepage": "https://jeongdeok.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 52,
     "classes": {
@@ -20832,7 +20832,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "성북강북교육지원청",
     "phone": "02-927-6557",
-    "homepage": "",
+    "homepage": "http://www.yerinkids.co.kr",
     "operHours": "09시00분~19시00분",
     "classCount": 3,
     "studentCount": 49,
@@ -20866,7 +20866,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-941-6776",
     "homepage": "http://www.youngchun.co.kr",
-    "operHours": "09시00분~13시50분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 58,
     "classes": {
@@ -20899,7 +20899,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-986-0577",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 58,
     "classes": {
@@ -20932,7 +20932,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2668-0262",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "09시00분~18시00분",
     "classCount": 5,
     "studentCount": 93,
     "classes": {
@@ -20965,7 +20965,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2646-2561",
     "homepage": "https://hanseo.kidsnote.ac",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 6,
     "studentCount": 109,
     "classes": {
@@ -20998,7 +20998,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2646-9704",
     "homepage": "https://haerim.kidsnote.ac/home/main",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 5,
     "studentCount": 114,
     "classes": {
@@ -21031,7 +21031,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2664-6456",
     "homepage": "https://www.hongshin1984.co.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 5,
     "studentCount": 199,
     "classes": {
@@ -21064,7 +21064,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-857-8545",
     "homepage": "http://www.honeybees.or.kr",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 29,
     "classes": {
@@ -21130,7 +21130,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-898-3031",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 7,
     "studentCount": 175,
     "classes": {
@@ -21196,7 +21196,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-9975-164",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 27,
     "classes": {
@@ -21262,7 +21262,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-477-3192",
     "homepage": "http://s-sunrin.com",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 5,
     "studentCount": 76,
     "classes": {
@@ -21294,8 +21294,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강동송파교육지원청",
     "phone": "02-403-4170",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.seryun.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 25,
     "classes": {
@@ -21328,7 +21328,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2295-3551",
     "homepage": "http://www.seinkid.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 2,
     "studentCount": 2,
     "classes": {
@@ -21394,7 +21394,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-400-9758",
     "homepage": "https://cafe.naver.com/eunsunkids",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 165,
     "classes": {
@@ -21427,7 +21427,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-3399-1173",
     "homepage": "http://www.sykinder.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시00분",
     "classCount": 8,
     "studentCount": 174,
     "classes": {
@@ -21460,7 +21460,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-970-5353",
     "homepage": "http://www.swuchild.com/",
-    "operHours": "09시20분~14시20분",
+    "operHours": "08시00분~19시00분",
     "classCount": 6,
     "studentCount": 124,
     "classes": {
@@ -21493,7 +21493,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-874-3350",
     "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~19시00분",
     "classCount": 3,
     "studentCount": 39,
     "classes": {
@@ -21558,8 +21558,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "동작관악교육지원청",
     "phone": "02-853-9871",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://nangok.es.kr/",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 17,
     "classes": {
@@ -21592,7 +21592,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2653-3417",
     "homepage": "http://www.sinmok.co.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 27,
     "classes": {
@@ -21625,7 +21625,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2664-8888",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 4,
     "studentCount": 71,
     "classes": {
@@ -21658,7 +21658,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-892-6478",
     "homepage": "http://dongil.kid-park.com",
-    "operHours": "09시40분~13시40분",
+    "operHours": "08시00분~18시00분",
     "classCount": 6,
     "studentCount": 129,
     "classes": {
@@ -21691,7 +21691,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-806-0100",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~17시00분",
     "classCount": 3,
     "studentCount": 31,
     "classes": {
@@ -21757,7 +21757,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-492-3355",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 126,
     "classes": {
@@ -21790,9 +21790,9 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2208-6601",
     "homepage": "http://blog.naver.com/eunsung2208",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~20시00분",
     "classCount": 9,
-    "studentCount": 198,
+    "studentCount": 194,
     "classes": {
       "age3": 3,
       "age4": 3,
@@ -21801,9 +21801,9 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "students": {
-      "age3": 56,
-      "age4": 60,
-      "age5": 82,
+      "age3": 54,
+      "age4": 59,
+      "age5": 81,
       "mix": 0,
       "special": 0
     },
@@ -21822,7 +21822,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(법인)",
     "eduSupport": "동작관악교육지원청",
     "phone": "02-858-4130",
-    "homepage": "",
+    "homepage": "http://www.gunykid.com",
     "operHours": "09시30분~18시10분",
     "classCount": 3,
     "studentCount": 50,
@@ -21856,7 +21856,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-823-8871",
     "homepage": "http://www.somangkids.com/",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 48,
     "classes": {
@@ -21922,7 +21922,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-836-6710",
     "homepage": "http://yoyokid.kidsnote.ac",
-    "operHours": "09시30분~14시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 2,
     "studentCount": 23,
     "classes": {
@@ -21955,7 +21955,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-938-9642",
     "homepage": "http://www.noil.kg.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 75,
     "classes": {
@@ -21987,8 +21987,8 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "북부교육지원청",
     "phone": "02-976-3671",
-    "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "homepage": "http://arangkidiskids.co.kr",
+    "operHours": "08시00분~19시00분",
     "classCount": 5,
     "studentCount": 70,
     "classes": {
@@ -22054,7 +22054,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-932-4488",
     "homepage": "http://www.wonam.kg.kr/",
-    "operHours": "08시30분~13시20분",
+    "operHours": "08시00분~20시00분",
     "classCount": 13,
     "studentCount": 305,
     "classes": {
@@ -22087,7 +22087,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-956-5000",
     "homepage": "https://blog.naver.com/youhwa5000_",
-    "operHours": "08시30분~13시30분",
+    "operHours": "08시00분~19시00분",
     "classCount": 3,
     "studentCount": 73,
     "classes": {
@@ -22120,7 +22120,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-387-0325",
     "homepage": "https://cafe.naver.com/3870325",
-    "operHours": "09시00분~13시50분",
+    "operHours": "08시30분~18시30분",
     "classCount": 4,
     "studentCount": 73,
     "classes": {
@@ -22186,7 +22186,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-966-3568",
     "homepage": "https://hongpa.sen.es.kr/100533/subMenu.do",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 22,
     "classes": {
@@ -22219,7 +22219,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2602-2139",
     "homepage": "https://hwail.sen.es.kr/",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 24,
     "classes": {
@@ -22251,8 +22251,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "동부교육지원청",
     "phone": "02-2248-4653",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.hwibong.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 27,
     "classes": {
@@ -22285,7 +22285,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-3401-5678",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시40분~18시00분",
     "classCount": 6,
     "studentCount": 161,
     "classes": {
@@ -22317,8 +22317,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강남서초교육지원청",
     "phone": "02-595-2274",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.seorae.es.kr/",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 60,
     "classes": {
@@ -22350,7 +22350,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(법인)",
     "eduSupport": "강남서초교육지원청",
     "phone": "02-537-4224",
-    "homepage": "",
+    "homepage": "http://www.banposm.com",
     "operHours": "09시00분~17시00분",
     "classCount": 3,
     "studentCount": 60,
@@ -22384,7 +22384,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-418-9559",
     "homepage": "https://jamshin.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 17,
     "classes": {
@@ -22417,7 +22417,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-319-2915",
     "homepage": "https://cafe.naver.com/bokjakindergarten",
-    "operHours": "09시30분~13시30분",
+    "operHours": "09시00분~18시00분",
     "classCount": 4,
     "studentCount": 71,
     "classes": {
@@ -22450,7 +22450,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-744-4633",
     "homepage": "https://myungshin.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 21,
     "classes": {
@@ -22483,7 +22483,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-733-1475",
     "homepage": "http://www.sejonglo.org/sosik",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 3,
     "studentCount": 31,
     "classes": {
@@ -22549,7 +22549,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-571-9009",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 11,
     "studentCount": 215,
     "classes": {
@@ -22582,7 +22582,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-3422-1771",
     "homepage": "http://서울새솔유치원.kr",
-    "operHours": "09시10분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 12,
     "studentCount": 155,
     "classes": {
@@ -22615,7 +22615,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-824-0503",
     "homepage": "https://gangnam.sen.es.kr/",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 31,
     "classes": {
@@ -22648,7 +22648,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-2138-1792",
     "homepage": "https://eonnam.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 47,
     "classes": {
@@ -22681,7 +22681,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-3411-1081",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시00분",
     "classCount": 10,
     "studentCount": 200,
     "classes": {
@@ -22747,7 +22747,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-453-2123",
     "homepage": "https://guui.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시10분",
     "classCount": 4,
     "studentCount": 52,
     "classes": {
@@ -22780,7 +22780,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2299-4115",
     "homepage": "https://oksu.sen.es.kr/39794/subMenu.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 50,
     "classes": {
@@ -22846,7 +22846,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-911-5777",
     "homepage": "http://cafe.naver.com/joheunnara",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시00분",
     "classCount": 7,
     "studentCount": 194,
     "classes": {
@@ -22912,7 +22912,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2281-7982",
     "homepage": "http://www.mitakids.net",
-    "operHours": "09시30분~13시30분",
+    "operHours": "09시30분~17시30분",
     "classCount": 5,
     "studentCount": 136,
     "classes": {
@@ -22978,7 +22978,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-847-2120",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 4,
     "studentCount": 71,
     "classes": {
@@ -23011,7 +23011,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-802-7019",
     "homepage": "http://cafe.daum.net/wunhyun",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~22시00분",
     "classCount": 6,
     "studentCount": 97,
     "classes": {
@@ -23044,7 +23044,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-471-7792",
     "homepage": "https://cafe.naver.com/ggskids",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~20시00분",
     "classCount": 6,
     "studentCount": 140,
     "classes": {
@@ -23110,7 +23110,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-959-1396",
     "homepage": "https://seokgwan.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시30분",
     "classCount": 5,
     "studentCount": 57,
     "classes": {
@@ -23143,7 +23143,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-334-0161",
     "homepage": "https://daejin.kidis.co.kr",
-    "operHours": "10시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 11,
     "studentCount": 226,
     "classes": {
@@ -23176,7 +23176,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2605-2277",
     "homepage": "http://yskid.com/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "09시00분~18시00분",
     "classCount": 8,
     "studentCount": 187,
     "classes": {
@@ -23208,7 +23208,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "북부교육지원청",
     "phone": "02-972-7373",
-    "homepage": "",
+    "homepage": "http://www.tomatokids.co.kr",
     "operHours": "09시00분~19시00분",
     "classCount": 2,
     "studentCount": 23,
@@ -23242,7 +23242,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-973-4142",
     "homepage": "http://www.hanyangkids.net",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 5,
     "studentCount": 105,
     "classes": {
@@ -23275,7 +23275,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-470-6319",
     "homepage": "http://chunho.sen.es.kr/index.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 37,
     "classes": {
@@ -23307,7 +23307,7 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "남부교육지원청",
     "phone": "02-833-3595",
-    "homepage": "",
+    "homepage": "http://www.sdaebang.es.kr",
     "operHours": "07시00분~19시00분",
     "classCount": 2,
     "studentCount": 26,
@@ -23341,7 +23341,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-451-8891",
     "homepage": "http://www.bandikids.co.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 4,
     "studentCount": 117,
     "classes": {
@@ -23374,7 +23374,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-582-1871",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 3,
     "studentCount": 71,
     "classes": {
@@ -23440,7 +23440,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-994-7782",
     "homepage": "http://shinchang.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 22,
     "classes": {
@@ -23473,7 +23473,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-302-5296",
     "homepage": "http://kg.mjc.ac.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 5,
     "studentCount": 118,
     "classes": {
@@ -23506,7 +23506,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-454-9138",
     "homepage": "https://yjs.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시10분~19시30분",
     "classCount": 3,
     "studentCount": 52,
     "classes": {
@@ -23539,7 +23539,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-449-9154",
     "homepage": "https://pyunghwa.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 29,
     "classes": {
@@ -23572,7 +23572,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-357-6100",
     "homepage": "http://www.숲유치원.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 9,
     "studentCount": 200,
     "classes": {
@@ -23638,7 +23638,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-815-0146",
     "homepage": "https://cau-kindergarten.or.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~17시00분",
     "classCount": 6,
     "studentCount": 141,
     "classes": {
@@ -23671,7 +23671,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-930-4202",
     "homepage": "http://www.ggumter.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 5,
     "studentCount": 74,
     "classes": {
@@ -23704,7 +23704,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-396-4271",
     "homepage": "http://www.kyung-bok.co.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 5,
     "studentCount": 113,
     "classes": {
@@ -23737,9 +23737,9 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-396-7704",
     "homepage": "http://www.hjkids.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 3,
-    "studentCount": 63,
+    "studentCount": 62,
     "classes": {
       "age3": 1,
       "age4": 1,
@@ -23748,7 +23748,7 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "students": {
-      "age3": 23,
+      "age3": 22,
       "age4": 24,
       "age5": 16,
       "mix": 0,
@@ -23770,7 +23770,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2651-5079",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 4,
     "studentCount": 97,
     "classes": {
@@ -23803,7 +23803,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2651-7355",
     "homepage": "http://bitna.info",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 106,
     "classes": {
@@ -23836,7 +23836,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2601-9846",
     "homepage": "https://singi.sen.es.kr/",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 4,
     "studentCount": 44,
     "classes": {
@@ -23869,7 +23869,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2214-0011",
     "homepage": "",
-    "operHours": "09시20분~13시20분",
+    "operHours": "08시00분~18시30분",
     "classCount": 8,
     "studentCount": 209,
     "classes": {
@@ -23902,7 +23902,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-3421-8411",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 9,
     "studentCount": 181,
     "classes": {
@@ -23968,7 +23968,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2248-3152",
     "homepage": "http://www.dapsimni.kg.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 5,
     "studentCount": 62,
     "classes": {
@@ -24001,7 +24001,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-974-8872",
     "homepage": "http://www.한성유치원.com",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 9,
     "studentCount": 238,
     "classes": {
@@ -24034,7 +24034,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-713-5472",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~17시00분",
     "classCount": 6,
     "studentCount": 180,
     "classes": {
@@ -24100,7 +24100,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-3401-4880",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~17시30분",
     "classCount": 4,
     "studentCount": 73,
     "classes": {
@@ -24132,7 +24132,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "동작관악교육지원청",
     "phone": "02-878-4367",
-    "homepage": "",
+    "homepage": "https://www.haeseula.co.kr",
     "operHours": "09시00분~19시00분",
     "classCount": 6,
     "studentCount": 116,
@@ -24166,7 +24166,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2212-8456",
     "homepage": "http://www.kunja.kg.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 6,
     "studentCount": 94,
     "classes": {
@@ -24199,7 +24199,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-461-0337",
     "homepage": "http://skd.sen.kg.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시30분",
     "classCount": 7,
     "studentCount": 104,
     "classes": {
@@ -24232,7 +24232,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-957-1830",
     "homepage": "http://dongkid.org/",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시40분~18시30분",
     "classCount": 6,
     "studentCount": 127,
     "classes": {
@@ -24331,7 +24331,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-372-0404",
     "homepage": "http://www.sejongschool.co.kr",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~18시30분",
     "classCount": 6,
     "studentCount": 145,
     "classes": {
@@ -24397,7 +24397,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-987-4195",
     "homepage": "http://mi-yang.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 49,
     "classes": {
@@ -24430,7 +24430,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-977-7385",
     "homepage": "https://taerang.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 4,
     "studentCount": 26,
     "classes": {
@@ -24496,7 +24496,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2659-3296",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 6,
     "studentCount": 147,
     "classes": {
@@ -24529,7 +24529,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-783-2529",
     "homepage": "http://baptistkid.or.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~19시00분",
     "classCount": 6,
     "studentCount": 128,
     "classes": {
@@ -24562,7 +24562,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2634-9167",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 6,
     "studentCount": 116,
     "classes": {
@@ -24595,7 +24595,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-967-0907",
     "homepage": "http://www.khu.kg.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 6,
     "studentCount": 152,
     "classes": {
@@ -24628,7 +24628,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-975-2498",
     "homepage": "https://yeonchon.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 47,
     "classes": {
@@ -24694,7 +24694,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-992-8503",
     "homepage": "https://shinchangkids.modoo.at/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 2,
     "studentCount": 8,
     "classes": {
@@ -24727,7 +24727,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-975-6786",
     "homepage": "http://cafe.naver.com/yskindergarten",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 6,
     "studentCount": 120,
     "classes": {
@@ -24792,8 +24792,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "서부교육지원청",
     "phone": "02-712-5928",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.kongduck.es.kr/",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 36,
     "classes": {
@@ -24826,7 +24826,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-451-6688",
     "homepage": "http://www.ewhakids.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 3,
     "studentCount": 43,
     "classes": {
@@ -24859,7 +24859,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-470-1633",
     "homepage": "https://cheonhokindergarten.qshop.ai/",
-    "operHours": "08시40분~13시40분",
+    "operHours": "08시00분~19시00분",
     "classCount": 10,
     "studentCount": 181,
     "classes": {
@@ -24892,7 +24892,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-402-1930",
     "homepage": "http://eumyung.imweb.me",
-    "operHours": "09시00분~13시30분",
+    "operHours": "09시00분~18시00분",
     "classCount": 6,
     "studentCount": 139,
     "classes": {
@@ -24925,7 +24925,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-816-2964",
     "homepage": "http://www.mungsu.kg.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 3,
     "studentCount": 65,
     "classes": {
@@ -24958,7 +24958,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-878-7766",
     "homepage": "http://www.baekkot.com",
-    "operHours": "09시00분~13시50분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 104,
     "classes": {
@@ -24991,7 +24991,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-6671-6001",
     "homepage": "http://www.sosl.kg.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 115,
     "classes": {
@@ -25024,7 +25024,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-584-6135",
     "homepage": "http://sskinder.kidis.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 2,
     "studentCount": 25,
     "classes": {
@@ -25057,7 +25057,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-879-2481",
     "homepage": "http://wondang.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 42,
     "classes": {
@@ -25090,7 +25090,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-912-3031",
     "homepage": "http://dongdukchild.co.kr/",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 5,
     "studentCount": 141,
     "classes": {
@@ -25122,7 +25122,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(법인)",
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2252-3179",
-    "homepage": "",
+    "homepage": "http://www.keumhokids.co.kr",
     "operHours": "08시00분~18시00분",
     "classCount": 2,
     "studentCount": 19,
@@ -25156,7 +25156,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2677-7539",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 5,
     "studentCount": 96,
     "classes": {
@@ -25189,7 +25189,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-434-7993",
     "homepage": "https://instagram.com/jungnang_jindalrea?igshid=MzRlODBiNWFlZA==",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 2,
     "studentCount": 36,
     "classes": {
@@ -25222,7 +25222,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-833-1527",
     "homepage": "http://cafe.naver.com/edenu",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 15,
     "classes": {
@@ -25255,7 +25255,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-853-5423",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~18시30분",
     "classCount": 3,
     "studentCount": 80,
     "classes": {
@@ -25320,7 +25320,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(법인)",
     "eduSupport": "동작관악교육지원청",
     "phone": "02-523-7718",
-    "homepage": "",
+    "homepage": "http://songrim.kg.kr/",
     "operHours": "09시00분~17시00분",
     "classCount": 2,
     "studentCount": 38,
@@ -25354,7 +25354,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-3493-9236",
     "homepage": "http://nrk.or.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 50,
     "classes": {
@@ -25386,8 +25386,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "북부교육지원청",
     "phone": "02-952-7465",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.dongil.es.kr",
+    "operHours": "07시00분~19시30분",
     "classCount": 4,
     "studentCount": 46,
     "classes": {
@@ -25486,7 +25486,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-3399-7886",
     "homepage": "http://cheongwon.shop/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~19시00분",
     "classCount": 4,
     "studentCount": 97,
     "classes": {
@@ -25519,7 +25519,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-3273-3838",
     "homepage": "http://sgkg.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~19시00분",
     "classCount": 4,
     "studentCount": 74,
     "classes": {
@@ -25552,7 +25552,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-358-1019",
     "homepage": "http://cafe.daum.net/saeboram",
-    "operHours": "09시00분~13시30분",
+    "operHours": "09시00분~18시00분",
     "classCount": 1,
     "studentCount": 3,
     "classes": {
@@ -25585,7 +25585,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-466-6193",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~20시00분",
     "classCount": 7,
     "studentCount": 139,
     "classes": {
@@ -25618,7 +25618,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2297-0432",
     "homepage": "http://cafe.naver.com/yale4846",
-    "operHours": "09시40분~13시40분",
+    "operHours": "08시00분~18시00분",
     "classCount": 6,
     "studentCount": 131,
     "classes": {
@@ -25651,7 +25651,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2282-2777",
     "homepage": "",
-    "operHours": "09시30분~14시30분",
+    "operHours": "08시30분~18시00분",
     "classCount": 4,
     "studentCount": 42,
     "classes": {
@@ -25716,8 +25716,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "북부교육지원청",
     "phone": "02-935-5129",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.sanggyeong.es.kr",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 45,
     "classes": {
@@ -25750,7 +25750,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-834-3041",
     "homepage": "https://younglim.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 29,
     "classes": {
@@ -25783,7 +25783,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-445-0051",
     "homepage": "https://gaepo.sen.kg.kr/index.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 11,
     "studentCount": 123,
     "classes": {
@@ -25816,7 +25816,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-501-6408",
     "homepage": "http://daehyun.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 17,
     "classes": {
@@ -25849,7 +25849,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-595-9978",
     "homepage": "https://bangbae.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 44,
     "classes": {
@@ -25882,7 +25882,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-548-9754",
     "homepage": "",
-    "operHours": "08시30분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 2,
     "studentCount": 32,
     "classes": {
@@ -25915,7 +25915,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-543-8819",
     "homepage": "https://www.stjosepkids.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~17시00분",
     "classCount": 8,
     "studentCount": 146,
     "classes": {
@@ -25981,7 +25981,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2648-4997",
     "homepage": "http://www.kskid.co.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 8,
     "studentCount": 180,
     "classes": {
@@ -26014,7 +26014,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2646-0606",
     "homepage": "https://emdchs.kidsnote.ac",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 3,
     "studentCount": 50,
     "classes": {
@@ -26047,7 +26047,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-796-8867",
     "homepage": "https://seobinggo.sen.es.kr/index.do",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시20분~19시20분",
     "classCount": 4,
     "studentCount": 45,
     "classes": {
@@ -26080,7 +26080,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2253-2901",
     "homepage": "https://soongshin.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 51,
     "classes": {
@@ -26146,7 +26146,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-395-2544",
     "homepage": "http://www.sgjkids.com",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시00분~19시30분",
     "classCount": 3,
     "studentCount": 53,
     "classes": {
@@ -26179,7 +26179,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-2256-6100-1",
     "homepage": "http://www.수암유치원.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 6,
     "studentCount": 114,
     "classes": {
@@ -26212,7 +26212,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-743-7021",
     "homepage": "http://www.hyehwa.kg.kr",
-    "operHours": "08시50분~12시50분",
+    "operHours": "08시50분~17시30분",
     "classCount": 6,
     "studentCount": 121,
     "classes": {
@@ -26245,7 +26245,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-953-0995",
     "homepage": "https://sungrye.sen.es.kr/210092/subMenu.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 7,
     "studentCount": 64,
     "classes": {
@@ -26377,7 +26377,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2646-7701",
     "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~18시30분",
     "classCount": 7,
     "studentCount": 171,
     "classes": {
@@ -26410,7 +26410,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-948-2280",
     "homepage": "http://www.nwsy.net/",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 35,
     "classes": {
@@ -26442,7 +26442,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(법인)",
     "eduSupport": "성동광진교육지원청",
     "phone": "02-456-7770",
-    "homepage": "",
+    "homepage": "http://www.shalomkids.co.kr",
     "operHours": "09시00분~19시00분",
     "classCount": 3,
     "studentCount": 34,
@@ -26476,7 +26476,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2296-9546",
     "homepage": "https://sageun.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 33,
     "classes": {
@@ -26509,7 +26509,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2294-6317",
     "homepage": "https://okjeong.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 36,
     "classes": {
@@ -26575,7 +26575,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-497-2547",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "09시00분~17시00분",
     "classCount": 3,
     "studentCount": 66,
     "classes": {
@@ -26608,7 +26608,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-412-5687",
     "homepage": "https://www.sujungkids.com/",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 4,
     "studentCount": 91,
     "classes": {
@@ -26641,7 +26641,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2676-8626",
     "homepage": "https://sinmirim.sen.es.kr/",
-    "operHours": "09시10분~13시40분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 50,
     "classes": {
@@ -26674,7 +26674,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-877-9139",
     "homepage": "http://samseong.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 43,
     "classes": {
@@ -26707,7 +26707,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2667-6767",
     "homepage": "",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 13,
     "studentCount": 304,
     "classes": {
@@ -26773,7 +26773,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2271-3700",
     "homepage": "http://woohyunchild.kidis.co.kr",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 37,
     "classes": {
@@ -26806,7 +26806,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-895-1535",
     "homepage": "https://doksan.sen.es.kr/",
-    "operHours": "09시00분~19시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 36,
     "classes": {
@@ -26872,7 +26872,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2666-8071",
     "homepage": "http://www.서울마곡유치원.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시30분",
     "classCount": 10,
     "studentCount": 141,
     "classes": {
@@ -26905,7 +26905,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-338-9900",
     "homepage": "http://www.ssc.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 7,
     "studentCount": 52,
     "classes": {
@@ -26938,7 +26938,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-813-6148",
     "homepage": "https://cafe.naver.com/8136148",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 6,
     "studentCount": 99,
     "classes": {
@@ -26971,7 +26971,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2065-3373",
     "homepage": "http://www.mokdongkid.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 6,
     "studentCount": 118,
     "classes": {
@@ -27004,7 +27004,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-3401-2011",
     "homepage": "http://2wooil.net",
-    "operHours": "09시00분~13시00분",
+    "operHours": "08시00분~18시30분",
     "classCount": 11,
     "studentCount": 264,
     "classes": {
@@ -27037,7 +27037,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-3411-3345",
     "homepage": "http://www.eungokkg.co.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 8,
     "studentCount": 95,
     "classes": {
@@ -27169,7 +27169,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-979-8293",
     "homepage": "http://yeonji.ebikids.co.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 76,
     "classes": {
@@ -27202,7 +27202,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-6435-3355",
     "homepage": "http://www.서울수락산유치원.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시20분~20시00분",
     "classCount": 6,
     "studentCount": 61,
     "classes": {
@@ -27235,7 +27235,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-807-9995",
     "homepage": "https://geumnarae.sen.es.kr/index.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 54,
     "classes": {
@@ -27268,7 +27268,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-2117-5700",
     "homepage": "https://xn--2i4bq6hcctpy0vitc0ym.kr:446/home/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 7,
     "studentCount": 81,
     "classes": {
@@ -27301,7 +27301,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-433-3296",
     "homepage": "https://myeonbuk.sen.es.kr/179295/subMenu.do",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 17,
     "classes": {
@@ -27334,7 +27334,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-423-8386",
     "homepage": "https://aju.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 31,
     "classes": {
@@ -27367,7 +27367,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "0226170597",
     "homepage": "https://kohsan.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 34,
     "classes": {
@@ -27400,7 +27400,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-952-7874",
     "homepage": "https://sangwon.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~19시00분",
     "classCount": 2,
     "studentCount": 19,
     "classes": {
@@ -27433,7 +27433,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-915-9300",
     "homepage": "https://joeunsorikd.sen.kg.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 67,
     "classes": {
@@ -27466,7 +27466,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-2226-9500",
     "homepage": "http://www.gnyujung.com",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~18시00분",
     "classCount": 18,
     "studentCount": 429,
     "classes": {
@@ -27498,8 +27498,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "성북강북교육지원청",
     "phone": "02-987-1866",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.beondong.kg.kr/",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 23,
     "classes": {
@@ -27532,7 +27532,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-875-0533",
     "homepage": "http://www.서울청림유치원.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 7,
     "studentCount": 75,
     "classes": {
@@ -27565,7 +27565,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-427-9680",
     "homepage": "http://gohyeon.sen.es.kr/index.do",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 50,
     "classes": {
@@ -27598,7 +27598,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-2226-6066",
     "homepage": "https://younghee.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 5,
     "studentCount": 72,
     "classes": {
@@ -27631,7 +27631,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-817-1264",
     "homepage": "https://noryangjin.sen.es.kr/index.do",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 1,
     "studentCount": 3,
     "classes": {
@@ -27664,7 +27664,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-889-9930",
     "homepage": "http://서울구암유치원.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시30분",
     "classCount": 7,
     "studentCount": 91,
     "classes": {
@@ -27697,7 +27697,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2299-6119",
     "homepage": "http://dgmg.sen.es.kr/index.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 17,
     "classes": {
@@ -27730,7 +27730,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-6213-7979",
     "homepage": "https://www.서울수명유치원.kr:493/home/",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 11,
     "studentCount": 125,
     "classes": {
@@ -27763,7 +27763,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-740-6500",
     "homepage": "http://www.거원.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 49,
     "classes": {
@@ -27795,7 +27795,7 @@ window.KINDERGARTENS = [
     "kindDetail": "사립(사인)",
     "eduSupport": "강서양천교육지원청",
     "phone": "02-26511322",
-    "homepage": "",
+    "homepage": "http://www.saessakkids.co.kr/",
     "operHours": "09시00분~13시00분",
     "classCount": 0,
     "studentCount": 0,
@@ -27829,7 +27829,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2642-7300",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시30분",
     "classCount": 4,
     "studentCount": 66,
     "classes": {
@@ -27862,7 +27862,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2094-8401",
     "homepage": "http://www.jungamkid.co.kr",
-    "operHours": "08시30분~14시00분",
+    "operHours": "08시30분~18시00분",
     "classCount": 4,
     "studentCount": 70,
     "classes": {
@@ -27895,7 +27895,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-2147-5200",
     "homepage": "http://gangsol.kg.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 10,
     "studentCount": 114,
     "classes": {
@@ -27928,7 +27928,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2135-3510",
     "homepage": "https://idaegil.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "09시00분~19시00분",
     "classCount": 3,
     "studentCount": 30,
     "classes": {
@@ -27961,7 +27961,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-959-2023",
     "homepage": "http://www.imunk.co.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시20분~19시20분",
     "classCount": 7,
     "studentCount": 104,
     "classes": {
@@ -27994,7 +27994,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-931-0601",
     "homepage": "http://danghyeon.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 47,
     "classes": {
@@ -28027,7 +28027,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-6219-0901",
     "homepage": "http://서울금낭화유치원.kr/home/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 6,
     "studentCount": 47,
     "classes": {
@@ -28060,7 +28060,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-949-0205",
     "homepage": "https://yongdong.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 2,
     "studentCount": 13,
     "classes": {
@@ -28093,7 +28093,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-324-2316",
     "homepage": "https://donggyo.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 25,
     "classes": {
@@ -28126,7 +28126,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2645-2640",
     "homepage": "https://sg.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 5,
     "studentCount": 32,
     "classes": {
@@ -28159,7 +28159,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-6930-5813",
     "homepage": "https://soosong.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 29,
     "classes": {
@@ -28192,7 +28192,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "023390-9940",
     "homepage": "http://cafe.naver.com/jokindergarten",
-    "operHours": "09시00분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 118,
     "classes": {
@@ -28225,7 +28225,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-6011-8183",
     "homepage": "https://seoulsinhak.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 25,
     "classes": {
@@ -28291,7 +28291,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-6949-4442",
     "homepage": "https://cafe.naver.com/sihyun2017",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~17시30분",
     "classCount": 6,
     "studentCount": 129,
     "classes": {
@@ -28324,7 +28324,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-466-9691",
     "homepage": "http://jkschool.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 4,
     "studentCount": 36,
     "classes": {
@@ -28356,8 +28356,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "중부교육지원청",
     "phone": "02-739-6940",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.chungwoon.es.kr",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 31,
     "classes": {
@@ -28390,7 +28390,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-3392-5864",
     "homepage": "https://www.kiddream.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시20분",
     "classCount": 8,
     "studentCount": 152,
     "classes": {
@@ -28423,7 +28423,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2647-9280",
     "homepage": "https://deungchon.sen.es.kr",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 36,
     "classes": {
@@ -28456,7 +28456,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-3143-7640",
     "homepage": "https://sseo.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 20,
     "classes": {
@@ -28489,7 +28489,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-2088-2800",
     "homepage": "https://ssangmun.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 2,
     "studentCount": 15,
     "classes": {
@@ -28522,7 +28522,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-2039-1228",
     "homepage": "https://bulgwang.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 31,
     "classes": {
@@ -28555,7 +28555,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-308-1407",
     "homepage": "https://eungam.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 41,
     "classes": {
@@ -28588,7 +28588,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-308-8851",
     "homepage": "http://jungdong.sen.es.kr",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 32,
     "classes": {
@@ -28621,7 +28621,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-3399-2177",
     "homepage": "https://gongyeon.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 30,
     "classes": {
@@ -28654,7 +28654,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-576-0468",
     "homepage": "http://www.서울양재유치원.kr/",
-    "operHours": "09시10분~13시40분",
+    "operHours": "07시20분~19시30분",
     "classCount": 8,
     "studentCount": 92,
     "classes": {
@@ -28687,7 +28687,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-982-3334",
     "homepage": "http://song-cheon.kg.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 27,
     "classes": {
@@ -28720,7 +28720,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2244-3254",
     "homepage": "https://jeongok.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 31,
     "classes": {
@@ -28753,7 +28753,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-6925-4560",
     "homepage": "https://jangwicho.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 4,
     "studentCount": 44,
     "classes": {
@@ -28786,7 +28786,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-407-9747",
     "homepage": "https://youngpung.sen.es.kr/139606/subMenu.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 31,
     "classes": {
@@ -28819,7 +28819,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-6922-8871",
     "homepage": "https://wiryesol.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 76,
     "classes": {
@@ -28852,7 +28852,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-300-8691",
     "homepage": "http://gajaeul.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 5,
     "studentCount": 66,
     "classes": {
@@ -28884,8 +28884,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2659-5105",
-    "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "homepage": "http://www.top.es.kr",
+    "operHours": "07시00분~20시00분",
     "classCount": 4,
     "studentCount": 48,
     "classes": {
@@ -28918,7 +28918,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-575-7566",
     "homepage": "http://www.서울청계숲유치원.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 8,
     "studentCount": 72,
     "classes": {
@@ -28951,7 +28951,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-585-2031",
     "homepage": "http://www.서울남현유치원.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 7,
     "studentCount": 81,
     "classes": {
@@ -28984,7 +28984,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-997-0884",
     "homepage": "https://seoulgain.sen.es.kr/189877/subMenu.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 2,
     "studentCount": 7,
     "classes": {
@@ -29017,7 +29017,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-883-8441",
     "homepage": "http://sinbong.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 25,
     "classes": {
@@ -29050,7 +29050,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-594-2211",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "09시00분~18시00분",
     "classCount": 4,
     "studentCount": 60,
     "classes": {
@@ -29083,7 +29083,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-523-1355",
     "homepage": "https://hrim.sen.es.kr",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 26,
     "classes": {
@@ -29116,7 +29116,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-6949-4941",
     "homepage": "https://hangdong.sen.kg.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시30분",
     "classCount": 11,
     "studentCount": 137,
     "classes": {
@@ -29149,7 +29149,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-826-5787",
     "homepage": "http://서울은로유치원.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 8,
     "studentCount": 114,
     "classes": {
@@ -29182,7 +29182,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2699-9742",
     "homepage": "https://yangdong.sen.es.kr/",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 5,
     "studentCount": 27,
     "classes": {
@@ -29215,7 +29215,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-427-0294",
     "homepage": "https://suna2020.kidsnote.ac/",
-    "operHours": "09시20분~14시00분",
+    "operHours": "08시20분~18시00분",
     "classCount": 3,
     "studentCount": 65,
     "classes": {
@@ -29248,7 +29248,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2135-6380",
     "homepage": "https://ssinwol.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 18,
     "classes": {
@@ -29281,7 +29281,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-6491-3200",
     "homepage": "http://geumho.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 4,
     "studentCount": 36,
     "classes": {
@@ -29314,7 +29314,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-3494-1100",
     "homepage": "http://www.서울방학.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 65,
     "classes": {
@@ -29347,7 +29347,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-6221-7800",
     "homepage": "http://joeunsorikd.sen.kg.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 49,
     "classes": {
@@ -29380,7 +29380,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "0262112290",
     "homepage": "https://obong.sen.es.kr/194208/subMenu.do",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 37,
     "classes": {
@@ -29413,7 +29413,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-2138-2045",
     "homepage": "https://gaehyeon.sen.es.kr/207692/subMenu.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 44,
     "classes": {
@@ -29446,7 +29446,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-439-3567",
     "homepage": "https://jungnang.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 24,
     "classes": {
@@ -29479,7 +29479,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-426-9989",
     "homepage": "https://shinam.sen.es.kr/212441/subMenu.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 5,
     "studentCount": 45,
     "classes": {
@@ -29512,7 +29512,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-6286-3700",
     "homepage": "http://solgaram.kg.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 42,
     "classes": {
@@ -29545,7 +29545,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2604-7890",
     "homepage": "https://litt.ly/dreaming_kindergarten",
-    "operHours": "09시20분~14시00분",
+    "operHours": "08시00분~19시00분",
     "classCount": 6,
     "studentCount": 140,
     "classes": {
@@ -29578,7 +29578,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-356-6701",
     "homepage": "https://harang.kidsnote.ac",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 5,
     "studentCount": 72,
     "classes": {
@@ -29611,7 +29611,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2642-4963",
     "homepage": "http://cafe.daum.net/seshin1004",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 7,
     "studentCount": 130,
     "classes": {
@@ -29644,7 +29644,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-6353-9700",
     "homepage": "http://www.서울산울림유치원.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 8,
     "studentCount": 87,
     "classes": {
@@ -29710,7 +29710,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-3423-2231",
     "homepage": "https://bonghwa.sen.es.kr/183327/subMenu.do",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 25,
     "classes": {
@@ -29743,7 +29743,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-6204-5500",
     "homepage": "https://cheongdam.sen.es.kr/182525/subMenu.do",
-    "operHours": "09시30분~14시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 13,
     "classes": {
@@ -29776,7 +29776,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-495-8833",
     "homepage": "https://jung-heung.sen.es.kr/136193/subMenu.do",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 8,
     "studentCount": 54,
     "classes": {
@@ -29809,7 +29809,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-6949-2613",
     "homepage": "https://wolgye.sen.es.kr/197675/subMenu.do",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 34,
     "classes": {
@@ -29842,7 +29842,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-992-1701",
     "homepage": "https://www.mdkd.kg.kr:499/home/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 6,
     "studentCount": 78,
     "classes": {
@@ -29875,7 +29875,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-847-2258",
     "homepage": "https://usin.sen.es.kr",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시20분~19시20분",
     "classCount": 5,
     "studentCount": 48,
     "classes": {
@@ -29908,7 +29908,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-6956-6811",
     "homepage": "http://sungmi.sen.es.kr/index.do",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 4,
     "studentCount": 32,
     "classes": {
@@ -29941,7 +29941,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-6268-8010",
     "homepage": "https://seonyu.sen.es.kr/184296/subMenu.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시20분~19시20분",
     "classCount": 3,
     "studentCount": 51,
     "classes": {
@@ -29974,7 +29974,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "024939710",
     "homepage": "https://yangwonsoop.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 7,
     "studentCount": 80,
     "classes": {
@@ -30007,7 +30007,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-6951-3962",
     "homepage": "https://www.gbk.kg.kr:510/home/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 13,
     "studentCount": 140,
     "classes": {
@@ -30040,7 +30040,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-573-9773",
     "homepage": "http://www.서울어진유치원.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 7,
     "studentCount": 52,
     "classes": {
@@ -30073,7 +30073,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-730-6207",
     "homepage": "https://xn--6n1b61jr3bixr.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "08시00분~17시00분",
     "classCount": 8,
     "studentCount": 199,
     "classes": {
@@ -30106,7 +30106,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2086-6363",
     "homepage": "https://kyongil.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 36,
     "classes": {
@@ -30139,7 +30139,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-6353-9900",
     "homepage": "http://www.서울북한산유치원.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시20분~19시20분",
     "classCount": 8,
     "studentCount": 83,
     "classes": {
@@ -30172,7 +30172,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-6956-7233",
     "homepage": "http://yonggok.sen.es.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시10분~19시10분",
     "classCount": 3,
     "studentCount": 28,
     "classes": {
@@ -30205,7 +30205,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2662-7334",
     "homepage": "http://sjes.sen.es.kr",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 21,
     "classes": {
@@ -30238,7 +30238,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2209-1120",
     "homepage": "http://joongmok.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 31,
     "classes": {
@@ -30271,7 +30271,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2661-0493",
     "homepage": "https://gaehwa.sen.es.kr/",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~20시00분",
     "classCount": 3,
     "studentCount": 15,
     "classes": {
@@ -30304,7 +30304,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-882-6906",
     "homepage": "https://danggok.sen.es.kr/169330/subMenu.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 1,
     "studentCount": 9,
     "classes": {
@@ -30337,7 +30337,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-937-0877",
     "homepage": "https://kyesang.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시10분",
     "classCount": 2,
     "studentCount": 11,
     "classes": {
@@ -30370,7 +30370,7 @@ window.KINDERGARTENS = [
     "eduSupport": "중부교육지원청",
     "phone": "02-2231-4717",
     "homepage": "https://gwanghee.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 25,
     "classes": {
@@ -30403,7 +30403,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-414-6943",
     "homepage": "",
-    "operHours": "09시10분~13시10분",
+    "operHours": "09시10분~17시40분",
     "classCount": 5,
     "studentCount": 131,
     "classes": {
@@ -30435,8 +30435,8 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "강남서초교육지원청",
     "phone": "02-6009-5470",
-    "homepage": "",
-    "operHours": "09시00분~13시30분",
+    "homepage": "http://www.poi.es.kr/",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 18,
     "classes": {
@@ -30469,7 +30469,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성북강북교육지원청",
     "phone": "02-994-8522",
     "homepage": "http://www.서울우이유치원.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 9,
     "studentCount": 79,
     "classes": {
@@ -30502,7 +30502,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2698-1683",
     "homepage": "http://www.서울신정유치원.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시20분",
     "classCount": 12,
     "studentCount": 132,
     "classes": {
@@ -30535,7 +30535,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-2606-3181",
     "homepage": "https://e-sol.kidsnote.ac",
-    "operHours": "10시00분~14시30분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 60,
     "classes": {
@@ -30568,7 +30568,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-857-5033",
     "homepage": "",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 33,
     "classes": {
@@ -30601,7 +30601,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-447-2582",
     "homepage": "http://sinyang.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 31,
     "classes": {
@@ -30634,7 +30634,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-428-9930",
     "homepage": "https://goil.sen.es.kr/",
-    "operHours": "09시20분~13시20분",
+    "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 43,
     "classes": {
@@ -30667,7 +30667,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-2135-9399",
     "homepage": "https://ilwon.sen.es.kr/198960/subMenu.do",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 39,
     "classes": {
@@ -30700,7 +30700,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-896-0142",
     "homepage": "",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 4,
     "studentCount": 21,
     "classes": {
@@ -30733,7 +30733,7 @@ window.KINDERGARTENS = [
     "eduSupport": "남부교육지원청",
     "phone": "02-2687-0221",
     "homepage": "https://oryunam.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 2,
     "studentCount": 24,
     "classes": {
@@ -30766,7 +30766,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-358-4911",
     "homepage": "https://urwool.sen.es.kr/index.do",
-    "operHours": "09시30분~13시30분",
+    "operHours": "08시00분~20시00분",
     "classCount": 3,
     "studentCount": 37,
     "classes": {
@@ -30799,7 +30799,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-488-5826",
     "homepage": "https://i-one.kidsnote.ac",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 9,
     "studentCount": 209,
     "classes": {
@@ -30832,7 +30832,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-402-3931",
     "homepage": "http://www.서울위례별유치원.kr",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 10,
     "studentCount": 120,
     "classes": {
@@ -30864,7 +30864,7 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(단설)",
     "eduSupport": "서부교육지원청",
     "phone": "02-0000-0000",
-    "homepage": "",
+    "homepage": "http://www.서울역촌유치원.kr",
     "operHours": "07시00분~19시00분",
     "classCount": 2,
     "studentCount": 26,
@@ -30898,7 +30898,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동작관악교육지원청",
     "phone": "02-6952-3126",
     "homepage": "http://sillim.sen.es.kr",
-    "operHours": "09시10분~13시10분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 21,
     "classes": {
@@ -30931,7 +30931,7 @@ window.KINDERGARTENS = [
     "eduSupport": "서부교육지원청",
     "phone": "02-717-0954",
     "homepage": "https://hanseo.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 30,
     "classes": {
@@ -30964,7 +30964,7 @@ window.KINDERGARTENS = [
     "eduSupport": "동부교육지원청",
     "phone": "02-2217-0430",
     "homepage": "https://cafe.naver.com/raon0701",
-    "operHours": "09시00분~14시00분",
+    "operHours": "08시00분~18시00분",
     "classCount": 3,
     "studentCount": 46,
     "classes": {
@@ -30997,7 +30997,7 @@ window.KINDERGARTENS = [
     "eduSupport": "북부교육지원청",
     "phone": "02-2039-1612",
     "homepage": "https://taereung.sen.es.kr/184357/subMenu.do",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~19시00분",
     "classCount": 2,
     "studentCount": 31,
     "classes": {
@@ -31030,7 +31030,7 @@ window.KINDERGARTENS = [
     "eduSupport": "성동광진교육지원청",
     "phone": "02-2290-3206",
     "homepage": "https://muhag.sen.es.kr/index.do",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 24,
     "classes": {
@@ -31096,7 +31096,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강남서초교육지원청",
     "phone": "02-6081-5185",
     "homepage": "https://hakdong.sen.es.kr/",
-    "operHours": "09시00분~13시30분",
+    "operHours": "07시00분~19시00분",
     "classCount": 3,
     "studentCount": 35,
     "classes": {
@@ -31129,7 +31129,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-3662-8731",
     "homepage": "https://kayang.sen.es.kr/",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시00분~20시00분",
     "classCount": 3,
     "studentCount": 26,
     "classes": {
@@ -31162,7 +31162,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강동송파교육지원청",
     "phone": "02-3431-8858",
     "homepage": "http://songpa.sen.es.kr",
-    "operHours": "09시00분~13시00분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 31,
     "classes": {
@@ -31195,7 +31195,7 @@ window.KINDERGARTENS = [
     "eduSupport": "강서양천교육지원청",
     "phone": "02-3665-2394",
     "homepage": "https://dungmyong.sen.es.kr",
-    "operHours": "09시30분~13시30분",
+    "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 23,
     "classes": {
@@ -31220,6 +31220,6 @@ window.KINDERGARTENS = [
   }
 ];
 window.DATA_META = {
-  "surveyDate": "2026-07-20",
+  "surveyDate": "2026-08-06",
   "total": 946
 };
