@@ -180,6 +180,7 @@
     var dc = districtColor(f.district);
     var fav = favorites.has(f.id);
     var tags = [
+      nearby.tag(f),
       '<span class="tag district">' + esc(f.district) + '</span>',
       '<span class="tag kind-' + kindSlug(f.kind) + '">' + esc(f.kind) + '</span>'
     ];
@@ -250,6 +251,7 @@
         ? '<p class="modal-intro">정확한 건물 위치를 찾지 못해 자치구 중심 부근에 표시했어요. 실제 위치는 주소를 참고해 주세요.</p>'
         : '') +
       '<div class="detail-list">' +
+        detailRow('내 위치에서', nearby.text(f)) +
         detailRow('주소', f.address) +
         detailRow('운영시간', f.operHours) +
         detailRow('학급 편성', classBreakdownText(f)) +
@@ -273,12 +275,35 @@
 
   /* ---------- 렌더 파이프라인 ---------- */
   function render() {
-    var list = KINDERGARTENS.filter(matches);
+    var list = nearby.sort(KINDERGARTENS.filter(matches));
     renderMarkers(list);
     renderCards(list);
-    document.getElementById('resultCount').textContent =
-      '총 ' + list.length + '곳' + (list.length < KINDERGARTENS.length ? ' (전체 ' + KINDERGARTENS.length + '곳 중)' : '');
+    document.getElementById('resultCount').textContent = nearby.active()
+      ? '가까운 ' + list.length + '곳'
+      : '총 ' + list.length + '곳' + (list.length < KINDERGARTENS.length ? ' (전체 ' + KINDERGARTENS.length + '곳 중)' : '');
   }
+
+  /* ---------- 내 주변 ----------
+     권한 요청·거리 계산·내 위치 마커는 geo.js 가 맡는다. 이 앱이 알려줄 것은
+     좌표를 꺼내는 법과, 지역 필터를 어떻게 푸는지뿐이다. */
+
+  /* 지역 필터만 조용히 푼다 — setDistrict 는 지도를 날리고 render 까지
+     부르므로 켜는 길목에서 쓰면 화면이 두 번 튄다. */
+  function clearRegion() {
+    state.district = '';
+    document.getElementById('districtSelect').value = '';
+  }
+
+  var nearby = window.createNearby({
+    map: map,
+    button: document.getElementById('nearbyBtn'),
+    label: document.getElementById('nearbyLabel'),
+    notice: document.getElementById('nearbyNotice'),
+    unitLabel: '유치원',
+    latLngOf: function (f) { return [f.lat, f.lng]; },
+    onClear: clearRegion,
+    onChange: render
+  });
 
   /* ---------- 초기 UI 구성 ---------- */
   function buildFilterPills() {
@@ -313,6 +338,7 @@
 
   /* ---------- 이벤트 ---------- */
   function setDistrict(d) {
+    nearby.off();
     state.district = d;
     document.getElementById('districtSelect').value = d;
     if (d) {
