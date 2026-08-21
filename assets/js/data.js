@@ -31220,6 +31220,6 @@ window.KINDERGARTENS = [
   }
 ];
 window.DATA_META = {
-  "surveyDate": "2026-08-06",
+  "surveyDate": "2026-08-21",
   "total": 946
 };
