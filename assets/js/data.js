@@ -18027,7 +18027,7 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "성북강북교육지원청",
     "phone": "02-743-4419",
-    "homepage": "https://sungbuk.sen.es.kr/",
+    "homepage": "https://blog.naver.com/sungbuk1111",
     "operHours": "07시30분~19시30분",
     "classCount": 4,
     "studentCount": 30,
@@ -18195,7 +18195,7 @@ window.KINDERGARTENS = [
     "homepage": "http://cafe.naver.com/grimmkid",
     "operHours": "07시30분~20시00분",
     "classCount": 9,
-    "studentCount": 169,
+    "studentCount": 166,
     "classes": {
       "age3": 2,
       "age4": 4,
@@ -18204,8 +18204,8 @@ window.KINDERGARTENS = [
       "special": 0
     },
     "students": {
-      "age3": 46,
-      "age4": 63,
+      "age3": 44,
+      "age4": 62,
       "age5": 60,
       "mix": 0,
       "special": 0
@@ -27498,7 +27498,7 @@ window.KINDERGARTENS = [
     "kindDetail": "공립(병설)",
     "eduSupport": "성북강북교육지원청",
     "phone": "02-987-1866",
-    "homepage": "http://www.beondong.kg.kr/",
+    "homepage": "http://beondong.sen.es.kr",
     "operHours": "07시30분~19시30분",
     "classCount": 3,
     "studentCount": 23,
@@ -31220,6 +31220,6 @@ window.KINDERGARTENS = [
   }
 ];
 window.DATA_META = {
-  "surveyDate": "2026-08-21",
+  "surveyDate": "2026-09-29",
   "total": 946
 };
